@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Fcumtv-FCUnitedVBradfordParkAvenueNPL250409GOALS284.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Fcumtv-FCUnitedVBradfordParkAvenueNPL250409GOALS284.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="126.03" spdur="26.80" nw="90" tconf="0.62"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="18.05" gender="1" spkid="MS1" lang="eng-usa" lconf="0.66" nw="56" tconf="0.63"/>
+<Speaker ch="1" dur="8.75" gender="2" spkid="FS1" lang="eng-usa" lconf="0.66" nw="34" tconf="0.61"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.77" etime="9.52" spkid="FS1" lang="eng-usa" lconf="0.66" trs="1">
+<Word stime="0.77" dur="0.07" conf="0.548"> You </Word>
+<Word stime="0.84" dur="0.13" conf="0.560"> see </Word>
+<Word stime="0.97" dur="0.03" conf="0.883"> , </Word>
+<Word stime="1.00" dur="0.10" conf="0.340"> it's </Word>
+<Word stime="1.13" dur="0.16" conf="0.419"> all </Word>
+<Word stime="1.50" dur="0.08" conf="0.380"> to </Word>
+<Word stime="1.58" dur="0.15" conf="0.425"> play </Word>
+<Word stime="1.96" dur="0.18" conf="0.204"> again </Word>
+<Word stime="1.96" dur="0.18" conf="0.195"> against </Word>
+<Word stime="1.96" dur="0.18" conf="0.152"> in </Word>
+<Word stime="2.14" dur="0.28" conf="0.203"> Sunday </Word>
+<Word stime="2.14" dur="0.28" conf="0.155"> San </Word>
+<Word stime="2.42" dur="0.18" conf="0.625"> . </Word>
+<Word stime="2.60" dur="0.23" conf="0.517"> {fw} </Word>
+<Word stime="2.83" dur="1.59" conf="0.941"> , </Word>
+<Word stime="4.42" dur="0.06" conf="0.550"> you </Word>
+<Word stime="4.48" dur="0.18" conf="0.961"> never </Word>
+<Word stime="4.71" dur="0.14" conf="0.967"> know </Word>
+<Word stime="4.85" dur="0.20" conf="0.967"> what </Word>
+<Word stime="5.07" dur="0.11" conf="0.379"> he's </Word>
+<Word stime="5.07" dur="0.11" conf="0.369"> is </Word>
+<Word stime="5.18" dur="0.12" conf="0.936"> going </Word>
+<Word stime="5.30" dur="0.08" conf="0.939"> to </Word>
+<Word stime="5.43" dur="0.17" conf="0.959"> do </Word>
+<Word stime="5.60" dur="0.16" conf="0.832"> . </Word>
+<Word stime="5.76" dur="0.07" conf="0.737"> Do </Word>
+<Word stime="5.83" dur="0.06" conf="0.846"> you </Word>
+<Word stime="5.89" dur="0.15" conf="0.583"> know </Word>
+<Word stime="6.11" dur="0.21" conf="0.578"> right </Word>
+<Word stime="6.62" dur="0.12" conf="0.457"> down </Word>
+<Word stime="6.62" dur="0.12" conf="0.165"> on </Word>
+<Word stime="6.74" dur="0.40" conf="0.518"> side </Word>
+<Word stime="6.74" dur="0.40" conf="0.134"> site </Word>
+<Word stime="7.14" dur="0.05" conf="0.581"> . </Word>
+<Word stime="7.19" dur="0.23" conf="0.389"> This </Word>
+<Word stime="7.19" dur="0.23" conf="0.123"> PCs </Word>
+<Word stime="7.49" dur="0.10" conf="0.397"> is </Word>
+<Word stime="7.59" dur="0.00" conf="0.444"> , </Word>
+<Word stime="7.59" dur="0.14" conf="0.419"> {fw} </Word>
+<Word stime="7.99" dur="0.10" conf="0.500"> is </Word>
+<Word stime="8.29" dur="0.95" conf="0.922"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="63.41" etime="71.05" spkid="MS1" lang="eng-usa" lconf="0.66" trs="1">
+<Word stime="63.47" dur="0.22" conf="0.905"> did </Word>
+<Word stime="63.69" dur="0.11" conf="0.920"> you </Word>
+<Word stime="63.84" dur="0.18" conf="0.380"> get </Word>
+<Word stime="63.84" dur="0.18" conf="0.370"> guess </Word>
+<Word stime="64.07" dur="0.16" conf="0.186"> sort </Word>
+<Word stime="64.07" dur="0.16" conf="0.117"> what </Word>
+<Word stime="64.59" dur="0.43" conf="0.950"> Moses </Word>
+<Word stime="65.02" dur="0.14" conf="0.502"> or </Word>
+<Word stime="65.02" dur="0.14" conf="0.131"> all </Word>
+<Word stime="65.31" dur="0.35" conf="0.707"> there </Word>
+<Word stime="66.88" dur="0.10" conf="0.937"> will </Word>
+<Word stime="66.98" dur="0.14" conf="0.938"> be </Word>
+<Word stime="67.12" dur="0.25" conf="0.963"> back </Word>
+<Word stime="67.37" dur="0.26" conf="0.954"> again </Word>
+<Word stime="67.63" dur="0.40" conf="0.776"> . </Word>
+<Word stime="68.03" dur="0.19" conf="0.371"> Call </Word>
+<Word stime="68.03" dur="0.19" conf="0.200"> probably </Word>
+<Word stime="68.22" dur="0.12" conf="0.382"> me </Word>
+<Word stime="69.04" dur="0.31" conf="0.696"> again </Word>
+<Word stime="69.35" dur="0.81" conf="0.604"> . </Word>
+<Word stime="70.16" dur="0.27" conf="0.713"> That's </Word>
+<Word stime="70.55" dur="0.20" conf="0.707"> it </Word>
+<Word stime="70.75" dur="0.00" conf="0.625"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="76.86" etime="79.00" spkid="MS1" lang="eng-usa" lconf="0.66" trs="1">
+<Word stime="76.86" dur="0.29" conf="0.959"> Very </Word>
+<Word stime="77.24" dur="0.30" conf="0.904"> dangerous </Word>
+<Word stime="77.54" dur="0.08" conf="0.590"> . </Word>
+<Word stime="77.62" dur="0.24" conf="0.979"> These </Word>
+<Word stime="77.91" dur="0.23" conf="0.608"> three </Word>
+<Word stime="77.91" dur="0.23" conf="0.138"> free </Word>
+<Word stime="78.21" dur="0.33" conf="0.600"> kids </Word>
+<Word stime="78.21" dur="0.33" conf="0.139"> kicks </Word>
+<Word stime="78.54" dur="0.17" conf="0.984"> as </Word>
+<Word stime="78.71" dur="0.25" conf="0.985"> well </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="83.13" etime="85.68" spkid="MS1" lang="eng-usa" lconf="0.66" trs="1">
+<Word stime="83.13" dur="0.15" conf="0.334"> well </Word>
+<Word stime="83.13" dur="0.15" conf="0.116"> most </Word>
+<Word stime="83.28" dur="0.22" conf="0.614"> , </Word>
+<Word stime="83.50" dur="0.23" conf="0.410"> stated </Word>
+<Word stime="83.50" dur="0.23" conf="0.260"> David </Word>
+<Word stime="83.79" dur="0.11" conf="0.241"> that </Word>
+<Word stime="83.90" dur="0.14" conf="0.213"> it's </Word>
+<Word stime="83.90" dur="0.14" conf="0.153"> Willetts </Word>
+<Word stime="83.90" dur="0.14" conf="0.137"> it </Word>
+<Word stime="84.04" dur="0.14" conf="0.264"> at </Word>
+<Word stime="84.21" dur="0.19" conf="0.730"> this </Word>
+<Word stime="84.40" dur="0.13" conf="0.914"> one </Word>
+<Word stime="84.53" dur="0.32" conf="0.608"> again </Word>
+<Word stime="84.53" dur="0.32" conf="0.143"> against </Word>
+<Word stime="84.99" dur="0.18" conf="0.210"> takes </Word>
+<Word stime="84.99" dur="0.18" conf="0.142"> text </Word>
+<Word stime="85.33" dur="0.31" conf="0.809"> only </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="88.37" etime="94.09" spkid="MS1" lang="eng-usa" lconf="0.66" trs="1">
+<Word stime="88.67" dur="0.17" conf="0.273"> put </Word>
+<Word stime="88.67" dur="0.17" conf="0.163"> puts </Word>
+<Word stime="88.67" dur="0.17" conf="0.103"> reports </Word>
+<Word stime="88.92" dur="0.11" conf="0.370"> on </Word>
+<Word stime="88.92" dur="0.11" conf="0.240"> some </Word>
+<Word stime="89.13" dur="0.24" conf="0.441"> track </Word>
+<Word stime="89.13" dur="0.24" conf="0.165"> attractive </Word>
+<Word stime="89.42" dur="0.18" conf="0.310"> involved </Word>
+<Word stime="89.92" dur="0.11" conf="0.405"> into </Word>
+<Word stime="89.92" dur="0.11" conf="0.336"> to </Word>
+<Word stime="90.03" dur="0.06" conf="0.945"> the </Word>
+<Word stime="90.11" dur="0.23" conf="0.927"> middle </Word>
+<Word stime="90.34" dur="0.24" conf="0.768"> . </Word>
+<Word stime="90.58" dur="0.19" conf="0.344"> Could </Word>
+<Word stime="90.58" dur="0.19" conf="0.188"> record </Word>
+<Word stime="90.80" dur="0.16" conf="0.922"> this </Word>
+<Word stime="90.96" dur="0.14" conf="0.918"> year </Word>
+<Word stime="91.10" dur="0.42" conf="0.661"> . </Word>
+<Word stime="91.52" dur="0.18" conf="0.640"> They </Word>
+<Word stime="92.83" dur="0.20" conf="0.671"> always </Word>
+<Word stime="93.15" dur="0.13" conf="0.448"> have </Word>
+<Word stime="93.31" dur="0.30" conf="0.315"> belts </Word>
+<Word stime="93.31" dur="0.30" conf="0.148"> belching </Word>
+<Word stime="93.68" dur="0.11" conf="0.427"> in </Word>
+<Word stime="93.88" dur="0.17" conf="0.363"> free </Word>
+<Word stime="93.88" dur="0.17" conf="0.161"> three </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Guidonia-LionsPubTivoliLocaleSalsaKaraokePianoBarVillaAdrian290.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/wav/dev12/Guidonia-LionsPubTivoliLocaleSalsaKaraokePianoBarVillaAdrian290.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2dn"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="34.39" spdur="0.00"/>
+</ChannelList>
+<SpeakerList>
+</SpeakerList>
+<SegmentList>
+</SegmentList>
+</AudioDoc>

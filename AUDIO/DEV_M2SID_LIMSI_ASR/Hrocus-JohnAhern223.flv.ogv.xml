@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Hrocus-JohnAhern223.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Hrocus-JohnAhern223.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="30.56" spdur="29.86" nw="100" tconf="0.84"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="29.86" gender="2" spkid="FS1" lang="eng-usa" lconf="1.00" nw="100" tconf="0.84"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.13" etime="29.99" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="0.43" dur="0.23" conf="0.976"> When </Word>
+<Word stime="0.66" dur="0.46" conf="0.695"> Johnny </Word>
+<Word stime="1.12" dur="0.15" conf="0.174"> Herron </Word>
+<Word stime="1.12" dur="0.15" conf="0.144"> her </Word>
+<Word stime="1.35" dur="0.19" conf="0.390"> went </Word>
+<Word stime="1.35" dur="0.19" conf="0.133"> win </Word>
+<Word stime="1.54" dur="0.12" conf="0.646"> to </Word>
+<Word stime="1.66" dur="0.51" conf="0.961"> Olympia </Word>
+<Word stime="2.17" dur="0.21" conf="0.404"> . </Word>
+<Word stime="2.38" dur="0.19" conf="0.974"> He </Word>
+<Word stime="2.64" dur="0.30" conf="0.976"> only </Word>
+<Word stime="2.94" dur="0.20" conf="0.976"> had </Word>
+<Word stime="3.19" dur="0.30" conf="0.976"> one </Word>
+<Word stime="3.49" dur="0.38" conf="0.976"> mission </Word>
+<Word stime="4.01" dur="0.20" conf="0.976"> to </Word>
+<Word stime="4.26" dur="0.19" conf="0.972"> get </Word>
+<Word stime="4.52" dur="0.29" conf="0.976"> things </Word>
+<Word stime="4.81" dur="0.37" conf="0.534"> done </Word>
+<Word stime="4.81" dur="0.37" conf="0.226"> down </Word>
+<Word stime="5.18" dur="0.15" conf="0.770"> , </Word>
+<Word stime="5.33" dur="0.18" conf="0.976"> and </Word>
+<Word stime="5.55" dur="0.22" conf="0.976"> that </Word>
+<Word stime="5.82" dur="0.14" conf="0.976"> is </Word>
+<Word stime="5.96" dur="0.52" conf="0.976"> exactly </Word>
+<Word stime="6.48" dur="0.15" conf="0.976"> what </Word>
+<Word stime="6.63" dur="0.09" conf="0.975"> he </Word>
+<Word stime="6.72" dur="0.26" conf="0.976"> did </Word>
+<Word stime="6.98" dur="0.15" conf="0.522"> . </Word>
+<Word stime="7.13" dur="0.25" conf="0.844"> John </Word>
+<Word stime="7.50" dur="0.11" conf="0.689"> A </Word>
+<Word stime="7.61" dur="0.22" conf="0.446"> had </Word>
+<Word stime="7.61" dur="0.22" conf="0.118"> have </Word>
+<Word stime="7.95" dur="0.45" conf="0.817"> negotiated </Word>
+<Word stime="8.51" dur="0.36" conf="0.975"> funding </Word>
+<Word stime="8.90" dur="0.11" conf="0.976"> for </Word>
+<Word stime="9.01" dur="0.09" conf="0.976"> the </Word>
+<Word stime="9.10" dur="0.19" conf="0.975"> new </Word>
+<Word stime="9.37" dur="0.31" conf="0.875"> veteran </Word>
+<Word stime="9.68" dur="0.35" conf="0.847"> center </Word>
+<Word stime="10.03" dur="0.14" conf="0.976"> at </Word>
+<Word stime="10.17" dur="0.25" conf="0.972"> St </Word>
+<Word stime="10.42" dur="0.35" conf="0.973"> Luke's </Word>
+<Word stime="10.95" dur="0.11" conf="0.976"> he </Word>
+<Word stime="11.08" dur="0.10" conf="0.976"> was </Word>
+<Word stime="11.18" dur="0.59" conf="0.960"> successful </Word>
+<Word stime="11.77" dur="0.09" conf="0.861"> in </Word>
+<Word stime="11.94" dur="0.34" conf="0.976"> passing </Word>
+<Word stime="12.28" dur="0.53" conf="0.976"> Washington's </Word>
+<Word stime="12.88" dur="0.26" conf="0.975"> first </Word>
+<Word stime="13.21" dur="0.30" conf="0.532"> felony </Word>
+<Word stime="13.21" dur="0.30" conf="0.223"> family </Word>
+<Word stime="13.51" dur="0.20" conf="0.662"> DUI </Word>
+<Word stime="14.16" dur="0.25" conf="0.411"> are </Word>
+<Word stime="14.50" dur="0.16" conf="0.644"> any </Word>
+<Word stime="14.71" dur="0.21" conf="0.545"> help </Word>
+<Word stime="14.97" dur="0.26" conf="0.680"> pass </Word>
+<Word stime="14.97" dur="0.26" conf="0.111"> passed </Word>
+<Word stime="15.23" dur="0.63" conf="0.976"> legislation </Word>
+<Word stime="15.86" dur="0.12" conf="0.976"> to </Word>
+<Word stime="15.98" dur="0.21" conf="0.975"> get </Word>
+<Word stime="16.24" dur="0.36" conf="0.976"> tougher </Word>
+<Word stime="16.64" dur="0.18" conf="0.976"> on </Word>
+<Word stime="16.82" dur="0.28" conf="0.976"> sex </Word>
+<Word stime="17.22" dur="0.48" conf="0.973"> offenders </Word>
+<Word stime="17.70" dur="0.08" conf="0.452"> , </Word>
+<Word stime="17.78" dur="0.17" conf="0.975"> and </Word>
+<Word stime="17.99" dur="0.28" conf="0.976"> now </Word>
+<Word stime="18.39" dur="0.21" conf="0.748"> John </Word>
+<Word stime="18.60" dur="0.42" conf="0.396"> aliens </Word>
+<Word stime="18.60" dur="0.42" conf="0.255"> Ames </Word>
+<Word stime="19.02" dur="0.27" conf="0.969"> main </Word>
+<Word stime="19.38" dur="0.36" conf="0.721"> focus </Word>
+<Word stime="19.77" dur="0.12" conf="0.976"> is </Word>
+<Word stime="19.92" dur="0.35" conf="0.976"> working </Word>
+<Word stime="20.40" dur="0.35" conf="0.976"> across </Word>
+<Word stime="20.75" dur="0.30" conf="0.976"> party </Word>
+<Word stime="21.05" dur="0.43" conf="0.976"> lines </Word>
+<Word stime="21.48" dur="0.07" conf="0.890"> , </Word>
+<Word stime="21.55" dur="0.28" conf="0.865"> focused </Word>
+<Word stime="22.04" dur="0.10" conf="0.976"> on </Word>
+<Word stime="22.14" dur="0.10" conf="0.976"> the </Word>
+<Word stime="22.35" dur="0.43" conf="0.976"> economy </Word>
+<Word stime="22.81" dur="0.10" conf="0.873"> to </Word>
+<Word stime="22.98" dur="0.35" conf="0.976"> create </Word>
+<Word stime="23.42" dur="0.34" conf="0.976"> jobs </Word>
+<Word stime="23.76" dur="0.11" conf="0.968"> and </Word>
+<Word stime="23.95" dur="0.26" conf="0.976"> provide </Word>
+<Word stime="24.28" dur="0.22" conf="0.976"> greater </Word>
+<Word stime="24.55" dur="0.35" conf="0.976"> access </Word>
+<Word stime="24.90" dur="0.12" conf="0.976"> to </Word>
+<Word stime="25.02" dur="0.27" conf="0.783"> health </Word>
+<Word stime="25.29" dur="0.30" conf="0.779"> care </Word>
+<Word stime="25.83" dur="0.13" conf="0.416"> is </Word>
+<Word stime="25.83" dur="0.13" conf="0.336"> he's </Word>
+<Word stime="25.96" dur="0.55" conf="0.976"> hopeful </Word>
+<Word stime="26.51" dur="0.24" conf="0.976"> about </Word>
+<Word stime="26.80" dur="0.09" conf="0.976"> the </Word>
+<Word stime="26.89" dur="0.36" conf="0.971"> future </Word>
+<Word stime="27.25" dur="0.28" conf="0.645"> . </Word>
+<Word stime="27.53" dur="0.23" conf="0.740"> John </Word>
+<Word stime="27.93" dur="0.16" conf="0.628"> A </Word>
+<Word stime="27.93" dur="0.16" conf="0.141"> a </Word>
+<Word stime="28.09" dur="0.23" conf="0.267"> Harry </Word>
+<Word stime="28.09" dur="0.23" conf="0.113"> Harris </Word>
+<Word stime="28.32" dur="0.20" conf="0.671"> , </Word>
+<Word stime="28.52" dur="0.26" conf="0.964"> he's </Word>
+<Word stime="28.85" dur="0.33" conf="0.976"> getting </Word>
+<Word stime="29.18" dur="0.09" conf="0.976"> it </Word>
+<Word stime="29.29" dur="0.40" conf="0.414"> done </Word>
+<Word stime="29.29" dur="0.40" conf="0.348"> down </Word>
+<Word stime="29.69" dur="0.00" conf="0.534"> . </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

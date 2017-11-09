@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Sgallasch-wwwgmvcomau_GMV403DVD541.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Sgallasch-wwwgmvcomau_GMV403DVD541.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="189.98" spdur="8.46" nw="9" tconf="0.59"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="8.46" gender="1" spkid="MS1" lang="eng-usa" lconf="1.00" nw="9" tconf="0.59"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="177.18" etime="185.64" spkid="MS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="177.37" dur="0.56" conf="0.968"> {fw} </Word>
+<Word stime="180.28" dur="0.16" conf="0.466"> yeah </Word>
+<Word stime="180.28" dur="0.16" conf="0.136"> yes </Word>
+<Word stime="180.89" dur="0.18" conf="0.349"> yeah </Word>
+<Word stime="180.89" dur="0.18" conf="0.234"> here </Word>
+<Word stime="180.89" dur="0.18" conf="0.109"> you </Word>
+<Word stime="181.50" dur="0.28" conf="0.946"> {fw} </Word>
+<Word stime="182.93" dur="0.53" conf="0.795"> {fw} </Word>
+<Word stime="184.16" dur="0.20" conf="0.867"> {fw} </Word>
+<Word stime="184.93" dur="0.08" conf="0.218"> in </Word>
+<Word stime="185.20" dur="0.14" conf="0.339"> itself </Word>
+<Word stime="185.20" dur="0.14" conf="0.212"> thought </Word>
+<Word stime="185.34" dur="0.00" conf="0.359"> . </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

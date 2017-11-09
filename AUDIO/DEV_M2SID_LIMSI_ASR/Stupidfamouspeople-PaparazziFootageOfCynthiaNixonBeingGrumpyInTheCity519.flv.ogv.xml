@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Stupidfamouspeople-PaparazziFootageOfCynthiaNixonBeingGrumpyInTheCity519.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/wav/dev12/Stupidfamouspeople-PaparazziFootageOfCynthiaNixonBeingGrumpyInTheCity519.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2dn"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="54.99" spdur="8.17"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="8.17" gender="2" spkid="FS1"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="3.65" etime="4.52" spkid="FS1"/>
+<SpeechSegment ch="1" sconf="1.00" stime="28.46" etime="29.40" spkid="FS1"/>
+<SpeechSegment ch="1" sconf="1.00" stime="48.61" etime="54.97" spkid="FS1"/>
+</SegmentList>
+</AudioDoc>

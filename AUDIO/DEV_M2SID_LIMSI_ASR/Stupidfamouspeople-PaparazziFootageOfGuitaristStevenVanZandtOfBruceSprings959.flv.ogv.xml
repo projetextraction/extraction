@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Stupidfamouspeople-PaparazziFootageOfGuitaristStevenVanZandtOfBruceSprings959.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Stupidfamouspeople-PaparazziFootageOfGuitaristStevenVanZandtOfBruceSprings959.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="97.50" spdur="62.71"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="51.84" gender="1" spkid="MS1" lang="kor" lconf="0.44"/>
+<Speaker ch="1" dur="5.52" gender="2" spkid="FS1" lang="kor" lconf="0.44"/>
+<Speaker ch="1" dur="5.35" gender="2" spkid="FS2" lang="kor" lconf="0.44"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="13.64" etime="22.81" spkid="MS1" lang="kor" lconf="0.44"/>
+<SpeechSegment ch="1" sconf="1.00" stime="29.10" etime="71.77" spkid="MS1" lang="kor" lconf="0.44"/>
+<SpeechSegment ch="1" sconf="1.00" stime="86.61" etime="92.13" spkid="FS1" lang="kor" lconf="0.44"/>
+<SpeechSegment ch="1" sconf="1.00" stime="92.13" etime="97.48" spkid="FS2" lang="kor" lconf="0.44"/>
+</SegmentList>
+</AudioDoc>

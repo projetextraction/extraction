@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Petepo-DriveLessSaveMoreInfomercial904.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Petepo-DriveLessSaveMoreInfomercial904.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="25.22" spdur="25.17" nw="96" tconf="0.81"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="25.17" gender="1" spkid="MT1" lang="eng-usa" lconf="1.00" nw="96" tconf="0.81"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.04" etime="25.21" spkid="MT1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="0.34" dur="0.09" conf="0.975"> Are </Word>
+<Word stime="0.43" dur="0.16" conf="0.975"> you </Word>
+<Word stime="0.59" dur="0.26" conf="0.975"> tired </Word>
+<Word stime="0.85" dur="0.07" conf="0.975"> of </Word>
+<Word stime="0.96" dur="0.17" conf="0.825"> high </Word>
+<Word stime="1.13" dur="0.23" conf="0.469"> car </Word>
+<Word stime="1.13" dur="0.23" conf="0.127"> card </Word>
+<Word stime="1.36" dur="0.23" conf="0.804"> bills </Word>
+<Word stime="1.59" dur="0.31" conf="0.930"> insurance </Word>
+<Word stime="1.97" dur="0.27" conf="0.725"> payments </Word>
+<Word stime="1.97" dur="0.27" conf="0.101"> payment </Word>
+<Word stime="2.24" dur="0.17" conf="0.419"> when </Word>
+<Word stime="2.24" dur="0.17" conf="0.104"> went </Word>
+<Word stime="2.41" dur="0.15" conf="0.453"> it's </Word>
+<Word stime="2.41" dur="0.15" conf="0.101"> into </Word>
+<Word stime="2.56" dur="0.07" conf="0.446"> a </Word>
+<Word stime="2.69" dur="0.24" conf="0.932"> more </Word>
+<Word stime="3.17" dur="0.41" conf="0.921"> controls </Word>
+<Word stime="3.58" dur="0.11" conf="0.326"> do </Word>
+<Word stime="3.58" dur="0.11" conf="0.206"> don't </Word>
+<Word stime="3.58" dur="0.11" conf="0.142"> did </Word>
+<Word stime="3.71" dur="0.12" conf="0.777"> you </Word>
+<Word stime="3.92" dur="0.30" conf="0.950"> down </Word>
+<Word stime="4.45" dur="0.21" conf="0.578"> guilt </Word>
+<Word stime="4.45" dur="0.21" conf="0.116"> built </Word>
+<Word stime="4.66" dur="0.17" conf="0.920"> over </Word>
+<Word stime="4.88" dur="0.28" conf="0.973"> wrecking </Word>
+<Word stime="5.16" dur="0.10" conf="0.975"> the </Word>
+<Word stime="5.26" dur="0.37" conf="0.973"> environment </Word>
+<Word stime="5.72" dur="0.14" conf="0.922"> keeping </Word>
+<Word stime="5.94" dur="0.11" conf="0.975"> you </Word>
+<Word stime="6.05" dur="0.16" conf="0.975"> up </Word>
+<Word stime="6.21" dur="0.10" conf="0.970"> at </Word>
+<Word stime="6.33" dur="0.26" conf="0.975"> night </Word>
+<Word stime="6.65" dur="0.17" conf="0.975"> is </Word>
+<Word stime="6.82" dur="0.26" conf="0.890"> going </Word>
+<Word stime="7.08" dur="0.08" conf="0.975"> to </Word>
+<Word stime="7.16" dur="0.26" conf="0.975"> work </Word>
+<Word stime="7.42" dur="0.08" conf="0.366"> at </Word>
+<Word stime="7.42" dur="0.08" conf="0.215"> and </Word>
+<Word stime="7.53" dur="0.31" conf="0.713"> daily </Word>
+<Word stime="7.93" dur="0.35" conf="0.975"> traumatic </Word>
+<Word stime="8.28" dur="0.63" conf="0.969"> experience </Word>
+<Word stime="8.91" dur="0.27" conf="0.532"> . </Word>
+<Word stime="9.18" dur="0.16" conf="0.975"> We </Word>
+<Word stime="9.34" dur="0.12" conf="0.975"> have </Word>
+<Word stime="9.46" dur="0.12" conf="0.975"> the </Word>
+<Word stime="9.58" dur="0.22" conf="0.975"> answer </Word>
+<Word stime="9.80" dur="0.14" conf="0.974"> for </Word>
+<Word stime="9.99" dur="0.22" conf="0.974"> you </Word>
+<Word stime="10.21" dur="0.26" conf="0.469"> , </Word>
+<Word stime="10.47" dur="0.17" conf="0.592"> our </Word>
+<Word stime="10.47" dur="0.17" conf="0.162"> are </Word>
+<Word stime="10.68" dur="0.50" conf="0.873"> scientists </Word>
+<Word stime="11.31" dur="0.46" conf="0.975"> recently </Word>
+<Word stime="11.77" dur="0.55" conf="0.975"> rediscovered </Word>
+<Word stime="12.32" dur="0.12" conf="0.791"> an </Word>
+<Word stime="12.44" dur="0.27" conf="0.926"> ancient </Word>
+<Word stime="12.78" dur="0.29" conf="0.971"> secret </Word>
+<Word stime="13.07" dur="0.11" conf="0.760"> and </Word>
+<Word stime="13.29" dur="0.52" conf="0.920"> transportation </Word>
+<Word stime="13.95" dur="0.56" conf="0.950"> technology </Word>
+<Word stime="14.51" dur="0.19" conf="0.931"> . </Word>
+<Word stime="14.70" dur="0.08" conf="0.689"> The </Word>
+<Word stime="14.80" dur="0.26" conf="0.800"> secret </Word>
+<Word stime="15.24" dur="0.43" conf="0.972"> is </Word>
+<Word stime="16.02" dur="0.38" conf="0.718"> drive </Word>
+<Word stime="16.50" dur="0.50" conf="0.975"> less </Word>
+<Word stime="17.45" dur="0.07" conf="0.256"> severe </Word>
+<Word stime="17.52" dur="0.25" conf="0.288"> chest </Word>
+<Word stime="17.52" dur="0.25" conf="0.233"> virtuous </Word>
+<Word stime="17.52" dur="0.25" conf="0.112"> chess </Word>
+<Word stime="17.83" dur="0.25" conf="0.975"> together </Word>
+<Word stime="18.08" dur="0.07" conf="0.973"> and </Word>
+<Word stime="18.15" dur="0.21" conf="0.852"> spend </Word>
+<Word stime="18.36" dur="0.17" conf="0.975"> less </Word>
+<Word stime="18.53" dur="0.17" conf="0.974"> time </Word>
+<Word stime="18.74" dur="0.10" conf="0.975"> on </Word>
+<Word stime="18.84" dur="0.08" conf="0.975"> the </Word>
+<Word stime="18.92" dur="0.33" conf="0.973"> road </Word>
+<Word stime="19.36" dur="0.20" conf="0.475"> right </Word>
+<Word stime="19.36" dur="0.20" conf="0.164"> write </Word>
+<Word stime="19.61" dur="0.19" conf="0.769"> about </Word>
+<Word stime="19.85" dur="0.24" conf="0.482"> what </Word>
+<Word stime="19.85" dur="0.24" conf="0.197"> walking </Word>
+<Word stime="20.22" dur="0.11" conf="0.225"> did </Word>
+<Word stime="20.22" dur="0.11" conf="0.190"> dead </Word>
+<Word stime="20.35" dur="0.25" conf="0.974"> public </Word>
+<Word stime="20.60" dur="0.57" conf="0.974"> transportation </Word>
+<Word stime="21.17" dur="0.17" conf="0.881"> . </Word>
+<Word stime="21.34" dur="0.22" conf="0.975"> Best </Word>
+<Word stime="21.56" dur="0.08" conf="0.975"> of </Word>
+<Word stime="21.64" dur="0.22" conf="0.975"> all </Word>
+<Word stime="21.86" dur="0.00" conf="0.988"> , </Word>
+<Word stime="21.86" dur="0.13" conf="0.975"> it's </Word>
+<Word stime="21.99" dur="0.23" conf="0.974"> free </Word>
+<Word stime="22.22" dur="0.00" conf="0.561"> , </Word>
+<Word stime="22.22" dur="0.08" conf="0.974"> and </Word>
+<Word stime="22.30" dur="0.15" conf="0.975"> you </Word>
+<Word stime="22.45" dur="0.31" conf="0.975"> already </Word>
+<Word stime="22.76" dur="0.22" conf="0.974"> have </Word>
+<Word stime="22.98" dur="0.07" conf="0.861"> a </Word>
+<Word stime="23.05" dur="0.12" conf="0.451"> tie </Word>
+<Word stime="23.31" dur="0.18" conf="0.334"> our </Word>
+<Word stime="23.31" dur="0.18" conf="0.224"> hour </Word>
+<Word stime="23.31" dur="0.18" conf="0.178"> now </Word>
+<Word stime="23.59" dur="0.25" conf="0.430"> drive </Word>
+<Word stime="23.59" dur="0.25" conf="0.161"> driver </Word>
+<Word stime="23.84" dur="0.15" conf="0.479"> was </Word>
+<Word stime="24.07" dur="0.10" conf="0.492"> a </Word>
+<Word stime="24.07" dur="0.10" conf="0.137"> they </Word>
+<Word stime="24.21" dur="0.17" conf="0.906"> more </Word>
+<Word stime="24.38" dur="0.24" conf="0.437"> dark </Word>
+<Word stime="24.78" dur="0.28" conf="0.857"> {fw} </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

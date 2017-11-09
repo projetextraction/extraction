@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="GVTVNEWS-GVTVNews073108NCTV11557.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/GVTVNEWS-GVTVNews073108NCTV11557.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="31.08" spdur="4.10" nw="18" tconf="0.57"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="4.10" gender="2" spkid="FS1" lang="eng-usa" lconf="0.53" nw="18" tconf="0.57"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="26.96" etime="31.06" spkid="FS1" lang="eng-usa" lconf="0.53" trs="1">
+<Word stime="26.96" dur="0.25" conf="0.907"> That's </Word>
+<Word stime="27.21" dur="0.25" conf="0.908"> right </Word>
+<Word stime="27.46" dur="0.06" conf="0.620"> , </Word>
+<Word stime="27.52" dur="0.23" conf="0.571"> stand </Word>
+<Word stime="27.52" dur="0.23" conf="0.116"> Stanford </Word>
+<Word stime="27.75" dur="0.09" conf="0.638"> for </Word>
+<Word stime="27.86" dur="0.09" conf="0.762"> the </Word>
+<Word stime="27.95" dur="0.17" conf="0.670"> police </Word>
+<Word stime="28.22" dur="0.23" conf="0.108"> spotted </Word>
+<Word stime="28.22" dur="0.23" conf="0.106"> Biden </Word>
+<Word stime="28.22" dur="0.23" conf="0.102"> violent </Word>
+<Word stime="28.63" dur="0.28" conf="0.936"> pictures </Word>
+<Word stime="28.98" dur="0.09" conf="0.392"> and </Word>
+<Word stime="28.98" dur="0.09" conf="0.231"> of </Word>
+<Word stime="29.13" dur="0.17" conf="0.590"> water </Word>
+<Word stime="29.40" dur="0.15" conf="0.293"> now </Word>
+<Word stime="29.40" dur="0.15" conf="0.169"> often </Word>
+<Word stime="29.40" dur="0.15" conf="0.140"> not </Word>
+<Word stime="29.59" dur="0.14" conf="0.508"> from </Word>
+<Word stime="29.73" dur="0.21" conf="0.701"> these </Word>
+<Word stime="29.94" dur="0.27" conf="0.789"> actual </Word>
+<Word stime="30.28" dur="0.16" conf="0.312"> best </Word>
+<Word stime="30.56" dur="0.08" conf="0.228"> be </Word>
+<Word stime="30.68" dur="0.16" conf="0.260"> used </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

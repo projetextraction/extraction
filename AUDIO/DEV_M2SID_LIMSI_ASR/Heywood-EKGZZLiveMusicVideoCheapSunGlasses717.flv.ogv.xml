@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Heywood-EKGZZLiveMusicVideoCheapSunGlasses717.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Heywood-EKGZZLiveMusicVideoCheapSunGlasses717.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="225.31" spdur="196.87"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="52.40" gender="1" spkid="MS2" lang="por" lconf="0.26"/>
+<Speaker ch="1" dur="37.83" gender="1" spkid="MS3" lang="por" lconf="0.26"/>
+<Speaker ch="1" dur="32.74" gender="1" spkid="MS1" lang="por" lconf="0.26"/>
+<Speaker ch="1" dur="26.28" gender="2" spkid="FS4" lang="por" lconf="0.26"/>
+<Speaker ch="1" dur="24.89" gender="1" spkid="MS4" lang="por" lconf="0.26"/>
+<Speaker ch="1" dur="22.73" gender="2" spkid="FS1" lang="por" lconf="0.26"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.01" etime="3.58" spkid="FS1" lang="por" lconf="0.26"/>
+<SpeechSegment ch="1" sconf="1.00" stime="15.14" etime="33.71" spkid="MS2" lang="por" lconf="0.26"/>
+<SpeechSegment ch="1" sconf="1.00" stime="33.71" etime="43.23" spkid="FS1" lang="por" lconf="0.26"/>
+<SpeechSegment ch="1" sconf="1.00" stime="43.23" etime="60.01" spkid="MS2" lang="por" lconf="0.26"/>
+<SpeechSegment ch="1" sconf="1.00" stime="60.01" etime="69.65" spkid="FS1" lang="por" lconf="0.26"/>
+<SpeechSegment ch="1" sconf="1.00" stime="69.65" etime="89.37" spkid="MS3" lang="por" lconf="0.26"/>
+<SpeechSegment ch="1" sconf="1.00" stime="89.37" etime="114.26" spkid="MS4" lang="por" lconf="0.26"/>
+<SpeechSegment ch="1" sconf="1.00" stime="114.26" etime="122.50" spkid="MS3" lang="por" lconf="0.26"/>
+<SpeechSegment ch="1" sconf="1.00" stime="123.78" etime="133.65" spkid="MS3" lang="por" lconf="0.26"/>
+<SpeechSegment ch="1" sconf="1.00" stime="133.65" etime="159.93" spkid="FS4" lang="por" lconf="0.26"/>
+<SpeechSegment ch="1" sconf="1.00" stime="168.52" etime="185.57" spkid="MS2" lang="por" lconf="0.26"/>
+<SpeechSegment ch="1" sconf="1.00" stime="185.57" etime="214.41" spkid="MS1" lang="por" lconf="0.26"/>
+<SpeechSegment ch="1" sconf="1.00" stime="221.40" etime="225.30" spkid="MS1" lang="por" lconf="0.26"/>
+</SegmentList>
+</AudioDoc>

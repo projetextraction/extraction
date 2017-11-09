@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Publicdomain-advertisment_jet_national563.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Publicdomain-advertisment_jet_national563.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.spa" version="1.2" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="60.16" spdur="28.31" nw="58" tconf="0.71"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="4.81" gender="1" spkid="MS1" lang="spa" lconf="0.35" nw="9" tconf="0.70"/>
+<Speaker ch="1" dur="23.50" gender="2" spkid="FT2" lang="spa" lconf="0.35" nw="49" tconf="0.71"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="6.87" etime="7.69" spkid="MS1" lang="spa" lconf="0.35" trs="1">
+<Word stime="7.17" dur="0.22" conf="0.886"> De </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="8.04" etime="24.08" spkid="FT2" lang="spa" lconf="0.35" trs="1">
+<Word stime="8.04" dur="0.07" conf="0.486"> que </Word>
+<Word stime="8.41" dur="0.16" conf="0.767"> aunque </Word>
+<Word stime="8.77" dur="0.14" conf="0.770"> al </Word>
+<Word stime="8.77" dur="0.14" conf="0.153"> el </Word>
+<Word stime="8.91" dur="0.15" conf="0.947"> día </Word>
+<Word stime="9.96" dur="0.10" conf="0.639"> que </Word>
+<Word stime="9.96" dur="0.10" conf="0.283"> calle </Word>
+<Word stime="10.08" dur="0.11" conf="0.878"> no </Word>
+<Word stime="10.50" dur="0.14" conf="0.577"> estaba </Word>
+<Word stime="10.50" dur="0.14" conf="0.298"> estaban </Word>
+<Word stime="10.64" dur="0.13" conf="0.888"> en </Word>
+<Word stime="10.84" dur="0.14" conf="0.913"> la </Word>
+<Word stime="11.05" dur="0.23" conf="0.631"> misma </Word>
+<Word stime="11.05" dur="0.23" conf="0.341"> nueva </Word>
+<Word stime="11.52" dur="0.42" conf="0.950"> línea </Word>
+<Word stime="11.94" dur="1.52" conf="0.518"> , </Word>
+<Word stime="13.46" dur="0.11" conf="0.810"> la </Word>
+<Word stime="14.43" dur="0.20" conf="0.411"> alegría </Word>
+<Word stime="14.43" dur="0.20" conf="0.229"> realidad </Word>
+<Word stime="14.43" dur="0.20" conf="0.137"> día </Word>
+<Word stime="14.66" dur="0.15" conf="0.980"> de </Word>
+<Word stime="14.99" dur="0.25" conf="0.979"> la </Word>
+<Word stime="15.63" dur="0.26" conf="0.885"> playa </Word>
+<Word stime="16.04" dur="0.08" conf="0.522"> de </Word>
+<Word stime="16.04" dur="0.08" conf="0.431"> del </Word>
+<Word stime="16.27" dur="0.09" conf="0.657"> que </Word>
+<Word stime="16.58" dur="0.09" conf="0.616"> un </Word>
+<Word stime="17.50" dur="0.14" conf="0.600"> pabellón </Word>
+<Word stime="17.50" dur="0.14" conf="0.281"> veces </Word>
+<Word stime="17.90" dur="0.08" conf="0.392"> al </Word>
+<Word stime="17.90" dur="0.08" conf="0.334"> las </Word>
+<Word stime="17.90" dur="0.08" conf="0.168"> desentrañar </Word>
+<Word stime="18.21" dur="0.12" conf="0.282"> Simpa </Word>
+<Word stime="18.59" dur="0.12" conf="0.466"> que </Word>
+<Word stime="18.59" dur="0.12" conf="0.126"> claro </Word>
+<Word stime="18.59" dur="0.12" conf="0.112"> quiera </Word>
+<Word stime="19.35" dur="0.09" conf="0.837"> que </Word>
+<Word stime="19.44" dur="0.05" conf="0.911"> ha </Word>
+<Word stime="19.49" dur="0.18" conf="0.912"> habido </Word>
+<Word stime="20.24" dur="0.11" conf="0.881"> una </Word>
+<Word stime="20.35" dur="0.14" conf="0.936"> el </Word>
+<Word stime="20.88" dur="0.17" conf="0.598"> barrio </Word>
+<Word stime="21.21" dur="0.05" conf="0.383"> y </Word>
+<Word stime="21.21" dur="0.05" conf="0.367"> en </Word>
+<Word stime="21.34" dur="0.14" conf="0.776"> la </Word>
+<Word stime="21.48" dur="0.14" conf="0.754"> bancada </Word>
+<Word stime="22.13" dur="0.17" conf="0.971"> de </Word>
+<Word stime="22.40" dur="0.14" conf="0.958"> la </Word>
+<Word stime="22.54" dur="0.15" conf="0.874"> isla </Word>
+<Word stime="22.96" dur="0.08" conf="0.462"> no </Word>
+<Word stime="23.32" dur="0.06" conf="0.597"> y </Word>
+<Word stime="23.40" dur="0.07" conf="0.843"> en </Word>
+<Word stime="23.47" dur="0.31" conf="0.848"> Liberia </Word>
+<Word stime="23.47" dur="0.31" conf="0.111"> debería </Word>
+<Word stime="23.78" dur="0.00" conf="0.687"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="29.70" etime="30.46" spkid="MS1" lang="spa" lconf="0.35" trs="1">
+<Word stime="30.00" dur="0.16" conf="0.160"> En </Word>
+<Word stime="30.00" dur="0.16" conf="0.110"> veinte </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="37.04" etime="44.50" spkid="FT2" lang="spa" lconf="0.35" trs="1">
+<Word stime="37.34" dur="0.09" conf="0.624"> en </Word>
+<Word stime="37.51" dur="0.13" conf="0.723"> cambio </Word>
+<Word stime="37.64" dur="0.46" conf="0.839"> , </Word>
+<Word stime="38.10" dur="0.16" conf="0.651"> la </Word>
+<Word stime="38.10" dur="0.16" conf="0.166"> La </Word>
+<Word stime="38.10" dur="0.16" conf="0.162"> a </Word>
+<Word stime="39.16" dur="0.09" conf="0.460"> venganza </Word>
+<Word stime="39.16" dur="0.09" conf="0.284"> en </Word>
+<Word stime="42.96" dur="0.22" conf="0.696"> argüir </Word>
+<Word stime="42.96" dur="0.22" conf="0.110"> mar </Word>
+<Word stime="44.11" dur="0.27" conf="0.573"> A </Word>
+<Word stime="44.11" dur="0.27" conf="0.294"> a </Word>
+<Word stime="44.11" dur="0.27" conf="0.102"> ha </Word>
+<Word stime="44.38" dur="0.00" conf="0.569"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="55.60" etime="58.83" spkid="MS1" lang="spa" lconf="0.35" trs="1">
+<Word stime="55.90" dur="0.08" conf="0.494"> John </Word>
+<Word stime="56.11" dur="0.13" conf="0.509"> Wayne </Word>
+<Word stime="57.07" dur="0.17" conf="0.930"> y </Word>
+<Word stime="57.29" dur="0.15" conf="0.941"> los </Word>
+<Word stime="57.61" dur="0.08" conf="0.745"> que </Word>
+<Word stime="57.73" dur="0.22" conf="0.800"> no </Word>
+<Word stime="58.30" dur="0.23" conf="0.842"> lo </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

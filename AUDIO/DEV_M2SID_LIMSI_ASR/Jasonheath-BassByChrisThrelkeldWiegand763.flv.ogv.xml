@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Jasonheath-BassByChrisThrelkeldWiegand763.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Jasonheath-BassByChrisThrelkeldWiegand763.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="87.26" spdur="6.26" nw="2" tconf="1.00"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="4.87" gender="2" spkid="FS1" lang="eng-usa" lconf="1.00" nw="1" tconf="1.00"/>
+<Speaker ch="1" dur="1.39" gender="1" spkid="MS1" lang="eng-usa" lconf="1.00" nw="1" tconf="1.00"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="46.75" etime="48.14" spkid="MS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="47.05" dur="0.79" conf="0.996"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="82.38" etime="87.25" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="82.38" dur="4.83" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

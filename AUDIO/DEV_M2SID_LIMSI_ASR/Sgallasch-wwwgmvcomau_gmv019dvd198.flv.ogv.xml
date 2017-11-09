@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Sgallasch-wwwgmvcomau_gmv019dvd198.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/wav/dev12/Sgallasch-wwwgmvcomau_gmv019dvd198.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2dn"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="100.27" spdur="0.00"/>
+</ChannelList>
+<SpeakerList>
+</SpeakerList>
+<SegmentList>
+</SegmentList>
+</AudioDoc>

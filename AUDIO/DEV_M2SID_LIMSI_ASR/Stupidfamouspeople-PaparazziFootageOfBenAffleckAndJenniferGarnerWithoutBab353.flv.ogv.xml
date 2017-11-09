@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Stupidfamouspeople-PaparazziFootageOfBenAffleckAndJenniferGarnerWithoutBab353.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Stupidfamouspeople-PaparazziFootageOfBenAffleckAndJenniferGarnerWithoutBab353.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="26.75" spdur="12.96"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="12.96" gender="2" spkid="FS1" lang="kor" lconf="0.23"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="7.24" etime="20.20" spkid="FS1" lang="kor" lconf="0.23"/>
+</SegmentList>
+</AudioDoc>

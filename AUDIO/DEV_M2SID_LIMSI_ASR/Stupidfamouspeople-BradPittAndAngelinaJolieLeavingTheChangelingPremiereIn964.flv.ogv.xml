@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Stupidfamouspeople-BradPittAndAngelinaJolieLeavingTheChangelingPremiereIn964.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/wav/dev12/Stupidfamouspeople-BradPittAndAngelinaJolieLeavingTheChangelingPremiereIn964.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2dn"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="11.52" spdur="3.39"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="3.39" gender="2" spkid="FS1"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.06" etime="2.07" spkid="FS1"/>
+<SpeechSegment ch="1" sconf="1.00" stime="5.12" etime="6.50" spkid="FS1"/>
+</SegmentList>
+</AudioDoc>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Francoventoso-3CarloDeSignoribusEAltriBluesOnTheRoad581.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Francoventoso-3CarloDeSignoribusEAltriBluesOnTheRoad581.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="206.48" spdur="104.01"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="49.97" gender="1" spkid="MS2" lang="por" lconf="0.26"/>
+<Speaker ch="1" dur="39.12" gender="1" spkid="MS1" lang="por" lconf="0.26"/>
+<Speaker ch="1" dur="6.27" gender="1" spkid="MS3" lang="por" lconf="0.26"/>
+<Speaker ch="1" dur="5.13" gender="2" spkid="FS3" lang="por" lconf="0.26"/>
+<Speaker ch="1" dur="3.52" gender="2" spkid="FS1" lang="por" lconf="0.26"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="19.84" etime="40.18" spkid="MS1" lang="por" lconf="0.26"/>
+<SpeechSegment ch="1" sconf="1.00" stime="51.41" etime="70.19" spkid="MS1" lang="por" lconf="0.26"/>
+<SpeechSegment ch="1" sconf="1.00" stime="87.04" etime="92.49" spkid="MS2" lang="por" lconf="0.26"/>
+<SpeechSegment ch="1" sconf="1.00" stime="125.38" etime="169.90" spkid="MS2" lang="por" lconf="0.26"/>
+<SpeechSegment ch="1" sconf="1.00" stime="169.90" etime="176.17" spkid="MS3" lang="por" lconf="0.26"/>
+<SpeechSegment ch="1" sconf="1.00" stime="176.17" etime="179.69" spkid="FS1" lang="por" lconf="0.26"/>
+<SpeechSegment ch="1" sconf="1.00" stime="179.69" etime="184.82" spkid="FS3" lang="por" lconf="0.26"/>
+</SegmentList>
+</AudioDoc>

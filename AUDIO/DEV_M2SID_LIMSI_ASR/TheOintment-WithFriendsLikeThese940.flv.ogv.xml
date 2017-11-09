@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="TheOintment-WithFriendsLikeThese940.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/TheOintment-WithFriendsLikeThese940.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="143.48" spdur="98.11" nw="222" tconf="0.87"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="43.58" gender="1" spkid="MS4" lang="eng-usa" lconf="1.00" nw="110" tconf="0.89"/>
+<Speaker ch="1" dur="26.91" gender="2" spkid="FS3" lang="eng-usa" lconf="1.00" nw="101" tconf="0.84"/>
+<Speaker ch="1" dur="13.87" gender="2" spkid="FT2" lang="eng-usa" lconf="1.00" nw="6" tconf="0.91"/>
+<Speaker ch="1" dur="13.75" gender="2" spkid="FS1" lang="eng-usa" lconf="1.00" nw="5" tconf="1.00"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="4.59" etime="18.46" spkid="FT2" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="4.59" dur="0.94" conf="0.995"> {fw} </Word>
+<Word stime="9.57" dur="1.41" conf="0.995"> {fw} </Word>
+<Word stime="11.81" dur="0.75" conf="0.993"> {fw} </Word>
+<Word stime="15.56" dur="0.59" conf="0.992"> {fw} </Word>
+<Word stime="17.82" dur="0.60" conf="0.994"> {fw} </Word>
+<Word stime="18.42" dur="0.00" conf="0.513"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="23.36" etime="25.82" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="23.36" dur="2.42" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="25.82" etime="37.03" spkid="FS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="26.12" dur="0.13" conf="0.962"> I </Word>
+<Word stime="26.29" dur="0.16" conf="0.409"> got </Word>
+<Word stime="26.45" dur="0.11" conf="0.343"> up </Word>
+<Word stime="26.56" dur="0.00" conf="0.505"> , </Word>
+<Word stime="26.56" dur="0.07" conf="0.437"> and </Word>
+<Word stime="26.63" dur="0.10" conf="0.928"> the </Word>
+<Word stime="26.80" dur="0.29" conf="0.969"> question </Word>
+<Word stime="27.09" dur="0.16" conf="0.917"> was </Word>
+<Word stime="27.29" dur="0.16" conf="0.225"> there </Word>
+<Word stime="27.29" dur="0.16" conf="0.180"> this </Word>
+<Word stime="27.29" dur="0.16" conf="0.105"> serious </Word>
+<Word stime="27.45" dur="0.06" conf="0.649"> , </Word>
+<Word stime="27.51" dur="0.12" conf="0.380"> so </Word>
+<Word stime="27.63" dur="0.22" conf="0.364"> we're </Word>
+<Word stime="27.63" dur="0.22" conf="0.333"> aware </Word>
+<Word stime="27.91" dur="0.22" conf="0.277"> happy </Word>
+<Word stime="27.91" dur="0.22" conf="0.264"> how </Word>
+<Word stime="28.13" dur="0.19" conf="0.827"> . </Word>
+<Word stime="28.32" dur="0.20" conf="0.925"> Why </Word>
+<Word stime="28.52" dur="0.08" conf="0.967"> do </Word>
+<Word stime="28.60" dur="0.08" conf="0.970"> you </Word>
+<Word stime="28.74" dur="0.25" conf="0.970"> think </Word>
+<Word stime="29.33" dur="0.21" conf="0.469"> hit </Word>
+<Word stime="29.33" dur="0.21" conf="0.107"> his </Word>
+<Word stime="29.60" dur="0.26" conf="0.970"> Barack </Word>
+<Word stime="29.93" dur="0.36" conf="0.970"> Obama </Word>
+<Word stime="30.36" dur="0.32" conf="0.969"> is </Word>
+<Word stime="30.71" dur="0.11" conf="0.966"> in </Word>
+<Word stime="30.86" dur="0.05" conf="0.493"> a </Word>
+<Word stime="30.98" dur="0.29" conf="0.969"> place </Word>
+<Word stime="31.27" dur="0.15" conf="0.969"> he </Word>
+<Word stime="31.42" dur="0.25" conf="0.969"> is </Word>
+<Word stime="31.75" dur="0.31" conf="0.969"> today </Word>
+<Word stime="32.06" dur="0.00" conf="0.495"> . </Word>
+<Word stime="32.06" dur="0.16" conf="0.966"> With </Word>
+<Word stime="32.22" dur="0.18" conf="0.970"> all </Word>
+<Word stime="32.40" dur="0.19" conf="0.970"> these </Word>
+<Word stime="32.59" dur="0.27" conf="0.735"> cameras </Word>
+<Word stime="33.04" dur="0.12" conf="0.874"> all </Word>
+<Word stime="33.16" dur="0.17" conf="0.969"> these </Word>
+<Word stime="33.33" dur="0.34" conf="0.933"> delegates </Word>
+<Word stime="33.79" dur="0.21" conf="0.634"> or </Word>
+<Word stime="33.79" dur="0.21" conf="0.115"> Laura's </Word>
+<Word stime="34.00" dur="0.08" conf="0.584"> a </Word>
+<Word stime="34.15" dur="0.28" conf="0.956"> sister </Word>
+<Word stime="34.43" dur="0.55" conf="0.646"> . </Word>
+<Word stime="34.98" dur="0.15" conf="0.240"> That </Word>
+<Word stime="35.19" dur="0.22" conf="0.506"> said </Word>
+<Word stime="35.41" dur="0.13" conf="0.594"> , </Word>
+<Word stime="35.54" dur="0.15" conf="0.959"> in </Word>
+<Word stime="35.73" dur="0.17" conf="0.563"> my </Word>
+<Word stime="35.73" dur="0.17" conf="0.124"> light </Word>
+<Word stime="35.98" dur="0.16" conf="0.524"> church </Word>
+<Word stime="35.98" dur="0.16" conf="0.122"> touch </Word>
+<Word stime="36.14" dur="0.28" conf="0.954"> because </Word>
+<Word stime="36.42" dur="0.12" conf="0.878"> he's </Word>
+<Word stime="36.61" dur="0.27" conf="0.585"> black </Word>
+<Word stime="36.61" dur="0.27" conf="0.124"> white </Word>
+<Word stime="36.88" dur="0.00" conf="0.591"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="37.03" etime="41.18" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="37.03" dur="4.09" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="41.18" etime="48.40" spkid="FS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="41.31" dur="0.18" conf="0.986"> you </Word>
+<Word stime="41.49" dur="0.18" conf="0.986"> think </Word>
+<Word stime="41.67" dur="0.14" conf="0.986"> that </Word>
+<Word stime="41.81" dur="0.14" conf="0.955"> the </Word>
+<Word stime="42.42" dur="0.23" conf="0.985"> the </Word>
+<Word stime="42.65" dur="0.40" conf="0.985"> whole </Word>
+<Word stime="43.05" dur="0.60" conf="0.974"> city </Word>
+<Word stime="43.73" dur="0.32" conf="0.974"> was </Word>
+<Word stime="44.42" dur="0.45" conf="0.985"> was </Word>
+<Word stime="44.87" dur="0.65" conf="0.985"> punished </Word>
+<Word stime="45.69" dur="0.44" conf="0.985"> because </Word>
+<Word stime="46.28" dur="0.10" conf="0.980"> of </Word>
+<Word stime="46.41" dur="0.26" conf="0.985"> things </Word>
+<Word stime="46.67" dur="0.23" conf="0.985"> like </Word>
+<Word stime="46.97" dur="0.08" conf="0.984"> the </Word>
+<Word stime="47.05" dur="0.36" conf="0.985"> forthcoming </Word>
+<Word stime="47.50" dur="0.14" conf="0.404"> gay </Word>
+<Word stime="47.50" dur="0.14" conf="0.374"> Gay </Word>
+<Word stime="47.64" dur="0.35" conf="0.404"> pride </Word>
+<Word stime="47.64" dur="0.35" conf="0.374"> Pride </Word>
+<Word stime="48.06" dur="0.29" conf="0.859"> parade </Word>
+<Word stime="48.35" dur="0.00" conf="0.493"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="50.18" etime="76.03" spkid="MS4" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="50.18" dur="0.56" conf="0.908"> {fw} </Word>
+<Word stime="50.74" dur="1.09" conf="0.918"> , </Word>
+<Word stime="51.83" dur="0.40" conf="0.978"> this </Word>
+<Word stime="52.23" dur="0.11" conf="0.977"> is </Word>
+<Word stime="52.34" dur="0.41" conf="0.978"> true </Word>
+<Word stime="53.03" dur="0.32" conf="0.976"> of </Word>
+<Word stime="54.05" dur="0.55" conf="0.978"> all </Word>
+<Word stime="54.65" dur="0.22" conf="0.978"> of </Word>
+<Word stime="54.92" dur="0.09" conf="0.978"> the </Word>
+<Word stime="55.01" dur="0.50" conf="0.972"> city </Word>
+<Word stime="55.51" dur="0.63" conf="0.587"> , </Word>
+<Word stime="56.14" dur="0.21" conf="0.545"> which </Word>
+<Word stime="56.14" dur="0.21" conf="0.208"> was </Word>
+<Word stime="56.43" dur="0.38" conf="0.942"> punished </Word>
+<Word stime="57.23" dur="0.54" conf="0.510"> calls </Word>
+<Word stime="57.23" dur="0.54" conf="0.249"> recalls </Word>
+<Word stime="57.89" dur="0.10" conf="0.275"> on </Word>
+<Word stime="57.89" dur="0.10" conf="0.218"> of </Word>
+<Word stime="58.02" dur="0.10" conf="0.973"> the </Word>
+<Word stime="58.12" dur="0.27" conf="0.597"> sea </Word>
+<Word stime="58.45" dur="0.24" conf="0.795"> and </Word>
+<Word stime="58.69" dur="0.11" conf="0.434"> that </Word>
+<Word stime="58.69" dur="0.11" conf="0.284"> it </Word>
+<Word stime="58.80" dur="0.45" conf="0.970"> happened </Word>
+<Word stime="59.25" dur="0.33" conf="0.976"> there </Word>
+<Word stime="59.96" dur="0.14" conf="0.978"> in </Word>
+<Word stime="60.10" dur="0.17" conf="0.977"> that </Word>
+<Word stime="60.27" dur="0.33" conf="0.978"> city </Word>
+<Word stime="60.60" dur="0.09" conf="0.394"> , </Word>
+<Word stime="60.69" dur="0.28" conf="0.966"> I </Word>
+<Word stime="60.97" dur="0.13" conf="0.428"> , </Word>
+<Word stime="61.10" dur="0.25" conf="0.977"> I </Word>
+<Word stime="61.35" dur="0.55" conf="0.975"> believe </Word>
+<Word stime="62.03" dur="0.26" conf="0.978"> that </Word>
+<Word stime="62.37" dur="0.12" conf="0.977"> the </Word>
+<Word stime="62.58" dur="0.39" conf="0.978"> judgment </Word>
+<Word stime="62.97" dur="0.08" conf="0.975"> of </Word>
+<Word stime="63.07" dur="0.37" conf="0.975"> God </Word>
+<Word stime="63.47" dur="0.13" conf="0.957"> is </Word>
+<Word stime="63.60" dur="0.06" conf="0.977"> a </Word>
+<Word stime="63.66" dur="0.39" conf="0.978"> very </Word>
+<Word stime="64.05" dur="0.39" conf="0.978"> real </Word>
+<Word stime="64.50" dur="0.42" conf="0.467"> thing </Word>
+<Word stime="64.50" dur="0.42" conf="0.238"> theme </Word>
+<Word stime="65.53" dur="0.19" conf="0.978"> and </Word>
+<Word stime="65.72" dur="0.18" conf="0.978"> I </Word>
+<Word stime="65.90" dur="0.59" conf="0.978"> believe </Word>
+<Word stime="66.76" dur="0.43" conf="0.978"> that </Word>
+<Word stime="67.67" dur="0.29" conf="0.968"> the </Word>
+<Word stime="68.40" dur="0.13" conf="0.640"> the </Word>
+<Word stime="68.63" dur="0.49" conf="0.719"> Hurricane </Word>
+<Word stime="68.63" dur="0.49" conf="0.104"> hurricane </Word>
+<Word stime="69.12" dur="0.61" conf="0.978"> Katrina </Word>
+<Word stime="70.26" dur="0.28" conf="0.917"> was </Word>
+<Word stime="70.54" dur="0.04" conf="0.650"> , </Word>
+<Word stime="70.58" dur="0.17" conf="0.978"> in </Word>
+<Word stime="70.75" dur="0.47" conf="0.976"> fact </Word>
+<Word stime="71.22" dur="0.63" conf="0.711"> , </Word>
+<Word stime="71.85" dur="0.27" conf="0.976"> {fw} </Word>
+<Word stime="72.12" dur="0.07" conf="0.525"> . </Word>
+<Word stime="72.19" dur="0.13" conf="0.976"> The </Word>
+<Word stime="72.41" dur="0.37" conf="0.975"> judgment </Word>
+<Word stime="72.78" dur="0.09" conf="0.790"> of </Word>
+<Word stime="72.95" dur="0.35" conf="0.647"> God </Word>
+<Word stime="72.95" dur="0.35" conf="0.141"> guard </Word>
+<Word stime="73.37" dur="0.37" conf="0.977"> against </Word>
+<Word stime="73.76" dur="0.07" conf="0.975"> the </Word>
+<Word stime="73.83" dur="0.44" conf="0.889"> city </Word>
+<Word stime="74.82" dur="0.22" conf="0.978"> of </Word>
+<Word stime="75.04" dur="0.16" conf="0.978"> New </Word>
+<Word stime="75.20" dur="0.53" conf="0.978"> Orleans </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="99.69" etime="105.85" spkid="MS4" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="99.74" dur="0.17" conf="0.985"> I </Word>
+<Word stime="100.05" dur="0.58" conf="0.987"> vehemently </Word>
+<Word stime="100.63" dur="0.50" conf="0.988"> disagree </Word>
+<Word stime="101.45" dur="0.14" conf="0.896"> and </Word>
+<Word stime="101.59" dur="0.52" conf="0.987"> strongly </Word>
+<Word stime="102.20" dur="0.36" conf="0.937"> condemn </Word>
+<Word stime="102.58" dur="0.08" conf="0.988"> the </Word>
+<Word stime="102.66" dur="0.69" conf="0.988"> statements </Word>
+<Word stime="103.77" dur="0.10" conf="0.451"> that </Word>
+<Word stime="103.77" dur="0.10" conf="0.294"> they've </Word>
+<Word stime="103.87" dur="0.09" conf="0.451"> have </Word>
+<Word stime="103.96" dur="0.13" conf="0.988"> been </Word>
+<Word stime="104.09" dur="0.09" conf="0.987"> the </Word>
+<Word stime="104.18" dur="0.44" conf="0.988"> subject </Word>
+<Word stime="104.62" dur="0.07" conf="0.988"> of </Word>
+<Word stime="104.69" dur="0.16" conf="0.988"> this </Word>
+<Word stime="104.85" dur="0.70" conf="0.988"> controversy </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="105.85" etime="108.25" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="105.85" dur="2.36" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="108.25" etime="116.73" spkid="FS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="108.46" dur="0.43" conf="0.980"> well </Word>
+<Word stime="108.89" dur="0.00" conf="0.921"> , </Word>
+<Word stime="108.89" dur="0.20" conf="0.981"> I </Word>
+<Word stime="109.09" dur="0.17" conf="0.981"> don't </Word>
+<Word stime="109.26" dur="0.24" conf="0.981"> agree </Word>
+<Word stime="109.50" dur="0.14" conf="0.981"> with </Word>
+<Word stime="109.71" dur="0.42" conf="0.981"> that </Word>
+<Word stime="110.13" dur="0.10" conf="0.758"> , </Word>
+<Word stime="110.23" dur="0.57" conf="0.981"> and </Word>
+<Word stime="111.11" dur="0.10" conf="0.981"> I </Word>
+<Word stime="111.25" dur="0.14" conf="0.981"> think </Word>
+<Word stime="111.39" dur="0.15" conf="0.981"> it's </Word>
+<Word stime="111.54" dur="0.60" conf="0.981"> important </Word>
+<Word stime="112.17" dur="0.18" conf="0.979"> that </Word>
+<Word stime="113.10" dur="0.18" conf="0.981"> you </Word>
+<Word stime="113.28" dur="0.12" conf="0.981"> know </Word>
+<Word stime="113.40" dur="0.00" conf="0.755"> , </Word>
+<Word stime="113.40" dur="0.12" conf="0.981"> we </Word>
+<Word stime="113.56" dur="0.17" conf="0.981"> try </Word>
+<Word stime="113.73" dur="0.06" conf="0.950"> to </Word>
+<Word stime="113.79" dur="0.16" conf="0.981"> stay </Word>
+<Word stime="113.99" dur="0.39" conf="0.981"> focused </Word>
+<Word stime="114.38" dur="0.09" conf="0.979"> on </Word>
+<Word stime="114.47" dur="0.10" conf="0.981"> the </Word>
+<Word stime="114.59" dur="0.43" conf="0.981"> issues </Word>
+<Word stime="115.02" dur="0.14" conf="0.981"> that </Word>
+<Word stime="115.19" dur="0.33" conf="0.965"> matter </Word>
+<Word stime="115.52" dur="0.15" conf="0.981"> to </Word>
+<Word stime="115.67" dur="0.10" conf="0.981"> the </Word>
+<Word stime="115.77" dur="0.31" conf="0.981"> American </Word>
+<Word stime="116.16" dur="0.34" conf="0.981"> people </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="116.73" etime="119.09" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="116.73" dur="2.31" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="119.09" etime="127.03" spkid="MS4" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="119.17" dur="0.23" conf="0.995"> John </Word>
+<Word stime="119.46" dur="0.42" conf="0.995"> McCain </Word>
+<Word stime="119.99" dur="0.14" conf="0.994"> will </Word>
+<Word stime="120.13" dur="0.15" conf="0.994"> be </Word>
+<Word stime="120.29" dur="0.05" conf="0.994"> a </Word>
+<Word stime="120.34" dur="0.70" conf="0.990"> strong </Word>
+<Word stime="121.04" dur="0.36" conf="0.975"> , </Word>
+<Word stime="121.40" dur="0.65" conf="0.988"> courageous </Word>
+<Word stime="122.22" dur="0.28" conf="0.993"> and </Word>
+<Word stime="122.50" dur="0.57" conf="0.992"> effective </Word>
+<Word stime="123.07" dur="0.35" conf="0.995"> leader </Word>
+<Word stime="123.42" dur="0.22" conf="0.995"> from </Word>
+<Word stime="123.64" dur="0.09" conf="0.995"> the </Word>
+<Word stime="123.82" dur="0.34" conf="0.995"> first </Word>
+<Word stime="124.16" dur="0.50" conf="0.990"> day </Word>
+<Word stime="125.00" dur="0.21" conf="0.994"> he </Word>
+<Word stime="125.21" dur="0.42" conf="0.994"> steps </Word>
+<Word stime="125.63" dur="0.19" conf="0.990"> into </Word>
+<Word stime="125.87" dur="0.16" conf="0.995"> the </Word>
+<Word stime="126.03" dur="0.34" conf="0.991"> Oval </Word>
+<Word stime="126.37" dur="0.60" conf="0.978"> Office </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="127.03" etime="129.41" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="127.03" dur="2.33" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="129.41" etime="133.04" spkid="MS4" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="129.47" dur="0.15" conf="0.409"> I'm </Word>
+<Word stime="129.47" dur="0.15" conf="0.357"> and </Word>
+<Word stime="129.62" dur="0.22" conf="0.977"> very </Word>
+<Word stime="129.84" dur="0.36" conf="0.977"> honored </Word>
+<Word stime="130.20" dur="0.28" conf="0.977"> by </Word>
+<Word stime="130.48" dur="0.39" conf="0.756"> Pastor </Word>
+<Word stime="130.87" dur="0.31" conf="0.945"> John </Word>
+<Word stime="131.43" dur="0.40" conf="0.478"> Haiti's </Word>
+<Word stime="131.43" dur="0.40" conf="0.176"> Hades </Word>
+<Word stime="131.91" dur="0.59" conf="0.977"> endorsement </Word>
+<Word stime="132.50" dur="0.32" conf="0.940"> today </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

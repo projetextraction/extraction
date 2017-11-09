@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Stupidfamouspeople-TomCruiseJadaPinkettSmithSneakIntoKatieHolmesPlay566.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Stupidfamouspeople-TomCruiseJadaPinkettSmithSneakIntoKatieHolmesPlay566.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="24.97" spdur="2.92" nw="3" tconf="0.86"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="2.92" gender="1" spkid="MS1" lang="eng-usa" lconf="1.00" nw="3" tconf="0.86"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="3.98" etime="6.90" spkid="MS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="4.02" dur="0.11" conf="0.978"> The </Word>
+<Word stime="4.13" dur="0.35" conf="0.610"> security </Word>
+<Word stime="5.59" dur="1.01" conf="0.991"> {fw} </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

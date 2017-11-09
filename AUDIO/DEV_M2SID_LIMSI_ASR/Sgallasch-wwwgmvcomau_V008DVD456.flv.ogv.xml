@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Sgallasch-wwwgmvcomau_V008DVD456.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Sgallasch-wwwgmvcomau_V008DVD456.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="219.11" spdur="62.74" nw="95" tconf="0.70"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="41.41" gender="2" spkid="FS1" lang="eng-usa" lconf="0.37" nw="72" tconf="0.70"/>
+<Speaker ch="1" dur="17.13" gender="1" spkid="MS2" lang="eng-usa" lconf="0.37" nw="20" tconf="0.72"/>
+<Speaker ch="1" dur="4.20" gender="1" spkid="MS1" lang="eng-usa" lconf="0.37" nw="3" tconf="0.57"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="65.52" etime="82.65" spkid="MS2" lang="eng-usa" lconf="0.37" trs="1">
+<Word stime="65.82" dur="0.20" conf="0.815"> And </Word>
+<Word stime="66.50" dur="0.58" conf="0.958"> {fw} </Word>
+<Word stime="68.55" dur="0.14" conf="0.536"> {fw} </Word>
+<Word stime="68.77" dur="0.36" conf="0.893"> {fw} </Word>
+<Word stime="71.24" dur="0.12" conf="0.623"> {fw} </Word>
+<Word stime="72.70" dur="0.22" conf="0.755"> yes </Word>
+<Word stime="72.97" dur="0.39" conf="0.888"> {fw} </Word>
+<Word stime="74.13" dur="0.20" conf="0.591"> {fw} </Word>
+<Word stime="74.93" dur="0.12" conf="0.461"> {fw} </Word>
+<Word stime="75.43" dur="0.09" conf="0.564"> {fw} </Word>
+<Word stime="76.66" dur="0.79" conf="0.843"> {fw} </Word>
+<Word stime="77.45" dur="0.78" conf="0.636"> , </Word>
+<Word stime="78.23" dur="0.32" conf="0.614"> like </Word>
+<Word stime="78.55" dur="0.54" conf="0.689"> , </Word>
+<Word stime="79.09" dur="0.94" conf="0.971"> {fw} </Word>
+<Word stime="80.03" dur="0.71" conf="0.622"> , </Word>
+<Word stime="80.74" dur="0.14" conf="0.271"> then </Word>
+<Word stime="80.97" dur="0.24" conf="0.780"> he </Word>
+<Word stime="81.27" dur="0.20" conf="0.954"> is </Word>
+<Word stime="81.62" dur="0.73" conf="0.969"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="152.59" etime="176.55" spkid="FS1" lang="eng-usa" lconf="0.37" trs="1">
+<Word stime="152.85" dur="0.26" conf="0.976"> indeed </Word>
+<Word stime="153.11" dur="0.80" conf="0.782"> , </Word>
+<Word stime="153.91" dur="0.29" conf="0.978"> {fw} </Word>
+<Word stime="156.73" dur="0.19" conf="0.398"> creep </Word>
+<Word stime="157.02" dur="0.17" conf="0.417"> don't </Word>
+<Word stime="157.02" dur="0.17" conf="0.149"> to </Word>
+<Word stime="157.28" dur="0.18" conf="0.608"> {fw} </Word>
+<Word stime="158.76" dur="0.10" conf="0.310"> share </Word>
+<Word stime="158.86" dur="0.11" conf="0.427"> {fw} </Word>
+<Word stime="158.97" dur="1.80" conf="0.334"> . </Word>
+<Word stime="160.77" dur="0.21" conf="0.461"> What </Word>
+<Word stime="160.98" dur="0.12" conf="0.321"> , </Word>
+<Word stime="161.10" dur="0.18" conf="0.194"> then </Word>
+<Word stime="161.10" dur="0.18" conf="0.181"> and </Word>
+<Word stime="161.10" dur="0.18" conf="0.132"> an </Word>
+<Word stime="161.10" dur="0.18" conf="0.111"> in </Word>
+<Word stime="161.28" dur="0.00" conf="0.474"> , </Word>
+<Word stime="161.28" dur="0.18" conf="0.604"> {fw} </Word>
+<Word stime="161.52" dur="0.26" conf="0.956"> {fw} </Word>
+<Word stime="162.56" dur="0.43" conf="0.846"> {fw} </Word>
+<Word stime="164.13" dur="0.42" conf="0.978"> {fw} </Word>
+<Word stime="164.55" dur="0.79" conf="0.977"> {fw} </Word>
+<Word stime="166.99" dur="0.33" conf="0.971"> {fw} </Word>
+<Word stime="167.41" dur="0.60" conf="0.969"> {fw} </Word>
+<Word stime="168.93" dur="0.18" conf="0.460"> believed </Word>
+<Word stime="169.35" dur="0.23" conf="0.866"> {fw} </Word>
+<Word stime="170.27" dur="0.25" conf="0.969"> {fw} </Word>
+<Word stime="170.77" dur="0.98" conf="0.766"> {fw} </Word>
+<Word stime="172.64" dur="0.35" conf="0.976"> {fw} </Word>
+<Word stime="173.57" dur="0.32" conf="0.969"> {fw} </Word>
+<Word stime="174.77" dur="0.19" conf="0.828"> only </Word>
+<Word stime="175.09" dur="0.34" conf="0.966"> assume </Word>
+<Word stime="175.43" dur="0.82" conf="0.975"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="188.67" etime="206.12" spkid="FS1" lang="eng-usa" lconf="0.37" trs="1">
+<Word stime="188.97" dur="0.30" conf="0.885"> Indians </Word>
+<Word stime="189.37" dur="0.07" conf="0.669"> are </Word>
+<Word stime="189.71" dur="0.28" conf="0.957"> {fw} </Word>
+<Word stime="190.92" dur="0.14" conf="0.965"> well </Word>
+<Word stime="191.06" dur="0.00" conf="0.969"> , </Word>
+<Word stime="191.06" dur="0.16" conf="0.722"> that's </Word>
+<Word stime="191.26" dur="0.60" conf="0.845"> the </Word>
+<Word stime="193.04" dur="0.19" conf="0.839"> big </Word>
+<Word stime="193.23" dur="0.15" conf="0.458"> . </Word>
+<Word stime="193.38" dur="0.09" conf="0.232"> Well </Word>
+<Word stime="193.47" dur="0.00" conf="0.914"> , </Word>
+<Word stime="193.47" dur="0.09" conf="0.560"> you </Word>
+<Word stime="193.67" dur="0.13" conf="0.468"> know </Word>
+<Word stime="193.80" dur="0.53" conf="0.461"> , </Word>
+<Word stime="194.33" dur="0.16" conf="0.560"> the </Word>
+<Word stime="195.02" dur="0.10" conf="0.575"> island </Word>
+<Word stime="195.12" dur="0.53" conf="0.419"> . </Word>
+<Word stime="195.65" dur="0.25" conf="0.965"> {fw} </Word>
+<Word stime="195.90" dur="1.25" conf="0.636"> , </Word>
+<Word stime="197.15" dur="0.07" conf="0.269"> it </Word>
+<Word stime="197.22" dur="0.13" conf="0.849"> in </Word>
+<Word stime="197.44" dur="0.17" conf="0.573"> no </Word>
+<Word stime="197.61" dur="0.23" conf="0.576"> less </Word>
+<Word stime="197.61" dur="0.23" conf="0.178"> oldest </Word>
+<Word stime="197.84" dur="0.15" conf="0.576"> than </Word>
+<Word stime="197.99" dur="0.79" conf="0.572"> 3 </Word>
+<Word stime="198.78" dur="0.16" conf="0.423"> the </Word>
+<Word stime="198.78" dur="0.16" conf="0.281"> {fw} </Word>
+<Word stime="199.42" dur="0.11" conf="0.862"> will </Word>
+<Word stime="199.56" dur="0.26" conf="0.502"> scour </Word>
+<Word stime="199.89" dur="0.21" conf="0.720"> like </Word>
+<Word stime="200.15" dur="0.25" conf="0.969"> we </Word>
+<Word stime="200.95" dur="0.09" conf="0.392"> do </Word>
+<Word stime="200.95" dur="0.09" conf="0.143"> hear </Word>
+<Word stime="201.08" dur="0.04" conf="0.696"> a </Word>
+<Word stime="201.12" dur="0.21" conf="0.735"> lot </Word>
+<Word stime="201.38" dur="0.19" conf="0.962"> don't </Word>
+<Word stime="201.61" dur="0.27" conf="0.971"> tell </Word>
+<Word stime="201.92" dur="0.15" conf="0.923"> you </Word>
+<Word stime="202.20" dur="0.22" conf="0.889"> why </Word>
+<Word stime="202.93" dur="0.16" conf="0.628"> there's </Word>
+<Word stime="203.18" dur="0.07" conf="0.821"> no </Word>
+<Word stime="203.51" dur="0.84" conf="0.968"> {fw} </Word>
+<Word stime="204.68" dur="0.20" conf="0.311"> and </Word>
+<Word stime="204.68" dur="0.20" conf="0.196"> can </Word>
+<Word stime="205.16" dur="0.19" conf="0.212"> be </Word>
+<Word stime="205.16" dur="0.19" conf="0.122"> we </Word>
+<Word stime="205.75" dur="0.26" conf="0.966"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="213.34" etime="217.54" spkid="MS1" lang="eng-usa" lconf="0.37" trs="1">
+<Word stime="213.50" dur="0.70" conf="0.970"> {fw} </Word>
+<Word stime="216.51" dur="0.14" conf="0.388"> yeah </Word>
+<Word stime="216.51" dur="0.14" conf="0.277"> yes </Word>
+<Word stime="217.02" dur="0.22" conf="0.365"> here </Word>
+<Word stime="217.02" dur="0.22" conf="0.175"> yeah </Word>
+<Word stime="217.02" dur="0.22" conf="0.144"> you </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

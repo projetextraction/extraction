@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="TheJAMAREPORT-CHANGESTOMEDICAREANDACCESSTOCAREFORCANCERPATIENTS318.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/TheJAMAREPORT-CHANGESTOMEDICAREANDACCESSTOCAREFORCANCERPATIENTS318.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="128.83" spdur="124.77" nw="322" tconf="0.92"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="72.61" gender="2" spkid="FS1" lang="eng-usa" lconf="1.00" nw="212" tconf="0.92"/>
+<Speaker ch="1" dur="36.80" gender="2" spkid="FS2" lang="eng-usa" lconf="1.00" nw="108" tconf="0.93"/>
+<Speaker ch="1" dur="15.36" gender="2" spkid="FS3" lang="eng-usa" lconf="1.00" nw="2" tconf="1.00"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.01" etime="2.08" spkid="FS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="0.01" dur="2.03" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="2.35" etime="3.16" spkid="FS2" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="2.65" dur="0.21" conf="0.580"> that </Word>
+<Word stime="2.65" dur="0.21" conf="0.122"> that's </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="4.51" etime="21.93" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="4.51" dur="0.36" conf="0.697"> nineteen </Word>
+<Word stime="5.05" dur="0.36" conf="0.947"> treatment </Word>
+<Word stime="5.47" dur="0.26" conf="0.956"> close </Word>
+<Word stime="5.76" dur="0.09" conf="0.970"> to </Word>
+<Word stime="5.85" dur="0.30" conf="0.974"> home </Word>
+<Word stime="6.15" dur="0.11" conf="0.371"> is </Word>
+<Word stime="6.15" dur="0.11" conf="0.352"> as </Word>
+<Word stime="6.37" dur="0.42" conf="0.972"> ideal </Word>
+<Word stime="6.79" dur="0.24" conf="0.938"> , </Word>
+<Word stime="7.03" dur="0.38" conf="0.941"> especially </Word>
+<Word stime="7.41" dur="0.14" conf="0.974"> for </Word>
+<Word stime="7.55" dur="0.45" conf="0.974"> cancer </Word>
+<Word stime="8.00" dur="0.46" conf="0.974"> patients </Word>
+<Word stime="8.46" dur="0.41" conf="0.974"> receiving </Word>
+<Word stime="8.87" dur="0.71" conf="0.968"> chemotherapy </Word>
+<Word stime="9.58" dur="0.48" conf="0.658"> . </Word>
+<Word stime="10.06" dur="0.10" conf="0.973"> The </Word>
+<Word stime="10.16" dur="0.47" conf="0.974"> Medicare </Word>
+<Word stime="10.63" dur="0.93" conf="0.974"> Modernization </Word>
+<Word stime="11.56" dur="0.25" conf="0.974"> Act </Word>
+<Word stime="11.81" dur="0.08" conf="0.974"> of </Word>
+<Word stime="11.89" dur="1.09" conf="0.974"> 2003 </Word>
+<Word stime="13.05" dur="0.00" conf="0.564"> , </Word>
+<Word stime="13.05" dur="0.40" conf="0.677"> reduce </Word>
+<Word stime="13.05" dur="0.40" conf="0.123"> reduced </Word>
+<Word stime="13.48" dur="0.13" conf="0.974"> the </Word>
+<Word stime="13.61" dur="0.29" conf="0.974"> amount </Word>
+<Word stime="13.90" dur="0.08" conf="0.974"> of </Word>
+<Word stime="14.05" dur="0.27" conf="0.974"> money </Word>
+<Word stime="14.32" dur="0.00" conf="0.748"> . </Word>
+<Word stime="14.32" dur="0.44" conf="0.974"> Doctors </Word>
+<Word stime="14.76" dur="0.12" conf="0.974"> are </Word>
+<Word stime="14.88" dur="0.47" conf="0.974"> reimbursed </Word>
+<Word stime="15.46" dur="0.10" conf="0.901"> for </Word>
+<Word stime="15.65" dur="0.27" conf="0.974"> chemo </Word>
+<Word stime="15.92" dur="0.34" conf="0.893"> drugs </Word>
+<Word stime="16.60" dur="0.08" conf="0.477"> it </Word>
+<Word stime="16.60" dur="0.08" conf="0.222"> there </Word>
+<Word stime="16.70" dur="0.15" conf="0.974"> was </Word>
+<Word stime="16.85" dur="0.45" conf="0.863"> concerned </Word>
+<Word stime="17.40" dur="0.26" conf="0.729"> patients </Word>
+<Word stime="17.81" dur="0.12" conf="0.567"> would </Word>
+<Word stime="17.81" dur="0.12" conf="0.178"> will </Word>
+<Word stime="17.97" dur="0.14" conf="0.971"> pay </Word>
+<Word stime="18.11" dur="0.14" conf="0.973"> the </Word>
+<Word stime="18.25" dur="0.33" conf="0.772"> price </Word>
+<Word stime="18.92" dur="0.11" conf="0.612"> if </Word>
+<Word stime="19.11" dur="0.36" conf="0.973"> private </Word>
+<Word stime="19.47" dur="0.74" conf="0.968"> oncology </Word>
+<Word stime="20.21" dur="0.32" conf="0.390"> offices </Word>
+<Word stime="20.21" dur="0.32" conf="0.246"> office </Word>
+<Word stime="20.76" dur="0.31" conf="0.969"> needed </Word>
+<Word stime="21.09" dur="0.09" conf="0.971"> to </Word>
+<Word stime="21.32" dur="0.57" conf="0.956"> close </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="21.93" etime="34.62" spkid="FS2" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="22.13" dur="0.24" conf="0.983"> there </Word>
+<Word stime="22.37" dur="0.17" conf="0.983"> were </Word>
+<Word stime="22.54" dur="0.12" conf="0.983"> a </Word>
+<Word stime="22.66" dur="0.46" conf="0.983"> lot </Word>
+<Word stime="23.12" dur="0.12" conf="0.983"> of </Word>
+<Word stime="23.39" dur="0.62" conf="0.983"> concerns </Word>
+<Word stime="24.01" dur="0.28" conf="0.944"> when </Word>
+<Word stime="24.72" dur="0.11" conf="0.982"> the </Word>
+<Word stime="24.83" dur="0.41" conf="0.983"> Medicare </Word>
+<Word stime="25.24" dur="0.78" conf="0.983"> Modernization </Word>
+<Word stime="26.02" dur="0.25" conf="0.983"> Act </Word>
+<Word stime="26.32" dur="0.15" conf="0.983"> was </Word>
+<Word stime="26.50" dur="0.63" conf="0.983"> passed </Word>
+<Word stime="27.17" dur="0.29" conf="0.983"> that </Word>
+<Word stime="27.53" dur="0.31" conf="0.983"> this </Word>
+<Word stime="27.84" dur="0.16" conf="0.841"> would </Word>
+<Word stime="28.04" dur="0.35" conf="0.983"> really </Word>
+<Word stime="28.39" dur="0.43" conf="0.983"> have </Word>
+<Word stime="29.08" dur="0.18" conf="0.983"> an </Word>
+<Word stime="29.26" dur="0.50" conf="0.983"> adverse </Word>
+<Word stime="29.76" dur="0.52" conf="0.665"> effect </Word>
+<Word stime="29.76" dur="0.52" conf="0.140"> affect </Word>
+<Word stime="30.31" dur="0.23" conf="0.983"> on </Word>
+<Word stime="30.54" dur="0.43" conf="0.982"> access </Word>
+<Word stime="30.97" dur="0.10" conf="0.983"> to </Word>
+<Word stime="31.19" dur="0.37" conf="0.982"> cancer </Word>
+<Word stime="31.65" dur="0.41" conf="0.983"> care </Word>
+<Word stime="32.13" dur="0.30" conf="0.976"> for </Word>
+<Word stime="32.43" dur="0.47" conf="0.983"> patients </Word>
+<Word stime="32.93" dur="0.14" conf="0.982"> were </Word>
+<Word stime="33.07" dur="0.51" conf="0.983"> undergoing </Word>
+<Word stime="33.74" dur="0.65" conf="0.983"> chemotherapy </Word>
+<Word stime="34.39" dur="0.00" conf="0.495"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="34.62" etime="55.87" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="34.62" dur="0.41" conf="0.952"> Dr. </Word>
+<Word stime="35.03" dur="0.00" conf="0.810"> . </Word>
+<Word stime="35.03" dur="0.36" conf="0.917"> Lesley </Word>
+<Word stime="35.39" dur="0.40" conf="0.971"> Curtis </Word>
+<Word stime="35.79" dur="0.16" conf="0.980"> with </Word>
+<Word stime="35.95" dur="0.22" conf="0.980"> Duke </Word>
+<Word stime="36.26" dur="0.49" conf="0.980"> University </Word>
+<Word stime="36.75" dur="0.43" conf="0.980"> Medical </Word>
+<Word stime="37.18" dur="0.30" conf="0.976"> Center </Word>
+<Word stime="37.71" dur="0.15" conf="0.976"> led </Word>
+<Word stime="37.86" dur="0.06" conf="0.979"> a </Word>
+<Word stime="37.97" dur="0.20" conf="0.980"> team </Word>
+<Word stime="38.20" dur="0.10" conf="0.980"> of </Word>
+<Word stime="38.30" dur="0.71" conf="0.980"> researchers </Word>
+<Word stime="39.05" dur="0.15" conf="0.980"> who </Word>
+<Word stime="39.20" dur="0.55" conf="0.974"> analyzed </Word>
+<Word stime="39.75" dur="0.23" conf="0.980"> about </Word>
+<Word stime="39.98" dur="0.65" conf="0.980"> 20000 </Word>
+<Word stime="40.71" dur="0.49" conf="0.980"> Medicare </Word>
+<Word stime="41.20" dur="0.39" conf="0.980"> claims </Word>
+<Word stime="41.59" dur="0.19" conf="0.980"> from </Word>
+<Word stime="41.78" dur="0.91" conf="0.980"> 2003 </Word>
+<Word stime="42.84" dur="0.13" conf="0.980"> to </Word>
+<Word stime="42.97" dur="1.25" conf="0.980"> 2006 </Word>
+<Word stime="44.30" dur="0.00" conf="0.463"> . </Word>
+<Word stime="44.30" dur="0.55" conf="0.980"> Researchers </Word>
+<Word stime="44.85" dur="0.28" conf="0.980"> looked </Word>
+<Word stime="45.13" dur="0.09" conf="0.968"> at </Word>
+<Word stime="45.22" dur="0.17" conf="0.980"> how </Word>
+<Word stime="45.46" dur="0.28" conf="0.980"> long </Word>
+<Word stime="45.83" dur="0.34" conf="0.980"> patients </Word>
+<Word stime="46.17" dur="0.26" conf="0.980"> waited </Word>
+<Word stime="46.50" dur="0.10" conf="0.980"> for </Word>
+<Word stime="46.60" dur="0.13" conf="0.961"> their </Word>
+<Word stime="46.73" dur="0.29" conf="0.980"> first </Word>
+<Word stime="47.02" dur="0.29" conf="0.980"> chemo </Word>
+<Word stime="47.31" dur="0.38" conf="0.956"> treatment </Word>
+<Word stime="47.80" dur="0.23" conf="0.980"> after </Word>
+<Word stime="48.09" dur="0.78" conf="0.980"> diagnosis </Word>
+<Word stime="48.87" dur="0.25" conf="0.792"> , </Word>
+<Word stime="49.12" dur="0.11" conf="0.980"> and </Word>
+<Word stime="49.23" dur="0.18" conf="0.980"> how </Word>
+<Word stime="49.48" dur="0.29" conf="0.980"> far </Word>
+<Word stime="49.77" dur="0.12" conf="0.980"> they </Word>
+<Word stime="49.89" dur="0.18" conf="0.939"> had </Word>
+<Word stime="50.07" dur="0.07" conf="0.979"> to </Word>
+<Word stime="50.23" dur="0.35" conf="0.980"> travel </Word>
+<Word stime="50.62" dur="0.14" conf="0.980"> for </Word>
+<Word stime="50.76" dur="0.39" conf="0.976"> care </Word>
+<Word stime="51.15" dur="0.32" conf="0.753"> . </Word>
+<Word stime="51.47" dur="0.10" conf="0.973"> They </Word>
+<Word stime="51.57" dur="0.37" conf="0.871"> compared </Word>
+<Word stime="52.03" dur="0.32" conf="0.972"> data </Word>
+<Word stime="52.48" dur="0.19" conf="0.980"> from </Word>
+<Word stime="52.75" dur="0.33" conf="0.971"> before </Word>
+<Word stime="53.19" dur="0.69" conf="0.980"> reimbursement </Word>
+<Word stime="53.88" dur="0.40" conf="0.980"> changes </Word>
+<Word stime="54.31" dur="0.12" conf="0.539"> took </Word>
+<Word stime="54.31" dur="0.12" conf="0.229"> to </Word>
+<Word stime="54.46" dur="0.18" conf="0.523"> effect </Word>
+<Word stime="55.16" dur="0.15" conf="0.870"> to </Word>
+<Word stime="55.35" dur="0.38" conf="0.976"> after </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="55.87" etime="63.07" spkid="FS2" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="56.17" dur="0.19" conf="0.983"> what </Word>
+<Word stime="56.38" dur="0.10" conf="0.968"> we </Word>
+<Word stime="56.48" dur="0.41" conf="0.983"> found </Word>
+<Word stime="56.89" dur="0.14" conf="0.983"> is </Word>
+<Word stime="57.03" dur="0.17" conf="0.982"> that </Word>
+<Word stime="57.20" dur="0.00" conf="0.727"> , </Word>
+<Word stime="57.20" dur="0.11" conf="0.981"> at </Word>
+<Word stime="57.31" dur="0.21" conf="0.982"> least </Word>
+<Word stime="57.57" dur="0.17" conf="0.927"> by </Word>
+<Word stime="57.74" dur="0.25" conf="0.983"> these </Word>
+<Word stime="57.99" dur="0.21" conf="0.982"> two </Word>
+<Word stime="58.20" dur="0.58" conf="0.982"> measures </Word>
+<Word stime="58.78" dur="0.30" conf="0.396"> . </Word>
+<Word stime="59.08" dur="0.47" conf="0.975"> Patients </Word>
+<Word stime="59.55" dur="0.16" conf="0.978"> have </Word>
+<Word stime="59.77" dur="0.23" conf="0.982"> not </Word>
+<Word stime="60.04" dur="0.15" conf="0.983"> been </Word>
+<Word stime="60.19" dur="0.52" conf="0.983"> adversely </Word>
+<Word stime="60.71" dur="0.50" conf="0.980"> affected </Word>
+<Word stime="61.21" dur="0.15" conf="0.387"> . </Word>
+<Word stime="61.36" dur="0.12" conf="0.982"> And </Word>
+<Word stime="61.48" dur="0.32" conf="0.982"> that's </Word>
+<Word stime="61.84" dur="0.18" conf="0.982"> that's </Word>
+<Word stime="62.02" dur="0.33" conf="0.982"> really </Word>
+<Word stime="62.39" dur="0.15" conf="0.982"> good </Word>
+<Word stime="62.54" dur="0.47" conf="0.983"> news </Word>
+<Word stime="63.01" dur="0.00" conf="0.489"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="63.07" etime="77.51" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="63.25" dur="0.19" conf="0.974"> In </Word>
+<Word stime="63.44" dur="0.75" conf="0.767"> 2003 </Word>
+<Word stime="64.39" dur="0.41" conf="0.769"> patients </Word>
+<Word stime="64.85" dur="0.20" conf="0.973"> on </Word>
+<Word stime="65.05" dur="0.41" conf="0.974"> average </Word>
+<Word stime="65.56" dur="0.22" conf="0.291"> waited </Word>
+<Word stime="65.56" dur="0.22" conf="0.240"> weighted </Word>
+<Word stime="65.78" dur="0.68" conf="0.974"> 28 </Word>
+<Word stime="66.46" dur="0.26" conf="0.972"> days </Word>
+<Word stime="66.74" dur="0.10" conf="0.973"> for </Word>
+<Word stime="66.84" dur="0.13" conf="0.548"> their </Word>
+<Word stime="66.84" dur="0.13" conf="0.210"> the </Word>
+<Word stime="67.02" dur="0.22" conf="0.974"> first </Word>
+<Word stime="67.30" dur="0.22" conf="0.969"> chemo </Word>
+<Word stime="67.52" dur="0.43" conf="0.938"> session </Word>
+<Word stime="68.17" dur="0.12" conf="0.955"> and </Word>
+<Word stime="68.29" dur="0.43" conf="0.974"> traveled </Word>
+<Word stime="68.72" dur="0.25" conf="0.974"> about </Word>
+<Word stime="68.97" dur="0.30" conf="0.974"> 7 </Word>
+<Word stime="69.27" dur="0.35" conf="0.974"> miles </Word>
+<Word stime="69.62" dur="0.11" conf="0.973"> for </Word>
+<Word stime="69.73" dur="0.31" conf="0.959"> care </Word>
+<Word stime="70.04" dur="0.39" conf="0.874"> , </Word>
+<Word stime="70.43" dur="0.54" conf="0.974"> researchers </Word>
+<Word stime="71.03" dur="0.23" conf="0.974"> found </Word>
+<Word stime="71.26" dur="0.00" conf="0.677"> . </Word>
+<Word stime="71.26" dur="0.09" conf="0.973"> In </Word>
+<Word stime="71.35" dur="1.05" conf="0.973"> 2006 </Word>
+<Word stime="72.40" dur="0.35" conf="0.971"> average </Word>
+<Word stime="72.75" dur="0.22" conf="0.962"> wait </Word>
+<Word stime="73.04" dur="0.26" conf="0.973"> times </Word>
+<Word stime="73.37" dur="0.29" conf="0.420"> remain </Word>
+<Word stime="73.37" dur="0.29" conf="0.315"> remained </Word>
+<Word stime="73.66" dur="0.09" conf="0.973"> the </Word>
+<Word stime="73.75" dur="0.30" conf="0.969"> same </Word>
+<Word stime="74.20" dur="0.10" conf="0.846"> and </Word>
+<Word stime="74.30" dur="0.40" conf="0.906"> travel </Word>
+<Word stime="74.70" dur="0.29" conf="0.544"> distance </Word>
+<Word stime="74.70" dur="0.29" conf="0.183"> dissidents </Word>
+<Word stime="75.18" dur="0.15" conf="0.970"> had </Word>
+<Word stime="75.33" dur="0.39" conf="0.974"> only </Word>
+<Word stime="75.72" dur="0.48" conf="0.971"> increased </Word>
+<Word stime="76.32" dur="0.21" conf="0.974"> by </Word>
+<Word stime="76.53" dur="0.29" conf="0.974"> about </Word>
+<Word stime="76.82" dur="0.25" conf="0.974"> one </Word>
+<Word stime="77.07" dur="0.40" conf="0.974"> mile </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="77.51" etime="86.39" spkid="FS2" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="77.72" dur="0.56" conf="0.978"> Haitians </Word>
+<Word stime="78.40" dur="0.22" conf="0.977"> are </Word>
+<Word stime="78.62" dur="0.45" conf="0.977"> getting </Word>
+<Word stime="79.43" dur="0.49" conf="0.976"> care </Word>
+<Word stime="80.07" dur="0.20" conf="0.978"> as </Word>
+<Word stime="80.32" dur="0.30" conf="0.978"> close </Word>
+<Word stime="80.62" dur="0.08" conf="0.978"> to </Word>
+<Word stime="80.70" dur="0.30" conf="0.973"> home </Word>
+<Word stime="81.00" dur="0.15" conf="0.971"> as </Word>
+<Word stime="81.27" dur="0.50" conf="0.978"> before </Word>
+<Word stime="81.77" dur="0.23" conf="0.245"> . </Word>
+<Word stime="82.00" dur="0.15" conf="0.978"> And </Word>
+<Word stime="82.15" dur="0.53" conf="0.978"> also </Word>
+<Word stime="82.68" dur="0.19" conf="0.531"> , </Word>
+<Word stime="82.87" dur="0.10" conf="0.266"> they're </Word>
+<Word stime="82.87" dur="0.10" conf="0.211"> there </Word>
+<Word stime="82.87" dur="0.10" conf="0.184"> they </Word>
+<Word stime="83.09" dur="0.21" conf="0.973"> getting </Word>
+<Word stime="83.36" dur="0.23" conf="0.977"> care </Word>
+<Word stime="83.65" dur="0.22" conf="0.978"> as </Word>
+<Word stime="83.87" dur="0.56" conf="0.978"> soon </Word>
+<Word stime="84.43" dur="0.21" conf="0.978"> as </Word>
+<Word stime="84.67" dur="0.11" conf="0.978"> they </Word>
+<Word stime="84.78" dur="0.27" conf="0.976"> were </Word>
+<Word stime="85.10" dur="0.21" conf="0.977"> prior </Word>
+<Word stime="85.33" dur="0.06" conf="0.978"> to </Word>
+<Word stime="85.39" dur="0.09" conf="0.974"> the </Word>
+<Word stime="85.48" dur="0.77" conf="0.978"> legislation </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="86.39" etime="90.50" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="86.56" dur="0.12" conf="0.993"> the </Word>
+<Word stime="86.74" dur="0.26" conf="0.997"> study </Word>
+<Word stime="87.00" dur="0.31" conf="0.997"> appears </Word>
+<Word stime="87.31" dur="0.19" conf="0.997"> this </Word>
+<Word stime="87.50" dur="0.17" conf="0.997"> week </Word>
+<Word stime="87.67" dur="0.13" conf="0.997"> in </Word>
+<Word stime="87.80" dur="0.34" conf="0.996"> JAMA </Word>
+<Word stime="88.26" dur="0.42" conf="0.940"> Journal </Word>
+<Word stime="88.68" dur="0.09" conf="0.997"> of </Word>
+<Word stime="88.77" dur="0.12" conf="0.997"> the </Word>
+<Word stime="88.89" dur="0.37" conf="0.997"> American </Word>
+<Word stime="89.26" dur="0.34" conf="0.997"> Medical </Word>
+<Word stime="89.60" dur="0.85" conf="0.997"> Association </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="90.50" etime="97.72" spkid="FS2" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="90.65" dur="0.28" conf="0.988"> what's </Word>
+<Word stime="90.93" dur="0.29" conf="0.988"> not </Word>
+<Word stime="91.29" dur="0.46" conf="0.988"> clear </Word>
+<Word stime="91.80" dur="0.21" conf="0.988"> is </Word>
+<Word stime="92.01" dur="0.38" conf="0.988"> whether </Word>
+<Word stime="92.39" dur="0.03" conf="0.988"> or </Word>
+<Word stime="92.42" dur="0.41" conf="0.988"> not </Word>
+<Word stime="93.18" dur="0.29" conf="0.988"> this </Word>
+<Word stime="93.47" dur="0.12" conf="0.908"> would </Word>
+<Word stime="93.59" dur="0.12" conf="0.892"> have </Word>
+<Word stime="93.83" dur="0.49" conf="0.977"> minimal </Word>
+<Word stime="94.53" dur="0.30" conf="0.972"> no </Word>
+<Word stime="94.83" dur="0.51" conf="0.983"> change </Word>
+<Word stime="95.34" dur="0.18" conf="0.988"> that </Word>
+<Word stime="95.52" dur="0.13" conf="0.988"> we're </Word>
+<Word stime="95.65" dur="0.38" conf="0.988"> seeing </Word>
+<Word stime="96.03" dur="0.30" conf="0.988"> now </Word>
+<Word stime="96.33" dur="0.13" conf="0.988"> will </Word>
+<Word stime="96.49" dur="0.47" conf="0.988"> persist </Word>
+<Word stime="97.00" dur="0.18" conf="0.980"> over </Word>
+<Word stime="97.18" dur="0.49" conf="0.980"> time </Word>
+<Word stime="97.67" dur="0.00" conf="0.527"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="97.72" etime="113.11" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="97.72" dur="0.62" conf="0.974"> Researchers </Word>
+<Word stime="98.38" dur="0.17" conf="0.975"> say </Word>
+<Word stime="98.55" dur="0.12" conf="0.500"> is </Word>
+<Word stime="98.55" dur="0.12" conf="0.189"> as </Word>
+<Word stime="98.71" dur="0.18" conf="0.977"> more </Word>
+<Word stime="98.92" dur="0.34" conf="0.977"> people </Word>
+<Word stime="99.26" dur="0.13" conf="0.977"> are </Word>
+<Word stime="99.39" dur="0.51" conf="0.977"> diagnosed </Word>
+<Word stime="100.02" dur="0.12" conf="0.977"> with </Word>
+<Word stime="100.24" dur="0.44" conf="0.977"> cancer </Word>
+<Word stime="100.68" dur="0.21" conf="0.795"> . </Word>
+<Word stime="100.89" dur="0.09" conf="0.977"> It </Word>
+<Word stime="100.98" dur="0.14" conf="0.956"> will </Word>
+<Word stime="101.14" dur="0.09" conf="0.977"> be </Word>
+<Word stime="101.23" dur="0.59" conf="0.977"> important </Word>
+<Word stime="101.82" dur="0.12" conf="0.974"> to </Word>
+<Word stime="102.02" dur="0.42" conf="0.977"> continue </Word>
+<Word stime="102.44" dur="0.13" conf="0.977"> to </Word>
+<Word stime="102.57" dur="0.48" conf="0.977"> monitor </Word>
+<Word stime="103.16" dur="0.44" conf="0.975"> major </Word>
+<Word stime="103.70" dur="0.42" conf="0.977"> policy </Word>
+<Word stime="104.12" dur="0.42" conf="0.977"> changes </Word>
+<Word stime="104.57" dur="0.10" conf="0.977"> to </Word>
+<Word stime="104.67" dur="0.51" conf="0.977"> Medicare </Word>
+<Word stime="105.43" dur="0.18" conf="0.977"> to </Word>
+<Word stime="105.61" dur="0.40" conf="0.976"> ensure </Word>
+<Word stime="106.11" dur="0.39" conf="0.977"> patients </Word>
+<Word stime="106.50" dur="0.15" conf="0.977"> are </Word>
+<Word stime="106.65" dur="0.21" conf="0.977"> able </Word>
+<Word stime="106.86" dur="0.14" conf="0.977"> to </Word>
+<Word stime="107.00" dur="0.43" conf="0.977"> receive </Word>
+<Word stime="107.45" dur="0.07" conf="0.977"> the </Word>
+<Word stime="107.52" dur="0.25" conf="0.977"> care </Word>
+<Word stime="107.77" dur="0.15" conf="0.977"> they </Word>
+<Word stime="107.92" dur="0.32" conf="0.977"> need </Word>
+<Word stime="108.65" dur="0.39" conf="0.977"> close </Word>
+<Word stime="109.06" dur="0.10" conf="0.977"> to </Word>
+<Word stime="109.16" dur="0.42" conf="0.977"> home </Word>
+<Word stime="109.87" dur="0.20" conf="0.977"> and </Word>
+<Word stime="110.07" dur="0.41" conf="0.977"> without </Word>
+<Word stime="110.59" dur="0.40" conf="0.977"> delay </Word>
+<Word stime="110.99" dur="0.46" conf="0.680"> . </Word>
+<Word stime="111.45" dur="0.39" conf="0.977"> Jennifer </Word>
+<Word stime="111.84" dur="0.41" conf="0.977"> Mitchell </Word>
+<Word stime="112.25" dur="0.03" conf="0.545"> . </Word>
+<Word stime="112.28" dur="0.10" conf="0.938"> The </Word>
+<Word stime="112.45" dur="0.26" conf="0.917"> JAMA </Word>
+<Word stime="112.79" dur="0.32" conf="0.976"> report </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="115.52" etime="128.81" spkid="FS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="115.52" dur="13.24" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

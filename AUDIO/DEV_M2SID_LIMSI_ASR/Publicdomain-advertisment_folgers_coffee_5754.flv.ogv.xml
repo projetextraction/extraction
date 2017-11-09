@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Publicdomain-advertisment_folgers_coffee_5754.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Publicdomain-advertisment_folgers_coffee_5754.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="60.99" spdur="54.69" nw="130" tconf="0.67"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="36.98" gender="2" spkid="FT1" lang="eng-usa" lconf="1.00" nw="89" tconf="0.65"/>
+<Speaker ch="1" dur="13.21" gender="1" spkid="MT1" lang="eng-usa" lconf="1.00" nw="32" tconf="0.74"/>
+<Speaker ch="1" dur="4.50" gender="1" spkid="MS1" lang="eng-usa" lconf="1.00" nw="9" tconf="0.70"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="2.31" etime="6.81" spkid="MS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="2.61" dur="0.22" conf="0.964"> {fw} </Word>
+<Word stime="2.83" dur="0.61" conf="0.820"> , </Word>
+<Word stime="3.44" dur="0.25" conf="0.257"> great </Word>
+<Word stime="3.44" dur="0.25" conf="0.148"> really </Word>
+<Word stime="3.44" dur="0.25" conf="0.111"> real </Word>
+<Word stime="3.73" dur="0.19" conf="0.527"> world </Word>
+<Word stime="4.05" dur="0.14" conf="0.193"> now </Word>
+<Word stime="4.49" dur="0.21" conf="0.929"> out </Word>
+<Word stime="4.70" dur="0.09" conf="0.686"> and </Word>
+<Word stime="5.32" dur="0.40" conf="0.947"> nothing </Word>
+<Word stime="6.34" dur="0.43" conf="0.966"> well </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="7.61" etime="44.59" spkid="FT1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="7.61" dur="0.15" conf="0.483"> if </Word>
+<Word stime="7.61" dur="0.15" conf="0.149"> it's </Word>
+<Word stime="7.80" dur="0.10" conf="0.347"> you're </Word>
+<Word stime="7.80" dur="0.10" conf="0.339"> your </Word>
+<Word stime="8.04" dur="0.21" conf="0.374"> cost </Word>
+<Word stime="8.04" dur="0.21" conf="0.254"> caught </Word>
+<Word stime="8.98" dur="0.07" conf="0.477"> the </Word>
+<Word stime="8.98" dur="0.07" conf="0.121"> this </Word>
+<Word stime="9.18" dur="0.21" conf="0.163"> one </Word>
+<Word stime="9.18" dur="0.21" conf="0.111"> morning </Word>
+<Word stime="9.83" dur="0.24" conf="0.509"> you </Word>
+<Word stime="9.83" dur="0.24" conf="0.199"> he </Word>
+<Word stime="10.28" dur="0.15" conf="0.535"> can't </Word>
+<Word stime="10.28" dur="0.15" conf="0.129"> to </Word>
+<Word stime="10.43" dur="0.40" conf="0.813"> dial </Word>
+<Word stime="11.30" dur="0.54" conf="0.877"> honey </Word>
+<Word stime="12.25" dur="0.19" conf="0.609"> your </Word>
+<Word stime="12.25" dur="0.19" conf="0.143"> you're </Word>
+<Word stime="12.52" dur="0.30" conf="0.852"> coffee </Word>
+<Word stime="12.82" dur="0.24" conf="0.803"> just </Word>
+<Word stime="13.15" dur="0.29" conf="0.961"> doesn't </Word>
+<Word stime="13.51" dur="0.29" conf="0.956"> taste </Word>
+<Word stime="13.86" dur="0.13" conf="0.429"> any </Word>
+<Word stime="14.05" dur="0.25" conf="0.437"> good </Word>
+<Word stime="14.05" dur="0.25" conf="0.179"> angle </Word>
+<Word stime="15.21" dur="0.29" conf="0.793"> Mr </Word>
+<Word stime="15.50" dur="0.00" conf="0.701"> . </Word>
+<Word stime="15.50" dur="0.49" conf="0.961"> McGregor </Word>
+<Word stime="16.32" dur="0.08" conf="0.380"> were </Word>
+<Word stime="16.48" dur="0.29" conf="0.510"> thrown </Word>
+<Word stime="16.48" dur="0.29" conf="0.148"> wrong </Word>
+<Word stime="16.77" dur="0.17" conf="0.491"> to </Word>
+<Word stime="17.00" dur="0.24" conf="0.415"> him </Word>
+<Word stime="17.63" dur="0.21" conf="0.382"> right </Word>
+<Word stime="17.63" dur="0.21" conf="0.312"> might </Word>
+<Word stime="18.11" dur="0.17" conf="0.409"> or </Word>
+<Word stime="18.11" dur="0.17" conf="0.310"> well </Word>
+<Word stime="18.36" dur="0.20" conf="0.910"> be </Word>
+<Word stime="18.56" dur="0.09" conf="0.483"> it </Word>
+<Word stime="18.56" dur="0.09" conf="0.208"> a </Word>
+<Word stime="18.65" dur="0.29" conf="0.529"> just </Word>
+<Word stime="19.05" dur="0.21" conf="0.959"> isn't </Word>
+<Word stime="19.26" dur="0.24" conf="0.960"> any </Word>
+<Word stime="19.50" dur="0.28" conf="0.949"> good </Word>
+<Word stime="20.46" dur="0.10" conf="0.933"> and </Word>
+<Word stime="20.58" dur="0.08" conf="0.378"> on </Word>
+<Word stime="20.58" dur="0.08" conf="0.170"> I </Word>
+<Word stime="20.69" dur="0.19" conf="0.913"> my </Word>
+<Word stime="21.44" dur="0.41" conf="0.886"> anniversary </Word>
+<Word stime="21.85" dur="0.14" conf="0.758"> . </Word>
+<Word stime="21.99" dur="0.35" conf="0.764"> No </Word>
+<Word stime="22.34" dur="0.07" conf="0.985"> , </Word>
+<Word stime="22.41" dur="0.20" conf="0.377"> no </Word>
+<Word stime="22.41" dur="0.20" conf="0.371"> well </Word>
+<Word stime="22.61" dur="0.00" conf="0.913"> , </Word>
+<Word stime="22.61" dur="0.15" conf="0.956"> I </Word>
+<Word stime="22.80" dur="0.15" conf="0.958"> think </Word>
+<Word stime="22.95" dur="0.08" conf="0.914"> you </Word>
+<Word stime="23.05" dur="0.18" conf="0.912"> should </Word>
+<Word stime="23.29" dur="0.28" conf="0.860"> try </Word>
+<Word stime="23.63" dur="0.24" conf="0.945"> new </Word>
+<Word stime="23.96" dur="0.27" conf="0.915"> instant </Word>
+<Word stime="24.35" dur="0.31" conf="0.421"> or </Word>
+<Word stime="24.35" dur="0.31" conf="0.244"> Folger's </Word>
+<Word stime="24.84" dur="0.35" conf="0.944"> instant </Word>
+<Word stime="25.32" dur="0.23" conf="0.223"> all </Word>
+<Word stime="25.32" dur="0.23" conf="0.184"> Aldridge </Word>
+<Word stime="26.08" dur="0.13" conf="0.428"> all </Word>
+<Word stime="26.76" dur="0.23" conf="0.282"> my </Word>
+<Word stime="26.76" dur="0.23" conf="0.181"> might </Word>
+<Word stime="27.24" dur="0.16" conf="0.335"> fear </Word>
+<Word stime="27.24" dur="0.16" conf="0.147"> a </Word>
+<Word stime="27.76" dur="0.32" conf="0.854"> new </Word>
+<Word stime="28.42" dur="0.11" conf="0.378"> instant </Word>
+<Word stime="28.55" dur="0.33" conf="0.552"> soldiers </Word>
+<Word stime="28.55" dur="0.33" conf="0.109"> Folger's </Word>
+<Word stime="29.35" dur="0.29" conf="0.596"> days </Word>
+<Word stime="29.82" dur="0.30" conf="0.956"> instant </Word>
+<Word stime="30.12" dur="0.30" conf="0.940"> Folger's </Word>
+<Word stime="30.60" dur="0.28" conf="0.902"> taste </Word>
+<Word stime="30.94" dur="0.22" conf="0.941"> good </Word>
+<Word stime="31.16" dur="0.05" conf="0.939"> . </Word>
+<Word stime="31.21" dur="0.02" conf="0.456"> A </Word>
+<Word stime="31.42" dur="0.25" conf="0.420"> British </Word>
+<Word stime="31.42" dur="0.25" conf="0.227"> fresh </Word>
+<Word stime="31.76" dur="0.19" conf="0.534"> court </Word>
+<Word stime="32.68" dur="0.05" conf="0.315"> because </Word>
+<Word stime="32.73" dur="0.06" conf="0.247"> of </Word>
+<Word stime="32.87" dur="0.18" conf="0.428"> made </Word>
+<Word stime="32.87" dur="0.18" conf="0.110"> May </Word>
+<Word stime="32.87" dur="0.18" conf="0.101"> great </Word>
+<Word stime="33.09" dur="0.15" conf="0.898"> from </Word>
+<Word stime="33.28" dur="0.25" conf="0.375"> fresh </Word>
+<Word stime="33.28" dur="0.25" conf="0.337"> Frankfurt </Word>
+<Word stime="33.91" dur="0.33" conf="0.597"> profit </Word>
+<Word stime="34.73" dur="0.12" conf="0.411"> the </Word>
+<Word stime="35.04" dur="0.24" conf="0.565"> preferred </Word>
+<Word stime="35.04" dur="0.24" conf="0.154"> prospered </Word>
+<Word stime="35.52" dur="0.22" conf="0.366"> concrete </Word>
+<Word stime="35.52" dur="0.22" conf="0.346"> probably </Word>
+<Word stime="36.28" dur="0.22" conf="0.253"> returned </Word>
+<Word stime="36.55" dur="0.12" conf="0.755"> in </Word>
+<Word stime="36.68" dur="0.05" conf="0.914"> a </Word>
+<Word stime="36.79" dur="0.23" conf="0.954"> new </Word>
+<Word stime="37.11" dur="0.38" conf="0.946"> instant </Word>
+<Word stime="37.49" dur="0.44" conf="0.915"> Folger's </Word>
+<Word stime="38.51" dur="0.23" conf="0.507"> case </Word>
+<Word stime="38.99" dur="0.17" conf="0.379"> but </Word>
+<Word stime="39.69" dur="0.17" conf="0.363"> part </Word>
+<Word stime="39.69" dur="0.17" conf="0.158"> approach </Word>
+<Word stime="39.97" dur="0.22" conf="0.947"> because </Word>
+<Word stime="41.44" dur="0.25" conf="0.767"> fresh </Word>
+<Word stime="41.81" dur="0.19" conf="0.479"> where </Word>
+<Word stime="42.29" dur="0.12" conf="0.412"> I </Word>
+<Word stime="42.29" dur="0.12" conf="0.166"> like </Word>
+<Word stime="42.29" dur="0.12" conf="0.105"> are </Word>
+<Word stime="42.89" dur="0.19" conf="0.321"> Democrat </Word>
+<Word stime="42.89" dur="0.19" conf="0.200"> Mr </Word>
+<Word stime="42.89" dur="0.19" conf="0.103"> Democrats </Word>
+<Word stime="44.04" dur="0.25" conf="0.488"> out </Word>
+<Word stime="44.04" dur="0.25" conf="0.245"> how </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="46.40" etime="59.61" spkid="MT1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="46.40" dur="0.54" conf="0.970"> wonderful </Word>
+<Word stime="46.94" dur="0.42" conf="0.922"> anniversary </Word>
+<Word stime="47.53" dur="0.31" conf="0.277"> darling </Word>
+<Word stime="47.53" dur="0.31" conf="0.238"> dying </Word>
+<Word stime="47.84" dur="0.12" conf="0.964"> in </Word>
+<Word stime="47.99" dur="0.34" conf="0.971"> every </Word>
+<Word stime="48.33" dur="0.35" conf="0.971"> way </Word>
+<Word stime="48.96" dur="0.21" conf="0.492"> he </Word>
+<Word stime="48.96" dur="0.21" conf="0.130"> hidden </Word>
+<Word stime="49.25" dur="0.12" conf="0.389"> can </Word>
+<Word stime="49.47" dur="0.40" conf="0.364"> accomplish </Word>
+<Word stime="49.47" dur="0.40" conf="0.309"> copy </Word>
+<Word stime="50.10" dur="0.16" conf="0.560"> it </Word>
+<Word stime="50.10" dur="0.16" conf="0.148"> if </Word>
+<Word stime="50.26" dur="0.79" conf="0.476"> . </Word>
+<Word stime="51.05" dur="0.27" conf="0.869"> Our </Word>
+<Word stime="51.45" dur="0.19" conf="0.843"> kids </Word>
+<Word stime="51.92" dur="0.41" conf="0.283"> played </Word>
+<Word stime="51.92" dur="0.41" conf="0.249"> play </Word>
+<Word stime="52.54" dur="0.18" conf="0.927"> good </Word>
+<Word stime="52.97" dur="0.27" conf="0.604"> defense </Word>
+<Word stime="53.24" dur="0.96" conf="0.826"> . </Word>
+<Word stime="54.20" dur="0.18" conf="0.957"> I </Word>
+<Word stime="54.38" dur="0.29" conf="0.958"> like </Word>
+<Word stime="54.67" dur="0.16" conf="0.907"> it </Word>
+<Word stime="54.83" dur="0.92" conf="0.618"> . </Word>
+<Word stime="55.75" dur="0.24" conf="0.581"> New </Word>
+<Word stime="55.75" dur="0.24" conf="0.137"> you </Word>
+<Word stime="56.05" dur="0.40" conf="0.969"> instant </Word>
+<Word stime="56.57" dur="0.46" conf="0.971"> Folger's </Word>
+<Word stime="57.07" dur="0.28" conf="0.969"> taste </Word>
+<Word stime="57.42" dur="0.24" conf="0.971"> good </Word>
+<Word stime="57.66" dur="0.17" conf="0.895"> as </Word>
+<Word stime="57.83" dur="0.24" conf="0.391"> fresh </Word>
+<Word stime="57.83" dur="0.24" conf="0.269"> French </Word>
+<Word stime="58.17" dur="0.29" conf="0.405"> bird </Word>
+<Word stime="58.55" dur="0.44" conf="0.970"> because </Word>
+<Word stime="58.99" dur="0.09" conf="0.617"> it </Word>
+<Word stime="59.20" dur="0.34" conf="0.712"> is </Word>
+<Word stime="59.20" dur="0.34" conf="0.101"> you </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

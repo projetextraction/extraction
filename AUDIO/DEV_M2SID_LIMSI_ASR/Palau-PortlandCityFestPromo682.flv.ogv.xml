@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Palau-PortlandCityFestPromo682.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Palau-PortlandCityFestPromo682.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="52.89" spdur="14.08" nw="40" tconf="0.82"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="14.08" gender="1" spkid="MS1" lang="eng-usa" lconf="0.64" nw="40" tconf="0.82"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.41" etime="3.29" spkid="MS1" lang="eng-usa" lconf="0.64" trs="1">
+<Word stime="0.71" dur="0.12" conf="0.206"> And </Word>
+<Word stime="0.87" dur="0.28" conf="0.889"> Luis </Word>
+<Word stime="1.25" dur="0.41" conf="0.857"> Palau </Word>
+<Word stime="1.66" dur="0.21" conf="0.970"> and </Word>
+<Word stime="2.00" dur="0.45" conf="0.974"> welcome </Word>
+<Word stime="2.48" dur="0.12" conf="0.974"> to </Word>
+<Word stime="2.60" dur="0.15" conf="0.974"> our </Word>
+<Word stime="2.75" dur="0.50" conf="0.973"> festival </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="9.34" etime="13.56" spkid="MS1" lang="eng-usa" lconf="0.64" trs="1">
+<Word stime="9.43" dur="0.14" conf="0.650"> I </Word>
+<Word stime="9.71" dur="0.27" conf="0.591"> fabulous </Word>
+<Word stime="10.33" dur="0.28" conf="0.612"> kids </Word>
+<Word stime="10.61" dur="0.22" conf="0.217"> song </Word>
+<Word stime="11.36" dur="0.44" conf="0.970"> {fw} </Word>
+<Word stime="12.61" dur="0.45" conf="0.398"> actual </Word>
+<Word stime="12.61" dur="0.45" conf="0.310"> action </Word>
+<Word stime="13.10" dur="0.42" conf="0.940"> sports </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="17.19" etime="19.03" spkid="MS1" lang="eng-usa" lconf="0.64" trs="1">
+<Word stime="17.28" dur="0.13" conf="0.449"> had </Word>
+<Word stime="17.28" dur="0.13" conf="0.266"> and </Word>
+<Word stime="17.43" dur="0.07" conf="0.858"> a </Word>
+<Word stime="17.59" dur="0.36" conf="0.437"> massive </Word>
+<Word stime="17.59" dur="0.36" conf="0.304"> message </Word>
+<Word stime="17.95" dur="0.20" conf="0.437"> job </Word>
+<Word stime="17.95" dur="0.20" conf="0.289"> of </Word>
+<Word stime="18.27" dur="0.28" conf="0.969"> very </Word>
+<Word stime="18.55" dur="0.18" conf="0.968"> good </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="27.18" etime="32.32" spkid="MS1" lang="eng-usa" lconf="0.64" trs="1">
+<Word stime="27.18" dur="0.26" conf="0.976"> this </Word>
+<Word stime="27.44" dur="0.13" conf="0.976"> is </Word>
+<Word stime="27.59" dur="0.10" conf="0.976"> the </Word>
+<Word stime="27.69" dur="0.72" conf="0.976"> opportunity </Word>
+<Word stime="28.41" dur="0.12" conf="0.976"> of </Word>
+<Word stime="28.53" dur="0.13" conf="0.639"> our </Word>
+<Word stime="28.53" dur="0.13" conf="0.103"> my </Word>
+<Word stime="28.66" dur="0.33" conf="0.393"> lifetime </Word>
+<Word stime="28.66" dur="0.33" conf="0.329"> life </Word>
+<Word stime="29.58" dur="0.15" conf="0.976"> for </Word>
+<Word stime="29.73" dur="0.22" conf="0.970"> you </Word>
+<Word stime="29.98" dur="0.11" conf="0.976"> to </Word>
+<Word stime="30.14" dur="0.18" conf="0.976"> bring </Word>
+<Word stime="30.34" dur="0.10" conf="0.974"> the </Word>
+<Word stime="30.51" dur="0.29" conf="0.976"> people </Word>
+<Word stime="30.85" dur="0.18" conf="0.976"> you </Word>
+<Word stime="31.03" dur="0.29" conf="0.975"> love </Word>
+<Word stime="31.35" dur="0.12" conf="0.976"> to </Word>
+<Word stime="31.47" dur="0.22" conf="0.976"> hear </Word>
+<Word stime="31.69" dur="0.27" conf="0.976"> about </Word>
+<Word stime="31.96" dur="0.29" conf="0.976"> Jews </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

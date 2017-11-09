@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Eduardoquezada-QuerenciaCancionInterpretadaPorLosHnosQuezada599.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Eduardoquezada-QuerenciaCancionInterpretadaPorLosHnosQuezada599.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="352.22" spdur="19.40" nw="26" tconf="0.73"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="16.40" gender="2" spkid="FS1" lang="eng-usa" lconf="1.00" nw="21" tconf="0.76"/>
+<Speaker ch="1" dur="3.00" gender="1" spkid="MS1" lang="eng-usa" lconf="1.00" nw="5" tconf="0.60"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="100.65" etime="103.65" spkid="MS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="100.88" dur="0.15" conf="0.299"> You </Word>
+<Word stime="100.88" dur="0.15" conf="0.166"> {fw} </Word>
+<Word stime="100.88" dur="0.15" conf="0.125"> during </Word>
+<Word stime="101.15" dur="0.17" conf="0.343"> really </Word>
+<Word stime="101.15" dur="0.17" conf="0.312"> the </Word>
+<Word stime="101.74" dur="0.44" conf="0.974"> {fw} </Word>
+<Word stime="102.85" dur="0.59" conf="0.974"> {fw} </Word>
+<Word stime="103.44" dur="0.00" conf="0.433"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="306.47" etime="317.62" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="306.77" dur="1.18" conf="0.991"> {fw} </Word>
+<Word stime="307.95" dur="1.06" conf="0.771"> , </Word>
+<Word stime="309.01" dur="0.31" conf="0.987"> {fw} </Word>
+<Word stime="309.32" dur="0.89" conf="0.641"> , </Word>
+<Word stime="310.21" dur="0.27" conf="0.974"> {fw} </Word>
+<Word stime="310.48" dur="0.08" conf="0.804"> , </Word>
+<Word stime="310.56" dur="0.15" conf="0.585"> no </Word>
+<Word stime="310.56" dur="0.15" conf="0.121"> now </Word>
+<Word stime="310.71" dur="0.00" conf="0.591"> . </Word>
+<Word stime="310.71" dur="0.21" conf="0.981"> They </Word>
+<Word stime="310.92" dur="0.12" conf="0.485"> are </Word>
+<Word stime="311.04" dur="4.88" conf="0.560"> , </Word>
+<Word stime="315.92" dur="1.40" conf="0.988"> {fw} </Word>
+<Word stime="317.32" dur="0.00" conf="0.366"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="323.47" etime="324.75" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="323.77" dur="0.30" conf="0.749"> {fw} </Word>
+<Word stime="324.07" dur="0.00" conf="0.840"> , </Word>
+<Word stime="324.07" dur="0.38" conf="0.975"> {fw} </Word>
+<Word stime="324.45" dur="0.00" conf="0.392"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="345.66" etime="349.63" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="345.86" dur="0.09" conf="0.977"> {fw} </Word>
+<Word stime="345.95" dur="0.30" conf="0.726"> , </Word>
+<Word stime="346.25" dur="0.99" conf="0.976"> {fw} </Word>
+<Word stime="349.12" dur="0.21" conf="0.562"> yeah </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

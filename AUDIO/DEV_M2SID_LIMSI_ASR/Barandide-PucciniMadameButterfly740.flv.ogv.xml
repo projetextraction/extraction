@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Barandide-PucciniMadameButterfly740.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Barandide-PucciniMadameButterfly740.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="269.26" spdur="15.49"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="12.74" gender="2" spkid="FS1" lang="slo" lconf="0.16"/>
+<Speaker ch="1" dur="2.75" gender="1" spkid="MS1" lang="slo" lconf="0.16"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="82.63" etime="87.32" spkid="FS1" lang="slo" lconf="0.16"/>
+<SpeechSegment ch="1" sconf="1.00" stime="92.71" etime="95.13" spkid="FS1" lang="slo" lconf="0.16"/>
+<SpeechSegment ch="1" sconf="1.00" stime="115.18" etime="116.71" spkid="FS1" lang="slo" lconf="0.16"/>
+<SpeechSegment ch="1" sconf="1.00" stime="140.66" etime="143.41" spkid="MS1" lang="slo" lconf="0.16"/>
+<SpeechSegment ch="1" sconf="1.00" stime="148.23" etime="150.15" spkid="FS1" lang="slo" lconf="0.16"/>
+<SpeechSegment ch="1" sconf="1.00" stime="153.94" etime="156.12" spkid="FS1" lang="slo" lconf="0.16"/>
+</SegmentList>
+</AudioDoc>

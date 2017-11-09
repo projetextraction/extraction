@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Stupidfamouspeople-PaparazziVideoOfMileyCyrusAtZ100AndDeniesAutographHoun625.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Stupidfamouspeople-PaparazziVideoOfMileyCyrusAtZ100AndDeniesAutographHoun625.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.spa" version="1.2" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="35.65" spdur="24.14" nw="49" tconf="0.67"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="24.14" gender="1" spkid="MS1" lang="spa" lconf="0.45" nw="49" tconf="0.67"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="8.11" etime="32.25" spkid="MS1" lang="spa" lconf="0.45" trs="1">
+<Word stime="8.41" dur="0.19" conf="0.316"> Madrid </Word>
+<Word stime="8.41" dur="0.19" conf="0.266"> más </Word>
+<Word stime="8.41" dur="0.19" conf="0.187"> Además </Word>
+<Word stime="8.41" dur="0.19" conf="0.108"> además </Word>
+<Word stime="8.60" dur="0.17" conf="0.530"> , </Word>
+<Word stime="8.77" dur="0.14" conf="0.371"> la </Word>
+<Word stime="8.77" dur="0.14" conf="0.292"> ligera </Word>
+<Word stime="8.77" dur="0.14" conf="0.258"> será </Word>
+<Word stime="8.91" dur="0.12" conf="0.431"> abuela </Word>
+<Word stime="9.70" dur="0.19" conf="0.951"> como </Word>
+<Word stime="10.22" dur="0.17" conf="0.515"> saben </Word>
+<Word stime="10.22" dur="0.17" conf="0.225"> avenida </Word>
+<Word stime="10.22" dur="0.17" conf="0.156"> Avenida </Word>
+<Word stime="10.90" dur="0.14" conf="0.808"> donde </Word>
+<Word stime="10.90" dur="0.14" conf="0.140"> dónde </Word>
+<Word stime="11.12" dur="0.30" conf="0.912"> madre </Word>
+<Word stime="11.49" dur="0.07" conf="0.840"> y </Word>
+<Word stime="11.67" dur="0.27" conf="0.936"> abuela </Word>
+<Word stime="11.94" dur="0.84" conf="0.607"> , </Word>
+<Word stime="12.78" dur="0.09" conf="0.651"> que </Word>
+<Word stime="13.13" dur="0.23" conf="0.592"> estar </Word>
+<Word stime="13.50" dur="0.06" conf="0.425"> en </Word>
+<Word stime="13.56" dur="0.11" conf="0.706"> el </Word>
+<Word stime="13.69" dur="0.19" conf="0.775"> amor </Word>
+<Word stime="14.79" dur="0.23" conf="0.491"> Algunos </Word>
+<Word stime="14.79" dur="0.23" conf="0.374"> algunos </Word>
+<Word stime="15.16" dur="0.12" conf="0.906"> de </Word>
+<Word stime="15.64" dur="0.17" conf="0.888"> moda </Word>
+<Word stime="15.81" dur="0.17" conf="0.510"> , </Word>
+<Word stime="15.98" dur="0.38" conf="0.931"> como </Word>
+<Word stime="17.11" dur="0.19" conf="0.757"> la </Word>
+<Word stime="17.11" dur="0.19" conf="0.107"> cerca </Word>
+<Word stime="18.13" dur="0.10" conf="0.951"> de </Word>
+<Word stime="18.26" dur="0.15" conf="0.922"> la </Word>
+<Word stime="18.62" dur="0.08" conf="0.593"> que </Word>
+<Word stime="18.76" dur="0.10" conf="0.578"> es </Word>
+<Word stime="18.76" dur="0.10" conf="0.202"> del </Word>
+<Word stime="18.76" dur="0.10" conf="0.104"> el </Word>
+<Word stime="18.96" dur="0.04" conf="0.530"> y </Word>
+<Word stime="19.02" dur="0.08" conf="0.595"> de </Word>
+<Word stime="19.10" dur="0.13" conf="0.585"> lo </Word>
+<Word stime="19.10" dur="0.13" conf="0.175"> severo </Word>
+<Word stime="19.28" dur="0.22" conf="0.564"> que </Word>
+<Word stime="20.05" dur="0.17" conf="0.589"> habéis </Word>
+<Word stime="20.53" dur="0.20" conf="0.589"> quedado </Word>
+<Word stime="21.29" dur="0.21" conf="0.949"> una </Word>
+<Word stime="23.93" dur="0.14" conf="0.579"> mano </Word>
+<Word stime="23.93" dur="0.14" conf="0.153"> más </Word>
+<Word stime="24.21" dur="0.08" conf="0.629"> y </Word>
+<Word stime="24.21" dur="0.08" conf="0.162"> de </Word>
+<Word stime="24.21" dur="0.08" conf="0.106"> el </Word>
+<Word stime="24.71" dur="0.16" conf="0.769"> uno </Word>
+<Word stime="24.89" dur="0.11" conf="0.982"> en </Word>
+<Word stime="25.03" dur="0.10" conf="0.955"> el </Word>
+<Word stime="25.13" dur="0.18" conf="0.263"> mundo </Word>
+<Word stime="25.13" dur="0.18" conf="0.244"> modo </Word>
+<Word stime="25.61" dur="0.54" conf="0.982"> de </Word>
+<Word stime="26.89" dur="0.13" conf="0.319"> nuevo </Word>
+<Word stime="26.89" dur="0.13" conf="0.240"> Cieza </Word>
+<Word stime="27.12" dur="0.14" conf="0.322"> en </Word>
+<Word stime="27.12" dur="0.14" conf="0.236"> bueno </Word>
+<Word stime="27.12" dur="0.14" conf="0.208"> ordenó </Word>
+<Word stime="27.38" dur="0.09" conf="0.599"> el </Word>
+<Word stime="27.93" dur="0.22" conf="0.282"> virus </Word>
+<Word stime="27.93" dur="0.22" conf="0.236"> si </Word>
+<Word stime="27.93" dur="0.22" conf="0.231"> mil </Word>
+<Word stime="28.76" dur="0.15" conf="0.674"> no </Word>
+<Word stime="29.10" dur="0.15" conf="0.853"> se </Word>
+<Word stime="29.26" dur="0.03" conf="0.692"> ha </Word>
+<Word stime="29.69" dur="0.36" conf="0.850"> dado </Word>
+<Word stime="31.81" dur="0.14" conf="0.553"> la </Word>
+<Word stime="31.81" dur="0.14" conf="0.117"> mala </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

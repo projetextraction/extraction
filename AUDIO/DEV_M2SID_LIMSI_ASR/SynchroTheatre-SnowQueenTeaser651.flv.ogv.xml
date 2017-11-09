@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="SynchroTheatre-SnowQueenTeaser651.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/wav/dev12/SynchroTheatre-SnowQueenTeaser651.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2dn"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="30.53" spdur="1.91"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="0.96" gender="2" spkid="FS1"/>
+<Speaker ch="1" dur="0.95" gender="1" spkid="MS1"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.01" etime="0.96" spkid="MS1"/>
+<SpeechSegment ch="1" sconf="1.00" stime="26.29" etime="27.25" spkid="FS1"/>
+</SegmentList>
+</AudioDoc>

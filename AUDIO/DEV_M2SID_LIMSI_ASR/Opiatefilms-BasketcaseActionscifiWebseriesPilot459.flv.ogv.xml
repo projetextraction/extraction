@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Opiatefilms-BasketcaseActionscifiWebseriesPilot459.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Opiatefilms-BasketcaseActionscifiWebseriesPilot459.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="170.11" spdur="50.95" nw="56" tconf="0.67"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="15.32" gender="1" spkid="MS2" lang="eng-usa" lconf="0.41" nw="17" tconf="0.60"/>
+<Speaker ch="1" dur="13.45" gender="2" spkid="FS5" lang="eng-usa" lconf="0.41" nw="1" tconf="1.00"/>
+<Speaker ch="1" dur="6.02" gender="2" spkid="FS4" lang="eng-usa" lconf="0.41" nw="3" tconf="1.00"/>
+<Speaker ch="1" dur="2.80" gender="2" spkid="FS3" lang="eng-usa" lconf="0.41" nw="1" tconf="0.99"/>
+<Speaker ch="1" dur="5.79" gender="2" spkid="FS1" lang="eng-usa" lconf="0.41" nw="10" tconf="0.60"/>
+<Speaker ch="1" dur="5.75" gender="1" spkid="MS1" lang="eng-usa" lconf="0.41" nw="23" tconf="0.67"/>
+<Speaker ch="1" dur="1.82" gender="1" spkid="MS3" lang="eng-usa" lconf="0.41" nw="1" tconf="1.00"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="27.07" etime="28.09" spkid="MS1" lang="eng-usa" lconf="0.41" trs="1">
+<Word stime="27.12" dur="0.11" conf="0.493"> We </Word>
+<Word stime="27.26" dur="0.16" conf="0.184"> need </Word>
+<Word stime="27.26" dur="0.16" conf="0.162"> news </Word>
+<Word stime="27.26" dur="0.16" conf="0.145"> knew </Word>
+<Word stime="27.69" dur="0.35" conf="0.584"> alive </Word>
+<Word stime="27.69" dur="0.35" conf="0.129"> lie </Word>
+<Word stime="28.04" dur="0.00" conf="0.438"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="31.43" etime="37.96" spkid="MS2" lang="eng-usa" lconf="0.41" trs="1">
+<Word stime="31.43" dur="0.37" conf="0.962"> Jason </Word>
+<Word stime="31.83" dur="0.11" conf="0.424"> Campbell </Word>
+<Word stime="32.20" dur="0.29" conf="0.620"> one </Word>
+<Word stime="32.49" dur="0.27" conf="0.219"> sentence </Word>
+<Word stime="32.49" dur="0.27" conf="0.107"> said </Word>
+<Word stime="33.04" dur="0.23" conf="0.545"> here </Word>
+<Word stime="33.27" dur="0.12" conf="0.759"> . </Word>
+<Word stime="33.39" dur="0.20" conf="0.364"> Well </Word>
+<Word stime="33.39" dur="0.20" conf="0.123"> one </Word>
+<Word stime="33.59" dur="0.21" conf="0.943"> , </Word>
+<Word stime="33.80" dur="1.46" conf="0.932"> {fw} </Word>
+<Word stime="35.26" dur="1.36" conf="0.589"> , </Word>
+<Word stime="36.62" dur="0.11" conf="0.588"> this </Word>
+<Word stime="36.90" dur="0.25" conf="0.528"> {fw} </Word>
+<Word stime="37.27" dur="0.39" conf="0.406"> blast </Word>
+<Word stime="37.27" dur="0.39" conf="0.275"> last </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="42.95" etime="45.75" spkid="FS3" lang="eng-usa" lconf="0.41" trs="1">
+<Word stime="43.25" dur="2.20" conf="0.993"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="46.15" etime="54.94" spkid="MS2" lang="eng-usa" lconf="0.41" trs="1">
+<Word stime="46.15" dur="0.22" conf="0.950"> {fw} </Word>
+<Word stime="53.47" dur="0.24" conf="0.144"> side </Word>
+<Word stime="53.47" dur="0.24" conf="0.133"> say </Word>
+<Word stime="54.08" dur="0.15" conf="0.501"> to </Word>
+<Word stime="54.08" dur="0.15" conf="0.116"> two </Word>
+<Word stime="54.36" dur="0.28" conf="0.724"> fully </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="55.71" etime="57.53" spkid="MS3" lang="eng-usa" lconf="0.41" trs="1">
+<Word stime="55.71" dur="1.78" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="68.53" etime="69.63" spkid="FS1" lang="eng-usa" lconf="0.41" trs="1">
+<Word stime="68.83" dur="0.75" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="81.90" etime="82.53" spkid="FS1" lang="eng-usa" lconf="0.41" trs="1">
+<Word stime="82.20" dur="0.25" conf="0.581"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="82.53" etime="84.29" spkid="FS4" lang="eng-usa" lconf="0.41" trs="1">
+<Word stime="82.53" dur="1.46" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="95.51" etime="97.65" spkid="MS1" lang="eng-usa" lconf="0.41" trs="1">
+<Word stime="95.55" dur="0.10" conf="0.598"> the </Word>
+<Word stime="95.65" dur="0.29" conf="0.451"> West </Word>
+<Word stime="95.94" dur="0.89" conf="0.432"> , </Word>
+<Word stime="96.83" dur="0.12" conf="0.793"> but </Word>
+<Word stime="96.95" dur="0.12" conf="0.826"> we </Word>
+<Word stime="97.07" dur="0.35" conf="0.876"> lost </Word>
+<Word stime="97.42" dur="0.00" conf="0.284"> . </Word>
+<Word stime="97.42" dur="0.16" conf="0.684"> There </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="100.19" etime="101.24" spkid="FS1" lang="eng-usa" lconf="0.41" trs="1">
+<Word stime="100.19" dur="0.14" conf="0.278"> this </Word>
+<Word stime="100.19" dur="0.14" conf="0.130"> these </Word>
+<Word stime="100.53" dur="0.28" conf="0.346"> strikes </Word>
+<Word stime="100.53" dur="0.28" conf="0.229"> talks </Word>
+<Word stime="100.53" dur="0.28" conf="0.138"> tax </Word>
+<Word stime="100.81" dur="0.13" conf="0.249"> losses </Word>
+<Word stime="100.81" dur="0.13" conf="0.127"> like </Word>
+<Word stime="100.81" dur="0.13" conf="0.122"> to </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="106.32" etime="106.75" spkid="MS1" lang="eng-usa" lconf="0.41" trs="1">
+<Word stime="106.32" dur="0.13" conf="0.596"> we </Word>
+<Word stime="106.32" dur="0.13" conf="0.174"> we've </Word>
+<Word stime="106.48" dur="0.20" conf="0.975"> got </Word>
+<Word stime="106.68" dur="0.03" conf="0.975"> a </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="118.86" etime="121.12" spkid="FS1" lang="eng-usa" lconf="0.41" trs="1">
+<Word stime="118.86" dur="0.19" conf="0.517"> {fw} </Word>
+<Word stime="119.05" dur="1.25" conf="0.840"> , </Word>
+<Word stime="120.30" dur="0.52" conf="0.965"> {fw} </Word>
+<Word stime="120.82" dur="0.00" conf="0.392"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="122.48" etime="123.23" spkid="FS1" lang="eng-usa" lconf="0.41" trs="1">
+<Word stime="122.70" dur="0.23" conf="0.796"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="125.77" etime="127.93" spkid="MS1" lang="eng-usa" lconf="0.41" trs="1">
+<Word stime="126.03" dur="0.11" conf="0.395"> was </Word>
+<Word stime="126.03" dur="0.11" conf="0.142"> this </Word>
+<Word stime="126.03" dur="0.11" conf="0.109"> as </Word>
+<Word stime="126.16" dur="0.15" conf="0.825"> they </Word>
+<Word stime="126.31" dur="0.13" conf="0.815"> were </Word>
+<Word stime="126.50" dur="0.14" conf="0.632"> gonna </Word>
+<Word stime="126.50" dur="0.14" conf="0.143"> to </Word>
+<Word stime="126.68" dur="0.19" conf="0.969"> need </Word>
+<Word stime="126.91" dur="0.18" conf="0.906"> new </Word>
+<Word stime="127.15" dur="0.25" conf="0.950"> test </Word>
+<Word stime="127.40" dur="0.40" conf="0.622"> subject </Word>
+<Word stime="127.40" dur="0.40" conf="0.140"> subjects </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="136.77" etime="139.22" spkid="FS4" lang="eng-usa" lconf="0.41" trs="1">
+<Word stime="136.77" dur="2.15" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="144.37" etime="146.18" spkid="FS4" lang="eng-usa" lconf="0.41" trs="1">
+<Word stime="144.37" dur="1.51" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="156.65" etime="170.10" spkid="FS5" lang="eng-usa" lconf="0.41" trs="1">
+<Word stime="156.65" dur="13.37" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

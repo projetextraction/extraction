@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Fbchattiesburg-Miracle961.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Fbchattiesburg-Miracle961.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="53.32" spdur="17.57" nw="44" tconf="0.83"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="17.57" gender="1" spkid="MS1" lang="eng-usa" lconf="0.98" nw="44" tconf="0.83"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="12.02" etime="20.89" spkid="MS1" lang="eng-usa" lconf="0.98" trs="1">
+<Word stime="12.07" dur="0.15" conf="0.843"> I'm </Word>
+<Word stime="12.22" dur="0.62" conf="0.970"> absolutely </Word>
+<Word stime="12.84" dur="0.61" conf="0.969"> convinced </Word>
+<Word stime="14.06" dur="0.17" conf="0.969"> that </Word>
+<Word stime="14.23" dur="0.35" conf="0.970"> nothing </Word>
+<Word stime="14.67" dur="0.35" conf="0.970"> living </Word>
+<Word stime="15.11" dur="0.09" conf="0.901"> or </Word>
+<Word stime="15.20" dur="0.47" conf="0.970"> dead </Word>
+<Word stime="15.67" dur="0.67" conf="0.448"> , </Word>
+<Word stime="16.34" dur="0.46" conf="0.965"> Angela </Word>
+<Word stime="16.86" dur="0.15" conf="0.967"> Gordon </Word>
+<Word stime="17.10" dur="0.35" conf="0.543"> money </Word>
+<Word stime="17.10" dur="0.35" conf="0.149"> mining </Word>
+<Word stime="18.11" dur="0.37" conf="0.969"> today </Word>
+<Word stime="18.48" dur="0.14" conf="0.970"> or </Word>
+<Word stime="18.76" dur="0.50" conf="0.912"> tomorrow </Word>
+<Word stime="19.26" dur="0.82" conf="0.358"> , </Word>
+<Word stime="20.08" dur="0.34" conf="0.966"> high </Word>
+<Word stime="20.42" dur="0.11" conf="0.969"> or </Word>
+<Word stime="20.53" dur="0.32" conf="0.970"> low </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="21.89" etime="30.59" spkid="MS1" lang="eng-usa" lconf="0.98" trs="1">
+<Word stime="21.89" dur="0.32" conf="0.971"> think </Word>
+<Word stime="22.21" dur="0.08" conf="0.429"> of </Word>
+<Word stime="22.21" dur="0.08" conf="0.143"> the </Word>
+<Word stime="22.21" dur="0.08" conf="0.143"> a </Word>
+<Word stime="22.29" dur="0.28" conf="0.557"> war </Word>
+<Word stime="22.64" dur="0.71" conf="0.971"> unthinkable </Word>
+<Word stime="24.00" dur="0.73" conf="0.970"> absolutely </Word>
+<Word stime="24.73" dur="0.48" conf="0.971"> nothing </Word>
+<Word stime="25.21" dur="0.15" conf="0.969"> can </Word>
+<Word stime="25.36" dur="0.16" conf="0.955"> get </Word>
+<Word stime="25.56" dur="0.39" conf="0.971"> between </Word>
+<Word stime="26.20" dur="0.22" conf="0.971"> us </Word>
+<Word stime="26.45" dur="0.13" conf="0.969"> and </Word>
+<Word stime="26.58" dur="0.27" conf="0.312"> God's </Word>
+<Word stime="26.58" dur="0.27" conf="0.218"> got </Word>
+<Word stime="27.09" dur="0.20" conf="0.601"> love </Word>
+<Word stime="27.70" dur="0.30" conf="0.970"> because </Word>
+<Word stime="28.00" dur="0.06" conf="0.967"> of </Word>
+<Word stime="28.06" dur="0.06" conf="0.971"> the </Word>
+<Word stime="28.12" dur="0.38" conf="0.971"> way </Word>
+<Word stime="28.50" dur="0.15" conf="0.623"> that </Word>
+<Word stime="28.50" dur="0.15" conf="0.142"> the </Word>
+<Word stime="28.69" dur="0.33" conf="0.354"> Jesus </Word>
+<Word stime="28.69" dur="0.33" conf="0.151"> users </Word>
+<Word stime="28.69" dur="0.33" conf="0.105"> cheeses </Word>
+<Word stime="29.15" dur="0.16" conf="0.419"> are </Word>
+<Word stime="29.15" dur="0.16" conf="0.317"> our </Word>
+<Word stime="29.31" dur="0.43" conf="0.924"> master </Word>
+<Word stime="29.74" dur="0.17" conf="0.971"> has </Word>
+<Word stime="29.91" dur="0.49" conf="0.971"> embraced </Word>
+<Word stime="30.40" dur="0.09" conf="0.444"> it </Word>
+<Word stime="30.49" dur="0.00" conf="0.533"> . </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

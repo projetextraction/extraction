@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Livingasiachannel-DTCCIDSFCOMPETITION980.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/wav/dev12/Livingasiachannel-DTCCIDSFCOMPETITION980.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2dn"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="80.35" spdur="6.02"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="6.02" gender="2" spkid="FS1"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="43.02" etime="46.24" spkid="FS1"/>
+<SpeechSegment ch="1" sconf="1.00" stime="50.73" etime="51.87" spkid="FS1"/>
+<SpeechSegment ch="1" sconf="1.00" stime="72.63" etime="73.63" spkid="FS1"/>
+<SpeechSegment ch="1" sconf="1.00" stime="79.68" etime="80.34" spkid="FS1"/>
+</SegmentList>
+</AudioDoc>

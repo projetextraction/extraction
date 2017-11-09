@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="PDXK-DrillBabyDrillAtTheRNC569.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/PDXK-DrillBabyDrillAtTheRNC569.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="113.27" spdur="37.39" nw="89" tconf="0.90"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="32.96" gender="1" spkid="MS1" lang="eng-usa" lconf="0.99" nw="79" tconf="0.91"/>
+<Speaker ch="1" dur="3.53" gender="2" spkid="FS1" lang="eng-usa" lconf="0.99" nw="9" tconf="0.78"/>
+<Speaker ch="1" dur="0.90" gender="2" spkid="FT1" lang="eng-usa" lconf="0.99" nw="1" tconf="0.98"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="5.00" etime="30.18" spkid="MS1" lang="eng-usa" lconf="0.99" trs="1">
+<Word stime="5.00" dur="0.16" conf="0.971"> One </Word>
+<Word stime="5.29" dur="0.13" conf="0.707"> thing </Word>
+<Word stime="5.42" dur="0.39" conf="0.978"> about </Word>
+<Word stime="6.19" dur="0.11" conf="0.974"> the </Word>
+<Word stime="6.30" dur="0.52" conf="0.976"> change </Word>
+<Word stime="6.82" dur="0.13" conf="0.978"> that </Word>
+<Word stime="6.95" dur="0.13" conf="0.978"> will </Word>
+<Word stime="7.17" dur="0.36" conf="0.979"> create </Word>
+<Word stime="7.65" dur="0.50" conf="0.979"> jobs </Word>
+<Word stime="8.20" dur="0.18" conf="0.979"> and </Word>
+<Word stime="8.38" dur="0.69" conf="0.979"> prosperity </Word>
+<Word stime="9.07" dur="1.13" conf="0.657"> . </Word>
+<Word stime="10.20" dur="0.19" conf="0.959"> Let's </Word>
+<Word stime="10.44" dur="0.25" conf="0.971"> talk </Word>
+<Word stime="10.78" dur="0.39" conf="0.979"> briefly </Word>
+<Word stime="11.17" dur="0.29" conf="0.979"> about </Word>
+<Word stime="11.46" dur="0.73" conf="0.977"> specifics </Word>
+<Word stime="12.43" dur="0.45" conf="0.979"> briefly </Word>
+<Word stime="12.95" dur="0.37" conf="0.979"> briefly </Word>
+<Word stime="13.39" dur="0.36" conf="0.979"> briefly </Word>
+<Word stime="13.82" dur="0.39" conf="0.979"> briefly </Word>
+<Word stime="14.21" dur="0.29" conf="0.979"> about </Word>
+<Word stime="14.50" dur="0.74" conf="0.979"> specifics </Word>
+<Word stime="15.24" dur="0.42" conf="0.817"> . </Word>
+<Word stime="15.66" dur="0.36" conf="0.979"> John </Word>
+<Word stime="16.02" dur="0.39" conf="0.979"> McCain </Word>
+<Word stime="16.41" dur="0.21" conf="0.979"> will </Word>
+<Word stime="16.62" dur="0.30" conf="0.977"> lead </Word>
+<Word stime="16.99" dur="0.28" conf="0.979"> us </Word>
+<Word stime="17.66" dur="0.27" conf="0.979"> to </Word>
+<Word stime="18.05" dur="0.65" conf="0.979"> energy </Word>
+<Word stime="18.70" dur="0.90" conf="0.962"> independence </Word>
+<Word stime="19.60" dur="0.00" conf="0.451"> , </Word>
+<Word stime="19.60" dur="0.14" conf="0.568"> so </Word>
+<Word stime="19.60" dur="0.14" conf="0.160"> how </Word>
+<Word stime="19.74" dur="0.18" conf="0.978"> we </Word>
+<Word stime="19.92" dur="0.14" conf="0.977"> can </Word>
+<Word stime="20.06" dur="0.12" conf="0.979"> be </Word>
+<Word stime="20.21" dur="0.40" conf="0.979"> free </Word>
+<Word stime="20.61" dur="0.13" conf="0.979"> of </Word>
+<Word stime="20.74" dur="0.45" conf="0.979"> foreign </Word>
+<Word stime="21.19" dur="0.42" conf="0.979"> oil </Word>
+<Word stime="21.86" dur="0.10" conf="0.385"> {fw} </Word>
+<Word stime="21.96" dur="1.14" conf="0.761"> , </Word>
+<Word stime="23.10" dur="0.15" conf="0.493"> no </Word>
+<Word stime="23.25" dur="0.61" conf="0.829"> . </Word>
+<Word stime="23.86" dur="0.30" conf="0.975"> All </Word>
+<Word stime="24.24" dur="0.15" conf="0.978"> of </Word>
+<Word stime="24.43" dur="0.15" conf="0.978"> the </Word>
+<Word stime="24.58" dur="0.43" conf="0.979"> above </Word>
+<Word stime="25.01" dur="0.52" conf="0.978"> approach </Word>
+<Word stime="25.53" dur="0.29" conf="0.673"> , </Word>
+<Word stime="25.82" dur="0.53" conf="0.975"> including </Word>
+<Word stime="26.35" dur="0.46" conf="0.977"> nuclear </Word>
+<Word stime="26.81" dur="0.37" conf="0.977"> power </Word>
+<Word stime="27.43" dur="0.17" conf="0.978"> and </Word>
+<Word stime="27.60" dur="0.46" conf="0.979"> yes </Word>
+<Word stime="28.47" dur="0.52" conf="0.969"> offshore </Word>
+<Word stime="28.99" dur="0.50" conf="0.979"> oil </Word>
+<Word stime="29.62" dur="0.52" conf="0.979"> drilling </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="52.42" etime="55.95" spkid="FS1" lang="eng-usa" lconf="0.99" trs="1">
+<Word stime="52.42" dur="0.39" conf="0.975"> this </Word>
+<Word stime="52.81" dur="0.42" conf="0.584"> {fw} </Word>
+<Word stime="52.81" dur="0.42" conf="0.133"> is </Word>
+<Word stime="53.23" dur="0.67" conf="0.859"> , </Word>
+<Word stime="53.90" dur="0.33" conf="0.977"> this </Word>
+<Word stime="54.27" dur="0.15" conf="0.896"> is </Word>
+<Word stime="54.42" dur="0.14" conf="0.749"> the </Word>
+<Word stime="54.64" dur="0.40" conf="0.466"> time </Word>
+<Word stime="54.64" dur="0.40" conf="0.193"> climate </Word>
+<Word stime="55.04" dur="0.12" conf="0.564"> to </Word>
+<Word stime="55.20" dur="0.71" conf="0.977"> change </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="100.58" etime="108.36" spkid="MS1" lang="eng-usa" lconf="0.99" trs="1">
+<Word stime="100.58" dur="0.29" conf="0.979"> this </Word>
+<Word stime="101.01" dur="0.29" conf="0.778"> is </Word>
+<Word stime="102.23" dur="0.33" conf="0.975"> this </Word>
+<Word stime="102.56" dur="0.07" conf="0.701"> and </Word>
+<Word stime="102.63" dur="0.08" conf="0.977"> a </Word>
+<Word stime="102.75" dur="0.18" conf="0.978"> lot </Word>
+<Word stime="102.97" dur="0.29" conf="0.976"> more </Word>
+<Word stime="103.26" dur="0.09" conf="0.412"> of </Word>
+<Word stime="103.26" dur="0.09" conf="0.213"> is </Word>
+<Word stime="103.39" dur="0.08" conf="0.409"> the </Word>
+<Word stime="103.39" dur="0.08" conf="0.283"> that </Word>
+<Word stime="103.47" dur="0.34" conf="0.978"> kind </Word>
+<Word stime="103.81" dur="0.10" conf="0.978"> of </Word>
+<Word stime="104.02" dur="0.45" conf="0.978"> change </Word>
+<Word stime="104.78" dur="0.16" conf="0.978"> that </Word>
+<Word stime="104.94" dur="0.15" conf="0.978"> will </Word>
+<Word stime="105.09" dur="0.31" conf="0.976"> create </Word>
+<Word stime="105.48" dur="0.55" conf="0.979"> growth </Word>
+<Word stime="106.03" dur="0.21" conf="0.954"> , </Word>
+<Word stime="106.24" dur="0.60" conf="0.979"> jobs </Word>
+<Word stime="107.20" dur="0.22" conf="0.979"> and </Word>
+<Word stime="107.42" dur="0.89" conf="0.979"> prosperity </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="111.19" etime="112.09" spkid="FT1" lang="eng-usa" lconf="0.99" trs="1">
+<Word stime="111.49" dur="0.30" conf="0.984"> {fw} </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

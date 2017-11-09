@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Bluecanoerecords-BlessYou868.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Bluecanoerecords-BlessYou868.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="37.70" spdur="4.25" nw="3" tconf="0.99"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="2.58" gender="2" spkid="FS1" lang="eng-usa" lconf="1.00" nw="2" tconf="0.99"/>
+<Speaker ch="1" dur="1.67" gender="1" spkid="MS1" lang="eng-usa" lconf="1.00" nw="1" tconf="1.00"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="10.96" etime="12.31" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="11.26" dur="0.75" conf="0.992"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="27.75" etime="29.42" spkid="MS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="28.05" dur="1.07" conf="0.996"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="30.74" etime="31.97" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="30.74" dur="0.93" conf="0.992"> {fw} </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="TheEpicSeason-VailSnowdaze252.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/TheEpicSeason-VailSnowdaze252.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="89.26" spdur="16.98" nw="5" tconf="0.80"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="8.17" gender="1" spkid="MS1" lang="eng-usa" lconf="1.00" nw="4" tconf="0.75"/>
+<Speaker ch="1" dur="8.81" gender="2" spkid="FS2" lang="eng-usa" lconf="1.00" nw="1" tconf="1.00"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="31.03" etime="39.20" spkid="MS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="31.33" dur="3.28" conf="0.593"> {fw} </Word>
+<Word stime="35.47" dur="1.21" conf="0.979"> {fw} </Word>
+<Word stime="37.89" dur="1.01" conf="0.978"> {fw} </Word>
+<Word stime="38.90" dur="0.00" conf="0.438"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="80.44" etime="89.25" spkid="FS2" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="80.44" dur="8.77" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

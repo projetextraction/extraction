@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Lauraflanders-LiveFromMainstreet902.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Lauraflanders-LiveFromMainstreet902.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="32.90" spdur="31.99" nw="101" tconf="0.88"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="31.99" gender="2" spkid="FS1" lang="eng-usa" lconf="1.00" nw="101" tconf="0.88"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.01" etime="32.00" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="0.25" dur="0.19" conf="0.890"> On </Word>
+<Word stime="0.44" dur="0.19" conf="0.801"> June </Word>
+<Word stime="0.63" dur="0.05" conf="0.691"> the </Word>
+<Word stime="0.68" dur="0.29" conf="0.743"> 8th </Word>
+<Word stime="0.97" dur="0.08" conf="0.735"> at </Word>
+<Word stime="1.05" dur="0.21" conf="0.974"> 2 </Word>
+<Word stime="1.26" dur="0.28" conf="0.975"> PM </Word>
+<Word stime="1.61" dur="0.33" conf="0.803"> join </Word>
+<Word stime="1.94" dur="0.19" conf="0.976"> me </Word>
+<Word stime="2.13" dur="0.14" conf="0.865"> and </Word>
+<Word stime="2.31" dur="0.30" conf="0.976"> Amy </Word>
+<Word stime="2.69" dur="0.33" conf="0.976"> Goodman </Word>
+<Word stime="3.02" dur="0.21" conf="0.453"> Al </Word>
+<Word stime="3.02" dur="0.21" conf="0.245"> now </Word>
+<Word stime="3.31" dur="0.66" conf="0.387"> McFarlane </Word>
+<Word stime="3.31" dur="0.66" conf="0.382"> McFarland </Word>
+<Word stime="3.97" dur="0.26" conf="0.770"> John </Word>
+<Word stime="4.23" dur="0.44" conf="0.800"> Nichols </Word>
+<Word stime="4.67" dur="0.21" conf="0.966"> and </Word>
+<Word stime="4.94" dur="0.25" conf="0.970"> Twin </Word>
+<Word stime="5.19" dur="0.39" conf="0.973"> Cities </Word>
+<Word stime="5.58" dur="0.43" conf="0.842"> community </Word>
+<Word stime="6.01" dur="0.46" conf="0.970"> leaders </Word>
+<Word stime="6.47" dur="0.21" conf="0.730"> for </Word>
+<Word stime="6.73" dur="0.45" conf="0.895"> live </Word>
+<Word stime="7.21" dur="0.18" conf="0.971"> from </Word>
+<Word stime="7.39" dur="0.27" conf="0.938"> Main </Word>
+<Word stime="7.66" dur="0.39" conf="0.938"> Street </Word>
+<Word stime="8.28" dur="0.07" conf="0.690"> a </Word>
+<Word stime="8.35" dur="0.53" conf="0.975"> nationally </Word>
+<Word stime="8.88" dur="0.71" conf="0.975"> broadcast </Word>
+<Word stime="9.65" dur="0.23" conf="0.975"> town </Word>
+<Word stime="9.95" dur="0.26" conf="0.975"> hall </Word>
+<Word stime="10.21" dur="0.56" conf="0.975"> forum </Word>
+<Word stime="10.99" dur="0.17" conf="0.960"> tell </Word>
+<Word stime="11.16" dur="0.10" conf="0.962"> the </Word>
+<Word stime="11.26" dur="0.33" conf="0.975"> country </Word>
+<Word stime="11.59" dur="0.18" conf="0.973"> what </Word>
+<Word stime="11.77" dur="0.24" conf="0.975"> matters </Word>
+<Word stime="12.07" dur="0.10" conf="0.976"> to </Word>
+<Word stime="12.17" dur="0.25" conf="0.976"> you </Word>
+<Word stime="12.42" dur="0.29" conf="0.975"> in </Word>
+<Word stime="12.71" dur="0.18" conf="0.976"> this </Word>
+<Word stime="12.89" dur="0.49" conf="0.976"> election </Word>
+<Word stime="13.38" dur="0.29" conf="0.976"> year </Word>
+<Word stime="13.67" dur="0.00" conf="0.590"> , </Word>
+<Word stime="13.67" dur="0.12" conf="0.857"> and </Word>
+<Word stime="13.79" dur="0.32" conf="0.966"> share </Word>
+<Word stime="14.19" dur="0.21" conf="0.928"> what's </Word>
+<Word stime="14.40" dur="0.31" conf="0.976"> working </Word>
+<Word stime="14.71" dur="0.10" conf="0.970"> in </Word>
+<Word stime="14.81" dur="0.58" conf="0.975"> Minnesota </Word>
+<Word stime="15.39" dur="0.13" conf="0.448"> . </Word>
+<Word stime="15.52" dur="0.17" conf="0.975"> That </Word>
+<Word stime="15.74" dur="0.22" conf="0.976"> might </Word>
+<Word stime="15.96" dur="0.28" conf="0.976"> work </Word>
+<Word stime="16.24" dur="0.11" conf="0.976"> for </Word>
+<Word stime="16.35" dur="0.11" conf="0.975"> the </Word>
+<Word stime="16.46" dur="0.45" conf="0.976"> country </Word>
+<Word stime="16.91" dur="0.26" conf="0.731"> . </Word>
+<Word stime="17.17" dur="0.28" conf="0.976"> That's </Word>
+<Word stime="17.45" dur="0.25" conf="0.958"> 2 </Word>
+<Word stime="17.70" dur="0.34" conf="0.973"> PM </Word>
+<Word stime="18.18" dur="0.41" conf="0.973"> June </Word>
+<Word stime="18.59" dur="0.37" conf="0.558"> 8 </Word>
+<Word stime="18.96" dur="0.16" conf="0.975"> at </Word>
+<Word stime="19.16" dur="0.13" conf="0.974"> the </Word>
+<Word stime="19.29" dur="0.46" conf="0.609"> Women's </Word>
+<Word stime="19.29" dur="0.46" conf="0.163"> women's </Word>
+<Word stime="19.81" dur="0.26" conf="0.597"> Club </Word>
+<Word stime="19.81" dur="0.26" conf="0.174"> club </Word>
+<Word stime="20.10" dur="0.12" conf="0.976"> of </Word>
+<Word stime="20.22" dur="0.76" conf="0.976"> Minneapolis </Word>
+<Word stime="20.98" dur="0.03" conf="0.382"> . </Word>
+<Word stime="21.01" dur="0.28" conf="0.342"> For </Word>
+<Word stime="21.01" dur="0.28" conf="0.301"> four </Word>
+<Word stime="21.29" dur="0.86" conf="0.945"> 10 </Word>
+<Word stime="22.15" dur="0.27" conf="0.896"> Oak </Word>
+<Word stime="22.48" dur="0.26" conf="0.974"> Grove </Word>
+<Word stime="22.74" dur="0.37" conf="0.920"> Street </Word>
+<Word stime="23.11" dur="0.31" conf="0.783"> . </Word>
+<Word stime="23.42" dur="0.18" conf="0.969"> Learn </Word>
+<Word stime="23.65" dur="0.34" conf="0.974"> more </Word>
+<Word stime="24.02" dur="0.12" conf="0.842"> at </Word>
+<Word stime="24.14" dur="0.34" conf="0.971"> W </Word>
+<Word stime="24.48" dur="0.31" conf="0.972"> W </Word>
+<Word stime="24.79" dur="0.50" conf="0.976"> W </Word>
+<Word stime="25.32" dur="0.33" conf="0.975"> dot </Word>
+<Word stime="25.68" dur="0.55" conf="0.968"> live </Word>
+<Word stime="26.27" dur="0.18" conf="0.865"> from </Word>
+<Word stime="26.45" dur="0.28" conf="0.950"> Main </Word>
+<Word stime="26.73" dur="0.36" conf="0.950"> Street </Word>
+<Word stime="27.16" dur="0.20" conf="0.976"> dot </Word>
+<Word stime="27.36" dur="0.33" conf="0.976"> org </Word>
+<Word stime="27.93" dur="0.23" conf="0.603"> live </Word>
+<Word stime="28.19" dur="0.13" conf="0.778"> from </Word>
+<Word stime="28.32" dur="0.24" conf="0.663"> Main </Word>
+<Word stime="28.56" dur="0.34" conf="0.662"> Street </Word>
+<Word stime="28.96" dur="0.25" conf="0.968"> is </Word>
+<Word stime="29.28" dur="0.38" conf="0.976"> produced </Word>
+<Word stime="29.76" dur="0.18" conf="0.976"> by </Word>
+<Word stime="29.94" dur="0.12" conf="0.976"> the </Word>
+<Word stime="30.06" dur="0.42" conf="0.976"> media </Word>
+<Word stime="30.63" dur="0.58" conf="0.975"> consortium </Word>
+<Word stime="31.40" dur="0.18" conf="0.214"> quick </Word>
+<Word stime="31.40" dur="0.18" conf="0.189"> with </Word>
+<Word stime="31.40" dur="0.18" conf="0.110"> week </Word>
+<Word stime="31.65" dur="0.24" conf="0.891"> TV </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

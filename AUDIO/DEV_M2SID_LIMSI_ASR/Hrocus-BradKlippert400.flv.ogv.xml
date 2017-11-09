@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Hrocus-BradKlippert400.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Hrocus-BradKlippert400.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="30.19" spdur="29.88" nw="81" tconf="0.84"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="29.88" gender="2" spkid="FS1" lang="eng-usa" lconf="0.99" nw="81" tconf="0.84"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.29" etime="30.17" spkid="FS1" lang="eng-usa" lconf="0.99" trs="1">
+<Word stime="0.59" dur="0.18" conf="0.478"> Clifford </Word>
+<Word stime="0.86" dur="0.12" conf="0.972"> has </Word>
+<Word stime="1.03" dur="0.18" conf="0.972"> spent </Word>
+<Word stime="1.21" dur="0.13" conf="0.973"> a </Word>
+<Word stime="1.44" dur="0.39" conf="0.973"> lifetime </Word>
+<Word stime="1.93" dur="0.39" conf="0.971"> protecting </Word>
+<Word stime="2.32" dur="0.15" conf="0.973"> our </Word>
+<Word stime="2.47" dur="0.49" conf="0.930"> interests </Word>
+<Word stime="3.08" dur="0.13" conf="0.973"> as </Word>
+<Word stime="3.21" dur="0.07" conf="0.972"> a </Word>
+<Word stime="3.28" dur="0.29" conf="0.972"> deputy </Word>
+<Word stime="3.64" dur="0.40" conf="0.973"> sheriff </Word>
+<Word stime="4.08" dur="0.16" conf="0.617"> and </Word>
+<Word stime="4.08" dur="0.16" conf="0.147"> in </Word>
+<Word stime="4.24" dur="0.61" conf="0.973"> decorated </Word>
+<Word stime="4.95" dur="0.43" conf="0.973"> military </Word>
+<Word stime="5.38" dur="0.30" conf="0.832"> pilot </Word>
+<Word stime="5.91" dur="0.13" conf="0.933"> he </Word>
+<Word stime="6.14" dur="0.41" conf="0.971"> protects </Word>
+<Word stime="6.55" dur="0.12" conf="0.970"> our </Word>
+<Word stime="6.77" dur="0.51" conf="0.972"> community </Word>
+<Word stime="7.28" dur="0.18" conf="0.942"> and </Word>
+<Word stime="7.59" dur="0.41" conf="0.971"> country </Word>
+<Word stime="8.15" dur="0.17" conf="0.972"> we </Word>
+<Word stime="8.32" dur="0.22" conf="0.802"> can </Word>
+<Word stime="8.60" dur="0.25" conf="0.973"> count </Word>
+<Word stime="8.85" dur="0.16" conf="0.973"> on </Word>
+<Word stime="9.07" dur="0.26" conf="0.973"> him </Word>
+<Word stime="9.33" dur="0.11" conf="0.973"> to </Word>
+<Word stime="9.52" dur="0.32" conf="0.973"> protect </Word>
+<Word stime="9.84" dur="0.13" conf="0.411"> their </Word>
+<Word stime="9.84" dur="0.13" conf="0.348"> our </Word>
+<Word stime="9.97" dur="0.60" conf="0.972"> interests </Word>
+<Word stime="10.57" dur="0.11" conf="0.956"> in </Word>
+<Word stime="10.68" dur="0.43" conf="0.861"> Libya </Word>
+<Word stime="11.11" dur="0.19" conf="0.471"> . </Word>
+<Word stime="11.30" dur="0.42" conf="0.951"> Radcliffe </Word>
+<Word stime="12.05" dur="0.21" conf="0.911"> will </Word>
+<Word stime="12.26" dur="0.44" conf="0.916"> represent </Word>
+<Word stime="12.89" dur="0.21" conf="0.517"> eastern </Word>
+<Word stime="12.89" dur="0.21" conf="0.193"> Eastern </Word>
+<Word stime="13.23" dur="0.48" conf="0.971"> Washington </Word>
+<Word stime="13.94" dur="0.45" conf="0.963"> values </Word>
+<Word stime="14.42" dur="0.13" conf="0.304"> as </Word>
+<Word stime="14.42" dur="0.13" conf="0.257"> is </Word>
+<Word stime="14.42" dur="0.13" conf="0.141"> its </Word>
+<Word stime="14.70" dur="0.28" conf="0.404"> advocates </Word>
+<Word stime="15.33" dur="0.31" conf="0.968"> not </Word>
+<Word stime="15.64" dur="0.55" conf="0.533"> Seattle </Word>
+<Word stime="15.64" dur="0.55" conf="0.221"> Seattle's </Word>
+<Word stime="16.27" dur="0.27" conf="0.866"> special </Word>
+<Word stime="16.61" dur="0.42" conf="0.629"> interests </Word>
+<Word stime="17.03" dur="0.32" conf="0.500"> . </Word>
+<Word stime="17.35" dur="0.26" conf="0.673"> Radcliffe </Word>
+<Word stime="17.75" dur="0.17" conf="0.775"> group </Word>
+<Word stime="18.05" dur="0.19" conf="0.972"> is </Word>
+<Word stime="18.24" dur="0.51" conf="0.964"> dedicated </Word>
+<Word stime="18.88" dur="0.15" conf="0.973"> to </Word>
+<Word stime="19.03" dur="0.46" conf="0.973"> serving </Word>
+<Word stime="19.77" dur="0.24" conf="0.923"> us </Word>
+<Word stime="20.04" dur="0.13" conf="0.972"> and </Word>
+<Word stime="20.20" dur="0.12" conf="0.436"> we'll </Word>
+<Word stime="20.20" dur="0.12" conf="0.304"> will </Word>
+<Word stime="20.32" dur="0.24" conf="0.968"> say </Word>
+<Word stime="20.56" dur="0.35" conf="0.973"> no </Word>
+<Word stime="20.94" dur="0.10" conf="0.965"> to </Word>
+<Word stime="21.11" dur="0.20" conf="0.966"> big </Word>
+<Word stime="21.31" dur="0.34" conf="0.972"> spending </Word>
+<Word stime="21.73" dur="0.50" conf="0.915"> bureaucrats </Word>
+<Word stime="22.59" dur="0.36" conf="0.931"> protect </Word>
+<Word stime="22.95" dur="0.14" conf="0.972"> our </Word>
+<Word stime="23.19" dur="0.40" conf="0.972"> values </Word>
+<Word stime="23.64" dur="0.19" conf="0.972"> and </Word>
+<Word stime="23.83" dur="0.10" conf="0.972"> our </Word>
+<Word stime="24.18" dur="0.39" conf="0.557"> checkbooks </Word>
+<Word stime="24.18" dur="0.39" conf="0.203"> books </Word>
+<Word stime="24.63" dur="0.25" conf="0.505"> both </Word>
+<Word stime="24.63" dur="0.25" conf="0.191"> boat </Word>
+<Word stime="24.96" dur="0.21" conf="0.598"> grabbed </Word>
+<Word stime="25.86" dur="0.15" conf="0.453"> for </Word>
+<Word stime="25.86" dur="0.15" conf="0.140"> or </Word>
+<Word stime="26.05" dur="0.32" conf="0.887"> state </Word>
+<Word stime="26.37" dur="0.59" conf="0.594"> representative </Word>
+<Word stime="26.96" dur="0.44" conf="0.884"> , </Word>
+<Word stime="27.40" dur="0.21" conf="0.956"> paid </Word>
+<Word stime="27.61" dur="0.21" conf="0.972"> for </Word>
+<Word stime="27.82" dur="0.16" conf="0.973"> by </Word>
+<Word stime="27.98" dur="0.53" conf="0.749"> citizens </Word>
+<Word stime="28.70" dur="0.28" conf="0.297"> {fw} </Word>
+<Word stime="29.20" dur="0.13" conf="0.242"> group </Word>
+<Word stime="29.20" dur="0.13" conf="0.139"> route </Word>
+<Word stime="29.20" dur="0.13" conf="0.131"> Ruth </Word>
+<Word stime="29.36" dur="0.57" conf="0.825"> Republican </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="TheJAMAREPORT-VITAMINEIMPORTANTTOPHYSICALHEALTHASYOUAGE908.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/TheJAMAREPORT-VITAMINEIMPORTANTTOPHYSICALHEALTHASYOUAGE908.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="139.51" spdur="138.11" nw="318" tconf="0.86"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="39.89" gender="2" spkid="FS4" lang="eng-usa" lconf="1.00" nw="122" tconf="0.85"/>
+<Speaker ch="1" dur="36.26" gender="2" spkid="FS2" lang="eng-usa" lconf="1.00" nw="105" tconf="0.93"/>
+<Speaker ch="1" dur="31.06" gender="2" spkid="FS3" lang="eng-usa" lconf="1.00" nw="73" tconf="0.82"/>
+<Speaker ch="1" dur="23.33" gender="2" spkid="FS1" lang="eng-usa" lconf="1.00" nw="2" tconf="1.00"/>
+<Speaker ch="1" dur="7.57" gender="2" spkid="FT3" lang="eng-usa" lconf="1.00" nw="16" tconf="0.58"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.01" etime="4.04" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="0.01" dur="3.99" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="4.47" etime="15.19" spkid="FS2" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="4.77" dur="0.37" conf="0.234"> Lois </Word>
+<Word stime="4.77" dur="0.37" conf="0.156"> most </Word>
+<Word stime="4.77" dur="0.37" conf="0.125"> Maoists </Word>
+<Word stime="5.24" dur="0.17" conf="0.457"> are </Word>
+<Word stime="5.41" dur="0.23" conf="0.343"> Compaore </Word>
+<Word stime="5.99" dur="0.13" conf="0.941"> is </Word>
+<Word stime="6.12" dur="0.61" conf="0.979"> 81 </Word>
+<Word stime="6.73" dur="0.25" conf="0.979"> years </Word>
+<Word stime="6.98" dur="0.43" conf="0.979"> old </Word>
+<Word stime="7.41" dur="0.26" conf="0.803"> . </Word>
+<Word stime="7.67" dur="0.14" conf="0.549"> Why </Word>
+<Word stime="7.81" dur="0.16" conf="0.571"> should </Word>
+<Word stime="7.97" dur="0.17" conf="0.828"> take </Word>
+<Word stime="8.22" dur="0.33" conf="0.979"> special </Word>
+<Word stime="8.55" dur="0.27" conf="0.979"> care </Word>
+<Word stime="8.82" dur="0.17" conf="0.979"> to </Word>
+<Word stime="8.99" dur="0.19" conf="0.979"> eat </Word>
+<Word stime="9.18" dur="0.36" conf="0.968"> right </Word>
+<Word stime="9.56" dur="0.11" conf="0.977"> and </Word>
+<Word stime="9.67" dur="0.30" conf="0.975"> walks </Word>
+<Word stime="9.97" dur="0.12" conf="0.979"> at </Word>
+<Word stime="10.09" dur="0.23" conf="0.979"> least </Word>
+<Word stime="10.32" dur="0.09" conf="0.978"> an </Word>
+<Word stime="10.41" dur="0.32" conf="0.978"> hour </Word>
+<Word stime="10.73" dur="0.10" conf="0.969"> a </Word>
+<Word stime="10.83" dur="0.38" conf="0.979"> day </Word>
+<Word stime="11.21" dur="0.22" conf="0.489"> , </Word>
+<Word stime="11.43" dur="0.16" conf="0.979"> she </Word>
+<Word stime="11.59" dur="0.65" conf="0.979"> notices </Word>
+<Word stime="12.36" dur="0.37" conf="0.979"> routine </Word>
+<Word stime="12.73" dur="0.51" conf="0.926"> tasks </Word>
+<Word stime="13.28" dur="0.17" conf="0.979"> are </Word>
+<Word stime="13.45" dur="0.54" conf="0.979"> becoming </Word>
+<Word stime="14.08" dur="0.23" conf="0.979"> more </Word>
+<Word stime="14.31" dur="0.58" conf="0.979"> difficult </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="15.26" etime="28.40" spkid="FS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="15.26" dur="0.25" conf="0.976"> I </Word>
+<Word stime="15.51" dur="0.29" conf="0.979"> do </Word>
+<Word stime="15.86" dur="0.25" conf="0.979"> not </Word>
+<Word stime="16.11" dur="0.36" conf="0.970"> us </Word>
+<Word stime="17.04" dur="0.38" conf="0.978"> that </Word>
+<Word stime="17.63" dur="0.46" conf="0.979"> within </Word>
+<Word stime="18.09" dur="0.11" conf="0.979"> the </Word>
+<Word stime="18.20" dur="0.60" conf="0.977"> past </Word>
+<Word stime="19.24" dur="0.59" conf="0.979"> year </Word>
+<Word stime="19.87" dur="0.31" conf="0.594"> especially </Word>
+<Word stime="19.87" dur="0.31" conf="0.114"> a </Word>
+<Word stime="20.18" dur="0.37" conf="0.571"> , </Word>
+<Word stime="20.55" dur="0.17" conf="0.689"> year </Word>
+<Word stime="20.55" dur="0.17" conf="0.112"> a </Word>
+<Word stime="20.81" dur="0.09" conf="0.976"> and </Word>
+<Word stime="20.90" dur="0.10" conf="0.977"> a </Word>
+<Word stime="21.00" dur="0.42" conf="0.979"> half </Word>
+<Word stime="21.42" dur="0.14" conf="0.533"> . </Word>
+<Word stime="21.56" dur="0.29" conf="0.979"> I've </Word>
+<Word stime="21.85" dur="0.68" conf="0.979"> noticed </Word>
+<Word stime="22.53" dur="0.20" conf="0.979"> how </Word>
+<Word stime="22.73" dur="0.39" conf="0.385"> iced </Word>
+<Word stime="22.73" dur="0.39" conf="0.374"> ice </Word>
+<Word stime="23.21" dur="0.21" conf="0.979"> have </Word>
+<Word stime="23.42" dur="0.38" conf="0.978"> slowed </Word>
+<Word stime="23.87" dur="0.33" conf="0.979"> down </Word>
+<Word stime="24.24" dur="0.66" conf="0.979"> physically </Word>
+<Word stime="25.01" dur="0.37" conf="0.979"> and </Word>
+<Word stime="25.53" dur="0.66" conf="0.979"> mentally </Word>
+<Word stime="26.19" dur="0.49" conf="0.507"> , </Word>
+<Word stime="26.68" dur="0.36" conf="0.979"> and </Word>
+<Word stime="27.27" dur="0.12" conf="0.885"> they </Word>
+<Word stime="27.39" dur="0.26" conf="0.979"> don't </Word>
+<Word stime="27.72" dur="0.27" conf="0.979"> like </Word>
+<Word stime="27.99" dur="0.21" conf="0.979"> it </Word>
+<Word stime="28.20" dur="0.00" conf="0.470"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="28.53" etime="37.80" spkid="FS4" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="28.83" dur="0.22" conf="0.932"> Good </Word>
+<Word stime="29.05" dur="0.54" conf="0.968"> nutrition </Word>
+<Word stime="29.59" dur="0.19" conf="0.623"> . </Word>
+<Word stime="29.78" dur="0.18" conf="0.610"> Maybe </Word>
+<Word stime="30.01" dur="0.09" conf="0.476"> you </Word>
+<Word stime="30.10" dur="0.09" conf="0.413"> know </Word>
+<Word stime="30.19" dur="0.09" conf="0.385"> , </Word>
+<Word stime="30.28" dur="0.10" conf="0.446"> the </Word>
+<Word stime="30.38" dur="0.27" conf="0.970"> more </Word>
+<Word stime="30.65" dur="0.50" conf="0.970"> important </Word>
+<Word stime="31.30" dur="0.16" conf="0.746"> than </Word>
+<Word stime="31.46" dur="0.17" conf="0.933"> she </Word>
+<Word stime="31.63" dur="0.25" conf="0.675"> first </Word>
+<Word stime="32.02" dur="0.31" conf="0.355"> not </Word>
+<Word stime="32.02" dur="0.31" conf="0.186"> got </Word>
+<Word stime="32.33" dur="0.29" conf="0.500"> , </Word>
+<Word stime="32.62" dur="0.13" conf="0.958"> in </Word>
+<Word stime="32.82" dur="0.30" conf="0.956"> fact </Word>
+<Word stime="33.12" dur="0.04" conf="0.962"> , </Word>
+<Word stime="33.16" dur="0.43" conf="0.970"> according </Word>
+<Word stime="33.59" dur="0.16" conf="0.970"> to </Word>
+<Word stime="33.75" dur="0.04" conf="0.970"> a </Word>
+<Word stime="33.79" dur="0.21" conf="0.970"> new </Word>
+<Word stime="34.09" dur="0.37" conf="0.970"> study </Word>
+<Word stime="34.46" dur="0.15" conf="0.468"> in </Word>
+<Word stime="34.46" dur="0.15" conf="0.275"> and </Word>
+<Word stime="34.71" dur="0.16" conf="0.334"> John </Word>
+<Word stime="34.87" dur="0.24" conf="0.260"> Jamia </Word>
+<Word stime="35.24" dur="0.20" conf="0.562"> Journal </Word>
+<Word stime="35.24" dur="0.20" conf="0.193"> journal </Word>
+<Word stime="35.56" dur="0.09" conf="0.970"> of </Word>
+<Word stime="35.67" dur="0.13" conf="0.970"> the </Word>
+<Word stime="35.80" dur="0.35" conf="0.970"> American </Word>
+<Word stime="36.24" dur="0.42" conf="0.970"> Medical </Word>
+<Word stime="36.66" dur="0.90" conf="0.970"> Association </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="37.80" etime="43.42" spkid="FS2" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="37.85" dur="0.27" conf="0.973"> low </Word>
+<Word stime="38.20" dur="0.30" conf="0.990"> levels </Word>
+<Word stime="38.50" dur="0.11" conf="0.990"> of </Word>
+<Word stime="38.69" dur="0.32" conf="0.990"> vitamin </Word>
+<Word stime="39.01" dur="0.25" conf="0.987"> D </Word>
+<Word stime="39.29" dur="0.13" conf="0.990"> in </Word>
+<Word stime="39.55" dur="0.53" conf="0.990"> particular </Word>
+<Word stime="40.30" dur="0.46" conf="0.888"> appear </Word>
+<Word stime="40.76" dur="0.13" conf="0.990"> to </Word>
+<Word stime="40.89" dur="0.60" conf="0.990"> contribute </Word>
+<Word stime="41.51" dur="0.10" conf="0.990"> to </Word>
+<Word stime="41.61" dur="0.05" conf="0.990"> a </Word>
+<Word stime="41.66" dur="0.59" conf="0.990"> decline </Word>
+<Word stime="42.28" dur="0.12" conf="0.990"> in </Word>
+<Word stime="42.47" dur="0.33" conf="0.990"> physical </Word>
+<Word stime="42.80" dur="0.58" conf="0.989"> function </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="43.42" etime="53.63" spkid="FS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="43.55" dur="0.15" conf="0.403"> our </Word>
+<Word stime="43.55" dur="0.15" conf="0.208"> I </Word>
+<Word stime="43.82" dur="0.20" conf="0.201"> worry </Word>
+<Word stime="43.82" dur="0.20" conf="0.185"> results </Word>
+<Word stime="44.02" dur="0.37" conf="0.391"> sides </Word>
+<Word stime="44.46" dur="0.30" conf="0.359"> assured </Word>
+<Word stime="44.46" dur="0.30" conf="0.216"> showed </Word>
+<Word stime="44.85" dur="0.39" conf="0.969"> that </Word>
+<Word stime="46.67" dur="0.20" conf="0.962"> this </Word>
+<Word stime="46.99" dur="0.24" conf="0.970"> this </Word>
+<Word stime="47.23" dur="0.10" conf="0.964"> is </Word>
+<Word stime="47.46" dur="0.22" conf="0.410"> all </Word>
+<Word stime="47.46" dur="0.22" conf="0.266"> only </Word>
+<Word stime="47.93" dur="0.18" conf="0.168"> like </Word>
+<Word stime="47.93" dur="0.18" conf="0.160"> met </Word>
+<Word stime="47.93" dur="0.18" conf="0.130"> but </Word>
+<Word stime="48.11" dur="0.08" conf="0.294"> him </Word>
+<Word stime="48.11" dur="0.08" conf="0.209"> I </Word>
+<Word stime="48.21" dur="0.23" conf="0.287"> mean </Word>
+<Word stime="48.21" dur="0.23" conf="0.282"> in </Word>
+<Word stime="48.49" dur="0.43" conf="0.695"> he </Word>
+<Word stime="49.78" dur="0.22" conf="0.970"> is </Word>
+<Word stime="50.00" dur="0.64" conf="0.970"> associated </Word>
+<Word stime="50.64" dur="0.14" conf="0.965"> with </Word>
+<Word stime="50.84" dur="0.08" conf="0.785"> the </Word>
+<Word stime="51.17" dur="0.62" conf="0.970"> subsequent </Word>
+<Word stime="51.79" dur="0.46" conf="0.863"> decline </Word>
+<Word stime="52.25" dur="0.09" conf="0.384"> in </Word>
+<Word stime="52.41" dur="0.15" conf="0.242"> physical </Word>
+<Word stime="52.41" dur="0.15" conf="0.136"> these </Word>
+<Word stime="52.80" dur="0.28" conf="0.494"> confined </Word>
+<Word stime="52.80" dur="0.28" conf="0.249"> find </Word>
+<Word stime="53.14" dur="0.29" conf="0.235"> shin </Word>
+<Word stime="53.14" dur="0.29" conf="0.149"> Shin </Word>
+<Word stime="53.14" dur="0.29" conf="0.126"> Micronesian </Word>
+<Word stime="53.14" dur="0.29" conf="0.117"> Shinn </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="53.63" etime="66.00" spkid="FS4" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="53.89" dur="0.31" conf="0.977"> Dr. </Word>
+<Word stime="54.20" dur="0.00" conf="0.713"> . </Word>
+<Word stime="54.20" dur="0.23" conf="0.940"> Bennett </Word>
+<Word stime="54.49" dur="0.16" conf="0.454"> at </Word>
+<Word stime="54.49" dur="0.16" conf="0.134"> said </Word>
+<Word stime="54.65" dur="0.07" conf="0.673"> a </Word>
+<Word stime="54.72" dur="0.18" conf="0.424"> bar </Word>
+<Word stime="54.72" dur="0.18" conf="0.105"> aboard </Word>
+<Word stime="54.72" dur="0.18" conf="0.104"> board </Word>
+<Word stime="55.19" dur="0.14" conf="0.277"> actually </Word>
+<Word stime="55.37" dur="0.15" conf="0.974"> is </Word>
+<Word stime="55.52" dur="0.03" conf="0.930"> a </Word>
+<Word stime="55.71" dur="0.63" conf="0.978"> nutritionist </Word>
+<Word stime="56.34" dur="0.13" conf="0.987"> and </Word>
+<Word stime="56.50" dur="0.53" conf="0.987"> researcher </Word>
+<Word stime="57.03" dur="0.13" conf="0.987"> at </Word>
+<Word stime="57.16" dur="0.26" conf="0.987"> Yale </Word>
+<Word stime="57.42" dur="0.67" conf="0.976"> University </Word>
+<Word stime="58.16" dur="0.29" conf="0.987"> School </Word>
+<Word stime="58.45" dur="0.07" conf="0.987"> of </Word>
+<Word stime="58.52" dur="0.54" conf="0.987"> Medicine </Word>
+<Word stime="59.45" dur="0.20" conf="0.985"> she </Word>
+<Word stime="59.65" dur="0.06" conf="0.985"> and </Word>
+<Word stime="59.71" dur="0.09" conf="0.986"> her </Word>
+<Word stime="59.80" dur="0.51" conf="0.987"> colleagues </Word>
+<Word stime="60.40" dur="0.34" conf="0.987"> collected </Word>
+<Word stime="60.81" dur="0.30" conf="0.982"> data </Word>
+<Word stime="61.11" dur="0.14" conf="0.970"> in </Word>
+<Word stime="61.25" dur="0.10" conf="0.987"> a </Word>
+<Word stime="61.35" dur="0.57" conf="0.987"> randomly </Word>
+<Word stime="62.03" dur="0.43" conf="0.987"> selected </Word>
+<Word stime="62.52" dur="0.24" conf="0.987"> group </Word>
+<Word stime="62.79" dur="0.13" conf="0.987"> of </Word>
+<Word stime="62.92" dur="0.55" conf="0.987"> Italian </Word>
+<Word stime="63.47" dur="0.20" conf="0.987"> men </Word>
+<Word stime="63.67" dur="0.10" conf="0.983"> and </Word>
+<Word stime="63.80" dur="0.37" conf="0.987"> women </Word>
+<Word stime="64.29" dur="0.26" conf="0.900"> aged </Word>
+<Word stime="64.55" dur="0.55" conf="0.987"> 65 </Word>
+<Word stime="65.16" dur="0.11" conf="0.987"> and </Word>
+<Word stime="65.27" dur="0.43" conf="0.987"> older </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="66.01" etime="85.93" spkid="FS2" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="66.01" dur="0.15" conf="0.857"> they </Word>
+<Word stime="66.16" dur="0.42" conf="0.982"> compared </Word>
+<Word stime="66.58" dur="0.56" conf="0.982"> nutrient </Word>
+<Word stime="67.14" dur="0.35" conf="0.982"> levels </Word>
+<Word stime="67.49" dur="0.14" conf="0.977"> in </Word>
+<Word stime="67.63" dur="0.33" conf="0.981"> blood </Word>
+<Word stime="68.28" dur="0.13" conf="0.982"> with </Word>
+<Word stime="68.41" dur="0.12" conf="0.982"> the </Word>
+<Word stime="68.53" dur="0.50" conf="0.982"> ability </Word>
+<Word stime="69.03" dur="0.11" conf="0.982"> to </Word>
+<Word stime="69.24" dur="0.39" conf="0.982"> perform </Word>
+<Word stime="69.71" dur="0.36" conf="0.982"> basic </Word>
+<Word stime="70.07" dur="0.55" conf="0.982"> skills </Word>
+<Word stime="70.81" dur="0.25" conf="0.982"> such </Word>
+<Word stime="71.06" dur="0.13" conf="0.981"> as </Word>
+<Word stime="71.19" dur="0.53" conf="0.975"> walking </Word>
+<Word stime="71.72" dur="0.12" conf="0.690"> , </Word>
+<Word stime="71.84" dur="0.43" conf="0.982"> standing </Word>
+<Word stime="72.27" dur="0.14" conf="0.982"> up </Word>
+<Word stime="72.44" dur="0.13" conf="0.981"> from </Word>
+<Word stime="72.57" dur="0.03" conf="0.981"> a </Word>
+<Word stime="72.69" dur="0.37" conf="0.982"> chair </Word>
+<Word stime="73.06" dur="0.17" conf="0.981"> and </Word>
+<Word stime="73.38" dur="0.57" conf="0.942"> balancing </Word>
+<Word stime="74.34" dur="0.16" conf="0.982"> out </Word>
+<Word stime="74.50" dur="0.11" conf="0.970"> of </Word>
+<Word stime="74.61" dur="0.31" conf="0.982"> nearly </Word>
+<Word stime="74.92" dur="0.77" conf="0.982"> 700 </Word>
+<Word stime="75.69" dur="0.34" conf="0.974"> people </Word>
+<Word stime="76.03" dur="0.50" conf="0.979"> studied </Word>
+<Word stime="76.70" dur="0.30" conf="0.982"> about </Word>
+<Word stime="77.00" dur="0.36" conf="0.982"> half </Word>
+<Word stime="77.48" dur="0.66" conf="0.982"> experienced </Word>
+<Word stime="78.14" dur="0.04" conf="0.982"> a </Word>
+<Word stime="78.18" dur="0.46" conf="0.982"> decline </Word>
+<Word stime="78.64" dur="0.10" conf="0.982"> in </Word>
+<Word stime="78.82" dur="0.31" conf="0.982"> physical </Word>
+<Word stime="79.13" dur="0.47" conf="0.982"> function </Word>
+<Word stime="79.60" dur="0.29" conf="0.982"> within </Word>
+<Word stime="79.89" dur="0.30" conf="0.982"> three </Word>
+<Word stime="80.19" dur="0.50" conf="0.982"> years </Word>
+<Word stime="80.69" dur="0.18" conf="0.611"> . </Word>
+<Word stime="80.87" dur="0.19" conf="0.945"> The </Word>
+<Word stime="81.06" dur="0.41" conf="0.982"> study </Word>
+<Word stime="81.47" dur="0.40" conf="0.982"> found </Word>
+<Word stime="81.96" dur="0.29" conf="0.981"> low </Word>
+<Word stime="82.33" dur="0.32" conf="0.982"> levels </Word>
+<Word stime="82.65" dur="0.12" conf="0.982"> of </Word>
+<Word stime="82.77" dur="0.39" conf="0.981"> vitamin </Word>
+<Word stime="83.23" dur="0.28" conf="0.391"> E </Word>
+<Word stime="83.23" dur="0.28" conf="0.382"> D </Word>
+<Word stime="83.59" dur="0.23" conf="0.980"> were </Word>
+<Word stime="83.82" dur="0.84" conf="0.982"> associated </Word>
+<Word stime="84.66" dur="0.27" conf="0.982"> with </Word>
+<Word stime="84.97" dur="0.17" conf="0.982"> this </Word>
+<Word stime="85.29" dur="0.58" conf="0.982"> decline </Word>
+<Word stime="85.87" dur="0.00" conf="0.463"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="85.93" etime="93.50" spkid="FT3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="86.07" dur="0.17" conf="0.396"> Had </Word>
+<Word stime="86.07" dur="0.17" conf="0.326"> have </Word>
+<Word stime="86.24" dur="0.41" conf="0.968"> been </Word>
+<Word stime="86.96" dur="0.29" conf="0.961"> inadequate </Word>
+<Word stime="87.53" dur="0.29" conf="0.544"> level </Word>
+<Word stime="88.06" dur="0.15" conf="0.780"> of </Word>
+<Word stime="88.34" dur="0.18" conf="0.277"> thing </Word>
+<Word stime="88.74" dur="0.41" conf="0.966"> he </Word>
+<Word stime="89.57" dur="0.22" conf="0.469"> may </Word>
+<Word stime="89.93" dur="0.21" conf="0.390"> be </Word>
+<Word stime="89.93" dur="0.21" conf="0.255"> mainly </Word>
+<Word stime="90.14" dur="0.46" conf="0.596"> , </Word>
+<Word stime="90.60" dur="0.58" conf="0.728"> reduce </Word>
+<Word stime="91.38" dur="0.15" conf="0.407"> the </Word>
+<Word stime="91.38" dur="0.15" conf="0.181"> they </Word>
+<Word stime="91.38" dur="0.15" conf="0.122"> their </Word>
+<Word stime="91.64" dur="0.43" conf="0.584"> decline </Word>
+<Word stime="91.64" dur="0.43" conf="0.168"> declined </Word>
+<Word stime="92.14" dur="0.11" conf="0.396"> in </Word>
+<Word stime="92.14" dur="0.11" conf="0.168"> if </Word>
+<Word stime="92.31" dur="0.22" conf="0.410"> fees </Word>
+<Word stime="92.31" dur="0.22" conf="0.139"> he's </Word>
+<Word stime="92.31" dur="0.22" conf="0.105"> diffuse </Word>
+<Word stime="92.93" dur="0.42" conf="0.338"> confection </Word>
+<Word stime="92.93" dur="0.42" conf="0.158"> faction </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="93.50" etime="106.23" spkid="FS4" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="93.50" dur="0.74" conf="0.977"> researchers </Word>
+<Word stime="94.36" dur="0.49" conf="0.975"> suggest </Word>
+<Word stime="94.85" dur="0.11" conf="0.977"> you </Word>
+<Word stime="94.96" dur="0.19" conf="0.977"> need </Word>
+<Word stime="95.15" dur="0.10" conf="0.977"> at </Word>
+<Word stime="95.25" dur="0.29" conf="0.977"> least </Word>
+<Word stime="95.54" dur="0.57" conf="0.977"> 15 </Word>
+<Word stime="96.11" dur="0.10" conf="0.977"> to </Word>
+<Word stime="96.21" dur="0.35" conf="0.973"> 30 </Word>
+<Word stime="96.56" dur="0.61" conf="0.977"> milligrams </Word>
+<Word stime="97.17" dur="0.11" conf="0.977"> of </Word>
+<Word stime="97.28" dur="0.34" conf="0.976"> vitamin </Word>
+<Word stime="97.70" dur="0.11" conf="0.732"> E </Word>
+<Word stime="97.86" dur="0.05" conf="0.717"> a </Word>
+<Word stime="97.91" dur="0.30" conf="0.775"> day </Word>
+<Word stime="98.75" dur="0.39" conf="0.881"> common </Word>
+<Word stime="99.14" dur="0.62" conf="0.977"> sunflower </Word>
+<Word stime="99.76" dur="0.28" conf="0.833"> seeds </Word>
+<Word stime="100.04" dur="0.06" conf="0.411"> are </Word>
+<Word stime="100.04" dur="0.06" conf="0.274"> and </Word>
+<Word stime="100.10" dur="0.25" conf="0.608"> now </Word>
+<Word stime="100.10" dur="0.25" conf="0.113"> I'll </Word>
+<Word stime="100.35" dur="0.06" conf="0.450"> a </Word>
+<Word stime="100.35" dur="0.06" conf="0.201"> of </Word>
+<Word stime="100.49" dur="0.27" conf="0.348"> loyal </Word>
+<Word stime="100.49" dur="0.27" conf="0.258"> oil </Word>
+<Word stime="100.79" dur="0.20" conf="0.975"> are </Word>
+<Word stime="100.99" dur="0.35" conf="0.977"> all </Word>
+<Word stime="101.34" dur="0.20" conf="0.977"> good </Word>
+<Word stime="101.54" dur="0.75" conf="0.977"> sources </Word>
+<Word stime="102.61" dur="0.28" conf="0.518"> Lois </Word>
+<Word stime="102.61" dur="0.28" conf="0.208"> lowest </Word>
+<Word stime="102.97" dur="0.29" conf="0.835"> says </Word>
+<Word stime="103.26" dur="0.19" conf="0.625"> what </Word>
+<Word stime="103.45" dur="0.15" conf="0.972"> she </Word>
+<Word stime="103.68" dur="0.33" conf="0.977"> feels </Word>
+<Word stime="104.10" dur="0.30" conf="0.975"> healthy </Word>
+<Word stime="104.71" dur="0.28" conf="0.977"> she </Word>
+<Word stime="104.99" dur="0.19" conf="0.976"> will </Word>
+<Word stime="105.23" dur="0.13" conf="0.977"> be </Word>
+<Word stime="105.36" dur="0.26" conf="0.977"> more </Word>
+<Word stime="105.62" dur="0.31" conf="0.909"> aware </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="106.26" etime="113.97" spkid="FS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="106.37" dur="0.18" conf="0.983"> I'm </Word>
+<Word stime="106.55" dur="0.34" conf="0.993"> certainly </Word>
+<Word stime="106.97" dur="0.13" conf="0.990"> going </Word>
+<Word stime="107.10" dur="0.08" conf="0.990"> to </Word>
+<Word stime="107.23" dur="0.18" conf="0.993"> pay </Word>
+<Word stime="107.41" dur="0.26" conf="0.993"> more </Word>
+<Word stime="107.67" dur="0.58" conf="0.993"> attention </Word>
+<Word stime="108.71" dur="0.43" conf="0.992"> to </Word>
+<Word stime="110.32" dur="0.39" conf="0.991"> my </Word>
+<Word stime="110.71" dur="0.61" conf="0.992"> intake </Word>
+<Word stime="111.32" dur="0.24" conf="0.993"> of </Word>
+<Word stime="111.66" dur="0.48" conf="0.993"> vitamin </Word>
+<Word stime="112.14" dur="0.13" conf="0.842"> E </Word>
+<Word stime="112.37" dur="0.31" conf="0.993"> because </Word>
+<Word stime="112.68" dur="0.18" conf="0.988"> it's </Word>
+<Word stime="112.91" dur="0.26" conf="0.993"> very </Word>
+<Word stime="113.17" dur="0.50" conf="0.993"> important </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="114.03" etime="119.55" spkid="FS4" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="114.07" dur="0.58" conf="0.976"> important </Word>
+<Word stime="114.82" dur="0.14" conf="0.974"> for </Word>
+<Word stime="114.99" dur="0.10" conf="0.974"> her </Word>
+<Word stime="115.09" dur="0.06" conf="0.973"> to </Word>
+<Word stime="115.15" dur="0.19" conf="0.976"> have </Word>
+<Word stime="115.36" dur="0.09" conf="0.976"> the </Word>
+<Word stime="115.62" dur="0.31" conf="0.976"> best </Word>
+<Word stime="116.00" dur="0.31" conf="0.976"> quality </Word>
+<Word stime="116.31" dur="0.10" conf="0.927"> of </Word>
+<Word stime="116.44" dur="0.16" conf="0.675"> life </Word>
+<Word stime="116.86" dur="0.29" conf="0.190"> plus </Word>
+<Word stime="117.79" dur="0.39" conf="0.973"> Jennifer </Word>
+<Word stime="118.18" dur="0.44" conf="0.976"> Mitchell </Word>
+<Word stime="118.77" dur="0.11" conf="0.805"> the </Word>
+<Word stime="118.88" dur="0.37" conf="0.402"> genre </Word>
+<Word stime="118.88" dur="0.37" conf="0.116"> John </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="120.19" etime="139.49" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="120.19" dur="19.26" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

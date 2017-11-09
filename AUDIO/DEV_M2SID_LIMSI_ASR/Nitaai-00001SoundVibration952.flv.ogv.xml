@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Nitaai-00001SoundVibration952.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Nitaai-00001SoundVibration952.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="888.49" spdur="63.29"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="60.76" gender="1" spkid="MS1" lang="kor" lconf="0.36"/>
+<Speaker ch="1" dur="2.53" gender="2" spkid="FS1" lang="kor" lconf="0.36"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="97.39" etime="101.00" spkid="MS1" lang="kor" lconf="0.36"/>
+<SpeechSegment ch="1" sconf="1.00" stime="414.49" etime="420.41" spkid="MS1" lang="kor" lconf="0.36"/>
+<SpeechSegment ch="1" sconf="1.00" stime="437.66" etime="440.19" spkid="FS1" lang="kor" lconf="0.36"/>
+<SpeechSegment ch="1" sconf="1.00" stime="471.50" etime="475.05" spkid="MS1" lang="kor" lconf="0.36"/>
+<SpeechSegment ch="1" sconf="1.00" stime="641.24" etime="659.86" spkid="MS1" lang="kor" lconf="0.36"/>
+<SpeechSegment ch="1" sconf="1.00" stime="803.57" etime="818.00" spkid="MS1" lang="kor" lconf="0.36"/>
+<SpeechSegment ch="1" sconf="1.00" stime="834.83" etime="838.45" spkid="MS1" lang="kor" lconf="0.36"/>
+<SpeechSegment ch="1" sconf="1.00" stime="877.47" etime="888.48" spkid="MS1" lang="kor" lconf="0.36"/>
+</SegmentList>
+</AudioDoc>
