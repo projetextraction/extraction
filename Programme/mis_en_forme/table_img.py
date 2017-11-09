@@ -31,7 +31,7 @@ def recup_path_img(path):
 table_img = recup_path_img(path)
 
 #exemple of img importation an visualisation
-img = imread(table_img["path_img"][71])
+img = imread(table_img["path_img"][7])
 plt.imshow(img, cmap='Greys_r')
 
 
