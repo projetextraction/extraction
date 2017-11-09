@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Publicdomain-advertisment_sunbeam_bread_6984</CreationID>
+  <InitialFrameID>Publicdomain-advertisment_sunbeam_bread_6984/005.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:00:400F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:00:200F1000">Publicdomain-advertisment_sunbeam_bread_6984/005.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:00:400F1000" end="T00:00:15:360F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:07:880F1000">Publicdomain-advertisment_sunbeam_bread_6984/197.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:15:360F1000" end="T00:00:29:680F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:22:520F1000">Publicdomain-advertisment_sunbeam_bread_6984/563.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:29:680F1000" end="T00:00:30:080F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:29:880F1000">Publicdomain-advertisment_sunbeam_bread_6984/747.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

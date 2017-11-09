@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Wardy-Episode71Announcement737</CreationID>
+  <InitialFrameID>Wardy-Episode71Announcement737/1656.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:03:40:800F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:01:50:400F1000">Wardy-Episode71Announcement737/1656.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:42:600F1000" end="T00:03:44:133F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:03:43:333F1000">Wardy-Episode71Announcement737/3350.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:46:533F1000" end="T00:04:47:933F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:04:47:200F1000">Wardy-Episode71Announcement737/4308.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:57:933F1000" end="T00:05:01:600F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:04:59:733F1000">Wardy-Episode71Announcement737/4496.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

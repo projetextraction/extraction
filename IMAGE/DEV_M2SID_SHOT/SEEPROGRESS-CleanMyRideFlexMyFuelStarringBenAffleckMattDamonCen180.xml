@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180</CreationID>
+  <InitialFrameID>SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180/0024.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:03:200F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:600F1000">SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180/0024.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:03:200F1000" end="T00:00:11:466F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:07:333F1000">SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180/0110.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:11:466F1000" end="T00:00:18:533F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:15:000F1000">SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180/0225.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:18:533F1000" end="T00:00:22:266F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:20:400F1000">SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180/0306.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:22:266F1000" end="T00:00:24:866F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:23:533F1000">SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180/0353.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:24:866F1000" end="T00:00:34:266F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:29:533F1000">SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180/0443.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:34:266F1000" end="T00:01:09:933F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:00:52:066F1000">SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180/0781.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:09:933F1000" end="T00:01:16:133F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:01:13:000F1000">SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180/1095.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:16:133F1000" end="T00:01:21:600F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:01:18:866F1000">SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180/1183.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:21:600F1000" end="T00:01:24:133F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:01:22:866F1000">SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180/1243.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:24:133F1000" end="T00:01:27:200F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:01:25:666F1000">SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180/1285.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:27:200F1000" end="T00:01:29:933F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:01:28:533F1000">SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180/1328.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:29:933F1000" end="T00:01:33:066F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:01:31:466F1000">SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180/1372.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:33:066F1000" end="T00:01:35:266F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:01:34:133F1000">SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180/1412.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:35:266F1000" end="T00:01:39:066F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:01:37:133F1000">SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180/1457.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:39:066F1000" end="T00:01:45:400F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:01:42:200F1000">SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180/1533.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:45:400F1000" end="T00:01:51:266F1000">
+      <Index>16</Index>
+      <KeyFrameID time="T00:01:48:333F1000">SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180/1625.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:51:266F1000" end="T00:02:21:133F1000">
+      <Index>17</Index>
+      <KeyFrameID time="T00:02:06:200F1000">SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180/1893.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:21:133F1000" end="T00:02:26:866F1000">
+      <Index>18</Index>
+      <KeyFrameID time="T00:02:24:000F1000">SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180/2160.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:26:866F1000" end="T00:02:28:266F1000">
+      <Index>19</Index>
+      <KeyFrameID time="T00:02:27:533F1000">SEEPROGRESS-CleanMyRideFlexMyFuelStarringBenAffleckMattDamonCen180/2213.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

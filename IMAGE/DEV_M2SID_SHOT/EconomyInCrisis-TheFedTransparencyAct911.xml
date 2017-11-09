@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>EconomyInCrisis-TheFedTransparencyAct911</CreationID>
+  <InitialFrameID>EconomyInCrisis-TheFedTransparencyAct911/2237.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:04:58:333F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:02:29:133F1000">EconomyInCrisis-TheFedTransparencyAct911/2237.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:58:333F1000" end="T00:05:18:000F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:05:08:133F1000">EconomyInCrisis-TheFedTransparencyAct911/4622.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

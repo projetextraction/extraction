@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Eddiedotcom-TheCandySong809</CreationID>
+  <InitialFrameID>Eddiedotcom-TheCandySong809/018.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:02:466F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:200F1000">Eddiedotcom-TheCandySong809/018.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:02:466F1000" end="T00:00:08:933F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:05:666F1000">Eddiedotcom-TheCandySong809/085.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:08:933F1000" end="T00:00:51:400F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:30:133F1000">Eddiedotcom-TheCandySong809/452.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:51:400F1000" end="T00:00:58:933F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:55:133F1000">Eddiedotcom-TheCandySong809/827.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:58:933F1000" end="T00:00:59:866F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:59:400F1000">Eddiedotcom-TheCandySong809/891.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

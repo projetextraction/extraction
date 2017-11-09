@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Sgallasch-2008NABBAUNIVERSEDVDPREVIEW975</CreationID>
+  <InitialFrameID>Sgallasch-2008NABBAUNIVERSEDVDPREVIEW975/0031.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:02:520F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:240F1000">Sgallasch-2008NABBAUNIVERSEDVDPREVIEW975/0031.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:02:520F1000" end="T00:00:07:080F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:04:800F1000">Sgallasch-2008NABBAUNIVERSEDVDPREVIEW975/0120.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:07:080F1000" end="T00:00:24:400F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:15:720F1000">Sgallasch-2008NABBAUNIVERSEDVDPREVIEW975/0393.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:25:280F1000" end="T00:00:26:400F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:25:840F1000">Sgallasch-2008NABBAUNIVERSEDVDPREVIEW975/0646.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:00:040F1000" end="T00:01:01:720F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:01:00:880F1000">Sgallasch-2008NABBAUNIVERSEDVDPREVIEW975/1522.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

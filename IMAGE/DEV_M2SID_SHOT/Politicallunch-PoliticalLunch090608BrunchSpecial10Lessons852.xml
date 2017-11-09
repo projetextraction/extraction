@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852</CreationID>
+  <InitialFrameID>Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/0160.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:21:400F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:10:666F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/0160.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:21:400F1000" end="T00:00:25:000F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:23:200F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/0348.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:25:000F1000" end="T00:00:27:000F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:26:000F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/0390.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:27:000F1000" end="T00:00:36:333F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:31:666F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/0475.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:36:333F1000" end="T00:00:42:866F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:39:600F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/0594.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:42:866F1000" end="T00:00:58:733F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:50:800F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/0762.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:58:733F1000" end="T00:01:04:333F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:01:01:533F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/0923.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:04:333F1000" end="T00:01:17:600F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:01:10:933F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/1064.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:17:600F1000" end="T00:01:19:333F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:01:18:466F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/1177.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:19:333F1000" end="T00:01:34:400F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:01:26:866F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/1303.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:34:400F1000" end="T00:01:40:800F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:01:37:600F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/1464.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:40:800F1000" end="T00:02:13:000F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:01:56:866F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/1753.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:13:000F1000" end="T00:02:15:933F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:02:14:466F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/2017.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:15:933F1000" end="T00:02:24:600F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:02:20:266F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/2104.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:24:600F1000" end="T00:02:27:800F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:02:26:200F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/2193.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:27:800F1000" end="T00:02:42:000F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:02:34:866F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/2323.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:42:000F1000" end="T00:02:47:400F1000">
+      <Index>16</Index>
+      <KeyFrameID time="T00:02:44:666F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/2470.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:47:400F1000" end="T00:03:12:600F1000">
+      <Index>17</Index>
+      <KeyFrameID time="T00:03:00:000F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/2700.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:12:600F1000" end="T00:03:16:733F1000">
+      <Index>18</Index>
+      <KeyFrameID time="T00:03:14:666F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/2920.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:16:733F1000" end="T00:03:35:333F1000">
+      <Index>19</Index>
+      <KeyFrameID time="T00:03:26:000F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/3090.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:35:333F1000" end="T00:03:43:600F1000">
+      <Index>20</Index>
+      <KeyFrameID time="T00:03:39:466F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/3292.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:43:600F1000" end="T00:03:52:666F1000">
+      <Index>21</Index>
+      <KeyFrameID time="T00:03:48:133F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/3422.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:52:666F1000" end="T00:03:58:000F1000">
+      <Index>22</Index>
+      <KeyFrameID time="T00:03:55:333F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/3530.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:58:000F1000" end="T00:04:05:466F1000">
+      <Index>23</Index>
+      <KeyFrameID time="T00:04:01:733F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/3626.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:05:466F1000" end="T00:04:15:200F1000">
+      <Index>24</Index>
+      <KeyFrameID time="T00:04:10:333F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/3755.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:15:200F1000" end="T00:04:40:200F1000">
+      <Index>25</Index>
+      <KeyFrameID time="T00:04:27:666F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/4015.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:40:200F1000" end="T00:04:47:266F1000">
+      <Index>26</Index>
+      <KeyFrameID time="T00:04:43:733F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/4256.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:47:266F1000" end="T00:04:54:066F1000">
+      <Index>27</Index>
+      <KeyFrameID time="T00:04:50:666F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/4360.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:54:066F1000" end="T00:04:57:800F1000">
+      <Index>28</Index>
+      <KeyFrameID time="T00:04:55:933F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/4439.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:57:800F1000" end="T00:05:26:866F1000">
+      <Index>29</Index>
+      <KeyFrameID time="T00:05:12:333F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/4685.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:26:866F1000" end="T00:05:28:933F1000">
+      <Index>30</Index>
+      <KeyFrameID time="T00:05:27:866F1000">Politicallunch-PoliticalLunch090608BrunchSpecial10Lessons852/4918.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

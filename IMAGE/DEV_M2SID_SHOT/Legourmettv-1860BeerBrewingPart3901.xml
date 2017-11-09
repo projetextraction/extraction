@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Legourmettv-1860BeerBrewingPart3901</CreationID>
+  <InitialFrameID>Legourmettv-1860BeerBrewingPart3901/0029.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:02:458F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:208F1000">Legourmettv-1860BeerBrewingPart3901/0029.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:02:458F1000" end="T00:00:09:875F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:06:166F1000">Legourmettv-1860BeerBrewingPart3901/0148.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:09:875F1000" end="T00:00:18:375F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:14:125F1000">Legourmettv-1860BeerBrewingPart3901/0339.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:18:375F1000" end="T00:00:34:375F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:26:375F1000">Legourmettv-1860BeerBrewingPart3901/0633.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:34:375F1000" end="T00:00:36:416F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:35:375F1000">Legourmettv-1860BeerBrewingPart3901/0849.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:36:416F1000" end="T00:00:44:833F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:40:625F1000">Legourmettv-1860BeerBrewingPart3901/0975.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:44:833F1000" end="T00:00:49:791F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:00:47:291F1000">Legourmettv-1860BeerBrewingPart3901/1135.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:49:791F1000" end="T00:00:56:708F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:00:53:250F1000">Legourmettv-1860BeerBrewingPart3901/1278.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:57:666F1000" end="T00:00:58:791F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:00:58:208F1000">Legourmettv-1860BeerBrewingPart3901/1397.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:07:291F1000" end="T00:01:08:166F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:01:07:708F1000">Legourmettv-1860BeerBrewingPart3901/1625.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:25:250F1000" end="T00:01:29:916F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:01:27:583F1000">Legourmettv-1860BeerBrewingPart3901/2102.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:31:375F1000" end="T00:01:31:958F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:01:31:666F1000">Legourmettv-1860BeerBrewingPart3901/2200.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:33:291F1000" end="T00:01:33:958F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:01:33:625F1000">Legourmettv-1860BeerBrewingPart3901/2247.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:35:208F1000" end="T00:01:36:083F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:01:35:625F1000">Legourmettv-1860BeerBrewingPart3901/2295.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:37:208F1000" end="T00:01:39:333F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:01:38:250F1000">Legourmettv-1860BeerBrewingPart3901/2358.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:39:333F1000" end="T00:01:46:458F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:01:42:875F1000">Legourmettv-1860BeerBrewingPart3901/2469.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:46:458F1000" end="T00:02:05:166F1000">
+      <Index>16</Index>
+      <KeyFrameID time="T00:01:55:791F1000">Legourmettv-1860BeerBrewingPart3901/2779.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:05:166F1000" end="T00:02:18:500F1000">
+      <Index>17</Index>
+      <KeyFrameID time="T00:02:11:833F1000">Legourmettv-1860BeerBrewingPart3901/3164.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:18:500F1000" end="T00:02:25:166F1000">
+      <Index>18</Index>
+      <KeyFrameID time="T00:02:21:833F1000">Legourmettv-1860BeerBrewingPart3901/3404.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:25:166F1000" end="T00:02:29:583F1000">
+      <Index>19</Index>
+      <KeyFrameID time="T00:02:27:375F1000">Legourmettv-1860BeerBrewingPart3901/3537.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:29:583F1000" end="T00:02:41:541F1000">
+      <Index>20</Index>
+      <KeyFrameID time="T00:02:35:541F1000">Legourmettv-1860BeerBrewingPart3901/3733.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:42:916F1000" end="T00:02:43:791F1000">
+      <Index>21</Index>
+      <KeyFrameID time="T00:02:43:333F1000">Legourmettv-1860BeerBrewingPart3901/3920.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:44:333F1000" end="T00:02:45:208F1000">
+      <Index>22</Index>
+      <KeyFrameID time="T00:02:44:750F1000">Legourmettv-1860BeerBrewingPart3901/3954.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:58:041F1000" end="T00:03:07:958F1000">
+      <Index>23</Index>
+      <KeyFrameID time="T00:03:03:000F1000">Legourmettv-1860BeerBrewingPart3901/4392.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

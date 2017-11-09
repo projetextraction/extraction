@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895</CreationID>
+  <InitialFrameID>Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/0005.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:00:666F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:00:333F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/0005.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:00:666F1000" end="T00:00:11:533F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:06:066F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/0091.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:11:533F1000" end="T00:00:20:200F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:15:866F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/0238.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:20:200F1000" end="T00:01:23:200F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:51:666F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/0775.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:23:200F1000" end="T00:01:31:733F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:01:27:466F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/1312.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:31:733F1000" end="T00:01:38:266F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:01:35:000F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/1425.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:38:266F1000" end="T00:01:46:266F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:01:42:266F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/1534.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:46:266F1000" end="T00:01:53:933F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:01:50:066F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/1651.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:53:933F1000" end="T00:02:08:133F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:02:01:000F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/1815.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:08:133F1000" end="T00:02:22:466F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:02:15:266F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/2029.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:22:466F1000" end="T00:02:52:266F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:02:37:333F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/2360.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:52:266F1000" end="T00:03:00:333F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:02:56:266F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/2644.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:00:333F1000" end="T00:03:08:600F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:03:04:466F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/2767.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:08:600F1000" end="T00:03:18:600F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:03:13:600F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/2904.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:18:600F1000" end="T00:03:21:200F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:03:19:866F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/2998.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:21:200F1000" end="T00:03:23:866F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:03:22:533F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/3038.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:23:866F1000" end="T00:03:33:666F1000">
+      <Index>16</Index>
+      <KeyFrameID time="T00:03:28:733F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/3131.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:33:666F1000" end="T00:04:03:266F1000">
+      <Index>17</Index>
+      <KeyFrameID time="T00:03:48:466F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/3427.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:03:266F1000" end="T00:04:24:933F1000">
+      <Index>18</Index>
+      <KeyFrameID time="T00:04:14:066F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/3811.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:24:933F1000" end="T00:04:29:066F1000">
+      <Index>19</Index>
+      <KeyFrameID time="T00:04:27:000F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/4005.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:29:066F1000" end="T00:04:36:533F1000">
+      <Index>20</Index>
+      <KeyFrameID time="T00:04:32:800F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/4092.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:36:533F1000" end="T00:04:40:066F1000">
+      <Index>21</Index>
+      <KeyFrameID time="T00:04:38:266F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/4174.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:40:066F1000" end="T00:04:50:066F1000">
+      <Index>22</Index>
+      <KeyFrameID time="T00:04:45:066F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/4276.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:50:066F1000" end="T00:05:01:533F1000">
+      <Index>23</Index>
+      <KeyFrameID time="T00:04:55:800F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/4437.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:01:533F1000" end="T00:05:11:400F1000">
+      <Index>24</Index>
+      <KeyFrameID time="T00:05:06:466F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/4597.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:11:400F1000" end="T00:05:19:400F1000">
+      <Index>25</Index>
+      <KeyFrameID time="T00:05:15:400F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/4731.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:19:400F1000" end="T00:07:09:666F1000">
+      <Index>26</Index>
+      <KeyFrameID time="T00:06:14:533F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/5618.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:09:666F1000" end="T00:07:15:533F1000">
+      <Index>27</Index>
+      <KeyFrameID time="T00:07:12:600F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/6489.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:15:533F1000" end="T00:07:35:866F1000">
+      <Index>28</Index>
+      <KeyFrameID time="T00:07:25:666F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/6685.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:35:866F1000" end="T00:07:38:800F1000">
+      <Index>29</Index>
+      <KeyFrameID time="T00:07:37:333F1000">Thatsportsshow-TwitsTwitterAndMattStraqsHeadExploding895/6860.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

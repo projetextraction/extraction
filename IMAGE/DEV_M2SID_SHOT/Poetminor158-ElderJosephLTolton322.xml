@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Poetminor158-ElderJosephLTolton322</CreationID>
+  <InitialFrameID>Poetminor158-ElderJosephLTolton322/00059.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:03:966F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:966F1000">Poetminor158-ElderJosephLTolton322/00059.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:03:966F1000" end="T00:08:17:700F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:04:10:833F1000">Poetminor158-ElderJosephLTolton322/07525.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:08:17:700F1000" end="T00:08:18:566F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:08:18:133F1000">Poetminor158-ElderJosephLTolton322/14944.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

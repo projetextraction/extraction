@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Etopianewsnow-MarcLawrenceTalksAboutLongTimeNoSee175</CreationID>
+  <InitialFrameID>Etopianewsnow-MarcLawrenceTalksAboutLongTimeNoSee175/0045.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:03:033F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:500F1000">Etopianewsnow-MarcLawrenceTalksAboutLongTimeNoSee175/0045.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:03:033F1000" end="T00:02:31:700F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:01:17:366F1000">Etopianewsnow-MarcLawrenceTalksAboutLongTimeNoSee175/2321.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:31:700F1000" end="T00:02:32:466F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:02:32:066F1000">Etopianewsnow-MarcLawrenceTalksAboutLongTimeNoSee175/4562.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

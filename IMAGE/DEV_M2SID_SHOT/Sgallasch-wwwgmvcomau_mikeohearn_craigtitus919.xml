@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Sgallasch-wwwgmvcomau_mikeohearn_craigtitus919</CreationID>
+  <InitialFrameID>Sgallasch-wwwgmvcomau_mikeohearn_craigtitus919/0153.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:12:240F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:06:120F1000">Sgallasch-wwwgmvcomau_mikeohearn_craigtitus919/0153.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:12:240F1000" end="T00:02:01:480F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:01:06:840F1000">Sgallasch-wwwgmvcomau_mikeohearn_craigtitus919/1671.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:01:480F1000" end="T00:02:02:520F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:02:02:000F1000">Sgallasch-wwwgmvcomau_mikeohearn_craigtitus919/3050.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:02:520F1000" end="T00:02:03:960F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:02:03:240F1000">Sgallasch-wwwgmvcomau_mikeohearn_craigtitus919/3081.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

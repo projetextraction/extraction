@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Bluecanoerecords-NabilKhemir770</CreationID>
+  <InitialFrameID>Bluecanoerecords-NabilKhemir770/0035.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:04:666F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:02:333F1000">Bluecanoerecords-NabilKhemir770/0035.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:04:666F1000" end="T00:00:08:066F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:06:333F1000">Bluecanoerecords-NabilKhemir770/0095.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:08:066F1000" end="T00:00:14:733F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:11:400F1000">Bluecanoerecords-NabilKhemir770/0171.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:14:733F1000" end="T00:00:51:600F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:33:133F1000">Bluecanoerecords-NabilKhemir770/0497.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:51:600F1000" end="T00:01:16:000F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:01:03:800F1000">Bluecanoerecords-NabilKhemir770/0957.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:16:000F1000" end="T00:01:19:533F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:01:17:733F1000">Bluecanoerecords-NabilKhemir770/1166.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:19:533F1000" end="T00:01:30:666F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:01:25:066F1000">Bluecanoerecords-NabilKhemir770/1276.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:30:666F1000" end="T00:01:37:800F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:01:34:200F1000">Bluecanoerecords-NabilKhemir770/1413.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:37:800F1000" end="T00:01:46:066F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:01:41:933F1000">Bluecanoerecords-NabilKhemir770/1529.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:46:066F1000" end="T00:02:05:933F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:01:56:000F1000">Bluecanoerecords-NabilKhemir770/1740.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:05:933F1000" end="T00:02:09:000F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:02:07:466F1000">Bluecanoerecords-NabilKhemir770/1912.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:09:000F1000" end="T00:02:12:933F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:02:10:933F1000">Bluecanoerecords-NabilKhemir770/1964.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:12:933F1000" end="T00:02:16:866F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:02:14:866F1000">Bluecanoerecords-NabilKhemir770/2023.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:16:866F1000" end="T00:02:23:200F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:02:20:000F1000">Bluecanoerecords-NabilKhemir770/2100.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:23:200F1000" end="T00:02:27:466F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:02:25:333F1000">Bluecanoerecords-NabilKhemir770/2180.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:27:466F1000" end="T00:03:21:400F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:02:54:400F1000">Bluecanoerecords-NabilKhemir770/2616.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

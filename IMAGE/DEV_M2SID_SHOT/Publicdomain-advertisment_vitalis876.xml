@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Publicdomain-advertisment_vitalis876</CreationID>
+  <InitialFrameID>Publicdomain-advertisment_vitalis876/449.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:59:933F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:29:933F1000">Publicdomain-advertisment_vitalis876/449.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

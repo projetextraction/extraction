@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Dinap830-GE26BindsThoseBlastedTraps955</CreationID>
+  <InitialFrameID>Dinap830-GE26BindsThoseBlastedTraps955/0049.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:03:266F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:633F1000">Dinap830-GE26BindsThoseBlastedTraps955/0049.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:03:266F1000" end="T00:00:07:166F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:05:200F1000">Dinap830-GE26BindsThoseBlastedTraps955/0156.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:07:166F1000" end="T00:03:20:366F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:01:43:766F1000">Dinap830-GE26BindsThoseBlastedTraps955/3113.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:20:366F1000" end="T00:03:24:400F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:03:22:366F1000">Dinap830-GE26BindsThoseBlastedTraps955/6071.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

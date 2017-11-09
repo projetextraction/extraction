@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>EconomyInCrisis-ASolutionToTheTradeDeficit674</CreationID>
+  <InitialFrameID>EconomyInCrisis-ASolutionToTheTradeDeficit674/2193.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:04:52:400F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:02:26:200F1000">EconomyInCrisis-ASolutionToTheTradeDeficit674/2193.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:52:400F1000" end="T00:05:12:133F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:05:02:266F1000">EconomyInCrisis-ASolutionToTheTradeDeficit674/4534.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

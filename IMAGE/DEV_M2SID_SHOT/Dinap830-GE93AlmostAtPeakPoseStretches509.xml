@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Dinap830-GE93AlmostAtPeakPoseStretches509</CreationID>
+  <InitialFrameID>Dinap830-GE93AlmostAtPeakPoseStretches509/0055.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:03:666F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:833F1000">Dinap830-GE93AlmostAtPeakPoseStretches509/0055.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:03:666F1000" end="T00:00:07:633F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:05:633F1000">Dinap830-GE93AlmostAtPeakPoseStretches509/0169.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:07:633F1000" end="T00:00:34:300F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:20:966F1000">Dinap830-GE93AlmostAtPeakPoseStretches509/0629.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:34:300F1000" end="T00:01:30:266F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:01:02:266F1000">Dinap830-GE93AlmostAtPeakPoseStretches509/1868.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:30:266F1000" end="T00:02:39:433F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:02:04:833F1000">Dinap830-GE93AlmostAtPeakPoseStretches509/3745.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:39:433F1000" end="T00:03:48:700F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:03:14:066F1000">Dinap830-GE93AlmostAtPeakPoseStretches509/5822.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:48:700F1000" end="T00:04:04:766F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:03:56:733F1000">Dinap830-GE93AlmostAtPeakPoseStretches509/7102.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:04:766F1000" end="T00:04:12:833F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:04:08:800F1000">Dinap830-GE93AlmostAtPeakPoseStretches509/7464.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:12:833F1000" end="T00:04:16:266F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:04:14:533F1000">Dinap830-GE93AlmostAtPeakPoseStretches509/7636.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

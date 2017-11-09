@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>InnerBonding-UnderstandingAndOvercomingAddictions970</CreationID>
+  <InitialFrameID>InnerBonding-UnderstandingAndOvercomingAddictions970/2837.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:07:52:916F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:03:56:416F1000">InnerBonding-UnderstandingAndOvercomingAddictions970/2837.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Lauraflanders-GRITtvDavidBenderOnTheHillaryRFKFlap225</CreationID>
+  <InitialFrameID>Lauraflanders-GRITtvDavidBenderOnTheHillaryRFKFlap225/0084.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:11:266F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:05:600F1000">Lauraflanders-GRITtvDavidBenderOnTheHillaryRFKFlap225/0084.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:11:266F1000" end="T00:03:23:866F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:01:47:533F1000">Lauraflanders-GRITtvDavidBenderOnTheHillaryRFKFlap225/1613.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

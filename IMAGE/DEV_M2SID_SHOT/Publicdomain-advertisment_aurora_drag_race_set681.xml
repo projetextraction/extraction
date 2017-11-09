@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Publicdomain-advertisment_aurora_drag_race_set681</CreationID>
+  <InitialFrameID>Publicdomain-advertisment_aurora_drag_race_set681/0024.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:01:920F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:00:960F1000">Publicdomain-advertisment_aurora_drag_race_set681/0024.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:01:920F1000" end="T00:00:08:200F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:05:040F1000">Publicdomain-advertisment_aurora_drag_race_set681/0126.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:08:200F1000" end="T00:00:09:800F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:09:000F1000">Publicdomain-advertisment_aurora_drag_race_set681/0225.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:09:800F1000" end="T00:00:13:600F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:11:680F1000">Publicdomain-advertisment_aurora_drag_race_set681/0292.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:13:600F1000" end="T00:00:16:800F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:15:200F1000">Publicdomain-advertisment_aurora_drag_race_set681/0380.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:16:800F1000" end="T00:00:18:040F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:17:400F1000">Publicdomain-advertisment_aurora_drag_race_set681/0435.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:18:040F1000" end="T00:00:20:400F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:00:19:200F1000">Publicdomain-advertisment_aurora_drag_race_set681/0480.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:20:400F1000" end="T00:00:22:240F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:00:21:320F1000">Publicdomain-advertisment_aurora_drag_race_set681/0533.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:22:240F1000" end="T00:00:23:440F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:00:22:840F1000">Publicdomain-advertisment_aurora_drag_race_set681/0571.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:23:440F1000" end="T00:00:24:920F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:00:24:160F1000">Publicdomain-advertisment_aurora_drag_race_set681/0604.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:24:920F1000" end="T00:00:26:600F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:00:25:760F1000">Publicdomain-advertisment_aurora_drag_race_set681/0644.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:26:600F1000" end="T00:00:29:720F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:00:28:160F1000">Publicdomain-advertisment_aurora_drag_race_set681/0704.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:29:720F1000" end="T00:00:31:000F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:00:30:360F1000">Publicdomain-advertisment_aurora_drag_race_set681/0759.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:31:000F1000" end="T00:00:32:119F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:00:31:560F1000">Publicdomain-advertisment_aurora_drag_race_set681/0789.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:32:119F1000" end="T00:00:37:120F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:00:34:600F1000">Publicdomain-advertisment_aurora_drag_race_set681/0865.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:37:120F1000" end="T00:00:40:840F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:00:38:960F1000">Publicdomain-advertisment_aurora_drag_race_set681/0974.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:40:840F1000" end="T00:00:41:920F1000">
+      <Index>16</Index>
+      <KeyFrameID time="T00:00:41:360F1000">Publicdomain-advertisment_aurora_drag_race_set681/1034.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:41:920F1000" end="T00:00:43:920F1000">
+      <Index>17</Index>
+      <KeyFrameID time="T00:00:42:920F1000">Publicdomain-advertisment_aurora_drag_race_set681/1073.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:43:920F1000" end="T00:00:48:800F1000">
+      <Index>18</Index>
+      <KeyFrameID time="T00:00:46:360F1000">Publicdomain-advertisment_aurora_drag_race_set681/1159.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:48:800F1000" end="T00:00:51:320F1000">
+      <Index>19</Index>
+      <KeyFrameID time="T00:00:50:040F1000">Publicdomain-advertisment_aurora_drag_race_set681/1251.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:51:320F1000" end="T00:00:52:600F1000">
+      <Index>20</Index>
+      <KeyFrameID time="T00:00:51:960F1000">Publicdomain-advertisment_aurora_drag_race_set681/1299.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:52:600F1000" end="T00:00:58:320F1000">
+      <Index>21</Index>
+      <KeyFrameID time="T00:00:55:440F1000">Publicdomain-advertisment_aurora_drag_race_set681/1386.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:58:320F1000" end="T00:00:58:960F1000">
+      <Index>22</Index>
+      <KeyFrameID time="T00:00:58:640F1000">Publicdomain-advertisment_aurora_drag_race_set681/1466.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

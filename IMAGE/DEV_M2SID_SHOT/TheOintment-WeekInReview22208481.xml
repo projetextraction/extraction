@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>TheOintment-WeekInReview22208481</CreationID>
+  <InitialFrameID>TheOintment-WeekInReview22208481/0005.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:00:666F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:00:333F1000">TheOintment-WeekInReview22208481/0005.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:00:666F1000" end="T00:00:03:200F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:01:933F1000">TheOintment-WeekInReview22208481/0029.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:03:200F1000" end="T00:00:54:133F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:28:666F1000">TheOintment-WeekInReview22208481/0430.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:54:133F1000" end="T00:01:00:000F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:57:066F1000">TheOintment-WeekInReview22208481/0856.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:00:000F1000" end="T00:05:37:000F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:03:18:466F1000">TheOintment-WeekInReview22208481/2977.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:37:000F1000" end="T00:07:37:866F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:06:37:400F1000">TheOintment-WeekInReview22208481/5961.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:37:866F1000" end="T00:07:49:933F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:07:43:866F1000">TheOintment-WeekInReview22208481/6958.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Lauraflanders-TheFWordAugust142008569</CreationID>
+  <InitialFrameID>Lauraflanders-TheFWordAugust142008569/1638.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:01:49:233F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:54:600F1000">Lauraflanders-TheFWordAugust142008569/1638.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

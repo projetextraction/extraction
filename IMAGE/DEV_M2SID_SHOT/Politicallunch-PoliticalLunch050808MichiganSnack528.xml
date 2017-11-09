@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Politicallunch-PoliticalLunch050808MichiganSnack528</CreationID>
+  <InitialFrameID>Politicallunch-PoliticalLunch050808MichiganSnack528/0062.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:08:266F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:04:133F1000">Politicallunch-PoliticalLunch050808MichiganSnack528/0062.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:08:266F1000" end="T00:00:14:533F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:11:400F1000">Politicallunch-PoliticalLunch050808MichiganSnack528/0171.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:14:533F1000" end="T00:01:31:666F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:53:066F1000">Politicallunch-PoliticalLunch050808MichiganSnack528/0796.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:31:666F1000" end="T00:01:46:866F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:01:39:266F1000">Politicallunch-PoliticalLunch050808MichiganSnack528/1489.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:46:866F1000" end="T00:04:46:800F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:03:16:800F1000">Politicallunch-PoliticalLunch050808MichiganSnack528/2952.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:46:800F1000" end="T00:05:04:533F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:04:55:666F1000">Politicallunch-PoliticalLunch050808MichiganSnack528/4435.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:04:533F1000" end="T00:05:19:866F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:05:12:200F1000">Politicallunch-PoliticalLunch050808MichiganSnack528/4683.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:19:866F1000" end="T00:05:33:400F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:05:26:600F1000">Politicallunch-PoliticalLunch050808MichiganSnack528/4899.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:33:400F1000" end="T00:05:57:933F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:05:45:666F1000">Politicallunch-PoliticalLunch050808MichiganSnack528/5185.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:57:933F1000" end="T00:06:11:800F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:06:04:866F1000">Politicallunch-PoliticalLunch050808MichiganSnack528/5473.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:06:11:800F1000" end="T00:07:01:333F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:06:36:533F1000">Politicallunch-PoliticalLunch050808MichiganSnack528/5948.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:01:333F1000" end="T00:07:22:266F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:07:11:800F1000">Politicallunch-PoliticalLunch050808MichiganSnack528/6477.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:22:266F1000" end="T00:07:23:933F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:07:23:066F1000">Politicallunch-PoliticalLunch050808MichiganSnack528/6646.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Hrocus-BradKlippert400</CreationID>
+  <InitialFrameID>Hrocus-BradKlippert400/034.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:02:266F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:133F1000">Hrocus-BradKlippert400/034.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:03:333F1000" end="T00:00:04:033F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:03:666F1000">Hrocus-BradKlippert400/110.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:11:933F1000" end="T00:00:12:800F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:12:366F1000">Hrocus-BradKlippert400/371.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

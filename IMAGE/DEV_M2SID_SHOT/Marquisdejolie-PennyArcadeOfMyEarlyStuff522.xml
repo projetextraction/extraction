@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Marquisdejolie-PennyArcadeOfMyEarlyStuff522</CreationID>
+  <InitialFrameID>Marquisdejolie-PennyArcadeOfMyEarlyStuff522/0036.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:03:000F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:500F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/0036.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:03:000F1000" end="T00:00:46:083F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:24:541F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/0589.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:46:083F1000" end="T00:00:50:083F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:48:083F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/1154.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:50:083F1000" end="T00:00:55:333F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:52:708F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/1265.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:55:333F1000" end="T00:00:57:083F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:56:208F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/1349.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:57:083F1000" end="T00:01:05:458F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:01:01:250F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/1470.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:05:458F1000" end="T00:01:06:541F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:01:06:000F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/1584.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:06:541F1000" end="T00:01:08:208F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:01:07:375F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/1617.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:08:208F1000" end="T00:01:10:333F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:01:09:250F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/1662.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:10:333F1000" end="T00:01:12:500F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:01:11:416F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/1714.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:12:500F1000" end="T00:01:16:166F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:01:14:333F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/1784.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:16:166F1000" end="T00:01:17:458F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:01:16:791F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/1843.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:17:458F1000" end="T00:01:19:916F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:01:18:666F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/1888.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:19:916F1000" end="T00:01:21:166F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:01:20:541F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/1933.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:21:166F1000" end="T00:01:22:291F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:01:21:708F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/1961.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:22:291F1000" end="T00:01:29:916F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:01:26:083F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/2066.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:29:916F1000" end="T00:01:34:500F1000">
+      <Index>16</Index>
+      <KeyFrameID time="T00:01:32:208F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/2213.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:34:500F1000" end="T00:01:35:708F1000">
+      <Index>17</Index>
+      <KeyFrameID time="T00:01:35:083F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/2282.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:35:708F1000" end="T00:01:36:833F1000">
+      <Index>18</Index>
+      <KeyFrameID time="T00:01:36:250F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/2310.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:36:833F1000" end="T00:01:37:958F1000">
+      <Index>19</Index>
+      <KeyFrameID time="T00:01:37:375F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/2337.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:37:958F1000" end="T00:01:39:041F1000">
+      <Index>20</Index>
+      <KeyFrameID time="T00:01:38:500F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/2364.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:39:041F1000" end="T00:01:40:166F1000">
+      <Index>21</Index>
+      <KeyFrameID time="T00:01:39:583F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/2390.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:40:166F1000" end="T00:01:41:750F1000">
+      <Index>22</Index>
+      <KeyFrameID time="T00:01:40:958F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/2423.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:41:750F1000" end="T00:01:46:958F1000">
+      <Index>23</Index>
+      <KeyFrameID time="T00:01:44:333F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/2504.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:46:958F1000" end="T00:01:52:750F1000">
+      <Index>24</Index>
+      <KeyFrameID time="T00:01:49:833F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/2636.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:52:750F1000" end="T00:01:56:375F1000">
+      <Index>25</Index>
+      <KeyFrameID time="T00:01:54:541F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/2749.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:56:375F1000" end="T00:02:02:458F1000">
+      <Index>26</Index>
+      <KeyFrameID time="T00:01:59:416F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/2866.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:02:458F1000" end="T00:02:04:541F1000">
+      <Index>27</Index>
+      <KeyFrameID time="T00:02:03:500F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/2964.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:04:541F1000" end="T00:02:06:833F1000">
+      <Index>28</Index>
+      <KeyFrameID time="T00:02:05:666F1000">Marquisdejolie-PennyArcadeOfMyEarlyStuff522/3016.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

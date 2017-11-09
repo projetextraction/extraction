@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>NickDutch-FreeTarotReadings465</CreationID>
+  <InitialFrameID>NickDutch-FreeTarotReadings465/014.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:00:966F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:00:466F1000">NickDutch-FreeTarotReadings465/014.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

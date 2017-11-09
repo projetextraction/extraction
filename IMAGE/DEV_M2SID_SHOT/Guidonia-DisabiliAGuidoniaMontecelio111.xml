@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Guidonia-DisabiliAGuidoniaMontecelio111</CreationID>
+  <InitialFrameID>Guidonia-DisabiliAGuidoniaMontecelio111/0959.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:01:13:769F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:36:884F1000">Guidonia-DisabiliAGuidoniaMontecelio111/0959.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

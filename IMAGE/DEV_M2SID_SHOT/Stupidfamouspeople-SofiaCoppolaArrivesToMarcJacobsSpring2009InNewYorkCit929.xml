@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Stupidfamouspeople-SofiaCoppolaArrivesToMarcJacobsSpring2009InNewYorkCit929</CreationID>
+  <InitialFrameID>Stupidfamouspeople-SofiaCoppolaArrivesToMarcJacobsSpring2009InNewYorkCit929/0047.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:03:032F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:516F1000">Stupidfamouspeople-SofiaCoppolaArrivesToMarcJacobsSpring2009InNewYorkCit929/0047.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:03:032F1000" end="T00:00:04:580F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:03:806F1000">Stupidfamouspeople-SofiaCoppolaArrivesToMarcJacobsSpring2009InNewYorkCit929/0118.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:04:580F1000" end="T00:00:05:903F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:05:225F1000">Stupidfamouspeople-SofiaCoppolaArrivesToMarcJacobsSpring2009InNewYorkCit929/0162.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:05:903F1000" end="T00:00:07:225F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:06:548F1000">Stupidfamouspeople-SofiaCoppolaArrivesToMarcJacobsSpring2009InNewYorkCit929/0203.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:07:225F1000" end="T00:00:08:193F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:07:709F1000">Stupidfamouspeople-SofiaCoppolaArrivesToMarcJacobsSpring2009InNewYorkCit929/0239.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:08:193F1000" end="T00:00:09:258F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:08:709F1000">Stupidfamouspeople-SofiaCoppolaArrivesToMarcJacobsSpring2009InNewYorkCit929/0270.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:09:258F1000" end="T00:00:12:322F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:00:10:774F1000">Stupidfamouspeople-SofiaCoppolaArrivesToMarcJacobsSpring2009InNewYorkCit929/0334.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:12:322F1000" end="T00:00:17:838F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:00:15:064F1000">Stupidfamouspeople-SofiaCoppolaArrivesToMarcJacobsSpring2009InNewYorkCit929/0467.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:17:838F1000" end="T00:00:19:741F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:00:18:774F1000">Stupidfamouspeople-SofiaCoppolaArrivesToMarcJacobsSpring2009InNewYorkCit929/0582.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:19:741F1000" end="T00:00:20:645F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:00:20:193F1000">Stupidfamouspeople-SofiaCoppolaArrivesToMarcJacobsSpring2009InNewYorkCit929/0626.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:20:645F1000" end="T00:00:21:806F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:00:21:225F1000">Stupidfamouspeople-SofiaCoppolaArrivesToMarcJacobsSpring2009InNewYorkCit929/0658.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:21:806F1000" end="T00:00:25:870F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:00:23:838F1000">Stupidfamouspeople-SofiaCoppolaArrivesToMarcJacobsSpring2009InNewYorkCit929/0739.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:25:870F1000" end="T00:00:27:225F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:00:26:548F1000">Stupidfamouspeople-SofiaCoppolaArrivesToMarcJacobsSpring2009InNewYorkCit929/0823.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:27:225F1000" end="T00:00:45:709F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:00:36:451F1000">Stupidfamouspeople-SofiaCoppolaArrivesToMarcJacobsSpring2009InNewYorkCit929/1130.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

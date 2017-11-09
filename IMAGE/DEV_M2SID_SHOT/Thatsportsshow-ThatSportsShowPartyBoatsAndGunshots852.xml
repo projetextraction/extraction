@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852</CreationID>
+  <InitialFrameID>Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/0005.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:00:666F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:00:333F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/0005.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:00:666F1000" end="T00:00:13:400F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:07:000F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/0105.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:13:400F1000" end="T00:00:22:666F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:18:000F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/0270.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:22:666F1000" end="T00:00:35:733F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:29:200F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/0438.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:35:733F1000" end="T00:00:48:333F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:42:000F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/0630.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:48:333F1000" end="T00:01:40:666F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:01:14:466F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/1117.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:40:666F1000" end="T00:01:44:866F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:01:42:733F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/1541.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:44:866F1000" end="T00:01:49:266F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:01:47:066F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/1606.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:49:266F1000" end="T00:01:51:800F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:01:50:533F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/1658.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:51:800F1000" end="T00:02:04:133F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:01:57:933F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/1769.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:04:133F1000" end="T00:02:09:199F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:02:06:666F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/1900.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:09:199F1000" end="T00:02:14:466F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:02:11:800F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/1977.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:14:466F1000" end="T00:02:17:866F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:02:16:133F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/2042.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:17:866F1000" end="T00:02:22:266F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:02:20:066F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/2101.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:22:266F1000" end="T00:03:57:866F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:03:10:066F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/2851.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:57:866F1000" end="T00:04:17:933F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:04:07:866F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/3718.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:17:933F1000" end="T00:04:40:933F1000">
+      <Index>16</Index>
+      <KeyFrameID time="T00:04:29:400F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/4041.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:40:933F1000" end="T00:04:46:533F1000">
+      <Index>17</Index>
+      <KeyFrameID time="T00:04:43:733F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/4256.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:46:533F1000" end="T00:05:10:066F1000">
+      <Index>18</Index>
+      <KeyFrameID time="T00:04:58:266F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/4474.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:10:066F1000" end="T00:05:17:800F1000">
+      <Index>19</Index>
+      <KeyFrameID time="T00:05:13:933F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/4709.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:17:800F1000" end="T00:05:28:200F1000">
+      <Index>20</Index>
+      <KeyFrameID time="T00:05:23:000F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/4845.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:28:200F1000" end="T00:05:45:933F1000">
+      <Index>21</Index>
+      <KeyFrameID time="T00:05:37:066F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/5056.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:45:933F1000" end="T00:06:26:066F1000">
+      <Index>22</Index>
+      <KeyFrameID time="T00:06:06:000F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/5490.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:06:26:066F1000" end="T00:06:32:800F1000">
+      <Index>23</Index>
+      <KeyFrameID time="T00:06:29:400F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/5841.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:06:32:800F1000" end="T00:07:40:466F1000">
+      <Index>24</Index>
+      <KeyFrameID time="T00:07:06:600F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/6399.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:40:466F1000" end="T00:07:44:066F1000">
+      <Index>25</Index>
+      <KeyFrameID time="T00:07:42:266F1000">Thatsportsshow-ThatSportsShowPartyBoatsAndGunshots852/6934.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

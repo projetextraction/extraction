@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>GolfLifeTips-TaylormadeTourBurnerDriverReview339</CreationID>
+  <InitialFrameID>GolfLifeTips-TaylormadeTourBurnerDriverReview339/0005.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:00:666F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:00:333F1000">GolfLifeTips-TaylormadeTourBurnerDriverReview339/0005.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:00:666F1000" end="T00:00:26:533F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:13:600F1000">GolfLifeTips-TaylormadeTourBurnerDriverReview339/0204.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:26:533F1000" end="T00:00:55:466F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:41:000F1000">GolfLifeTips-TaylormadeTourBurnerDriverReview339/0615.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:55:466F1000" end="T00:02:17:733F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:01:36:600F1000">GolfLifeTips-TaylormadeTourBurnerDriverReview339/1449.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:17:733F1000" end="T00:03:08:133F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:02:42:933F1000">GolfLifeTips-TaylormadeTourBurnerDriverReview339/2444.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

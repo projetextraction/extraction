@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Mdtmusic-InTheNameOfTheFamilySuite496</CreationID>
+  <InitialFrameID>Mdtmusic-InTheNameOfTheFamilySuite496/7026.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:09:22:080F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:04:41:040F1000">Mdtmusic-InTheNameOfTheFamilySuite496/7026.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

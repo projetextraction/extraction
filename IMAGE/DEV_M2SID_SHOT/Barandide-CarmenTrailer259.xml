@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Barandide-CarmenTrailer259</CreationID>
+  <InitialFrameID>Barandide-CarmenTrailer259/0193.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:15:480F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:07:720F1000">Barandide-CarmenTrailer259/0193.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:15:480F1000" end="T00:00:19:400F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:17:440F1000">Barandide-CarmenTrailer259/0436.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:19:400F1000" end="T00:00:22:280F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:20:840F1000">Barandide-CarmenTrailer259/0521.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:22:280F1000" end="T00:00:26:360F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:24:320F1000">Barandide-CarmenTrailer259/0608.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:26:360F1000" end="T00:00:29:120F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:27:720F1000">Barandide-CarmenTrailer259/0693.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:29:120F1000" end="T00:00:30:600F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:29:840F1000">Barandide-CarmenTrailer259/0746.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:30:600F1000" end="T00:00:32:119F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:00:31:360F1000">Barandide-CarmenTrailer259/0784.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:32:119F1000" end="T00:00:33:520F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:00:32:800F1000">Barandide-CarmenTrailer259/0820.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:33:520F1000" end="T00:00:35:280F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:00:34:400F1000">Barandide-CarmenTrailer259/0860.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:35:280F1000" end="T00:00:36:840F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:00:36:040F1000">Barandide-CarmenTrailer259/0901.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:36:840F1000" end="T00:00:38:720F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:00:37:760F1000">Barandide-CarmenTrailer259/0944.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:38:720F1000" end="T00:00:39:920F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:00:39:320F1000">Barandide-CarmenTrailer259/0983.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:39:920F1000" end="T00:00:41:640F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:00:40:760F1000">Barandide-CarmenTrailer259/1019.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:41:640F1000" end="T00:00:43:400F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:00:42:520F1000">Barandide-CarmenTrailer259/1063.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:43:400F1000" end="T00:00:45:800F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:00:44:600F1000">Barandide-CarmenTrailer259/1115.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:45:800F1000" end="T00:00:47:960F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:00:46:880F1000">Barandide-CarmenTrailer259/1172.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

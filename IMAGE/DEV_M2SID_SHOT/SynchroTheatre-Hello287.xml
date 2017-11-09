@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>SynchroTheatre-Hello287</CreationID>
+  <InitialFrameID>SynchroTheatre-Hello287/2896.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:06:26:200F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:03:13:066F1000">SynchroTheatre-Hello287/2896.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:06:26:200F1000" end="T00:06:27:933F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:06:27:066F1000">SynchroTheatre-Hello287/5806.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

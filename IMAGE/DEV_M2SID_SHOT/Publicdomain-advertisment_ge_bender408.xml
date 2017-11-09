@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Publicdomain-advertisment_ge_bender408</CreationID>
+  <InitialFrameID>Publicdomain-advertisment_ge_bender408/0130.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:10:440F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:05:200F1000">Publicdomain-advertisment_ge_bender408/0130.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:10:440F1000" end="T00:00:13:040F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:11:720F1000">Publicdomain-advertisment_ge_bender408/0293.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:13:040F1000" end="T00:00:18:120F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:15:560F1000">Publicdomain-advertisment_ge_bender408/0389.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:18:120F1000" end="T00:00:22:240F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:20:160F1000">Publicdomain-advertisment_ge_bender408/0504.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:22:240F1000" end="T00:00:29:320F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:25:760F1000">Publicdomain-advertisment_ge_bender408/0644.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:29:320F1000" end="T00:00:34:080F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:31:680F1000">Publicdomain-advertisment_ge_bender408/0792.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:34:080F1000" end="T00:00:35:120F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:00:34:600F1000">Publicdomain-advertisment_ge_bender408/0865.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:35:120F1000" end="T00:00:42:800F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:00:38:960F1000">Publicdomain-advertisment_ge_bender408/0974.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:42:800F1000" end="T00:00:49:440F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:00:46:120F1000">Publicdomain-advertisment_ge_bender408/1153.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:49:440F1000" end="T00:00:52:000F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:00:50:720F1000">Publicdomain-advertisment_ge_bender408/1268.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:52:000F1000" end="T00:00:53:320F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:00:52:640F1000">Publicdomain-advertisment_ge_bender408/1316.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:53:320F1000" end="T00:00:54:520F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:00:53:920F1000">Publicdomain-advertisment_ge_bender408/1348.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:54:520F1000" end="T00:00:57:920F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:00:56:200F1000">Publicdomain-advertisment_ge_bender408/1405.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:57:920F1000" end="T00:00:59:320F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:00:58:600F1000">Publicdomain-advertisment_ge_bender408/1465.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:59:320F1000" end="T00:01:08:040F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:01:03:680F1000">Publicdomain-advertisment_ge_bender408/1592.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:08:040F1000" end="T00:01:09:520F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:01:08:760F1000">Publicdomain-advertisment_ge_bender408/1719.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:09:520F1000" end="T00:01:10:600F1000">
+      <Index>16</Index>
+      <KeyFrameID time="T00:01:10:040F1000">Publicdomain-advertisment_ge_bender408/1751.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:10:600F1000" end="T00:01:11:960F1000">
+      <Index>17</Index>
+      <KeyFrameID time="T00:01:11:280F1000">Publicdomain-advertisment_ge_bender408/1782.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

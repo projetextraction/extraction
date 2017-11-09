@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>TheWineVault-CentralOtagoVsMarlboroughPinotNoirWVTVEpisode74534</CreationID>
+  <InitialFrameID>TheWineVault-CentralOtagoVsMarlboroughPinotNoirWVTVEpisode74534/0101.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:08:119F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:04:040F1000">TheWineVault-CentralOtagoVsMarlboroughPinotNoirWVTVEpisode74534/0101.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:08:119F1000" end="T00:01:40:160F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:54:120F1000">TheWineVault-CentralOtagoVsMarlboroughPinotNoirWVTVEpisode74534/1353.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:41:360F1000" end="T00:01:42:200F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:01:41:760F1000">TheWineVault-CentralOtagoVsMarlboroughPinotNoirWVTVEpisode74534/2544.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

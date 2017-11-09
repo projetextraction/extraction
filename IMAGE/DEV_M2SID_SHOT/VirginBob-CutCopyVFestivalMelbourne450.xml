@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>VirginBob-CutCopyVFestivalMelbourne450</CreationID>
+  <InitialFrameID>VirginBob-CutCopyVFestivalMelbourne450/2836.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:03:46:920F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:01:53:440F1000">VirginBob-CutCopyVFestivalMelbourne450/2836.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:46:920F1000" end="T00:03:48:920F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:03:47:920F1000">VirginBob-CutCopyVFestivalMelbourne450/5698.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:48:920F1000" end="T00:03:50:280F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:03:49:600F1000">VirginBob-CutCopyVFestivalMelbourne450/5740.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:50:280F1000" end="T00:03:52:960F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:03:51:600F1000">VirginBob-CutCopyVFestivalMelbourne450/5790.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:52:960F1000" end="T00:03:54:040F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:03:53:480F1000">VirginBob-CutCopyVFestivalMelbourne450/5837.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:54:040F1000" end="T00:03:57:960F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:03:56:000F1000">VirginBob-CutCopyVFestivalMelbourne450/5900.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

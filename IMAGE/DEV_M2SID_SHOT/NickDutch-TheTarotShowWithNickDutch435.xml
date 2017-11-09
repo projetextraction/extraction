@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>NickDutch-TheTarotShowWithNickDutch435</CreationID>
+  <InitialFrameID>NickDutch-TheTarotShowWithNickDutch435/0046.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:03:680F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:840F1000">NickDutch-TheTarotShowWithNickDutch435/0046.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:03:680F1000" end="T00:02:23:600F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:01:13:640F1000">NickDutch-TheTarotShowWithNickDutch435/1841.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:23:600F1000" end="T00:02:35:840F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:02:29:720F1000">NickDutch-TheTarotShowWithNickDutch435/3743.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

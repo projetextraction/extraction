@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Hrocus-norma2891</CreationID>
+  <InitialFrameID>Hrocus-norma2891/051.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:03:400F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:700F1000">Hrocus-norma2891/051.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:04:400F1000" end="T00:00:05:100F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:04:733F1000">Hrocus-norma2891/142.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:06:566F1000" end="T00:00:07:266F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:06:900F1000">Hrocus-norma2891/207.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:11:666F1000" end="T00:00:12:533F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:12:100F1000">Hrocus-norma2891/363.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:14:833F1000" end="T00:00:15:600F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:15:200F1000">Hrocus-norma2891/456.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

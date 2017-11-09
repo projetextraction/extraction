@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Stupidfamouspeople-RichardDreyfussLeavesThePremiereOfWInNewYorkCity378</CreationID>
+  <InitialFrameID>Stupidfamouspeople-RichardDreyfussLeavesThePremiereOfWInNewYorkCity378/331.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:22:100F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:11:033F1000">Stupidfamouspeople-RichardDreyfussLeavesThePremiereOfWInNewYorkCity378/331.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:22:100F1000" end="T00:00:26:333F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:24:200F1000">Stupidfamouspeople-RichardDreyfussLeavesThePremiereOfWInNewYorkCity378/726.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Lauraflanders-DavidSirotaCountryFirst158</CreationID>
+  <InitialFrameID>Lauraflanders-DavidSirotaCountryFirst158/0080.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:05:333F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:02:666F1000">Lauraflanders-DavidSirotaCountryFirst158/0080.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:05:333F1000" end="T00:02:26:466F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:01:15:900F1000">Lauraflanders-DavidSirotaCountryFirst158/2277.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:26:466F1000" end="T00:02:32:800F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:02:29:633F1000">Lauraflanders-DavidSirotaCountryFirst158/4489.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:32:800F1000" end="T00:02:33:700F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:02:33:233F1000">Lauraflanders-DavidSirotaCountryFirst158/4597.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Deepintosports-DeepIntoSportscom51909PlayoffLetdowns846</CreationID>
+  <InitialFrameID>Deepintosports-DeepIntoSportscom51909PlayoffLetdowns846/1379.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:01:31:966F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:45:966F1000">Deepintosports-DeepIntoSportscom51909PlayoffLetdowns846/1379.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>
