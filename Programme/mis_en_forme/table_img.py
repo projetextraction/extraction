@@ -11,7 +11,7 @@ from glob import glob
 
 
         
-path = "IMAGE\DEV_M2SID_SHOT"
+path = "Data\Video\DEV_M2SID_SHOT"
 
 def recup_path_img(path):
     ldir = os.listdir(path)
