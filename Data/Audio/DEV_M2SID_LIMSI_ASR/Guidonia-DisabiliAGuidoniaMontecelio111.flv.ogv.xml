@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Guidonia-DisabiliAGuidoniaMontecelio111.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Guidonia-DisabiliAGuidoniaMontecelio111.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="75.34" spdur="75.22" nw="97" tconf="0.68"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="75.22" gender="1" spkid="MS1" lang="eng-usa" lconf="1.00" nw="97" tconf="0.68"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.10" etime="75.32" spkid="MS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="0.40" dur="0.14" conf="0.299"> Like </Word>
+<Word stime="0.40" dur="0.14" conf="0.153"> but </Word>
+<Word stime="0.40" dur="0.14" conf="0.123"> by </Word>
+<Word stime="0.54" dur="0.14" conf="0.918"> that </Word>
+<Word stime="0.75" dur="0.21" conf="0.928"> game </Word>
+<Word stime="1.31" dur="0.17" conf="0.618"> with </Word>
+<Word stime="1.61" dur="0.19" conf="0.570"> Everton </Word>
+<Word stime="1.99" dur="0.13" conf="0.289"> in </Word>
+<Word stime="1.99" dur="0.13" conf="0.207"> and </Word>
+<Word stime="2.51" dur="0.41" conf="0.946"> {fw} </Word>
+<Word stime="4.26" dur="0.13" conf="0.942"> and </Word>
+<Word stime="4.39" dur="0.80" conf="0.803"> {fw} </Word>
+<Word stime="6.79" dur="0.08" conf="0.945"> the </Word>
+<Word stime="6.87" dur="1.47" conf="0.969"> {fw} </Word>
+<Word stime="9.77" dur="0.21" conf="0.807"> {fw} </Word>
+<Word stime="10.38" dur="1.31" conf="0.972"> {fw} </Word>
+<Word stime="13.32" dur="1.79" conf="0.972"> {fw} </Word>
+<Word stime="16.94" dur="0.39" conf="0.961"> {fw} </Word>
+<Word stime="17.33" dur="0.77" conf="0.470"> , </Word>
+<Word stime="18.10" dur="0.15" conf="0.330"> the </Word>
+<Word stime="18.36" dur="0.22" conf="0.320"> old </Word>
+<Word stime="18.36" dur="0.22" conf="0.199"> all </Word>
+<Word stime="18.36" dur="0.22" conf="0.118"> older </Word>
+<Word stime="18.70" dur="0.34" conf="0.267"> down </Word>
+<Word stime="18.70" dur="0.34" conf="0.260"> around </Word>
+<Word stime="18.70" dur="0.34" conf="0.188"> now </Word>
+<Word stime="20.11" dur="0.06" conf="0.791"> the </Word>
+<Word stime="20.23" dur="0.23" conf="0.870"> man </Word>
+<Word stime="21.06" dur="0.16" conf="0.960"> who </Word>
+<Word stime="21.25" dur="0.21" conf="0.195"> they </Word>
+<Word stime="21.25" dur="0.21" conf="0.180"> lived </Word>
+<Word stime="21.25" dur="0.21" conf="0.171"> led </Word>
+<Word stime="21.25" dur="0.21" conf="0.115"> really </Word>
+<Word stime="21.67" dur="0.12" conf="0.343"> believe </Word>
+<Word stime="21.67" dur="0.12" conf="0.192"> in </Word>
+<Word stime="21.95" dur="0.22" conf="0.972"> that </Word>
+<Word stime="22.44" dur="0.73" conf="0.501"> {fw} </Word>
+<Word stime="24.82" dur="0.82" conf="0.973"> {fw} </Word>
+<Word stime="26.30" dur="0.95" conf="0.974"> {fw} </Word>
+<Word stime="27.56" dur="0.24" conf="0.792"> {fw} </Word>
+<Word stime="27.80" dur="0.82" conf="0.643"> , </Word>
+<Word stime="28.62" dur="0.15" conf="0.418"> bring </Word>
+<Word stime="28.77" dur="0.12" conf="0.407"> it </Word>
+<Word stime="28.89" dur="0.04" conf="0.433"> . </Word>
+<Word stime="28.93" dur="0.14" conf="0.248"> But </Word>
+<Word stime="28.93" dur="0.14" conf="0.207"> right </Word>
+<Word stime="29.45" dur="0.29" conf="0.969"> going </Word>
+<Word stime="29.74" dur="0.18" conf="0.974"> on </Word>
+<Word stime="29.92" dur="0.13" conf="0.869"> here </Word>
+<Word stime="30.05" dur="0.16" conf="0.590"> . </Word>
+<Word stime="30.21" dur="0.08" conf="0.435"> Are </Word>
+<Word stime="30.35" dur="0.12" conf="0.377"> you </Word>
+<Word stime="30.35" dur="0.12" conf="0.222"> new </Word>
+<Word stime="30.56" dur="0.22" conf="0.920"> level </Word>
+<Word stime="30.78" dur="0.39" conf="0.548"> . </Word>
+<Word stime="31.17" dur="0.13" conf="0.422"> Why </Word>
+<Word stime="31.38" dur="0.16" conf="0.454"> didn't </Word>
+<Word stime="31.63" dur="0.08" conf="0.393"> he </Word>
+<Word stime="31.63" dur="0.08" conf="0.281"> you </Word>
+<Word stime="31.71" dur="0.11" conf="0.397"> get </Word>
+<Word stime="31.71" dur="0.11" conf="0.258"> did </Word>
+<Word stime="31.90" dur="0.33" conf="0.202"> phony </Word>
+<Word stime="31.90" dur="0.33" conf="0.178"> Claudia </Word>
+<Word stime="32.37" dur="0.13" conf="0.852"> {fw} </Word>
+<Word stime="32.59" dur="0.21" conf="0.583"> {fw} </Word>
+<Word stime="34.02" dur="0.09" conf="0.446"> {fw} </Word>
+<Word stime="34.75" dur="0.76" conf="0.973"> {fw} </Word>
+<Word stime="36.06" dur="0.18" conf="0.972"> {fw} </Word>
+<Word stime="36.74" dur="0.40" conf="0.950"> {fw} </Word>
+<Word stime="37.70" dur="0.14" conf="0.970"> {fw} </Word>
+<Word stime="42.77" dur="0.39" conf="0.972"> {fw} </Word>
+<Word stime="43.16" dur="0.29" conf="0.796"> . </Word>
+<Word stime="43.45" dur="0.19" conf="0.421"> They </Word>
+<Word stime="43.45" dur="0.19" conf="0.262"> we </Word>
+<Word stime="43.64" dur="0.13" conf="0.603"> have </Word>
+<Word stime="43.64" dur="0.13" conf="0.110"> had </Word>
+<Word stime="43.77" dur="0.19" conf="0.965"> never </Word>
+<Word stime="44.09" dur="0.15" conf="0.395"> really </Word>
+<Word stime="44.09" dur="0.15" conf="0.147"> leave </Word>
+<Word stime="44.30" dur="0.08" conf="0.260"> that </Word>
+<Word stime="44.30" dur="0.08" conf="0.136"> gotten </Word>
+<Word stime="44.68" dur="0.10" conf="0.191"> then </Word>
+<Word stime="44.68" dur="0.10" conf="0.131"> moment </Word>
+<Word stime="44.68" dur="0.10" conf="0.130"> and </Word>
+<Word stime="44.91" dur="0.14" conf="0.974"> that </Word>
+<Word stime="45.05" dur="0.17" conf="0.817"> means </Word>
+<Word stime="46.03" dur="0.12" conf="0.526"> he </Word>
+<Word stime="46.03" dur="0.12" conf="0.210"> you </Word>
+<Word stime="46.15" dur="0.16" conf="0.614"> will </Word>
+<Word stime="46.71" dur="0.17" conf="0.970"> {fw} </Word>
+<Word stime="48.11" dur="0.62" conf="0.955"> {fw} </Word>
+<Word stime="50.58" dur="0.19" conf="0.869"> a </Word>
+<Word stime="50.80" dur="0.18" conf="0.971"> young </Word>
+<Word stime="50.98" dur="0.34" conf="0.969"> woman </Word>
+<Word stime="51.32" dur="0.08" conf="0.908"> . </Word>
+<Word stime="51.40" dur="0.09" conf="0.749"> It </Word>
+<Word stime="51.55" dur="0.18" conf="0.378"> said </Word>
+<Word stime="51.55" dur="0.18" conf="0.168"> that </Word>
+<Word stime="51.76" dur="0.14" conf="0.947"> that </Word>
+<Word stime="52.58" dur="0.09" conf="0.433"> {fw} </Word>
+<Word stime="54.25" dur="1.05" conf="0.961"> {fw} </Word>
+<Word stime="56.75" dur="1.99" conf="0.973"> {fw} </Word>
+<Word stime="59.73" dur="0.16" conf="0.804"> {fw} </Word>
+<Word stime="59.89" dur="1.06" conf="0.510"> . </Word>
+<Word stime="60.95" dur="0.25" conf="0.604"> Maybe </Word>
+<Word stime="60.95" dur="0.25" conf="0.162"> may </Word>
+<Word stime="61.85" dur="0.29" conf="0.460"> there </Word>
+<Word stime="61.85" dur="0.29" conf="0.123"> they're </Word>
+<Word stime="62.21" dur="0.08" conf="0.402"> are </Word>
+<Word stime="62.21" dur="0.08" conf="0.142"> all </Word>
+<Word stime="62.29" dur="0.07" conf="0.538"> {fw} </Word>
+<Word stime="64.40" dur="0.21" conf="0.116"> channel </Word>
+<Word stime="64.40" dur="0.21" conf="0.100"> Chapman </Word>
+<Word stime="64.61" dur="0.39" conf="0.624"> . </Word>
+<Word stime="65.00" dur="0.13" conf="0.926"> He </Word>
+<Word stime="65.17" dur="0.24" conf="0.969"> never </Word>
+<Word stime="65.59" dur="0.34" conf="0.466"> came </Word>
+<Word stime="65.59" dur="0.34" conf="0.187"> achieved </Word>
+<Word stime="66.04" dur="0.14" conf="0.456"> back </Word>
+<Word stime="66.18" dur="0.29" conf="0.480"> . </Word>
+<Word stime="66.47" dur="0.47" conf="0.831"> {fw} </Word>
+<Word stime="68.43" dur="0.19" conf="0.727"> {fw} </Word>
+<Word stime="70.32" dur="1.66" conf="0.975"> {fw} </Word>
+<Word stime="72.43" dur="0.45" conf="0.975"> {fw} </Word>
+<Word stime="74.56" dur="0.46" conf="0.971"> {fw} </Word>
+<Word stime="75.02" dur="0.00" conf="0.514"> . </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

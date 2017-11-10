@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Lauraflanders-TheFWordTheEconomyOfGenerosity808</CreationID>
+  <InitialFrameID>Lauraflanders-TheFWordTheEconomyOfGenerosity808/1338.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:01:29:233F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:44:600F1000">Lauraflanders-TheFWordTheEconomyOfGenerosity808/1338.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

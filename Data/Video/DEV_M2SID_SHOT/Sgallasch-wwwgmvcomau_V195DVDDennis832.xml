@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Sgallasch-wwwgmvcomau_V195DVDDennis832</CreationID>
+  <InitialFrameID>Sgallasch-wwwgmvcomau_V195DVDDennis832/0028.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:02:240F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:120F1000">Sgallasch-wwwgmvcomau_V195DVDDennis832/0028.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:02:240F1000" end="T00:00:07:520F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:04:880F1000">Sgallasch-wwwgmvcomau_V195DVDDennis832/0122.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:07:520F1000" end="T00:00:42:960F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:25:240F1000">Sgallasch-wwwgmvcomau_V195DVDDennis832/0631.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:42:960F1000" end="T00:01:03:960F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:53:440F1000">Sgallasch-wwwgmvcomau_V195DVDDennis832/1336.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:03:960F1000" end="T00:01:21:360F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:01:12:640F1000">Sgallasch-wwwgmvcomau_V195DVDDennis832/1816.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:21:360F1000" end="T00:01:27:160F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:01:24:240F1000">Sgallasch-wwwgmvcomau_V195DVDDennis832/2106.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:27:160F1000" end="T00:01:36:080F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:01:31:600F1000">Sgallasch-wwwgmvcomau_V195DVDDennis832/2290.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:36:080F1000" end="T00:02:24:560F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:02:00:320F1000">Sgallasch-wwwgmvcomau_V195DVDDennis832/3008.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:24:560F1000" end="T00:02:27:040F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:02:25:800F1000">Sgallasch-wwwgmvcomau_V195DVDDennis832/3645.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:27:040F1000" end="T00:02:43:080F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:02:35:040F1000">Sgallasch-wwwgmvcomau_V195DVDDennis832/3876.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:43:080F1000" end="T00:02:43:960F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:02:43:520F1000">Sgallasch-wwwgmvcomau_V195DVDDennis832/4088.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

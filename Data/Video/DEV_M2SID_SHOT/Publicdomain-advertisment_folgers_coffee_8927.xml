@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Publicdomain-advertisment_folgers_coffee_8927</CreationID>
+  <InitialFrameID>Publicdomain-advertisment_folgers_coffee_8927/0027.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:02:160F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:080F1000">Publicdomain-advertisment_folgers_coffee_8927/0027.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:02:160F1000" end="T00:00:09:360F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:05:760F1000">Publicdomain-advertisment_folgers_coffee_8927/0144.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:09:360F1000" end="T00:00:26:320F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:17:840F1000">Publicdomain-advertisment_folgers_coffee_8927/0446.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:26:320F1000" end="T00:00:30:920F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:28:600F1000">Publicdomain-advertisment_folgers_coffee_8927/0715.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:30:920F1000" end="T00:00:32:280F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:31:600F1000">Publicdomain-advertisment_folgers_coffee_8927/0790.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:32:280F1000" end="T00:00:36:760F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:34:520F1000">Publicdomain-advertisment_folgers_coffee_8927/0863.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:36:760F1000" end="T00:00:40:360F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:00:38:560F1000">Publicdomain-advertisment_folgers_coffee_8927/0964.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:40:360F1000" end="T00:00:59:600F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:00:49:960F1000">Publicdomain-advertisment_folgers_coffee_8927/1249.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:59:600F1000" end="T00:01:00:960F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:01:00:280F1000">Publicdomain-advertisment_folgers_coffee_8927/1507.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:00:960F1000" end="T00:01:01:960F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:01:01:440F1000">Publicdomain-advertisment_folgers_coffee_8927/1536.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

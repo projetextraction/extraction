@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="SnitcherTV-SnitcherHardcoreBluesIV328.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/SnitcherTV-SnitcherHardcoreBluesIV328.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="346.55" spdur="102.66" nw="62" tconf="0.85"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="45.18" gender="2" spkid="FT3" lang="eng-usa" lconf="1.00" nw="23" tconf="0.91"/>
+<Speaker ch="1" dur="33.40" gender="1" spkid="MT3" lang="eng-usa" lconf="1.00" nw="23" tconf="0.77"/>
+<Speaker ch="1" dur="12.91" gender="2" spkid="FT2" lang="eng-usa" lconf="1.00" nw="7" tconf="0.84"/>
+<Speaker ch="1" dur="7.64" gender="2" spkid="FT1" lang="eng-usa" lconf="1.00" nw="4" tconf="1.00"/>
+<Speaker ch="1" dur="3.53" gender="2" spkid="FS1" lang="eng-usa" lconf="1.00" nw="5" tconf="0.84"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.01" etime="1.05" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="0.01" dur="0.81" conf="0.998"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="107.33" etime="109.82" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="107.63" dur="0.22" conf="0.909"> {fw} </Word>
+<Word stime="108.42" dur="0.34" conf="0.890"> {fw} </Word>
+<Word stime="109.02" dur="0.75" conf="0.977"> {fw} </Word>
+<Word stime="109.77" dur="0.00" conf="0.438"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="116.04" etime="128.95" spkid="FT2" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="116.34" dur="0.67" conf="0.975"> {fw} </Word>
+<Word stime="119.38" dur="0.20" conf="0.924"> {fw} </Word>
+<Word stime="119.95" dur="1.35" conf="0.985"> {fw} </Word>
+<Word stime="123.45" dur="1.10" conf="0.987"> {fw} </Word>
+<Word stime="125.60" dur="0.54" conf="0.536"> {fw} </Word>
+<Word stime="127.39" dur="1.26" conf="0.987"> {fw} </Word>
+<Word stime="128.65" dur="0.00" conf="0.516"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="129.02" etime="174.20" spkid="FT3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="129.26" dur="0.33" conf="0.983"> {fw} </Word>
+<Word stime="131.85" dur="0.67" conf="0.988"> {fw} </Word>
+<Word stime="132.87" dur="0.36" conf="0.945"> {fw} </Word>
+<Word stime="134.00" dur="1.06" conf="0.986"> {fw} </Word>
+<Word stime="137.04" dur="0.21" conf="0.914"> {fw} </Word>
+<Word stime="137.63" dur="0.52" conf="0.702"> {fw} </Word>
+<Word stime="140.05" dur="0.30" conf="0.972"> {fw} </Word>
+<Word stime="140.85" dur="0.79" conf="0.985"> {fw} </Word>
+<Word stime="142.38" dur="0.26" conf="0.977"> {fw} </Word>
+<Word stime="144.41" dur="0.38" conf="0.983"> {fw} </Word>
+<Word stime="145.05" dur="0.24" conf="0.982"> {fw} </Word>
+<Word stime="146.35" dur="0.68" conf="0.989"> {fw} </Word>
+<Word stime="148.10" dur="1.07" conf="0.988"> {fw} </Word>
+<Word stime="151.00" dur="0.41" conf="0.987"> {fw} </Word>
+<Word stime="151.67" dur="0.80" conf="0.986"> {fw} </Word>
+<Word stime="156.51" dur="1.33" conf="0.988"> {fw} </Word>
+<Word stime="158.17" dur="0.98" conf="0.978"> {fw} </Word>
+<Word stime="161.59" dur="0.11" conf="0.476"> {fw} </Word>
+<Word stime="168.53" dur="1.40" conf="0.727"> {fw} </Word>
+<Word stime="170.24" dur="0.73" conf="0.988"> {fw} </Word>
+<Word stime="171.83" dur="0.55" conf="0.988"> {fw} </Word>
+<Word stime="173.01" dur="0.89" conf="0.958"> {fw} </Word>
+<Word stime="173.90" dur="0.00" conf="0.516"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="182.96" etime="184.65" spkid="FT1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="183.26" dur="1.09" conf="0.993"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="193.37" etime="196.33" spkid="FT1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="193.37" dur="2.66" conf="0.991"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="197.58" etime="224.34" spkid="MT3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="197.58" dur="1.21" conf="0.980"> {fw} </Word>
+<Word stime="200.20" dur="0.34" conf="0.935"> {fw} </Word>
+<Word stime="202.50" dur="1.00" conf="0.982"> {fw} </Word>
+<Word stime="204.03" dur="0.10" conf="0.475"> {fw} </Word>
+<Word stime="204.62" dur="0.32" conf="0.950"> {fw} </Word>
+<Word stime="205.64" dur="0.11" conf="0.485"> {fw} </Word>
+<Word stime="206.69" dur="0.04" conf="0.405"> {fw} </Word>
+<Word stime="208.63" dur="0.40" conf="0.978"> {fw} </Word>
+<Word stime="209.18" dur="0.35" conf="0.935"> {fw} </Word>
+<Word stime="210.78" dur="0.15" conf="0.415"> {fw} </Word>
+<Word stime="211.15" dur="0.21" conf="0.424"> {fw} </Word>
+<Word stime="212.05" dur="0.86" conf="0.983"> {fw} </Word>
+<Word stime="215.50" dur="0.68" conf="0.974"> {fw} </Word>
+<Word stime="218.68" dur="0.98" conf="0.983"> {fw} </Word>
+<Word stime="223.65" dur="0.52" conf="0.983"> {fw} </Word>
+<Word stime="224.17" dur="0.00" conf="0.516"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="232.28" etime="234.63" spkid="FT1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="232.28" dur="2.05" conf="0.998"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="330.77" etime="337.41" spkid="MT3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="330.77" dur="0.48" conf="0.974"> {fw} </Word>
+<Word stime="333.12" dur="0.23" conf="0.979"> {fw} </Word>
+<Word stime="333.35" dur="0.42" conf="0.388"> {fw} </Word>
+<Word stime="334.69" dur="0.04" conf="0.394"> {fw} </Word>
+<Word stime="335.28" dur="0.51" conf="0.979"> {fw} </Word>
+<Word stime="336.72" dur="0.39" conf="0.967"> {fw} </Word>
+<Word stime="337.11" dur="0.00" conf="0.516"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="342.21" etime="342.85" spkid="FT1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="342.21" dur="0.48" conf="0.998"> {fw} </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

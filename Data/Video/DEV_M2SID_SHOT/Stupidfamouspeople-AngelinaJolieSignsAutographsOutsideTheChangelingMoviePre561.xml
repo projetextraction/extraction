@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Stupidfamouspeople-AngelinaJolieSignsAutographsOutsideTheChangelingMoviePre561</CreationID>
+  <InitialFrameID>Stupidfamouspeople-AngelinaJolieSignsAutographsOutsideTheChangelingMoviePre561/108.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:07:233F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:03:600F1000">Stupidfamouspeople-AngelinaJolieSignsAutographsOutsideTheChangelingMoviePre561/108.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:07:233F1000" end="T00:00:22:800F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:15:000F1000">Stupidfamouspeople-AngelinaJolieSignsAutographsOutsideTheChangelingMoviePre561/450.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:22:800F1000" end="T00:00:24:933F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:23:866F1000">Stupidfamouspeople-AngelinaJolieSignsAutographsOutsideTheChangelingMoviePre561/716.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

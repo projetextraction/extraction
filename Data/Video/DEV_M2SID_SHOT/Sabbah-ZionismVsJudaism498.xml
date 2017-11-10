@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Sabbah-ZionismVsJudaism498</CreationID>
+  <InitialFrameID>Sabbah-ZionismVsJudaism498/00066.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:08:800F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:04:400F1000">Sabbah-ZionismVsJudaism498/00066.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:08:800F1000" end="T00:00:11:733F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:10:266F1000">Sabbah-ZionismVsJudaism498/00154.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:11:733F1000" end="T00:00:14:466F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:13:066F1000">Sabbah-ZionismVsJudaism498/00196.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:14:466F1000" end="T00:00:32:533F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:23:466F1000">Sabbah-ZionismVsJudaism498/00352.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:32:533F1000" end="T00:00:34:266F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:33:400F1000">Sabbah-ZionismVsJudaism498/00501.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:34:266F1000" end="T00:01:19:000F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:56:600F1000">Sabbah-ZionismVsJudaism498/00849.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:19:000F1000" end="T00:02:17:133F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:01:48:066F1000">Sabbah-ZionismVsJudaism498/01621.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:17:133F1000" end="T00:02:38:466F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:02:27:800F1000">Sabbah-ZionismVsJudaism498/02217.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:38:466F1000" end="T00:02:46:666F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:02:42:533F1000">Sabbah-ZionismVsJudaism498/02438.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:46:666F1000" end="T00:03:10:333F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:02:58:466F1000">Sabbah-ZionismVsJudaism498/02677.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:10:333F1000" end="T00:03:14:000F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:03:12:133F1000">Sabbah-ZionismVsJudaism498/02882.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:14:000F1000" end="T00:03:38:466F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:03:26:200F1000">Sabbah-ZionismVsJudaism498/03093.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:38:466F1000" end="T00:03:56:933F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:03:47:666F1000">Sabbah-ZionismVsJudaism498/03415.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:56:933F1000" end="T00:04:54:266F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:04:25:600F1000">Sabbah-ZionismVsJudaism498/03984.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:54:266F1000" end="T00:04:56:266F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:04:55:266F1000">Sabbah-ZionismVsJudaism498/04429.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:56:266F1000" end="T00:05:02:533F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:04:59:400F1000">Sabbah-ZionismVsJudaism498/04491.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:02:533F1000" end="T00:05:09:133F1000">
+      <Index>16</Index>
+      <KeyFrameID time="T00:05:05:800F1000">Sabbah-ZionismVsJudaism498/04587.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:09:133F1000" end="T00:05:31:933F1000">
+      <Index>17</Index>
+      <KeyFrameID time="T00:05:20:533F1000">Sabbah-ZionismVsJudaism498/04808.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:31:933F1000" end="T00:05:56:266F1000">
+      <Index>18</Index>
+      <KeyFrameID time="T00:05:44:066F1000">Sabbah-ZionismVsJudaism498/05161.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:56:266F1000" end="T00:06:00:933F1000">
+      <Index>19</Index>
+      <KeyFrameID time="T00:05:58:600F1000">Sabbah-ZionismVsJudaism498/05379.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:06:00:933F1000" end="T00:06:03:400F1000">
+      <Index>20</Index>
+      <KeyFrameID time="T00:06:02:133F1000">Sabbah-ZionismVsJudaism498/05432.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:06:03:400F1000" end="T00:06:08:933F1000">
+      <Index>21</Index>
+      <KeyFrameID time="T00:06:06:133F1000">Sabbah-ZionismVsJudaism498/05492.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:06:08:933F1000" end="T00:06:14:533F1000">
+      <Index>22</Index>
+      <KeyFrameID time="T00:06:11:733F1000">Sabbah-ZionismVsJudaism498/05576.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:06:14:533F1000" end="T00:06:16:266F1000">
+      <Index>23</Index>
+      <KeyFrameID time="T00:06:15:400F1000">Sabbah-ZionismVsJudaism498/05631.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:06:16:266F1000" end="T00:06:18:266F1000">
+      <Index>24</Index>
+      <KeyFrameID time="T00:06:17:266F1000">Sabbah-ZionismVsJudaism498/05659.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:06:18:266F1000" end="T00:07:13:933F1000">
+      <Index>25</Index>
+      <KeyFrameID time="T00:06:46:066F1000">Sabbah-ZionismVsJudaism498/06091.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:13:933F1000" end="T00:07:27:666F1000">
+      <Index>26</Index>
+      <KeyFrameID time="T00:07:20:800F1000">Sabbah-ZionismVsJudaism498/06612.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:27:666F1000" end="T00:07:41:666F1000">
+      <Index>27</Index>
+      <KeyFrameID time="T00:07:34:666F1000">Sabbah-ZionismVsJudaism498/06820.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:41:666F1000" end="T00:07:57:133F1000">
+      <Index>28</Index>
+      <KeyFrameID time="T00:07:49:400F1000">Sabbah-ZionismVsJudaism498/07041.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:57:133F1000" end="T00:07:59:400F1000">
+      <Index>29</Index>
+      <KeyFrameID time="T00:07:58:266F1000">Sabbah-ZionismVsJudaism498/07174.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:59:400F1000" end="T00:08:19:933F1000">
+      <Index>30</Index>
+      <KeyFrameID time="T00:08:09:666F1000">Sabbah-ZionismVsJudaism498/07345.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:08:19:933F1000" end="T00:09:01:466F1000">
+      <Index>31</Index>
+      <KeyFrameID time="T00:08:40:666F1000">Sabbah-ZionismVsJudaism498/07810.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:09:01:466F1000" end="T00:09:27:733F1000">
+      <Index>32</Index>
+      <KeyFrameID time="T00:09:14:600F1000">Sabbah-ZionismVsJudaism498/08319.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:09:27:733F1000" end="T00:10:29:000F1000">
+      <Index>33</Index>
+      <KeyFrameID time="T00:09:58:333F1000">Sabbah-ZionismVsJudaism498/08975.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:10:29:000F1000" end="T00:10:31:800F1000">
+      <Index>34</Index>
+      <KeyFrameID time="T00:10:30:400F1000">Sabbah-ZionismVsJudaism498/09456.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:10:31:800F1000" end="T00:10:44:266F1000">
+      <Index>35</Index>
+      <KeyFrameID time="T00:10:38:000F1000">Sabbah-ZionismVsJudaism498/09570.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:10:44:266F1000" end="T00:11:03:200F1000">
+      <Index>36</Index>
+      <KeyFrameID time="T00:10:53:733F1000">Sabbah-ZionismVsJudaism498/09806.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:11:03:200F1000" end="T00:11:22:533F1000">
+      <Index>37</Index>
+      <KeyFrameID time="T00:11:12:866F1000">Sabbah-ZionismVsJudaism498/10093.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:11:22:533F1000" end="T00:11:24:266F1000">
+      <Index>38</Index>
+      <KeyFrameID time="T00:11:23:400F1000">Sabbah-ZionismVsJudaism498/10251.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:11:24:266F1000" end="T00:11:44:600F1000">
+      <Index>39</Index>
+      <KeyFrameID time="T00:11:34:400F1000">Sabbah-ZionismVsJudaism498/10416.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:11:44:600F1000" end="T00:11:51:466F1000">
+      <Index>40</Index>
+      <KeyFrameID time="T00:11:48:000F1000">Sabbah-ZionismVsJudaism498/10620.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:11:51:466F1000" end="T00:12:03:733F1000">
+      <Index>41</Index>
+      <KeyFrameID time="T00:11:57:600F1000">Sabbah-ZionismVsJudaism498/10764.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:12:03:733F1000" end="T00:12:38:800F1000">
+      <Index>42</Index>
+      <KeyFrameID time="T00:12:21:266F1000">Sabbah-ZionismVsJudaism498/11119.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:12:38:800F1000" end="T00:12:46:600F1000">
+      <Index>43</Index>
+      <KeyFrameID time="T00:12:42:666F1000">Sabbah-ZionismVsJudaism498/11440.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:12:46:600F1000" end="T00:12:54:266F1000">
+      <Index>44</Index>
+      <KeyFrameID time="T00:12:50:400F1000">Sabbah-ZionismVsJudaism498/11556.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:12:54:266F1000" end="T00:12:59:200F1000">
+      <Index>45</Index>
+      <KeyFrameID time="T00:12:56:733F1000">Sabbah-ZionismVsJudaism498/11651.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:12:59:200F1000" end="T00:13:02:000F1000">
+      <Index>46</Index>
+      <KeyFrameID time="T00:13:00:600F1000">Sabbah-ZionismVsJudaism498/11709.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:13:02:000F1000" end="T00:13:09:200F1000">
+      <Index>47</Index>
+      <KeyFrameID time="T00:13:05:600F1000">Sabbah-ZionismVsJudaism498/11784.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:13:09:200F1000" end="T00:13:15:200F1000">
+      <Index>48</Index>
+      <KeyFrameID time="T00:13:12:200F1000">Sabbah-ZionismVsJudaism498/11883.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:13:15:200F1000" end="T00:13:24:733F1000">
+      <Index>49</Index>
+      <KeyFrameID time="T00:13:19:933F1000">Sabbah-ZionismVsJudaism498/11999.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

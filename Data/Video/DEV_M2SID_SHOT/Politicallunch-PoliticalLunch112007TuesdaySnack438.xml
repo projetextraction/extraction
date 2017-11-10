@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Politicallunch-PoliticalLunch112007TuesdaySnack438</CreationID>
+  <InitialFrameID>Politicallunch-PoliticalLunch112007TuesdaySnack438/0068.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:09:133F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:04:533F1000">Politicallunch-PoliticalLunch112007TuesdaySnack438/0068.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:09:133F1000" end="T00:00:17:000F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:13:066F1000">Politicallunch-PoliticalLunch112007TuesdaySnack438/0196.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:17:000F1000" end="T00:00:29:133F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:23:066F1000">Politicallunch-PoliticalLunch112007TuesdaySnack438/0346.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:29:133F1000" end="T00:00:39:466F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:34:266F1000">Politicallunch-PoliticalLunch112007TuesdaySnack438/0514.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:39:466F1000" end="T00:00:46:733F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:43:066F1000">Politicallunch-PoliticalLunch112007TuesdaySnack438/0646.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:46:733F1000" end="T00:00:55:066F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:50:866F1000">Politicallunch-PoliticalLunch112007TuesdaySnack438/0763.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:55:066F1000" end="T00:01:13:533F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:01:04:266F1000">Politicallunch-PoliticalLunch112007TuesdaySnack438/0964.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:13:533F1000" end="T00:01:33:533F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:01:23:533F1000">Politicallunch-PoliticalLunch112007TuesdaySnack438/1253.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:33:533F1000" end="T00:02:05:133F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:01:49:333F1000">Politicallunch-PoliticalLunch112007TuesdaySnack438/1640.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:05:133F1000" end="T00:02:25:133F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:02:15:133F1000">Politicallunch-PoliticalLunch112007TuesdaySnack438/2027.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:25:133F1000" end="T00:03:27:133F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:02:56:133F1000">Politicallunch-PoliticalLunch112007TuesdaySnack438/2642.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:27:133F1000" end="T00:03:45:800F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:03:36:466F1000">Politicallunch-PoliticalLunch112007TuesdaySnack438/3247.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:45:800F1000" end="T00:04:24:600F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:04:05:200F1000">Politicallunch-PoliticalLunch112007TuesdaySnack438/3678.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:24:600F1000" end="T00:04:43:133F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:04:33:866F1000">Politicallunch-PoliticalLunch112007TuesdaySnack438/4108.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:43:133F1000" end="T00:05:03:000F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:04:53:066F1000">Politicallunch-PoliticalLunch112007TuesdaySnack438/4396.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:03:000F1000" end="T00:05:20:733F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:05:11:866F1000">Politicallunch-PoliticalLunch112007TuesdaySnack438/4678.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:20:733F1000" end="T00:06:31:600F1000">
+      <Index>16</Index>
+      <KeyFrameID time="T00:05:56:133F1000">Politicallunch-PoliticalLunch112007TuesdaySnack438/5342.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:06:31:600F1000" end="T00:06:51:466F1000">
+      <Index>17</Index>
+      <KeyFrameID time="T00:06:41:533F1000">Politicallunch-PoliticalLunch112007TuesdaySnack438/6023.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

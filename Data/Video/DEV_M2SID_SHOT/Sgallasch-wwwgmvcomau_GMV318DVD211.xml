@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Sgallasch-wwwgmvcomau_GMV318DVD211</CreationID>
+  <InitialFrameID>Sgallasch-wwwgmvcomau_GMV318DVD211/0066.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:05:320F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:02:640F1000">Sgallasch-wwwgmvcomau_GMV318DVD211/0066.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:05:320F1000" end="T00:00:15:160F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:10:240F1000">Sgallasch-wwwgmvcomau_GMV318DVD211/0256.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:15:160F1000" end="T00:00:21:600F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:18:360F1000">Sgallasch-wwwgmvcomau_GMV318DVD211/0459.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:21:600F1000" end="T00:00:27:400F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:24:480F1000">Sgallasch-wwwgmvcomau_GMV318DVD211/0612.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:27:400F1000" end="T00:00:45:080F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:36:240F1000">Sgallasch-wwwgmvcomau_GMV318DVD211/0906.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:45:080F1000" end="T00:01:03:320F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:54:200F1000">Sgallasch-wwwgmvcomau_GMV318DVD211/1355.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:03:320F1000" end="T00:01:10:920F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:01:07:120F1000">Sgallasch-wwwgmvcomau_GMV318DVD211/1678.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:10:920F1000" end="T00:01:16:080F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:01:13:480F1000">Sgallasch-wwwgmvcomau_GMV318DVD211/1837.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:16:080F1000" end="T00:01:29:040F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:01:22:560F1000">Sgallasch-wwwgmvcomau_GMV318DVD211/2064.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:29:040F1000" end="T00:01:33:200F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:01:31:120F1000">Sgallasch-wwwgmvcomau_GMV318DVD211/2278.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:34:560F1000" end="T00:01:35:400F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:01:34:960F1000">Sgallasch-wwwgmvcomau_GMV318DVD211/2374.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

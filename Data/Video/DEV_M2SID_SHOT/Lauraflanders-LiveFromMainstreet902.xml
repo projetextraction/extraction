@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Lauraflanders-LiveFromMainstreet902</CreationID>
+  <InitialFrameID>Lauraflanders-LiveFromMainstreet902/0491.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:40:916F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:20:458F1000">Lauraflanders-LiveFromMainstreet902/0491.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:40:916F1000" end="T00:00:41:458F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:41:166F1000">Lauraflanders-LiveFromMainstreet902/0988.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

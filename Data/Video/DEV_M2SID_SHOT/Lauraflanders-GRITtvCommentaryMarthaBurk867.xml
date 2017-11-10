@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Lauraflanders-GRITtvCommentaryMarthaBurk867</CreationID>
+  <InitialFrameID>Lauraflanders-GRITtvCommentaryMarthaBurk867/1446.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:01:36:400F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:48:200F1000">Lauraflanders-GRITtvCommentaryMarthaBurk867/1446.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

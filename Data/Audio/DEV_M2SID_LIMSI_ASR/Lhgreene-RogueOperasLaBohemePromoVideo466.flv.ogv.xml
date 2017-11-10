@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Lhgreene-RogueOperasLaBohemePromoVideo466.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Lhgreene-RogueOperasLaBohemePromoVideo466.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="31.43" spdur="30.39" nw="90" tconf="0.68"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="30.39" gender="1" spkid="MS1" lang="eng-usa" lconf="0.99" nw="90" tconf="0.68"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="1.02" etime="31.41" spkid="MS1" lang="eng-usa" lconf="0.99" trs="1">
+<Word stime="1.18" dur="0.15" conf="0.906"> Rogue </Word>
+<Word stime="1.33" dur="0.30" conf="0.527"> operatives </Word>
+<Word stime="1.33" dur="0.30" conf="0.218"> operators </Word>
+<Word stime="1.82" dur="0.11" conf="0.422"> of </Word>
+<Word stime="1.82" dur="0.11" conf="0.251"> as </Word>
+<Word stime="1.97" dur="0.45" conf="0.964"> Puccini's </Word>
+<Word stime="2.42" dur="0.15" conf="0.963"> La </Word>
+<Word stime="2.63" dur="0.26" conf="0.963"> Boheme </Word>
+<Word stime="2.96" dur="0.11" conf="0.725"> the </Word>
+<Word stime="3.07" dur="0.32" conf="0.916"> timeless </Word>
+<Word stime="3.47" dur="0.15" conf="0.962"> love </Word>
+<Word stime="3.62" dur="0.28" conf="0.964"> story </Word>
+<Word stime="3.90" dur="0.08" conf="0.888"> of </Word>
+<Word stime="4.02" dur="0.29" conf="0.917"> poor </Word>
+<Word stime="4.31" dur="0.25" conf="0.953"> young </Word>
+<Word stime="4.64" dur="0.32" conf="0.748"> Parisian </Word>
+<Word stime="5.12" dur="0.22" conf="0.379"> artists </Word>
+<Word stime="5.12" dur="0.22" conf="0.338"> is </Word>
+<Word stime="5.43" dur="0.13" conf="0.854"> that </Word>
+<Word stime="5.60" dur="0.32" conf="0.361"> spared </Word>
+<Word stime="5.60" dur="0.32" conf="0.165"> squared </Word>
+<Word stime="5.92" dur="0.08" conf="0.954"> the </Word>
+<Word stime="6.06" dur="0.33" conf="0.964"> musical </Word>
+<Word stime="6.46" dur="0.27" conf="0.910"> Rent </Word>
+<Word stime="7.01" dur="0.18" conf="0.935"> not </Word>
+<Word stime="7.19" dur="0.17" conf="0.324"> Mrs. </Word>
+<Word stime="7.19" dur="0.17" conf="0.138"> miss </Word>
+<Word stime="7.57" dur="0.25" conf="0.415"> below </Word>
+<Word stime="7.57" dur="0.25" conf="0.237"> beloved </Word>
+<Word stime="8.04" dur="0.20" conf="0.188"> dramatic </Word>
+<Word stime="8.04" dur="0.20" conf="0.150"> romantic </Word>
+<Word stime="8.54" dur="0.10" conf="0.131"> for </Word>
+<Word stime="8.54" dur="0.10" conf="0.122"> there </Word>
+<Word stime="9.03" dur="0.25" conf="0.607"> formed </Word>
+<Word stime="9.28" dur="0.10" conf="0.705"> in </Word>
+<Word stime="9.38" dur="0.30" conf="0.911"> English </Word>
+<Word stime="9.70" dur="0.06" conf="0.171"> a </Word>
+<Word stime="9.70" dur="0.06" conf="0.168"> for </Word>
+<Word stime="9.70" dur="0.06" conf="0.134"> with </Word>
+<Word stime="9.81" dur="0.12" conf="0.472"> full </Word>
+<Word stime="9.98" dur="0.40" conf="0.962"> orchestra </Word>
+<Word stime="10.38" dur="0.08" conf="0.970"> , </Word>
+<Word stime="10.46" dur="0.30" conf="0.944"> chorus </Word>
+<Word stime="10.76" dur="0.12" conf="0.913"> and </Word>
+<Word stime="10.88" dur="0.28" conf="0.500"> singers </Word>
+<Word stime="10.88" dur="0.28" conf="0.227"> seniors </Word>
+<Word stime="11.23" dur="0.13" conf="0.964"> from </Word>
+<Word stime="11.36" dur="0.35" conf="0.965"> across </Word>
+<Word stime="11.71" dur="0.09" conf="0.965"> the </Word>
+<Word stime="11.88" dur="0.34" conf="0.965"> country </Word>
+<Word stime="12.48" dur="0.31" conf="0.183"> Grants </Word>
+<Word stime="12.48" dur="0.31" conf="0.121"> Petraeus </Word>
+<Word stime="12.89" dur="0.17" conf="0.259"> Peres </Word>
+<Word stime="12.89" dur="0.17" conf="0.237"> pairs </Word>
+<Word stime="12.89" dur="0.17" conf="0.188"> Pass </Word>
+<Word stime="13.06" dur="0.43" conf="0.583"> Performing </Word>
+<Word stime="13.06" dur="0.43" conf="0.174"> performing </Word>
+<Word stime="13.49" dur="0.19" conf="0.583"> Arts </Word>
+<Word stime="13.49" dur="0.19" conf="0.174"> arts </Word>
+<Word stime="13.68" dur="0.19" conf="0.568"> Center </Word>
+<Word stime="13.68" dur="0.19" conf="0.172"> center </Word>
+<Word stime="13.87" dur="0.18" conf="0.361"> may </Word>
+<Word stime="13.87" dur="0.18" conf="0.104"> me </Word>
+<Word stime="14.05" dur="0.38" conf="0.652"> 3rd </Word>
+<Word stime="14.43" dur="0.13" conf="0.964"> and </Word>
+<Word stime="14.58" dur="0.08" conf="0.943"> the </Word>
+<Word stime="14.66" dur="0.50" conf="0.963"> criterion </Word>
+<Word stime="15.28" dur="0.32" conf="0.947"> Ginger </Word>
+<Word stime="15.60" dur="0.30" conf="0.924"> Rogers </Word>
+<Word stime="15.97" dur="0.26" conf="0.224"> theater </Word>
+<Word stime="15.97" dur="0.26" conf="0.157"> Theatre </Word>
+<Word stime="15.97" dur="0.26" conf="0.123"> Theater </Word>
+<Word stime="16.32" dur="0.15" conf="0.648"> and </Word>
+<Word stime="16.47" dur="0.22" conf="0.409"> they </Word>
+<Word stime="17.05" dur="0.15" conf="0.231"> make </Word>
+<Word stime="17.05" dur="0.15" conf="0.150"> May </Word>
+<Word stime="17.20" dur="0.62" conf="0.581"> 10 </Word>
+<Word stime="17.82" dur="0.00" conf="0.319"> . </Word>
+<Word stime="17.82" dur="0.12" conf="0.942"> For </Word>
+<Word stime="17.94" dur="0.26" conf="0.946"> tickets </Word>
+<Word stime="18.20" dur="0.06" conf="0.535"> , </Word>
+<Word stime="18.26" dur="0.32" conf="0.922"> contact </Word>
+<Word stime="18.70" dur="0.17" conf="0.282"> rogue </Word>
+<Word stime="18.70" dur="0.17" conf="0.182"> broke </Word>
+<Word stime="19.07" dur="0.18" conf="0.226"> operators </Word>
+<Word stime="19.07" dur="0.18" conf="0.151"> opera </Word>
+<Word stime="19.40" dur="0.22" conf="0.820"> six </Word>
+<Word stime="19.78" dur="0.26" conf="0.214"> await </Word>
+<Word stime="19.78" dur="0.26" conf="0.158"> eight </Word>
+<Word stime="19.78" dur="0.26" conf="0.156"> awaits </Word>
+<Word stime="20.04" dur="0.51" conf="0.962"> 64 </Word>
+<Word stime="20.55" dur="0.31" conf="0.964"> hundred </Word>
+<Word stime="21.01" dur="0.12" conf="0.233"> for </Word>
+<Word stime="21.01" dur="0.12" conf="0.177"> four </Word>
+<Word stime="21.01" dur="0.12" conf="0.135"> or </Word>
+<Word stime="21.21" dur="0.18" conf="0.377"> rolled </Word>
+<Word stime="21.21" dur="0.18" conf="0.200"> world </Word>
+<Word stime="21.65" dur="0.12" conf="0.347"> for </Word>
+<Word stime="21.65" dur="0.12" conf="0.132"> opera </Word>
+<Word stime="22.02" dur="0.14" conf="0.701"> dot </Word>
+<Word stime="22.16" dur="0.16" conf="0.698"> org </Word>
+<Word stime="23.21" dur="0.45" conf="0.913"> Spartanburg </Word>
+<Word stime="23.92" dur="0.26" conf="0.188"> Pletcher </Word>
+<Word stime="23.92" dur="0.26" conf="0.112"> picture </Word>
+<Word stime="23.92" dur="0.26" conf="0.110"> venture </Word>
+<Word stime="24.30" dur="0.29" conf="0.612"> immediate </Word>
+<Word stime="24.74" dur="0.21" conf="0.887"> Jim </Word>
+<Word stime="24.95" dur="0.44" conf="0.965"> Collier </Word>
+<Word stime="25.44" dur="0.21" conf="0.562"> news </Word>
+<Word stime="25.44" dur="0.21" conf="0.179"> News </Word>
+<Word stime="25.65" dur="0.20" conf="0.525"> talk </Word>
+<Word stime="26.06" dur="0.16" conf="0.512"> in </Word>
+<Word stime="26.06" dur="0.16" conf="0.181"> Ian </Word>
+<Word stime="26.22" dur="0.39" conf="0.964"> 14 </Word>
+<Word stime="26.61" dur="0.00" conf="0.559"> , </Word>
+<Word stime="26.61" dur="0.43" conf="0.963"> 42 </Word>
+<Word stime="27.07" dur="0.29" conf="0.965"> AM </Word>
+<Word stime="27.36" dur="0.37" conf="0.964"> EDT </Word>
+<Word stime="27.87" dur="0.26" conf="0.270"> include </Word>
+<Word stime="27.87" dur="0.26" conf="0.198"> in </Word>
+<Word stime="27.87" dur="0.26" conf="0.108"> includes </Word>
+<Word stime="28.52" dur="0.13" conf="0.618"> one </Word>
+<Word stime="28.68" dur="0.11" conf="0.343"> of </Word>
+<Word stime="28.68" dur="0.11" conf="0.220"> all </Word>
+<Word stime="28.84" dur="0.25" conf="0.962"> three </Word>
+<Word stime="30.64" dur="0.76" conf="0.965"> {fw} </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

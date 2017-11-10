@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Legourmettv-CuminSaladDressingRecipe423.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Legourmettv-CuminSaladDressingRecipe423.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="61.17" spdur="18.41" nw="56" tconf="0.72"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="16.29" gender="2" spkid="FS1" lang="eng-usa" lconf="0.99" nw="52" tconf="0.74"/>
+<Speaker ch="1" dur="2.12" gender="1" spkid="MS1" lang="eng-usa" lconf="0.99" nw="4" tconf="0.48"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.01" etime="3.96" spkid="FS1" lang="eng-usa" lconf="0.99" trs="1">
+<Word stime="0.15" dur="0.26" conf="0.404"> Today </Word>
+<Word stime="0.15" dur="0.26" conf="0.352"> today's </Word>
+<Word stime="0.53" dur="0.13" conf="0.421"> has </Word>
+<Word stime="0.66" dur="0.09" conf="0.422"> to </Word>
+<Word stime="0.75" dur="0.19" conf="0.425"> be </Word>
+<Word stime="0.75" dur="0.19" conf="0.209"> recipe </Word>
+<Word stime="1.07" dur="0.19" conf="0.973"> is </Word>
+<Word stime="1.31" dur="0.39" conf="0.975"> cumin </Word>
+<Word stime="1.70" dur="0.53" conf="0.975"> vinaigrette </Word>
+<Word stime="2.23" dur="0.68" conf="0.514"> . </Word>
+<Word stime="2.91" dur="0.16" conf="0.627"> Yes </Word>
+<Word stime="3.07" dur="0.00" conf="0.609"> , </Word>
+<Word stime="3.07" dur="0.10" conf="0.418"> and </Word>
+<Word stime="3.07" dur="0.10" conf="0.242"> some </Word>
+<Word stime="3.50" dur="0.07" conf="0.400"> of </Word>
+<Word stime="3.57" dur="0.35" conf="0.951"> oil </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="6.21" etime="7.47" spkid="FS1" lang="eng-usa" lconf="0.99" trs="1">
+<Word stime="6.33" dur="0.19" conf="0.871"> red </Word>
+<Word stime="6.52" dur="0.27" conf="0.842"> wine </Word>
+<Word stime="6.79" dur="0.42" conf="0.491"> beggars </Word>
+<Word stime="6.79" dur="0.42" conf="0.118"> burgers </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="13.61" etime="14.62" spkid="FS1" lang="eng-usa" lconf="0.99" trs="1">
+<Word stime="13.61" dur="0.17" conf="0.378"> Orange </Word>
+<Word stime="13.94" dur="0.38" conf="0.198"> ships </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="16.38" etime="18.50" spkid="MS1" lang="eng-usa" lconf="0.99" trs="1">
+<Word stime="16.38" dur="0.26" conf="0.445"> so </Word>
+<Word stime="16.72" dur="0.34" conf="0.368"> their </Word>
+<Word stime="18.04" dur="0.42" conf="0.640"> course </Word>
+<Word stime="18.46" dur="0.00" conf="0.476"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="30.22" etime="40.29" spkid="FS1" lang="eng-usa" lconf="0.99" trs="1">
+<Word stime="30.22" dur="0.34" conf="0.974"> This </Word>
+<Word stime="30.65" dur="0.38" conf="0.967"> particular </Word>
+<Word stime="31.03" dur="0.34" conf="0.956"> salad </Word>
+<Word stime="31.37" dur="0.32" conf="0.956"> dressing </Word>
+<Word stime="31.69" dur="0.20" conf="0.908"> should </Word>
+<Word stime="31.89" dur="0.26" conf="0.943"> sit </Word>
+<Word stime="32.21" dur="0.10" conf="0.973"> for </Word>
+<Word stime="32.31" dur="0.06" conf="0.974"> an </Word>
+<Word stime="32.37" dur="0.27" conf="0.974"> hour </Word>
+<Word stime="32.64" dur="0.35" conf="0.974"> before </Word>
+<Word stime="32.99" dur="0.11" conf="0.974"> you </Word>
+<Word stime="33.10" dur="0.31" conf="0.439"> just </Word>
+<Word stime="33.10" dur="0.31" conf="0.312"> dress </Word>
+<Word stime="33.41" dur="0.09" conf="0.476"> your </Word>
+<Word stime="33.41" dur="0.09" conf="0.185"> you </Word>
+<Word stime="33.50" dur="0.39" conf="0.513"> salad </Word>
+<Word stime="33.50" dur="0.39" conf="0.169"> sound </Word>
+<Word stime="34.48" dur="0.46" conf="0.945"> and </Word>
+<Word stime="35.19" dur="0.22" conf="0.602"> happens </Word>
+<Word stime="35.41" dur="0.07" conf="0.967"> to </Word>
+<Word stime="35.48" dur="0.10" conf="0.407"> go </Word>
+<Word stime="35.48" dur="0.10" conf="0.238"> do </Word>
+<Word stime="35.63" dur="0.21" conf="0.974"> really </Word>
+<Word stime="35.84" dur="0.28" conf="0.974"> well </Word>
+<Word stime="36.12" dur="0.21" conf="0.974"> with </Word>
+<Word stime="36.48" dur="0.25" conf="0.943"> fruity </Word>
+<Word stime="36.87" dur="0.27" conf="0.974"> flavor </Word>
+<Word stime="37.28" dur="0.26" conf="0.970"> orange </Word>
+<Word stime="37.63" dur="0.25" conf="0.377"> flavored </Word>
+<Word stime="37.63" dur="0.25" conf="0.185"> flavors </Word>
+<Word stime="37.63" dur="0.25" conf="0.127"> flavoured </Word>
+<Word stime="37.88" dur="0.19" conf="0.715"> such </Word>
+<Word stime="38.07" dur="0.12" conf="0.711"> as </Word>
+<Word stime="38.25" dur="0.21" conf="0.781"> flavored </Word>
+<Word stime="38.51" dur="0.45" conf="0.407"> salads </Word>
+<Word stime="38.51" dur="0.45" conf="0.321"> silence </Word>
+<Word stime="38.96" dur="0.36" conf="0.641"> . </Word>
+<Word stime="39.32" dur="0.15" conf="0.972"> I </Word>
+<Word stime="39.51" dur="0.14" conf="0.972"> hope </Word>
+<Word stime="39.65" dur="0.07" conf="0.578"> you </Word>
+<Word stime="39.65" dur="0.07" conf="0.130"> they </Word>
+<Word stime="39.72" dur="0.32" conf="0.768"> enjoy </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

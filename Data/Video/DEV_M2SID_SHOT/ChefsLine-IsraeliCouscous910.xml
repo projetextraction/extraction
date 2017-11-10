@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>ChefsLine-IsraeliCouscous910</CreationID>
+  <InitialFrameID>ChefsLine-IsraeliCouscous910/0032.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:04:266F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:02:133F1000">ChefsLine-IsraeliCouscous910/0032.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:04:266F1000" end="T00:00:30:666F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:17:466F1000">ChefsLine-IsraeliCouscous910/0262.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:30:666F1000" end="T00:00:45:400F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:38:000F1000">ChefsLine-IsraeliCouscous910/0570.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:45:400F1000" end="T00:00:57:733F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:51:533F1000">ChefsLine-IsraeliCouscous910/0773.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:57:733F1000" end="T00:01:11:800F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:01:04:733F1000">ChefsLine-IsraeliCouscous910/0971.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:11:800F1000" end="T00:01:16:000F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:01:13:866F1000">ChefsLine-IsraeliCouscous910/1108.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:16:000F1000" end="T00:01:20:200F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:01:18:066F1000">ChefsLine-IsraeliCouscous910/1171.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:20:200F1000" end="T00:02:02:666F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:01:41:400F1000">ChefsLine-IsraeliCouscous910/1521.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:02:666F1000" end="T00:02:05:800F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:02:04:200F1000">ChefsLine-IsraeliCouscous910/1863.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

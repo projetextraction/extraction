@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Jasonheath-BassByChrisThrelkeldWiegand763</CreationID>
+  <InitialFrameID>Jasonheath-BassByChrisThrelkeldWiegand763/045.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:06:000F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:03:000F1000">Jasonheath-BassByChrisThrelkeldWiegand763/045.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:07:800F1000" end="T00:00:09:333F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:08:533F1000">Jasonheath-BassByChrisThrelkeldWiegand763/128.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:11:800F1000" end="T00:00:13:200F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:12:466F1000">Jasonheath-BassByChrisThrelkeldWiegand763/187.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:15:066F1000" end="T00:00:16:800F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:15:933F1000">Jasonheath-BassByChrisThrelkeldWiegand763/239.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:19:400F1000" end="T00:00:20:800F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:20:066F1000">Jasonheath-BassByChrisThrelkeldWiegand763/301.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:22:533F1000" end="T00:00:24:333F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:23:400F1000">Jasonheath-BassByChrisThrelkeldWiegand763/351.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

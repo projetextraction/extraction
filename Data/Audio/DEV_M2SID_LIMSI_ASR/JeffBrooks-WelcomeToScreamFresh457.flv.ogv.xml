@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="JeffBrooks-WelcomeToScreamFresh457.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/JeffBrooks-WelcomeToScreamFresh457.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="24.74" spdur="24.40" nw="68" tconf="0.66"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="24.40" gender="1" spkid="MS1" lang="eng-usa" lconf="0.99" nw="68" tconf="0.66"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.17" etime="24.57" spkid="MS1" lang="eng-usa" lconf="0.99" trs="1">
+<Word stime="0.47" dur="0.12" conf="0.404"> I </Word>
+<Word stime="0.71" dur="0.12" conf="0.351"> am </Word>
+<Word stime="0.71" dur="0.12" conf="0.129"> and </Word>
+<Word stime="0.71" dur="0.12" conf="0.107"> I've </Word>
+<Word stime="0.83" dur="0.53" conf="0.287"> 30 </Word>
+<Word stime="0.85" dur="0.15" conf="0.151"> very </Word>
+<Word stime="1.44" dur="0.36" conf="0.937"> host </Word>
+<Word stime="1.83" dur="0.13" conf="0.671"> of </Word>
+<Word stime="1.96" dur="0.49" conf="0.466"> screaming </Word>
+<Word stime="1.96" dur="0.49" conf="0.204"> screening </Word>
+<Word stime="2.58" dur="0.64" conf="0.940"> fresh </Word>
+<Word stime="3.61" dur="0.22" conf="0.455"> blood </Word>
+<Word stime="3.61" dur="0.22" conf="0.162"> lettuce </Word>
+<Word stime="3.87" dur="0.10" conf="0.364"> is </Word>
+<Word stime="3.97" dur="0.27" conf="0.259"> screaming </Word>
+<Word stime="3.97" dur="0.27" conf="0.104"> grooming </Word>
+<Word stime="4.31" dur="0.30" conf="0.923"> fresh </Word>
+<Word stime="4.86" dur="0.18" conf="0.321"> well </Word>
+<Word stime="4.86" dur="0.18" conf="0.184"> Wallace </Word>
+<Word stime="4.86" dur="0.18" conf="0.137"> while </Word>
+<Word stime="5.04" dur="0.12" conf="0.264"> as </Word>
+<Word stime="5.16" dur="0.17" conf="0.936"> two </Word>
+<Word stime="5.44" dur="0.21" conf="0.939"> things </Word>
+<Word stime="5.70" dur="0.06" conf="0.644"> at </Word>
+<Word stime="5.84" dur="0.25" conf="0.649"> once </Word>
+<Word stime="6.09" dur="0.18" conf="0.904"> . </Word>
+<Word stime="6.27" dur="0.16" conf="0.847"> It's </Word>
+<Word stime="6.47" dur="0.06" conf="0.912"> a </Word>
+<Word stime="6.53" dur="0.42" conf="0.644"> website </Word>
+<Word stime="6.53" dur="0.42" conf="0.104"> Web </Word>
+<Word stime="7.54" dur="0.17" conf="0.306"> visit </Word>
+<Word stime="7.54" dur="0.17" conf="0.262"> is </Word>
+<Word stime="7.54" dur="0.17" conf="0.100"> isn't </Word>
+<Word stime="7.77" dur="0.16" conf="0.590"> all </Word>
+<Word stime="7.97" dur="0.15" conf="0.413"> the </Word>
+<Word stime="7.97" dur="0.15" conf="0.232"> that </Word>
+<Word stime="8.12" dur="0.25" conf="0.334"> tab </Word>
+<Word stime="8.37" dur="0.13" conf="0.385"> have </Word>
+<Word stime="8.53" dur="0.11" conf="0.729"> to </Word>
+<Word stime="8.64" dur="0.11" conf="0.474"> see </Word>
+<Word stime="8.75" dur="0.12" conf="0.386"> what </Word>
+<Word stime="8.87" dur="0.10" conf="0.957"> we </Word>
+<Word stime="8.97" dur="0.22" conf="0.529"> have </Word>
+<Word stime="8.97" dur="0.22" conf="0.210"> had </Word>
+<Word stime="9.19" dur="0.08" conf="0.426"> now </Word>
+<Word stime="9.32" dur="0.20" conf="0.417"> offered </Word>
+<Word stime="9.32" dur="0.20" conf="0.206"> offer </Word>
+<Word stime="10.05" dur="0.20" conf="0.564"> to </Word>
+<Word stime="10.05" dur="0.20" conf="0.149"> two </Word>
+<Word stime="10.30" dur="0.16" conf="0.390"> it's </Word>
+<Word stime="10.30" dur="0.16" conf="0.278"> its </Word>
+<Word stime="10.46" dur="0.09" conf="0.530"> a </Word>
+<Word stime="10.55" dur="0.28" conf="0.542"> podcast </Word>
+<Word stime="10.83" dur="0.90" conf="0.597"> . </Word>
+<Word stime="11.73" dur="0.15" conf="0.449"> But </Word>
+<Word stime="11.73" dur="0.15" conf="0.241"> well </Word>
+<Word stime="11.92" dur="0.17" conf="0.941"> we </Word>
+<Word stime="12.16" dur="0.31" conf="0.956"> teach </Word>
+<Word stime="12.47" dur="0.09" conf="0.957"> you </Word>
+<Word stime="12.56" dur="0.37" conf="0.957"> about </Word>
+<Word stime="13.19" dur="0.46" conf="0.626"> by </Word>
+<Word stime="13.19" dur="0.46" conf="0.124"> buying </Word>
+<Word stime="14.21" dur="0.49" conf="0.838"> storing </Word>
+<Word stime="14.96" dur="0.19" conf="0.953"> and </Word>
+<Word stime="15.15" dur="0.44" conf="0.955"> using </Word>
+<Word stime="15.77" dur="0.16" conf="0.451"> fresh </Word>
+<Word stime="16.18" dur="0.33" conf="0.548"> food </Word>
+<Word stime="16.18" dur="0.33" conf="0.175"> threshold </Word>
+<Word stime="16.67" dur="0.37" conf="0.928"> wow </Word>
+<Word stime="17.36" dur="0.18" conf="0.910"> look </Word>
+<Word stime="17.69" dur="0.18" conf="0.580"> far </Word>
+<Word stime="17.87" dur="0.30" conf="0.409"> ferry </Word>
+<Word stime="17.87" dur="0.30" conf="0.163"> Ferry </Word>
+<Word stime="18.56" dur="0.22" conf="0.738"> video </Word>
+<Word stime="19.13" dur="0.46" conf="0.955"> January </Word>
+<Word stime="19.70" dur="0.38" conf="0.913"> one </Word>
+<Word stime="20.16" dur="0.24" conf="0.956"> two </Word>
+<Word stime="20.40" dur="0.40" conf="0.956"> thousand </Word>
+<Word stime="20.80" dur="0.33" conf="0.956"> nine </Word>
+<Word stime="21.49" dur="0.21" conf="0.796"> keep </Word>
+<Word stime="21.79" dur="0.32" conf="0.956"> coming </Word>
+<Word stime="22.11" dur="0.26" conf="0.955"> back </Word>
+<Word stime="22.44" dur="0.13" conf="0.853"> to </Word>
+<Word stime="22.57" dur="0.41" conf="0.669"> screaming </Word>
+<Word stime="23.09" dur="0.30" conf="0.915"> fresh </Word>
+<Word stime="23.70" dur="0.28" conf="0.612"> that </Word>
+<Word stime="23.70" dur="0.28" conf="0.130"> dot </Word>
+<Word stime="23.98" dur="0.29" conf="0.486"> car </Word>
+<Word stime="23.98" dur="0.29" conf="0.130"> com </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

@@ -1,0 +1,27 @@
+<video>
+  <title><![CDATA[Episode 1]]></title>
+  <description><![CDATA[This episode features me performing Travelin&apos; Man.]]></description>
+  <explicit>false</explicit>
+  <duration>307</duration>
+  <url>http://blip.tv/file/914000</url>
+  <license>
+    <type>Creative Commons Attribution-NonCommercial 2.0</type>
+    <id>4</id>
+  </license>
+  <tags>
+    <string>folk</string>
+    <string>country</string>
+    <string>music</string>
+    <string>seattle</string>
+  </tags>
+  <uploader>
+    <uid>199052</uid>
+    <login>Clif</login>
+  </uploader>
+  <file>
+    <filename>Clif-Episode1570.flv</filename>
+    <link>http://blip.tv/file/get/Clif-Episode1570.flv</link>
+    <size>22145759</size>
+  </file>
+  <comments />
+</video>

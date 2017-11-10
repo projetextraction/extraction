@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="JimCropcho-jimUglyBetty704.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/JimCropcho-jimUglyBetty704.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="6.82" spdur="6.53" nw="25" tconf="0.71"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="6.53" gender="2" spkid="FS1" lang="eng-usa" lconf="0.29" nw="25" tconf="0.71"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.01" etime="6.54" spkid="FS1" lang="eng-usa" lconf="0.29" trs="1">
+<Word stime="0.01" dur="0.12" conf="0.310"> {fw} </Word>
+<Word stime="0.01" dur="0.12" conf="0.235"> you </Word>
+<Word stime="0.13" dur="0.14" conf="0.982"> , </Word>
+<Word stime="0.27" dur="0.16" conf="0.533"> what </Word>
+<Word stime="0.49" dur="0.06" conf="0.401"> a </Word>
+<Word stime="0.49" dur="0.06" conf="0.298"> the </Word>
+<Word stime="1.23" dur="0.15" conf="0.382"> you're </Word>
+<Word stime="1.23" dur="0.15" conf="0.241"> you </Word>
+<Word stime="1.38" dur="0.16" conf="0.694"> okay </Word>
+<Word stime="1.54" dur="0.74" conf="0.725"> , </Word>
+<Word stime="2.28" dur="0.14" conf="0.616"> well </Word>
+<Word stime="2.28" dur="0.14" conf="0.128"> by </Word>
+<Word stime="2.42" dur="0.00" conf="0.978"> , </Word>
+<Word stime="2.42" dur="0.36" conf="0.881"> {fw} </Word>
+<Word stime="2.78" dur="0.47" conf="0.819"> , </Word>
+<Word stime="3.25" dur="0.09" conf="0.608"> we </Word>
+<Word stime="3.38" dur="0.18" conf="0.839"> had </Word>
+<Word stime="3.75" dur="0.11" conf="0.646"> the </Word>
+<Word stime="3.75" dur="0.11" conf="0.113"> that </Word>
+<Word stime="4.11" dur="0.16" conf="0.380"> mentality </Word>
+<Word stime="4.11" dur="0.16" conf="0.102"> excited </Word>
+<Word stime="4.33" dur="0.15" conf="0.393"> and </Word>
+<Word stime="4.33" dur="0.15" conf="0.213"> yet </Word>
+<Word stime="4.52" dur="0.16" conf="0.891"> so </Word>
+<Word stime="4.71" dur="0.13" conf="0.850"> don't </Word>
+<Word stime="4.84" dur="0.07" conf="0.933"> you </Word>
+<Word stime="4.91" dur="0.18" conf="0.939"> worry </Word>
+<Word stime="5.09" dur="0.21" conf="0.924"> about </Word>
+<Word stime="5.30" dur="0.14" conf="0.541"> me </Word>
+<Word stime="5.77" dur="0.16" conf="0.691"> he </Word>
+<Word stime="5.97" dur="0.16" conf="0.942"> did </Word>
+<Word stime="6.13" dur="0.11" conf="0.944"> you </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

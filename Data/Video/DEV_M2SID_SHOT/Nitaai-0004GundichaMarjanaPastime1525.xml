@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Nitaai-0004GundichaMarjanaPastime1525</CreationID>
+  <InitialFrameID>Nitaai-0004GundichaMarjanaPastime1525/1058713.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:35:17:426F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:17:38:713F1000">Nitaai-0004GundichaMarjanaPastime1525/1058713.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

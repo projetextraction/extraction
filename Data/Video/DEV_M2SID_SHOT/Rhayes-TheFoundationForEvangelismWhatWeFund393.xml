@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Rhayes-TheFoundationForEvangelismWhatWeFund393</CreationID>
+  <InitialFrameID>Rhayes-TheFoundationForEvangelismWhatWeFund393/0005.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:00:666F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:00:333F1000">Rhayes-TheFoundationForEvangelismWhatWeFund393/0005.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:00:666F1000" end="T00:07:05:733F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:03:33:200F1000">Rhayes-TheFoundationForEvangelismWhatWeFund393/3198.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:05:733F1000" end="T00:07:09:733F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:07:07:733F1000">Rhayes-TheFoundationForEvangelismWhatWeFund393/6416.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:09:733F1000" end="T00:07:31:333F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:07:20:533F1000">Rhayes-TheFoundationForEvangelismWhatWeFund393/6608.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:31:333F1000" end="T00:07:33:333F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:07:32:333F1000">Rhayes-TheFoundationForEvangelismWhatWeFund393/6785.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:33:333F1000" end="T00:07:35:466F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:07:34:400F1000">Rhayes-TheFoundationForEvangelismWhatWeFund393/6816.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:35:466F1000" end="T00:07:39:866F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:07:37:666F1000">Rhayes-TheFoundationForEvangelismWhatWeFund393/6865.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:39:866F1000" end="T00:07:40:800F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:07:40:333F1000">Rhayes-TheFoundationForEvangelismWhatWeFund393/6905.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="ChefsLine-KansasCityBarbecueSauce196.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/ChefsLine-KansasCityBarbecueSauce196.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="114.54" spdur="85.00" nw="237" tconf="0.82"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="73.13" gender="1" spkid="MS3" lang="eng-usa" lconf="0.97" nw="231" tconf="0.82"/>
+<Speaker ch="1" dur="9.02" gender="2" spkid="FS1" lang="eng-usa" lconf="0.97" nw="2" tconf="1.00"/>
+<Speaker ch="1" dur="2.85" gender="2" spkid="FS2" lang="eng-usa" lconf="0.97" nw="4" tconf="0.73"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.01" etime="3.97" spkid="FS1" lang="eng-usa" lconf="0.97" trs="1">
+<Word stime="0.01" dur="3.92" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="6.03" etime="8.88" spkid="FS2" lang="eng-usa" lconf="0.97" trs="1">
+<Word stime="6.33" dur="0.36" conf="0.576"> {fw} </Word>
+<Word stime="6.79" dur="0.31" conf="0.978"> {fw} </Word>
+<Word stime="7.79" dur="0.79" conf="0.937"> {fw} </Word>
+<Word stime="8.58" dur="0.00" conf="0.438"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="10.77" etime="31.51" spkid="MS3" lang="eng-usa" lconf="0.97" trs="1">
+<Word stime="10.77" dur="0.11" conf="0.969"> The </Word>
+<Word stime="10.98" dur="0.39" conf="0.965"> subject </Word>
+<Word stime="11.37" dur="0.13" conf="0.965"> of </Word>
+<Word stime="11.53" dur="0.19" conf="0.553"> whether </Word>
+<Word stime="11.53" dur="0.19" conf="0.118"> barbecue </Word>
+<Word stime="11.81" dur="0.16" conf="0.370"> he </Word>
+<Word stime="11.97" dur="0.14" conf="0.582"> was </Word>
+<Word stime="11.97" dur="0.14" conf="0.117"> is </Word>
+<Word stime="12.17" dur="0.22" conf="0.543"> bound </Word>
+<Word stime="12.17" dur="0.22" conf="0.207"> down </Word>
+<Word stime="12.39" dur="0.09" conf="0.974"> to </Word>
+<Word stime="12.52" dur="0.16" conf="0.974"> bring </Word>
+<Word stime="12.68" dur="0.12" conf="0.916"> up </Word>
+<Word stime="12.83" dur="0.45" conf="0.929"> arguments </Word>
+<Word stime="13.28" dur="0.29" conf="0.974"> about </Word>
+<Word stime="13.57" dur="0.28" conf="0.974"> which </Word>
+<Word stime="13.85" dur="0.41" conf="0.738"> styles </Word>
+<Word stime="14.26" dur="0.00" conf="0.618"> . </Word>
+<Word stime="14.26" dur="0.06" conf="0.914"> The </Word>
+<Word stime="14.32" dur="0.26" conf="0.925"> best </Word>
+<Word stime="14.58" dur="0.10" conf="0.612"> , </Word>
+<Word stime="14.68" dur="0.10" conf="0.930"> but </Word>
+<Word stime="14.81" dur="0.12" conf="0.593"> there's </Word>
+<Word stime="14.81" dur="0.12" conf="0.174"> there </Word>
+<Word stime="15.01" dur="0.32" conf="0.974"> no </Word>
+<Word stime="15.33" dur="0.63" conf="0.974"> disputing </Word>
+<Word stime="16.21" dur="0.16" conf="0.618"> that </Word>
+<Word stime="16.21" dur="0.16" conf="0.146"> the </Word>
+<Word stime="16.37" dur="0.43" conf="0.973"> Kansas </Word>
+<Word stime="16.84" dur="0.16" conf="0.856"> City </Word>
+<Word stime="17.00" dur="0.33" conf="0.974"> style </Word>
+<Word stime="17.33" dur="0.52" conf="0.968"> barbecue </Word>
+<Word stime="17.85" dur="0.36" conf="0.970"> sauce </Word>
+<Word stime="18.47" dur="0.17" conf="0.970"> is </Word>
+<Word stime="18.81" dur="0.32" conf="0.974"> really </Word>
+<Word stime="19.13" dur="0.13" conf="0.973"> up </Word>
+<Word stime="19.29" dur="0.15" conf="0.968"> there </Word>
+<Word stime="19.44" dur="0.23" conf="0.974"> among </Word>
+<Word stime="19.77" dur="0.15" conf="0.974"> them </Word>
+<Word stime="20.24" dur="0.25" conf="0.679"> so </Word>
+<Word stime="20.54" dur="0.16" conf="0.802"> money </Word>
+<Word stime="20.70" dur="0.21" conf="0.751"> should </Word>
+<Word stime="20.91" dur="0.12" conf="0.376"> I </Word>
+<Word stime="21.06" dur="0.22" conf="0.791"> make </Word>
+<Word stime="21.36" dur="0.10" conf="0.880"> it </Word>
+<Word stime="21.78" dur="0.27" conf="0.971"> first </Word>
+<Word stime="22.05" dur="0.08" conf="0.970"> in </Word>
+<Word stime="22.13" dur="0.07" conf="0.973"> a </Word>
+<Word stime="22.25" dur="0.19" conf="0.974"> deep </Word>
+<Word stime="22.44" dur="0.45" conf="0.974"> saucepan </Word>
+<Word stime="23.61" dur="0.25" conf="0.974"> heat </Word>
+<Word stime="23.86" dur="0.11" conf="0.973"> a </Word>
+<Word stime="24.10" dur="0.27" conf="0.974"> couple </Word>
+<Word stime="24.48" dur="0.46" conf="0.974"> tablespoons </Word>
+<Word stime="24.96" dur="0.06" conf="0.859"> of </Word>
+<Word stime="25.11" dur="0.39" conf="0.974"> vegetable </Word>
+<Word stime="25.50" dur="0.22" conf="0.958"> oil </Word>
+<Word stime="25.85" dur="0.12" conf="0.187"> to </Word>
+<Word stime="25.85" dur="0.12" conf="0.172"> so </Word>
+<Word stime="26.10" dur="0.11" conf="0.258"> are </Word>
+<Word stime="26.10" dur="0.11" conf="0.120"> our </Word>
+<Word stime="26.34" dur="0.45" conf="0.963"> shimmering </Word>
+<Word stime="27.02" dur="0.11" conf="0.774"> and </Word>
+<Word stime="27.13" dur="0.21" conf="0.969"> that </Word>
+<Word stime="27.39" dur="0.19" conf="0.972"> in </Word>
+<Word stime="27.74" dur="0.23" conf="0.730"> and </Word>
+<Word stime="28.20" dur="0.09" conf="0.565"> of </Word>
+<Word stime="28.20" dur="0.09" conf="0.113"> a </Word>
+<Word stime="28.32" dur="0.29" conf="0.856"> medium </Word>
+<Word stime="28.79" dur="0.25" conf="0.575"> based </Word>
+<Word stime="29.10" dur="0.21" conf="0.498"> fund </Word>
+<Word stime="29.83" dur="0.13" conf="0.883"> and </Word>
+<Word stime="29.99" dur="0.29" conf="0.395"> fought </Word>
+<Word stime="29.99" dur="0.29" conf="0.226"> thought </Word>
+<Word stime="30.30" dur="0.12" conf="0.549"> here </Word>
+<Word stime="30.50" dur="0.14" conf="0.238"> that </Word>
+<Word stime="30.50" dur="0.14" conf="0.154"> than </Word>
+<Word stime="30.75" dur="0.15" conf="0.288"> me </Word>
+<Word stime="30.75" dur="0.15" conf="0.139"> forty </Word>
+<Word stime="30.90" dur="0.17" conf="0.459"> on </Word>
+<Word stime="31.09" dur="0.07" conf="0.473"> the </Word>
+<Word stime="31.28" dur="0.19" conf="0.429"> floor </Word>
+<Word stime="31.28" dur="0.19" conf="0.146"> unfold </Word>
+<Word stime="31.47" dur="0.00" conf="0.480"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="33.15" etime="36.44" spkid="MS3" lang="eng-usa" lconf="0.97" trs="1">
+<Word stime="33.28" dur="0.42" conf="0.837"> After </Word>
+<Word stime="33.70" dur="0.38" conf="0.515"> in </Word>
+<Word stime="33.70" dur="0.38" conf="0.152"> and </Word>
+<Word stime="34.08" dur="0.53" conf="0.978"> 4 </Word>
+<Word stime="34.61" dur="0.33" conf="0.984"> cups </Word>
+<Word stime="34.97" dur="0.11" conf="0.985"> of </Word>
+<Word stime="35.11" dur="0.21" conf="0.985"> low </Word>
+<Word stime="35.32" dur="0.41" conf="0.985"> sodium </Word>
+<Word stime="35.73" dur="0.27" conf="0.984"> chicken </Word>
+<Word stime="36.07" dur="0.32" conf="0.985"> broth </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="38.23" etime="39.92" spkid="MS3" lang="eng-usa" lconf="0.97" trs="1">
+<Word stime="38.53" dur="0.23" conf="0.970"> and </Word>
+<Word stime="38.81" dur="0.07" conf="0.419"> a </Word>
+<Word stime="38.81" dur="0.07" conf="0.282"> the </Word>
+<Word stime="38.94" dur="0.23" conf="0.706"> cup </Word>
+<Word stime="39.17" dur="0.14" conf="0.941"> of </Word>
+<Word stime="39.34" dur="0.18" conf="0.855"> root </Word>
+<Word stime="39.59" dur="0.29" conf="0.858"> beer </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="42.89" etime="47.99" spkid="MS3" lang="eng-usa" lconf="0.97" trs="1">
+<Word stime="42.95" dur="0.20" conf="0.723"> well </Word>
+<Word stime="43.15" dur="0.00" conf="0.968"> , </Word>
+<Word stime="43.15" dur="0.24" conf="0.411"> good </Word>
+<Word stime="43.55" dur="0.22" conf="0.893"> cup </Word>
+<Word stime="43.77" dur="0.14" conf="0.938"> of </Word>
+<Word stime="43.95" dur="0.27" conf="0.972"> apple </Word>
+<Word stime="44.22" dur="0.31" conf="0.972"> cider </Word>
+<Word stime="44.63" dur="0.40" conf="0.970"> vinegar </Word>
+<Word stime="46.20" dur="0.08" conf="0.968"> a </Word>
+<Word stime="46.28" dur="0.37" conf="0.934"> couple </Word>
+<Word stime="47.25" dur="0.30" conf="0.965"> corn </Word>
+<Word stime="47.63" dur="0.31" conf="0.971"> syrup </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="51.05" etime="52.91" spkid="MS3" lang="eng-usa" lconf="0.97" trs="1">
+<Word stime="51.20" dur="0.13" conf="0.472"> half </Word>
+<Word stime="51.44" dur="0.04" conf="0.482"> a </Word>
+<Word stime="51.84" dur="0.20" conf="0.905"> cup </Word>
+<Word stime="52.04" dur="0.09" conf="0.961"> of </Word>
+<Word stime="52.15" dur="0.71" conf="0.971"> molasses </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="56.58" etime="62.47" spkid="MS3" lang="eng-usa" lconf="0.97" trs="1">
+<Word stime="56.76" dur="0.09" conf="0.644"> I </Word>
+<Word stime="57.10" dur="0.22" conf="0.957"> have </Word>
+<Word stime="57.32" dur="0.07" conf="0.973"> a </Word>
+<Word stime="57.45" dur="0.24" conf="0.970"> cup </Word>
+<Word stime="57.69" dur="0.25" conf="0.973"> of </Word>
+<Word stime="58.55" dur="0.38" conf="0.973"> tomato </Word>
+<Word stime="58.93" dur="0.47" conf="0.973"> paste </Word>
+<Word stime="60.76" dur="0.44" conf="0.973"> and </Word>
+<Word stime="61.24" dur="0.09" conf="0.969"> a </Word>
+<Word stime="61.33" dur="0.24" conf="0.973"> half </Word>
+<Word stime="61.70" dur="0.18" conf="0.973"> cup </Word>
+<Word stime="61.88" dur="0.09" conf="0.966"> of </Word>
+<Word stime="61.99" dur="0.27" conf="0.259"> catch </Word>
+<Word stime="61.99" dur="0.27" conf="0.170"> ketchup </Word>
+<Word stime="61.99" dur="0.27" conf="0.140"> catcher </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="68.27" etime="88.41" spkid="MS3" lang="eng-usa" lconf="0.97" trs="1">
+<Word stime="68.27" dur="0.12" conf="0.277"> no </Word>
+<Word stime="68.27" dur="0.12" conf="0.272"> and </Word>
+<Word stime="68.39" dur="0.01" conf="0.975"> , </Word>
+<Word stime="68.40" dur="0.10" conf="0.970"> we're </Word>
+<Word stime="68.50" dur="0.21" conf="0.973"> not </Word>
+<Word stime="68.75" dur="0.17" conf="0.973"> done </Word>
+<Word stime="68.92" dur="0.20" conf="0.973"> yet </Word>
+<Word stime="69.12" dur="0.12" conf="0.973"> with </Word>
+<Word stime="69.27" dur="0.60" conf="0.971"> ingredients </Word>
+<Word stime="69.87" dur="0.08" conf="0.315"> or </Word>
+<Word stime="69.87" dur="0.08" conf="0.263"> are </Word>
+<Word stime="70.01" dur="0.15" conf="0.972"> going </Word>
+<Word stime="70.16" dur="0.10" conf="0.973"> to </Word>
+<Word stime="70.26" dur="0.37" conf="0.970"> add </Word>
+<Word stime="70.94" dur="0.17" conf="0.973"> two </Word>
+<Word stime="71.11" dur="0.75" conf="0.973"> tablespoons </Word>
+<Word stime="71.88" dur="0.11" conf="0.973"> of </Word>
+<Word stime="72.02" dur="0.45" conf="0.973"> spicy </Word>
+<Word stime="72.53" dur="0.23" conf="0.973"> brown </Word>
+<Word stime="72.76" dur="0.46" conf="0.973"> mustard </Word>
+<Word stime="73.22" dur="0.61" conf="0.765"> , </Word>
+<Word stime="73.83" dur="0.27" conf="0.970"> along </Word>
+<Word stime="74.10" dur="0.17" conf="0.973"> with </Word>
+<Word stime="74.38" dur="0.12" conf="0.940"> a </Word>
+<Word stime="74.62" dur="0.61" conf="0.973"> tablespoon </Word>
+<Word stime="75.25" dur="0.09" conf="0.970"> of </Word>
+<Word stime="75.44" dur="0.44" conf="0.973"> Tabasco </Word>
+<Word stime="75.88" dur="0.38" conf="0.973"> sauce </Word>
+<Word stime="77.00" dur="0.31" conf="0.973"> and </Word>
+<Word stime="77.55" dur="0.17" conf="0.953"> half </Word>
+<Word stime="77.76" dur="0.05" conf="0.959"> a </Word>
+<Word stime="77.92" dur="0.46" conf="0.973"> teaspoon </Word>
+<Word stime="78.52" dur="0.18" conf="0.973"> of </Word>
+<Word stime="78.70" dur="0.39" conf="0.973"> garlic </Word>
+<Word stime="79.09" dur="0.20" conf="0.757"> powder </Word>
+<Word stime="79.91" dur="0.11" conf="0.586"> and </Word>
+<Word stime="80.11" dur="0.12" conf="0.663"> I'll </Word>
+<Word stime="80.23" dur="0.19" conf="0.939"> do </Word>
+<Word stime="80.42" dur="0.11" conf="0.753"> is </Word>
+<Word stime="80.53" dur="0.12" conf="0.743"> I'll </Word>
+<Word stime="80.70" dur="0.20" conf="0.969"> bring </Word>
+<Word stime="80.90" dur="0.11" conf="0.972"> it </Word>
+<Word stime="81.04" dur="0.12" conf="0.973"> to </Word>
+<Word stime="81.16" dur="0.05" conf="0.973"> a </Word>
+<Word stime="81.21" dur="0.44" conf="0.973"> boil </Word>
+<Word stime="81.65" dur="0.20" conf="0.702"> , </Word>
+<Word stime="81.85" dur="0.21" conf="0.973"> then </Word>
+<Word stime="82.11" dur="0.21" conf="0.973"> turn </Word>
+<Word stime="82.32" dur="0.09" conf="0.968"> the </Word>
+<Word stime="82.41" dur="0.23" conf="0.973"> heat </Word>
+<Word stime="82.68" dur="0.19" conf="0.973"> down </Word>
+<Word stime="82.87" dur="0.07" conf="0.973"> to </Word>
+<Word stime="82.94" dur="0.40" conf="0.971"> medium </Word>
+<Word stime="83.59" dur="0.20" conf="0.269"> thought </Word>
+<Word stime="83.94" dur="0.43" conf="0.296"> Summers </Word>
+<Word stime="83.94" dur="0.43" conf="0.249"> summers </Word>
+<Word stime="83.94" dur="0.43" conf="0.135"> sellers </Word>
+<Word stime="84.66" dur="0.11" conf="0.568"> and </Word>
+<Word stime="84.80" dur="0.11" conf="0.233"> other </Word>
+<Word stime="84.96" dur="0.14" conf="0.416"> we </Word>
+<Word stime="85.15" dur="0.21" conf="0.468"> do </Word>
+<Word stime="85.15" dur="0.21" conf="0.166"> reduced </Word>
+<Word stime="85.52" dur="0.27" conf="0.623"> support </Word>
+<Word stime="85.84" dur="0.22" conf="0.463"> turns </Word>
+<Word stime="85.84" dur="0.22" conf="0.279"> turned </Word>
+<Word stime="86.06" dur="0.10" conf="0.891"> out </Word>
+<Word stime="86.16" dur="0.06" conf="0.973"> to </Word>
+<Word stime="86.24" dur="0.07" conf="0.972"> be </Word>
+<Word stime="86.31" dur="0.22" conf="0.798"> about </Word>
+<Word stime="86.53" dur="0.37" conf="0.850"> 4 </Word>
+<Word stime="86.90" dur="0.30" conf="0.694"> cups </Word>
+<Word stime="87.20" dur="0.06" conf="0.653"> and </Word>
+<Word stime="87.26" dur="0.16" conf="0.910"> that </Word>
+<Word stime="87.45" dur="0.11" conf="0.972"> should </Word>
+<Word stime="87.60" dur="0.18" conf="0.973"> take </Word>
+<Word stime="87.78" dur="0.22" conf="0.973"> about </Word>
+<Word stime="88.02" dur="0.06" conf="0.973"> an </Word>
+<Word stime="88.08" dur="0.29" conf="0.973"> hour </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="94.90" etime="109.32" spkid="MS3" lang="eng-usa" lconf="0.97" trs="1">
+<Word stime="95.09" dur="0.16" conf="0.563"> okay </Word>
+<Word stime="95.25" dur="0.07" conf="0.816"> , </Word>
+<Word stime="95.32" dur="0.07" conf="0.578"> the </Word>
+<Word stime="95.39" dur="0.28" conf="0.578"> last </Word>
+<Word stime="95.39" dur="0.28" conf="0.161"> Alaskan </Word>
+<Word stime="95.74" dur="0.17" conf="0.261"> green </Word>
+<Word stime="96.45" dur="0.13" conf="0.964"> is </Word>
+<Word stime="96.58" dur="0.20" conf="0.964"> about </Word>
+<Word stime="96.83" dur="0.22" conf="0.939"> half </Word>
+<Word stime="97.21" dur="0.36" conf="0.949"> teaspoon </Word>
+<Word stime="97.57" dur="0.10" conf="0.965"> of </Word>
+<Word stime="97.70" dur="0.24" conf="0.873"> liquid </Word>
+<Word stime="98.01" dur="0.29" conf="0.774"> smoke </Word>
+<Word stime="99.49" dur="0.38" conf="0.890"> stir </Word>
+<Word stime="99.91" dur="0.16" conf="0.540"> that </Word>
+<Word stime="99.91" dur="0.16" conf="0.176"> there </Word>
+<Word stime="100.18" dur="0.23" conf="0.467"> in </Word>
+<Word stime="100.18" dur="0.23" conf="0.213"> then </Word>
+<Word stime="100.93" dur="0.21" conf="0.942"> this </Word>
+<Word stime="101.14" dur="0.10" conf="0.938"> is </Word>
+<Word stime="101.24" dur="0.04" conf="0.886"> a </Word>
+<Word stime="101.47" dur="0.29" conf="0.962"> beautiful </Word>
+<Word stime="102.00" dur="0.27" conf="0.281"> fast </Word>
+<Word stime="102.00" dur="0.27" conf="0.141"> flop </Word>
+<Word stime="102.37" dur="0.14" conf="0.536"> very </Word>
+<Word stime="102.74" dur="0.54" conf="0.964"> versatile </Word>
+<Word stime="103.65" dur="0.10" conf="0.965"> and </Word>
+<Word stime="103.75" dur="0.08" conf="0.927"> you </Word>
+<Word stime="103.86" dur="0.12" conf="0.965"> can </Word>
+<Word stime="103.98" dur="0.22" conf="0.965"> use </Word>
+<Word stime="104.20" dur="0.08" conf="0.919"> it </Word>
+<Word stime="104.28" dur="0.13" conf="0.954"> with </Word>
+<Word stime="104.44" dur="0.26" conf="0.965"> almost </Word>
+<Word stime="104.77" dur="0.18" conf="0.965"> any </Word>
+<Word stime="104.95" dur="0.26" conf="0.965"> kind </Word>
+<Word stime="105.21" dur="0.07" conf="0.965"> of </Word>
+<Word stime="105.33" dur="0.26" conf="0.252"> dream </Word>
+<Word stime="105.33" dur="0.26" conf="0.114"> green </Word>
+<Word stime="106.01" dur="0.22" conf="0.593"> put </Word>
+<Word stime="106.01" dur="0.22" conf="0.155"> cooked </Word>
+<Word stime="106.23" dur="0.13" conf="0.962"> up </Word>
+<Word stime="106.39" dur="0.11" conf="0.964"> some </Word>
+<Word stime="106.50" dur="0.45" conf="0.849"> chicken </Word>
+<Word stime="107.35" dur="0.13" conf="0.900"> and </Word>
+<Word stime="107.51" dur="0.34" conf="0.380"> Mrs. </Word>
+<Word stime="107.85" dur="0.24" conf="0.901"> . </Word>
+<Word stime="108.09" dur="0.19" conf="0.381"> Shi'as </Word>
+<Word stime="108.09" dur="0.19" conf="0.373"> she </Word>
+<Word stime="108.55" dur="0.47" conf="0.898"> delicious </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="109.46" etime="114.52" spkid="FS1" lang="eng-usa" lconf="0.97" trs="1">
+<Word stime="109.46" dur="5.02" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

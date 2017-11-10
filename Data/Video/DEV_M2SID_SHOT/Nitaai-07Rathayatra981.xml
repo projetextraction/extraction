@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Nitaai-07Rathayatra981</CreationID>
+  <InitialFrameID>Nitaai-07Rathayatra981/0465.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:31:033F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:15:500F1000">Nitaai-07Rathayatra981/0465.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:31:900F1000" end="T00:00:32:733F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:32:299F1000">Nitaai-07Rathayatra981/0969.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:03:400F1000" end="T00:04:04:100F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:04:03:733F1000">Nitaai-07Rathayatra981/7312.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:07:200F1000" end="T00:04:08:300F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:04:07:733F1000">Nitaai-07Rathayatra981/7432.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:08:300F1000" end="T00:04:10:400F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:04:09:333F1000">Nitaai-07Rathayatra981/7480.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:10:400F1000" end="T00:04:13:333F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:04:11:866F1000">Nitaai-07Rathayatra981/7556.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:13:333F1000" end="T00:04:19:633F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:04:16:466F1000">Nitaai-07Rathayatra981/7694.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:19:633F1000" end="T00:04:20:633F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:04:20:133F1000">Nitaai-07Rathayatra981/7804.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:20:633F1000" end="T00:05:41:966F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:05:01:300F1000">Nitaai-07Rathayatra981/9039.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

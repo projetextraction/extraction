@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Libationblog-CucumberCupCocktailRecipe810</CreationID>
+  <InitialFrameID>Libationblog-CucumberCupCocktailRecipe810/0108.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:07:200F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:03:600F1000">Libationblog-CucumberCupCocktailRecipe810/0108.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:07:200F1000" end="T00:00:27:933F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:17:566F1000">Libationblog-CucumberCupCocktailRecipe810/0527.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:27:933F1000" end="T00:00:42:266F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:35:100F1000">Libationblog-CucumberCupCocktailRecipe810/1053.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:42:266F1000" end="T00:00:46:633F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:44:433F1000">Libationblog-CucumberCupCocktailRecipe810/1333.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:46:633F1000" end="T00:01:04:266F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:55:433F1000">Libationblog-CucumberCupCocktailRecipe810/1663.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:04:266F1000" end="T00:01:09:000F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:01:06:633F1000">Libationblog-CucumberCupCocktailRecipe810/1999.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:09:000F1000" end="T00:01:22:466F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:01:15:733F1000">Libationblog-CucumberCupCocktailRecipe810/2272.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:22:466F1000" end="T00:01:30:733F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:01:26:600F1000">Libationblog-CucumberCupCocktailRecipe810/2598.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:30:733F1000" end="T00:01:35:700F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:01:33:200F1000">Libationblog-CucumberCupCocktailRecipe810/2796.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

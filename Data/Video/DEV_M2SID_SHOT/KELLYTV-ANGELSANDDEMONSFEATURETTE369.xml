@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>KELLYTV-ANGELSANDDEMONSFEATURETTE369</CreationID>
+  <InitialFrameID>KELLYTV-ANGELSANDDEMONSFEATURETTE369/0011.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:00:733F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:00:366F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/0011.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:00:733F1000" end="T00:00:01:566F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:01:133F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/0034.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:21:333F1000" end="T00:00:26:666F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:24:000F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/0720.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:26:666F1000" end="T00:00:29:000F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:27:833F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/0835.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:29:000F1000" end="T00:00:47:833F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:38:400F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/1152.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:47:833F1000" end="T00:00:55:833F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:51:833F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/1555.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:55:833F1000" end="T00:01:09:066F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:01:02:433F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/1873.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:09:066F1000" end="T00:01:13:300F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:01:11:166F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/2135.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:13:300F1000" end="T00:01:14:166F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:01:13:733F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/2212.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:14:166F1000" end="T00:01:15:433F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:01:14:800F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/2244.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:15:433F1000" end="T00:01:16:133F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:01:15:766F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/2273.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:20:133F1000" end="T00:01:21:300F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:01:20:700F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/2421.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:21:300F1000" end="T00:01:22:233F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:01:21:766F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/2453.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:22:233F1000" end="T00:01:24:100F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:01:23:166F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/2495.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:24:100F1000" end="T00:01:26:533F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:01:25:300F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/2559.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:26:533F1000" end="T00:01:30:200F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:01:28:366F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/2651.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:30:200F1000" end="T00:01:37:533F1000">
+      <Index>16</Index>
+      <KeyFrameID time="T00:01:33:866F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/2816.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:37:533F1000" end="T00:01:39:800F1000">
+      <Index>17</Index>
+      <KeyFrameID time="T00:01:38:666F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/2960.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:39:800F1000" end="T00:01:45:166F1000">
+      <Index>18</Index>
+      <KeyFrameID time="T00:01:42:466F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/3074.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:45:166F1000" end="T00:01:47:766F1000">
+      <Index>19</Index>
+      <KeyFrameID time="T00:01:46:466F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/3194.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:47:766F1000" end="T00:01:49:666F1000">
+      <Index>20</Index>
+      <KeyFrameID time="T00:01:48:700F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/3261.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:49:666F1000" end="T00:01:54:866F1000">
+      <Index>21</Index>
+      <KeyFrameID time="T00:01:52:266F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/3368.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:54:866F1000" end="T00:01:57:000F1000">
+      <Index>22</Index>
+      <KeyFrameID time="T00:01:55:933F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/3478.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:57:000F1000" end="T00:02:01:333F1000">
+      <Index>23</Index>
+      <KeyFrameID time="T00:01:59:166F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/3575.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:01:333F1000" end="T00:02:02:866F1000">
+      <Index>24</Index>
+      <KeyFrameID time="T00:02:02:100F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/3663.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:02:866F1000" end="T00:02:03:933F1000">
+      <Index>25</Index>
+      <KeyFrameID time="T00:02:03:400F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/3702.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:03:933F1000" end="T00:02:10:866F1000">
+      <Index>26</Index>
+      <KeyFrameID time="T00:02:07:400F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/3822.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:10:866F1000" end="T00:02:14:066F1000">
+      <Index>27</Index>
+      <KeyFrameID time="T00:02:12:466F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/3974.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:14:066F1000" end="T00:02:20:700F1000">
+      <Index>28</Index>
+      <KeyFrameID time="T00:02:17:366F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/4121.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:20:700F1000" end="T00:02:22:100F1000">
+      <Index>29</Index>
+      <KeyFrameID time="T00:02:21:400F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/4242.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:22:100F1000" end="T00:02:25:466F1000">
+      <Index>30</Index>
+      <KeyFrameID time="T00:02:23:766F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/4313.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:25:466F1000" end="T00:02:26:900F1000">
+      <Index>31</Index>
+      <KeyFrameID time="T00:02:26:166F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/4385.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:26:900F1000" end="T00:02:29:600F1000">
+      <Index>32</Index>
+      <KeyFrameID time="T00:02:28:233F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/4447.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:29:600F1000" end="T00:02:31:800F1000">
+      <Index>33</Index>
+      <KeyFrameID time="T00:02:30:700F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/4521.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:31:800F1000" end="T00:02:33:700F1000">
+      <Index>34</Index>
+      <KeyFrameID time="T00:02:32:733F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/4582.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:33:700F1000" end="T00:02:38:066F1000">
+      <Index>35</Index>
+      <KeyFrameID time="T00:02:35:866F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/4676.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:38:066F1000" end="T00:02:42:133F1000">
+      <Index>36</Index>
+      <KeyFrameID time="T00:02:40:100F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/4803.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:42:133F1000" end="T00:02:43:933F1000">
+      <Index>37</Index>
+      <KeyFrameID time="T00:02:43:033F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/4891.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:43:933F1000" end="T00:02:48:266F1000">
+      <Index>38</Index>
+      <KeyFrameID time="T00:02:46:100F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/4983.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:48:266F1000" end="T00:02:50:400F1000">
+      <Index>39</Index>
+      <KeyFrameID time="T00:02:49:333F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/5080.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:50:400F1000" end="T00:02:53:533F1000">
+      <Index>40</Index>
+      <KeyFrameID time="T00:02:51:966F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/5159.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:53:533F1000" end="T00:02:55:466F1000">
+      <Index>41</Index>
+      <KeyFrameID time="T00:02:54:500F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/5235.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:55:466F1000" end="T00:02:58:433F1000">
+      <Index>42</Index>
+      <KeyFrameID time="T00:02:56:933F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/5308.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:58:433F1000" end="T00:03:00:233F1000">
+      <Index>43</Index>
+      <KeyFrameID time="T00:02:59:333F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/5380.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:00:233F1000" end="T00:03:01:900F1000">
+      <Index>44</Index>
+      <KeyFrameID time="T00:03:01:066F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/5432.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:01:900F1000" end="T00:03:04:400F1000">
+      <Index>45</Index>
+      <KeyFrameID time="T00:03:03:133F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/5494.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:04:400F1000" end="T00:03:06:400F1000">
+      <Index>46</Index>
+      <KeyFrameID time="T00:03:05:400F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/5562.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:06:400F1000" end="T00:03:09:466F1000">
+      <Index>47</Index>
+      <KeyFrameID time="T00:03:07:933F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/5638.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:09:466F1000" end="T00:03:11:933F1000">
+      <Index>48</Index>
+      <KeyFrameID time="T00:03:10:700F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/5721.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:11:933F1000" end="T00:03:14:066F1000">
+      <Index>49</Index>
+      <KeyFrameID time="T00:03:13:000F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/5790.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:14:066F1000" end="T00:03:16:300F1000">
+      <Index>50</Index>
+      <KeyFrameID time="T00:03:15:166F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/5855.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:16:300F1000" end="T00:03:19:233F1000">
+      <Index>51</Index>
+      <KeyFrameID time="T00:03:17:766F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/5933.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:19:233F1000" end="T00:03:20:666F1000">
+      <Index>52</Index>
+      <KeyFrameID time="T00:03:19:933F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/5998.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:20:666F1000" end="T00:03:22:333F1000">
+      <Index>53</Index>
+      <KeyFrameID time="T00:03:21:500F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/6045.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:22:333F1000" end="T00:03:24:633F1000">
+      <Index>54</Index>
+      <KeyFrameID time="T00:03:23:466F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/6104.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:24:633F1000" end="T00:03:25:666F1000">
+      <Index>55</Index>
+      <KeyFrameID time="T00:03:25:133F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/6154.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:25:666F1000" end="T00:03:26:733F1000">
+      <Index>56</Index>
+      <KeyFrameID time="T00:03:26:200F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/6186.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:26:733F1000" end="T00:03:29:733F1000">
+      <Index>57</Index>
+      <KeyFrameID time="T00:03:28:233F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/6247.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:29:733F1000" end="T00:03:30:866F1000">
+      <Index>58</Index>
+      <KeyFrameID time="T00:03:30:300F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/6309.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:30:866F1000" end="T00:03:31:833F1000">
+      <Index>59</Index>
+      <KeyFrameID time="T00:03:31:333F1000">KELLYTV-ANGELSANDDEMONSFEATURETTE369/6340.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

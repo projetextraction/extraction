@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Publicdomain-advertisment_norelco_shaver677</CreationID>
+  <InitialFrameID>Publicdomain-advertisment_norelco_shaver677/0036.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:02:920F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:440F1000">Publicdomain-advertisment_norelco_shaver677/0036.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:02:920F1000" end="T00:00:05:680F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:04:280F1000">Publicdomain-advertisment_norelco_shaver677/0107.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:05:680F1000" end="T00:00:26:680F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:16:160F1000">Publicdomain-advertisment_norelco_shaver677/0404.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:26:680F1000" end="T00:00:42:480F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:34:560F1000">Publicdomain-advertisment_norelco_shaver677/0864.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:42:480F1000" end="T00:00:46:200F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:44:320F1000">Publicdomain-advertisment_norelco_shaver677/1108.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:46:200F1000" end="T00:00:59:120F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:52:640F1000">Publicdomain-advertisment_norelco_shaver677/1316.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:59:120F1000" end="T00:00:59:960F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:00:59:520F1000">Publicdomain-advertisment_norelco_shaver677/1488.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

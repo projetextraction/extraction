@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Sgallasch-wwwgmvcomau_2006_NABBA_Universe894</CreationID>
+  <InitialFrameID>Sgallasch-wwwgmvcomau_2006_NABBA_Universe894/0147.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:19:600F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:09:800F1000">Sgallasch-wwwgmvcomau_2006_NABBA_Universe894/0147.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:19:600F1000" end="T00:00:31:666F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:25:600F1000">Sgallasch-wwwgmvcomau_2006_NABBA_Universe894/0384.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:31:666F1000" end="T00:00:36:200F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:33:933F1000">Sgallasch-wwwgmvcomau_2006_NABBA_Universe894/0509.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:36:200F1000" end="T00:00:47:800F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:42:000F1000">Sgallasch-wwwgmvcomau_2006_NABBA_Universe894/0630.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:47:800F1000" end="T00:00:52:066F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:49:933F1000">Sgallasch-wwwgmvcomau_2006_NABBA_Universe894/0749.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:52:066F1000" end="T00:00:59:266F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:55:666F1000">Sgallasch-wwwgmvcomau_2006_NABBA_Universe894/0835.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:59:266F1000" end="T00:01:03:466F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:01:01:333F1000">Sgallasch-wwwgmvcomau_2006_NABBA_Universe894/0920.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:03:466F1000" end="T00:01:08:866F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:01:06:133F1000">Sgallasch-wwwgmvcomau_2006_NABBA_Universe894/0992.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:08:866F1000" end="T00:01:14:800F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:01:11:800F1000">Sgallasch-wwwgmvcomau_2006_NABBA_Universe894/1077.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:14:800F1000" end="T00:01:26:800F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:01:20:800F1000">Sgallasch-wwwgmvcomau_2006_NABBA_Universe894/1212.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:26:800F1000" end="T00:01:40:000F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:01:33:400F1000">Sgallasch-wwwgmvcomau_2006_NABBA_Universe894/1401.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:40:000F1000" end="T00:01:40:800F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:01:40:400F1000">Sgallasch-wwwgmvcomau_2006_NABBA_Universe894/1506.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

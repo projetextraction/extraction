@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Plus1tv-BarcraftTrailer801</CreationID>
+  <InitialFrameID>Plus1tv-BarcraftTrailer801/035.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:04:733F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:02:333F1000">Plus1tv-BarcraftTrailer801/035.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:04:733F1000" end="T00:00:17:666F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:11:200F1000">Plus1tv-BarcraftTrailer801/168.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:17:666F1000" end="T00:00:34:133F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:25:866F1000">Plus1tv-BarcraftTrailer801/388.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:34:133F1000" end="T00:00:36:133F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:35:133F1000">Plus1tv-BarcraftTrailer801/527.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:36:133F1000" end="T00:00:42:533F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:39:333F1000">Plus1tv-BarcraftTrailer801/590.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:42:533F1000" end="T00:00:46:733F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:44:600F1000">Plus1tv-BarcraftTrailer801/669.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:46:733F1000" end="T00:00:59:600F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:00:53:133F1000">Plus1tv-BarcraftTrailer801/797.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>KELLYTV-IFIWASYOURMANBYJOE111</CreationID>
+  <InitialFrameID>KELLYTV-IFIWASYOURMANBYJOE111/0023.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:03:066F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:533F1000">KELLYTV-IFIWASYOURMANBYJOE111/0023.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:03:066F1000" end="T00:00:11:000F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:07:000F1000">KELLYTV-IFIWASYOURMANBYJOE111/0105.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:11:000F1000" end="T00:00:15:866F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:13:400F1000">KELLYTV-IFIWASYOURMANBYJOE111/0201.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:15:866F1000" end="T00:00:20:466F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:18:133F1000">KELLYTV-IFIWASYOURMANBYJOE111/0272.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:20:466F1000" end="T00:00:23:133F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:21:800F1000">KELLYTV-IFIWASYOURMANBYJOE111/0327.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:23:133F1000" end="T00:00:25:466F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:24:266F1000">KELLYTV-IFIWASYOURMANBYJOE111/0364.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:25:466F1000" end="T00:00:31:466F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:00:28:466F1000">KELLYTV-IFIWASYOURMANBYJOE111/0427.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:31:466F1000" end="T00:00:33:400F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:00:32:400F1000">KELLYTV-IFIWASYOURMANBYJOE111/0486.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:33:400F1000" end="T00:00:37:133F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:00:35:266F1000">KELLYTV-IFIWASYOURMANBYJOE111/0529.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:37:133F1000" end="T00:00:39:400F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:00:38:266F1000">KELLYTV-IFIWASYOURMANBYJOE111/0574.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:39:400F1000" end="T00:00:41:866F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:00:40:600F1000">KELLYTV-IFIWASYOURMANBYJOE111/0609.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:41:866F1000" end="T00:00:45:533F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:00:43:666F1000">KELLYTV-IFIWASYOURMANBYJOE111/0655.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:45:533F1000" end="T00:00:47:333F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:00:46:400F1000">KELLYTV-IFIWASYOURMANBYJOE111/0696.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:47:333F1000" end="T00:00:54:866F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:00:51:066F1000">KELLYTV-IFIWASYOURMANBYJOE111/0766.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:54:866F1000" end="T00:00:57:266F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:00:56:066F1000">KELLYTV-IFIWASYOURMANBYJOE111/0841.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:57:266F1000" end="T00:01:02:666F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:00:59:933F1000">KELLYTV-IFIWASYOURMANBYJOE111/0899.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:02:666F1000" end="T00:01:05:666F1000">
+      <Index>16</Index>
+      <KeyFrameID time="T00:01:04:133F1000">KELLYTV-IFIWASYOURMANBYJOE111/0962.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:05:666F1000" end="T00:01:08:866F1000">
+      <Index>17</Index>
+      <KeyFrameID time="T00:01:07:266F1000">KELLYTV-IFIWASYOURMANBYJOE111/1009.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:08:866F1000" end="T00:01:11:000F1000">
+      <Index>18</Index>
+      <KeyFrameID time="T00:01:09:933F1000">KELLYTV-IFIWASYOURMANBYJOE111/1049.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:11:000F1000" end="T00:01:13:600F1000">
+      <Index>19</Index>
+      <KeyFrameID time="T00:01:12:266F1000">KELLYTV-IFIWASYOURMANBYJOE111/1084.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:13:600F1000" end="T00:01:15:866F1000">
+      <Index>20</Index>
+      <KeyFrameID time="T00:01:14:733F1000">KELLYTV-IFIWASYOURMANBYJOE111/1121.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:15:866F1000" end="T00:01:19:200F1000">
+      <Index>21</Index>
+      <KeyFrameID time="T00:01:17:533F1000">KELLYTV-IFIWASYOURMANBYJOE111/1163.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:19:200F1000" end="T00:01:25:200F1000">
+      <Index>22</Index>
+      <KeyFrameID time="T00:01:22:200F1000">KELLYTV-IFIWASYOURMANBYJOE111/1233.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:27:133F1000" end="T00:01:28:533F1000">
+      <Index>23</Index>
+      <KeyFrameID time="T00:01:27:800F1000">KELLYTV-IFIWASYOURMANBYJOE111/1317.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:31:000F1000" end="T00:01:34:400F1000">
+      <Index>24</Index>
+      <KeyFrameID time="T00:01:32:666F1000">KELLYTV-IFIWASYOURMANBYJOE111/1390.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:34:400F1000" end="T00:01:41:466F1000">
+      <Index>25</Index>
+      <KeyFrameID time="T00:01:37:933F1000">KELLYTV-IFIWASYOURMANBYJOE111/1469.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:41:466F1000" end="T00:01:46:133F1000">
+      <Index>26</Index>
+      <KeyFrameID time="T00:01:43:800F1000">KELLYTV-IFIWASYOURMANBYJOE111/1557.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:46:133F1000" end="T00:01:51:333F1000">
+      <Index>27</Index>
+      <KeyFrameID time="T00:01:48:733F1000">KELLYTV-IFIWASYOURMANBYJOE111/1631.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:51:333F1000" end="T00:01:53:866F1000">
+      <Index>28</Index>
+      <KeyFrameID time="T00:01:52:600F1000">KELLYTV-IFIWASYOURMANBYJOE111/1689.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:53:866F1000" end="T00:01:56:866F1000">
+      <Index>29</Index>
+      <KeyFrameID time="T00:01:55:333F1000">KELLYTV-IFIWASYOURMANBYJOE111/1730.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:56:866F1000" end="T00:01:58:666F1000">
+      <Index>30</Index>
+      <KeyFrameID time="T00:01:57:733F1000">KELLYTV-IFIWASYOURMANBYJOE111/1766.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:58:666F1000" end="T00:02:00:666F1000">
+      <Index>31</Index>
+      <KeyFrameID time="T00:01:59:666F1000">KELLYTV-IFIWASYOURMANBYJOE111/1795.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:00:666F1000" end="T00:02:04:666F1000">
+      <Index>32</Index>
+      <KeyFrameID time="T00:02:02:666F1000">KELLYTV-IFIWASYOURMANBYJOE111/1840.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:04:666F1000" end="T00:02:08:000F1000">
+      <Index>33</Index>
+      <KeyFrameID time="T00:02:06:333F1000">KELLYTV-IFIWASYOURMANBYJOE111/1895.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:08:000F1000" end="T00:02:10:199F1000">
+      <Index>34</Index>
+      <KeyFrameID time="T00:02:09:066F1000">KELLYTV-IFIWASYOURMANBYJOE111/1936.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:10:199F1000" end="T00:02:12:400F1000">
+      <Index>35</Index>
+      <KeyFrameID time="T00:02:11:266F1000">KELLYTV-IFIWASYOURMANBYJOE111/1969.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:12:400F1000" end="T00:02:14:333F1000">
+      <Index>36</Index>
+      <KeyFrameID time="T00:02:13:333F1000">KELLYTV-IFIWASYOURMANBYJOE111/2000.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:14:333F1000" end="T00:02:16:133F1000">
+      <Index>37</Index>
+      <KeyFrameID time="T00:02:15:200F1000">KELLYTV-IFIWASYOURMANBYJOE111/2028.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:16:133F1000" end="T00:02:18:733F1000">
+      <Index>38</Index>
+      <KeyFrameID time="T00:02:17:400F1000">KELLYTV-IFIWASYOURMANBYJOE111/2061.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:18:733F1000" end="T00:02:24:733F1000">
+      <Index>39</Index>
+      <KeyFrameID time="T00:02:21:733F1000">KELLYTV-IFIWASYOURMANBYJOE111/2126.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:24:733F1000" end="T00:02:41:866F1000">
+      <Index>40</Index>
+      <KeyFrameID time="T00:02:33:266F1000">KELLYTV-IFIWASYOURMANBYJOE111/2299.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:43:333F1000" end="T00:02:45:200F1000">
+      <Index>41</Index>
+      <KeyFrameID time="T00:02:44:266F1000">KELLYTV-IFIWASYOURMANBYJOE111/2464.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:48:400F1000" end="T00:02:53:466F1000">
+      <Index>42</Index>
+      <KeyFrameID time="T00:02:50:933F1000">KELLYTV-IFIWASYOURMANBYJOE111/2564.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:53:466F1000" end="T00:02:56:666F1000">
+      <Index>43</Index>
+      <KeyFrameID time="T00:02:55:066F1000">KELLYTV-IFIWASYOURMANBYJOE111/2626.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:56:666F1000" end="T00:02:58:666F1000">
+      <Index>44</Index>
+      <KeyFrameID time="T00:02:57:666F1000">KELLYTV-IFIWASYOURMANBYJOE111/2665.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:58:666F1000" end="T00:03:00:533F1000">
+      <Index>45</Index>
+      <KeyFrameID time="T00:02:59:600F1000">KELLYTV-IFIWASYOURMANBYJOE111/2694.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:00:533F1000" end="T00:03:03:466F1000">
+      <Index>46</Index>
+      <KeyFrameID time="T00:03:02:000F1000">KELLYTV-IFIWASYOURMANBYJOE111/2730.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:03:466F1000" end="T00:03:08:733F1000">
+      <Index>47</Index>
+      <KeyFrameID time="T00:03:06:066F1000">KELLYTV-IFIWASYOURMANBYJOE111/2791.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:08:733F1000" end="T00:03:11:066F1000">
+      <Index>48</Index>
+      <KeyFrameID time="T00:03:09:866F1000">KELLYTV-IFIWASYOURMANBYJOE111/2848.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:11:066F1000" end="T00:03:14:066F1000">
+      <Index>49</Index>
+      <KeyFrameID time="T00:03:12:533F1000">KELLYTV-IFIWASYOURMANBYJOE111/2888.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:14:066F1000" end="T00:03:16:933F1000">
+      <Index>50</Index>
+      <KeyFrameID time="T00:03:15:466F1000">KELLYTV-IFIWASYOURMANBYJOE111/2932.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:16:933F1000" end="T00:03:19:933F1000">
+      <Index>51</Index>
+      <KeyFrameID time="T00:03:18:400F1000">KELLYTV-IFIWASYOURMANBYJOE111/2976.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:19:933F1000" end="T00:03:22:533F1000">
+      <Index>52</Index>
+      <KeyFrameID time="T00:03:21:200F1000">KELLYTV-IFIWASYOURMANBYJOE111/3018.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:22:533F1000" end="T00:03:26:400F1000">
+      <Index>53</Index>
+      <KeyFrameID time="T00:03:24:466F1000">KELLYTV-IFIWASYOURMANBYJOE111/3067.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:26:400F1000" end="T00:03:28:933F1000">
+      <Index>54</Index>
+      <KeyFrameID time="T00:03:27:666F1000">KELLYTV-IFIWASYOURMANBYJOE111/3115.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:28:933F1000" end="T00:03:31:400F1000">
+      <Index>55</Index>
+      <KeyFrameID time="T00:03:30:133F1000">KELLYTV-IFIWASYOURMANBYJOE111/3152.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:31:400F1000" end="T00:03:36:666F1000">
+      <Index>56</Index>
+      <KeyFrameID time="T00:03:34:000F1000">KELLYTV-IFIWASYOURMANBYJOE111/3210.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:36:666F1000" end="T00:03:38:866F1000">
+      <Index>57</Index>
+      <KeyFrameID time="T00:03:37:733F1000">KELLYTV-IFIWASYOURMANBYJOE111/3266.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:38:866F1000" end="T00:03:44:733F1000">
+      <Index>58</Index>
+      <KeyFrameID time="T00:03:41:800F1000">KELLYTV-IFIWASYOURMANBYJOE111/3327.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:44:733F1000" end="T00:03:46:733F1000">
+      <Index>59</Index>
+      <KeyFrameID time="T00:03:45:733F1000">KELLYTV-IFIWASYOURMANBYJOE111/3386.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:46:733F1000" end="T00:03:50:866F1000">
+      <Index>60</Index>
+      <KeyFrameID time="T00:03:48:800F1000">KELLYTV-IFIWASYOURMANBYJOE111/3432.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:50:866F1000" end="T00:03:57:133F1000">
+      <Index>61</Index>
+      <KeyFrameID time="T00:03:54:000F1000">KELLYTV-IFIWASYOURMANBYJOE111/3510.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:57:133F1000" end="T00:03:58:666F1000">
+      <Index>62</Index>
+      <KeyFrameID time="T00:03:57:866F1000">KELLYTV-IFIWASYOURMANBYJOE111/3568.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

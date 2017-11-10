@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Guidonia-LionsPubTivoliLocaleSalsaKaraokePianoBarVillaAdrian886</CreationID>
+  <InitialFrameID>Guidonia-LionsPubTivoliLocaleSalsaKaraokePianoBarVillaAdrian886/186.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:14:880F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:07:440F1000">Guidonia-LionsPubTivoliLocaleSalsaKaraokePianoBarVillaAdrian886/186.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:14:880F1000" end="T00:00:49:960F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:32:400F1000">Guidonia-LionsPubTivoliLocaleSalsaKaraokePianoBarVillaAdrian886/810.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

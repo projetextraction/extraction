@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Craigleach21-MultiMovements433.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Craigleach21-MultiMovements433.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="49.63" spdur="17.75"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="9.74" gender="1" spkid="MS2" lang="kor" lconf="0.27"/>
+<Speaker ch="1" dur="8.01" gender="2" spkid="FS1" lang="kor" lconf="0.27"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.01" etime="8.02" spkid="FS1" lang="kor" lconf="0.27"/>
+<SpeechSegment ch="1" sconf="1.00" stime="12.49" etime="22.23" spkid="MS2" lang="kor" lconf="0.27"/>
+</SegmentList>
+</AudioDoc>

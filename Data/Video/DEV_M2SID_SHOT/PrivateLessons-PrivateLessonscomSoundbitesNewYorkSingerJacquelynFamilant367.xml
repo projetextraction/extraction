@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>PrivateLessons-PrivateLessonscomSoundbitesNewYorkSingerJacquelynFamilant367</CreationID>
+  <InitialFrameID>PrivateLessons-PrivateLessonscomSoundbitesNewYorkSingerJacquelynFamilant367/1661.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:03:41:466F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:01:50:733F1000">PrivateLessons-PrivateLessonscomSoundbitesNewYorkSingerJacquelynFamilant367/1661.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

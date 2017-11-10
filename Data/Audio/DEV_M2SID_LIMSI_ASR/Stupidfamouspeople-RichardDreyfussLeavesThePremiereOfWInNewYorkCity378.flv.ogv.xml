@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Stupidfamouspeople-RichardDreyfussLeavesThePremiereOfWInNewYorkCity378.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Stupidfamouspeople-RichardDreyfussLeavesThePremiereOfWInNewYorkCity378.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="27.53" spdur="13.14"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="5.51" gender="1" spkid="MS1" lang="por" lconf="0.18"/>
+<Speaker ch="1" dur="5.31" gender="2" spkid="FS2" lang="por" lconf="0.18"/>
+<Speaker ch="1" dur="2.32" gender="2" spkid="FS1" lang="por" lconf="0.18"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.01" etime="5.52" spkid="MS1" lang="por" lconf="0.18"/>
+<SpeechSegment ch="1" sconf="1.00" stime="19.88" etime="22.20" spkid="FS1" lang="por" lconf="0.18"/>
+<SpeechSegment ch="1" sconf="1.00" stime="22.20" etime="27.51" spkid="FS2" lang="por" lconf="0.18"/>
+</SegmentList>
+</AudioDoc>

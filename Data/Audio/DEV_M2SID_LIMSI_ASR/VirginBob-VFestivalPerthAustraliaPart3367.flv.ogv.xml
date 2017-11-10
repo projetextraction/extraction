@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="VirginBob-VFestivalPerthAustraliaPart3367.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/VirginBob-VFestivalPerthAustraliaPart3367.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="35.32" spdur="25.15"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="25.15" gender="1" spkid="MS1" lang="kor" lconf="0.39"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.01" etime="25.16" spkid="MS1" lang="kor" lconf="0.39"/>
+</SegmentList>
+</AudioDoc>

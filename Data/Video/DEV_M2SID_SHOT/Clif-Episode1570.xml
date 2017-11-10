@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Clif-Episode1570</CreationID>
+  <InitialFrameID>Clif-Episode1570/0029.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:03:933F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:933F1000">Clif-Episode1570/0029.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:03:933F1000" end="T00:05:03:800F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:02:33:866F1000">Clif-Episode1570/2308.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

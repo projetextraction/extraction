@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Stupidfamouspeople-KimoraLeeSimmonsDjimonHounsouArriveToMarcAnthonys40th435.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Stupidfamouspeople-KimoraLeeSimmonsDjimonHounsouArriveToMarcAnthonys40th435.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="33.44" spdur="12.96" nw="8" tconf="0.83"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="12.96" gender="1" spkid="MS1" lang="eng-usa" lconf="1.00" nw="8" tconf="0.83"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="11.64" etime="18.48" spkid="MS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="11.64" dur="0.72" conf="0.980"> {fw} </Word>
+<Word stime="13.63" dur="1.58" conf="0.990"> {fw} </Word>
+<Word stime="17.29" dur="0.89" conf="0.989"> {fw} </Word>
+<Word stime="18.18" dur="0.00" conf="0.438"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="26.43" etime="32.55" spkid="MS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="26.43" dur="0.36" conf="0.977"> {fw} </Word>
+<Word stime="27.66" dur="0.56" conf="0.829"> {fw} </Word>
+<Word stime="30.79" dur="1.46" conf="0.977"> {fw} </Word>
+<Word stime="32.25" dur="0.00" conf="0.438"> . </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

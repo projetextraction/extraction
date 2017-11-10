@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Fbchattiesburg-Miracle961</CreationID>
+  <InitialFrameID>Fbchattiesburg-Miracle961/0761.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:01:03:416F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:31:708F1000">Fbchattiesburg-Miracle961/0761.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:03:416F1000" end="T00:01:04:500F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:01:03:958F1000">Fbchattiesburg-Miracle961/1535.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:04:500F1000" end="T00:01:05:583F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:01:05:041F1000">Fbchattiesburg-Miracle961/1561.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:05:583F1000" end="T00:01:06:958F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:01:06:250F1000">Fbchattiesburg-Miracle961/1590.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

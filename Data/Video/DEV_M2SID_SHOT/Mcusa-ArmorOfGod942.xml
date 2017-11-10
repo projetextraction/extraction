@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Mcusa-ArmorOfGod942</CreationID>
+  <InitialFrameID>Mcusa-ArmorOfGod942/0768.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:51:233F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:25:600F1000">Mcusa-ArmorOfGod942/0768.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:52:200F1000" end="T00:00:52:900F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:52:533F1000">Mcusa-ArmorOfGod942/1576.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:14:966F1000" end="T00:01:15:666F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:01:15:300F1000">Mcusa-ArmorOfGod942/2259.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:47:966F1000" end="T00:01:48:766F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:01:48:366F1000">Mcusa-ArmorOfGod942/3251.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:01:100F1000" end="T00:02:01:800F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:02:01:433F1000">Mcusa-ArmorOfGod942/3643.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Politicallunch-PoliticalLunch090908TuesdaySnack967</CreationID>
+  <InitialFrameID>Politicallunch-PoliticalLunch090908TuesdaySnack967/0086.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:11:533F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:05:733F1000">Politicallunch-PoliticalLunch090908TuesdaySnack967/0086.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:11:533F1000" end="T00:00:18:333F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:14:933F1000">Politicallunch-PoliticalLunch090908TuesdaySnack967/0224.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:18:333F1000" end="T00:02:07:200F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:01:12:733F1000">Politicallunch-PoliticalLunch090908TuesdaySnack967/1091.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:07:200F1000" end="T00:02:20:600F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:02:13:866F1000">Politicallunch-PoliticalLunch090908TuesdaySnack967/2008.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:20:600F1000" end="T00:03:43:333F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:03:01:933F1000">Politicallunch-PoliticalLunch090908TuesdaySnack967/2729.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:43:333F1000" end="T00:04:05:466F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:03:54:400F1000">Politicallunch-PoliticalLunch090908TuesdaySnack967/3516.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:05:466F1000" end="T00:04:19:466F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:04:12:466F1000">Politicallunch-PoliticalLunch090908TuesdaySnack967/3787.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:19:466F1000" end="T00:04:36:333F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:04:27:866F1000">Politicallunch-PoliticalLunch090908TuesdaySnack967/4018.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:36:333F1000" end="T00:06:30:400F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:05:33:333F1000">Politicallunch-PoliticalLunch090908TuesdaySnack967/5000.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:06:30:400F1000" end="T00:06:45:266F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:06:37:800F1000">Politicallunch-PoliticalLunch090908TuesdaySnack967/5967.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:06:45:266F1000" end="T00:07:00:600F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:06:52:933F1000">Politicallunch-PoliticalLunch090908TuesdaySnack967/6194.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:00:600F1000" end="T00:07:09:666F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:07:05:133F1000">Politicallunch-PoliticalLunch090908TuesdaySnack967/6377.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:09:666F1000" end="T00:08:14:800F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:07:42:200F1000">Politicallunch-PoliticalLunch090908TuesdaySnack967/6933.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:08:14:800F1000" end="T00:08:33:200F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:08:24:000F1000">Politicallunch-PoliticalLunch090908TuesdaySnack967/7560.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:08:33:200F1000" end="T00:08:54:600F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:08:43:866F1000">Politicallunch-PoliticalLunch090908TuesdaySnack967/7858.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:08:54:600F1000" end="T00:09:10:066F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:09:02:333F1000">Politicallunch-PoliticalLunch090908TuesdaySnack967/8135.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

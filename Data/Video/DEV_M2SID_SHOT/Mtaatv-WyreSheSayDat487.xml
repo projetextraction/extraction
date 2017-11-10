@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Mtaatv-WyreSheSayDat487</CreationID>
+  <InitialFrameID>Mtaatv-WyreSheSayDat487/0062.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:08:333F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:04:133F1000">Mtaatv-WyreSheSayDat487/0062.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:08:333F1000" end="T00:00:36:066F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:22:200F1000">Mtaatv-WyreSheSayDat487/0333.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:36:066F1000" end="T00:01:03:066F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:49:533F1000">Mtaatv-WyreSheSayDat487/0743.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:03:066F1000" end="T00:03:14:933F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:02:09:000F1000">Mtaatv-WyreSheSayDat487/1935.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

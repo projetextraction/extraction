@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Publicdomain-advertisment_aurora_drag_race_set681.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Publicdomain-advertisment_aurora_drag_race_set681.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="59.15" spdur="11.21"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="6.34" gender="1" spkid="MS1" lang="kor" lconf="0.27"/>
+<Speaker ch="1" dur="4.87" gender="2" spkid="FS1" lang="kor" lconf="0.27"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="19.83" etime="22.83" spkid="FS1" lang="kor" lconf="0.27"/>
+<SpeechSegment ch="1" sconf="1.00" stime="25.46" etime="31.80" spkid="MS1" lang="kor" lconf="0.27"/>
+<SpeechSegment ch="1" sconf="1.00" stime="51.17" etime="53.04" spkid="FS1" lang="kor" lconf="0.27"/>
+</SegmentList>
+</AudioDoc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Patrizio_m-50CentFeatJustinTimberlakeAyoTechnologyPatrizioMarchesa792.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Patrizio_m-50CentFeatJustinTimberlakeAyoTechnologyPatrizioMarchesa792.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="255.67" spdur="61.44"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="42.66" gender="1" spkid="MS2" lang="kor" lconf="0.29"/>
+<Speaker ch="1" dur="18.78" gender="1" spkid="MS1" lang="kor" lconf="0.29"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.01" etime="6.23" spkid="MS1" lang="kor" lconf="0.29"/>
+<SpeechSegment ch="1" sconf="1.00" stime="6.23" etime="7.12" spkid="MS2" lang="kor" lconf="0.29"/>
+<SpeechSegment ch="1" sconf="1.00" stime="33.71" etime="61.42" spkid="MS2" lang="kor" lconf="0.29"/>
+<SpeechSegment ch="1" sconf="1.00" stime="128.85" etime="142.91" spkid="MS2" lang="kor" lconf="0.29"/>
+<SpeechSegment ch="1" sconf="1.00" stime="171.43" etime="183.99" spkid="MS1" lang="kor" lconf="0.29"/>
+</SegmentList>
+</AudioDoc>

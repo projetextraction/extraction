@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Mode2-LeeveyILikeLove494</CreationID>
+  <InitialFrameID>Mode2-LeeveyILikeLove494/2184.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:04:51:200F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:02:25:600F1000">Mode2-LeeveyILikeLove494/2184.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:51:200F1000" end="T00:05:01:333F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:04:56:266F1000">Mode2-LeeveyILikeLove494/4444.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:01:333F1000" end="T00:05:05:600F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:05:03:466F1000">Mode2-LeeveyILikeLove494/4552.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:05:600F1000" end="T00:05:07:333F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:05:06:466F1000">Mode2-LeeveyILikeLove494/4597.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:07:333F1000" end="T00:05:09:600F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:05:08:466F1000">Mode2-LeeveyILikeLove494/4627.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

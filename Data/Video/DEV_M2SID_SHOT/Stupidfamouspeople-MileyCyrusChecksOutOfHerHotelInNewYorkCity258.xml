@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258</CreationID>
+  <InitialFrameID>Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/0031.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:02:100F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:033F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/0031.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:02:100F1000" end="T00:00:03:066F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:02:566F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/0077.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:03:066F1000" end="T00:00:04:066F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:03:566F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/0107.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:04:066F1000" end="T00:00:05:766F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:04:900F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/0147.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:05:766F1000" end="T00:00:07:133F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:06:433F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/0193.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:07:133F1000" end="T00:00:10:500F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:08:800F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/0264.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:10:500F1000" end="T00:00:12:166F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:00:11:333F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/0340.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:12:166F1000" end="T00:00:13:800F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:00:12:966F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/0389.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:13:800F1000" end="T00:00:15:800F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:00:14:800F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/0444.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:15:800F1000" end="T00:00:16:700F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:00:16:233F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/0487.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:16:700F1000" end="T00:00:17:600F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:00:17:133F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/0514.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:17:600F1000" end="T00:00:21:100F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:00:19:333F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/0580.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:21:100F1000" end="T00:00:21:966F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:00:21:533F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/0646.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:21:966F1000" end="T00:00:23:166F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:00:22:566F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/0677.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:23:166F1000" end="T00:00:24:233F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:00:23:700F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/0711.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:24:233F1000" end="T00:00:25:100F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:00:24:666F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/0740.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:25:100F1000" end="T00:00:26:500F1000">
+      <Index>16</Index>
+      <KeyFrameID time="T00:00:25:800F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/0774.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:26:500F1000" end="T00:00:27:666F1000">
+      <Index>17</Index>
+      <KeyFrameID time="T00:00:27:066F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/0812.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:27:666F1000" end="T00:00:29:966F1000">
+      <Index>18</Index>
+      <KeyFrameID time="T00:00:28:800F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/0864.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:29:966F1000" end="T00:00:31:033F1000">
+      <Index>19</Index>
+      <KeyFrameID time="T00:00:30:500F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/0915.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:31:033F1000" end="T00:00:35:766F1000">
+      <Index>20</Index>
+      <KeyFrameID time="T00:00:33:400F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/1002.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:35:766F1000" end="T00:00:37:966F1000">
+      <Index>21</Index>
+      <KeyFrameID time="T00:00:36:866F1000">Stupidfamouspeople-MileyCyrusChecksOutOfHerHotelInNewYorkCity258/1106.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

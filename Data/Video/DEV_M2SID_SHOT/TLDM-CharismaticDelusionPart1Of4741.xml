@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>TLDM-CharismaticDelusionPart1Of4741</CreationID>
+  <InitialFrameID>TLDM-CharismaticDelusionPart1Of4741/00476.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:31:766F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:15:866F1000">TLDM-CharismaticDelusionPart1Of4741/00476.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:33:100F1000" end="T00:00:33:800F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:33:433F1000">TLDM-CharismaticDelusionPart1Of4741/01003.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:36:600F1000" end="T00:00:42:200F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:39:400F1000">TLDM-CharismaticDelusionPart1Of4741/01182.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:42:200F1000" end="T00:00:52:900F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:47:533F1000">TLDM-CharismaticDelusionPart1Of4741/01426.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:52:900F1000" end="T00:00:57:266F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:55:066F1000">TLDM-CharismaticDelusionPart1Of4741/01652.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:57:266F1000" end="T00:01:02:400F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:59:833F1000">TLDM-CharismaticDelusionPart1Of4741/01795.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:02:400F1000" end="T00:01:07:200F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:01:04:800F1000">TLDM-CharismaticDelusionPart1Of4741/01944.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:07:200F1000" end="T00:01:13:633F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:01:10:400F1000">TLDM-CharismaticDelusionPart1Of4741/02112.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:13:633F1000" end="T00:01:19:266F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:01:16:433F1000">TLDM-CharismaticDelusionPart1Of4741/02293.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:19:266F1000" end="T00:01:23:900F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:01:21:566F1000">TLDM-CharismaticDelusionPart1Of4741/02447.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:23:900F1000" end="T00:01:36:366F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:01:30:133F1000">TLDM-CharismaticDelusionPart1Of4741/02704.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:36:366F1000" end="T00:01:54:533F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:01:45:433F1000">TLDM-CharismaticDelusionPart1Of4741/03163.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:54:533F1000" end="T00:02:02:633F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:01:58:566F1000">TLDM-CharismaticDelusionPart1Of4741/03557.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:03:633F1000" end="T00:02:04:333F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:02:03:966F1000">TLDM-CharismaticDelusionPart1Of4741/03719.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:09:333F1000" end="T00:02:13:700F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:02:11:500F1000">TLDM-CharismaticDelusionPart1Of4741/03945.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:13:700F1000" end="T00:02:17:266F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:02:15:466F1000">TLDM-CharismaticDelusionPart1Of4741/04064.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:17:266F1000" end="T00:02:20:133F1000">
+      <Index>16</Index>
+      <KeyFrameID time="T00:02:18:700F1000">TLDM-CharismaticDelusionPart1Of4741/04161.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:20:133F1000" end="T00:02:24:566F1000">
+      <Index>17</Index>
+      <KeyFrameID time="T00:02:22:333F1000">TLDM-CharismaticDelusionPart1Of4741/04270.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:24:566F1000" end="T00:02:30:266F1000">
+      <Index>18</Index>
+      <KeyFrameID time="T00:02:27:400F1000">TLDM-CharismaticDelusionPart1Of4741/04422.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:30:266F1000" end="T00:02:38:533F1000">
+      <Index>19</Index>
+      <KeyFrameID time="T00:02:34:400F1000">TLDM-CharismaticDelusionPart1Of4741/04632.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:38:533F1000" end="T00:03:01:833F1000">
+      <Index>20</Index>
+      <KeyFrameID time="T00:02:50:166F1000">TLDM-CharismaticDelusionPart1Of4741/05105.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:01:833F1000" end="T00:03:33:600F1000">
+      <Index>21</Index>
+      <KeyFrameID time="T00:03:17:700F1000">TLDM-CharismaticDelusionPart1Of4741/05931.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:33:600F1000" end="T00:03:57:466F1000">
+      <Index>22</Index>
+      <KeyFrameID time="T00:03:45:533F1000">TLDM-CharismaticDelusionPart1Of4741/06766.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:57:466F1000" end="T00:04:00:100F1000">
+      <Index>23</Index>
+      <KeyFrameID time="T00:03:58:766F1000">TLDM-CharismaticDelusionPart1Of4741/07163.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:00:100F1000" end="T00:04:05:100F1000">
+      <Index>24</Index>
+      <KeyFrameID time="T00:04:02:600F1000">TLDM-CharismaticDelusionPart1Of4741/07278.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:05:100F1000" end="T00:04:09:233F1000">
+      <Index>25</Index>
+      <KeyFrameID time="T00:04:07:166F1000">TLDM-CharismaticDelusionPart1Of4741/07415.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:09:233F1000" end="T00:04:24:500F1000">
+      <Index>26</Index>
+      <KeyFrameID time="T00:04:16:866F1000">TLDM-CharismaticDelusionPart1Of4741/07706.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:24:500F1000" end="T00:04:30:233F1000">
+      <Index>27</Index>
+      <KeyFrameID time="T00:04:27:366F1000">TLDM-CharismaticDelusionPart1Of4741/08021.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:30:233F1000" end="T00:04:40:233F1000">
+      <Index>28</Index>
+      <KeyFrameID time="T00:04:35:233F1000">TLDM-CharismaticDelusionPart1Of4741/08257.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:40:233F1000" end="T00:04:59:900F1000">
+      <Index>29</Index>
+      <KeyFrameID time="T00:04:50:066F1000">TLDM-CharismaticDelusionPart1Of4741/08702.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:59:900F1000" end="T00:05:07:233F1000">
+      <Index>30</Index>
+      <KeyFrameID time="T00:05:03:566F1000">TLDM-CharismaticDelusionPart1Of4741/09107.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:07:233F1000" end="T00:05:22:466F1000">
+      <Index>31</Index>
+      <KeyFrameID time="T00:05:14:833F1000">TLDM-CharismaticDelusionPart1Of4741/09445.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:22:466F1000" end="T00:05:38:533F1000">
+      <Index>32</Index>
+      <KeyFrameID time="T00:05:30:500F1000">TLDM-CharismaticDelusionPart1Of4741/09915.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:38:533F1000" end="T00:05:47:566F1000">
+      <Index>33</Index>
+      <KeyFrameID time="T00:05:43:033F1000">TLDM-CharismaticDelusionPart1Of4741/10291.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:47:566F1000" end="T00:06:26:266F1000">
+      <Index>34</Index>
+      <KeyFrameID time="T00:06:06:900F1000">TLDM-CharismaticDelusionPart1Of4741/11007.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:06:26:266F1000" end="T00:06:51:833F1000">
+      <Index>35</Index>
+      <KeyFrameID time="T00:06:39:033F1000">TLDM-CharismaticDelusionPart1Of4741/11971.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:06:51:833F1000" end="T00:06:59:000F1000">
+      <Index>36</Index>
+      <KeyFrameID time="T00:06:55:400F1000">TLDM-CharismaticDelusionPart1Of4741/12462.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:06:59:000F1000" end="T00:07:07:000F1000">
+      <Index>37</Index>
+      <KeyFrameID time="T00:07:03:000F1000">TLDM-CharismaticDelusionPart1Of4741/12690.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:07:000F1000" end="T00:07:23:100F1000">
+      <Index>38</Index>
+      <KeyFrameID time="T00:07:15:033F1000">TLDM-CharismaticDelusionPart1Of4741/13051.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:23:100F1000" end="T00:08:08:000F1000">
+      <Index>39</Index>
+      <KeyFrameID time="T00:07:45:533F1000">TLDM-CharismaticDelusionPart1Of4741/13966.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:08:08:000F1000" end="T00:08:24:066F1000">
+      <Index>40</Index>
+      <KeyFrameID time="T00:08:16:033F1000">TLDM-CharismaticDelusionPart1Of4741/14881.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:08:24:066F1000" end="T00:08:30:200F1000">
+      <Index>41</Index>
+      <KeyFrameID time="T00:08:27:133F1000">TLDM-CharismaticDelusionPart1Of4741/15214.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:08:30:200F1000" end="T00:08:41:766F1000">
+      <Index>42</Index>
+      <KeyFrameID time="T00:08:35:966F1000">TLDM-CharismaticDelusionPart1Of4741/15479.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:08:41:766F1000" end="T00:08:58:766F1000">
+      <Index>43</Index>
+      <KeyFrameID time="T00:08:50:266F1000">TLDM-CharismaticDelusionPart1Of4741/15908.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:08:58:766F1000" end="T00:09:16:100F1000">
+      <Index>44</Index>
+      <KeyFrameID time="T00:09:07:433F1000">TLDM-CharismaticDelusionPart1Of4741/16423.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:09:16:100F1000" end="T00:09:51:333F1000">
+      <Index>45</Index>
+      <KeyFrameID time="T00:09:33:700F1000">TLDM-CharismaticDelusionPart1Of4741/17211.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:09:51:333F1000" end="T00:09:59:966F1000">
+      <Index>46</Index>
+      <KeyFrameID time="T00:09:55:633F1000">TLDM-CharismaticDelusionPart1Of4741/17869.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

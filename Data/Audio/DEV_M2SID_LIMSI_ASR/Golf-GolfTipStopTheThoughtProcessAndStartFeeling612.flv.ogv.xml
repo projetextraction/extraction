@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Golf-GolfTipStopTheThoughtProcessAndStartFeeling612.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Golf-GolfTipStopTheThoughtProcessAndStartFeeling612.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="15.49" spdur="3.27" nw="8" tconf="0.82"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="3.27" gender="2" spkid="FS1" lang="eng-usa" lconf="0.16" nw="8" tconf="0.82"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="6.01" etime="9.28" spkid="FS1" lang="eng-usa" lconf="0.16" trs="1">
+<Word stime="6.01" dur="0.64" conf="0.969"> {fw} </Word>
+<Word stime="6.65" dur="0.83" conf="0.966"> , </Word>
+<Word stime="7.48" dur="0.26" conf="0.949"> maybe </Word>
+<Word stime="7.74" dur="0.20" conf="0.931"> it's </Word>
+<Word stime="7.94" dur="0.27" conf="0.972"> time </Word>
+<Word stime="8.21" dur="0.08" conf="0.971"> to </Word>
+<Word stime="8.56" dur="0.09" conf="0.398"> stop </Word>
+<Word stime="8.73" dur="0.25" conf="0.393"> thinking </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

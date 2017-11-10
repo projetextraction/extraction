@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Mdtmusic-SpaceAce273.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/wav/dev12/Mdtmusic-SpaceAce273.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2dn"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="174.82" spdur="8.55"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="4.78" gender="2" spkid="FS1"/>
+<Speaker ch="1" dur="3.77" gender="1" spkid="MS1"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="48.79" etime="52.18" spkid="FS1"/>
+<SpeechSegment ch="1" sconf="1.00" stime="71.44" etime="72.15" spkid="FS1"/>
+<SpeechSegment ch="1" sconf="1.00" stime="73.49" etime="74.17" spkid="FS1"/>
+<SpeechSegment ch="1" sconf="1.00" stime="143.70" etime="145.63" spkid="MS1"/>
+<SpeechSegment ch="1" sconf="1.00" stime="146.85" etime="148.69" spkid="MS1"/>
+</SegmentList>
+</AudioDoc>

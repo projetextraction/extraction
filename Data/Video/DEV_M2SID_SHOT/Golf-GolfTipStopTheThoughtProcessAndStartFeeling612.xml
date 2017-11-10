@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Golf-GolfTipStopTheThoughtProcessAndStartFeeling612</CreationID>
+  <InitialFrameID>Golf-GolfTipStopTheThoughtProcessAndStartFeeling612/006.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:00:400F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:00:200F1000">Golf-GolfTipStopTheThoughtProcessAndStartFeeling612/006.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:00:400F1000" end="T00:00:05:666F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:03:033F1000">Golf-GolfTipStopTheThoughtProcessAndStartFeeling612/091.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:05:666F1000" end="T00:00:07:366F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:06:500F1000">Golf-GolfTipStopTheThoughtProcessAndStartFeeling612/195.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:07:366F1000" end="T00:00:09:466F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:08:400F1000">Golf-GolfTipStopTheThoughtProcessAndStartFeeling612/252.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:09:466F1000" end="T00:00:11:966F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:10:700F1000">Golf-GolfTipStopTheThoughtProcessAndStartFeeling612/321.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:11:966F1000" end="T00:00:15:166F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:13:566F1000">Golf-GolfTipStopTheThoughtProcessAndStartFeeling612/407.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

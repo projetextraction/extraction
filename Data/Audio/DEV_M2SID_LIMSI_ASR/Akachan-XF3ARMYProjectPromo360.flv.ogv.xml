@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Akachan-XF3ARMYProjectPromo360.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Akachan-XF3ARMYProjectPromo360.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="48.03" spdur="8.31" nw="16" tconf="0.73"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="8.31" gender="2" spkid="FS1" lang="eng-usa" lconf="0.55" nw="16" tconf="0.73"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="9.96" etime="18.27" spkid="FS1" lang="eng-usa" lconf="0.55" trs="1">
+<Word stime="9.96" dur="0.40" conf="0.729"> {fw} </Word>
+<Word stime="10.36" dur="1.06" conf="0.500"> , </Word>
+<Word stime="11.42" dur="0.10" conf="0.426"> to </Word>
+<Word stime="11.54" dur="0.18" conf="0.428"> challenge </Word>
+<Word stime="11.72" dur="0.43" conf="0.494"> . </Word>
+<Word stime="12.15" dur="0.22" conf="0.978"> {fw} </Word>
+<Word stime="12.37" dur="1.19" conf="0.785"> , </Word>
+<Word stime="13.56" dur="0.08" conf="0.939"> I </Word>
+<Word stime="13.66" dur="0.15" conf="0.960"> was </Word>
+<Word stime="13.81" dur="0.11" conf="0.981"> in </Word>
+<Word stime="13.92" dur="0.39" conf="0.932"> trouble </Word>
+<Word stime="14.31" dur="0.24" conf="0.545"> . </Word>
+<Word stime="14.55" dur="1.79" conf="0.981"> {fw} </Word>
+<Word stime="16.34" dur="1.51" conf="0.644"> , </Word>
+<Word stime="17.85" dur="0.31" conf="0.979"> {fw} </Word>
+<Word stime="18.16" dur="0.00" conf="0.405"> . </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

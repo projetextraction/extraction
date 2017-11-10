@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Publicdomain-advertisment_vicks_ny_quil298</CreationID>
+  <InitialFrameID>Publicdomain-advertisment_vicks_ny_quil298/131.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:10:520F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:05:240F1000">Publicdomain-advertisment_vicks_ny_quil298/131.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:10:520F1000" end="T00:00:35:320F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:22:920F1000">Publicdomain-advertisment_vicks_ny_quil298/573.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:35:320F1000" end="T00:00:36:640F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:35:960F1000">Publicdomain-advertisment_vicks_ny_quil298/899.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

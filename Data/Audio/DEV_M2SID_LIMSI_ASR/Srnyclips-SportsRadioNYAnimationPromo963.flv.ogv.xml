@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Srnyclips-SportsRadioNYAnimationPromo963.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Srnyclips-SportsRadioNYAnimationPromo963.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="48.46" spdur="44.97" nw="121" tconf="0.70"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="44.97" gender="1" spkid="MS1" lang="eng-usa" lconf="0.92" nw="121" tconf="0.70"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.01" etime="34.10" spkid="MS1" lang="eng-usa" lconf="0.92" trs="1">
+<Word stime="0.09" dur="0.42" conf="0.935"> Welcome </Word>
+<Word stime="0.66" dur="0.11" conf="0.934"> to </Word>
+<Word stime="0.89" dur="0.35" conf="0.885"> sports </Word>
+<Word stime="1.24" dur="0.47" conf="0.851"> radio </Word>
+<Word stime="1.71" dur="0.05" conf="0.517"> in </Word>
+<Word stime="1.76" dur="0.12" conf="0.908"> New </Word>
+<Word stime="1.91" dur="0.32" conf="0.909"> York </Word>
+<Word stime="2.23" dur="0.33" conf="0.668"> , </Word>
+<Word stime="2.56" dur="0.08" conf="0.668"> a </Word>
+<Word stime="2.75" dur="0.42" conf="0.883"> network </Word>
+<Word stime="3.21" dur="0.13" conf="0.956"> of </Word>
+<Word stime="3.34" dur="0.16" conf="0.756"> New </Word>
+<Word stime="3.54" dur="0.18" conf="0.452"> York </Word>
+<Word stime="3.54" dur="0.18" conf="0.199"> York's </Word>
+<Word stime="3.76" dur="0.22" conf="0.591"> sports </Word>
+<Word stime="4.15" dur="0.22" conf="0.942"> talk </Word>
+<Word stime="4.43" dur="0.22" conf="0.564"> show </Word>
+<Word stime="4.43" dur="0.22" conf="0.181"> shows </Word>
+<Word stime="4.65" dur="0.09" conf="0.358"> is </Word>
+<Word stime="4.76" dur="0.19" conf="0.680"> heard </Word>
+<Word stime="5.09" dur="0.16" conf="0.946"> on </Word>
+<Word stime="5.25" dur="0.62" conf="0.911"> one </Word>
+<Word stime="5.87" dur="0.17" conf="0.789"> AM </Word>
+<Word stime="6.04" dur="0.48" conf="0.241"> 12 </Word>
+<Word stime="6.25" dur="0.20" conf="0.105"> fall </Word>
+<Word stime="6.52" dur="0.00" conf="0.447"> , </Word>
+<Word stime="6.52" dur="0.56" conf="0.943"> 40 </Word>
+<Word stime="7.08" dur="0.18" conf="0.514"> W </Word>
+<Word stime="7.56" dur="0.14" conf="0.379"> GDP </Word>
+<Word stime="7.70" dur="1.38" conf="0.456"> . </Word>
+<Word stime="9.08" dur="0.26" conf="0.924"> Check </Word>
+<Word stime="9.34" dur="0.29" conf="0.954"> out </Word>
+<Word stime="9.73" dur="0.14" conf="0.878"> New </Word>
+<Word stime="9.87" dur="0.18" conf="0.810"> York </Word>
+<Word stime="10.75" dur="0.14" conf="0.888"> with </Word>
+<Word stime="10.92" dur="0.26" conf="0.677"> Rob </Word>
+<Word stime="11.23" dur="0.42" conf="0.485"> Cole </Word>
+<Word stime="11.82" dur="0.13" conf="0.354"> long </Word>
+<Word stime="12.02" dur="0.16" conf="0.418"> time </Word>
+<Word stime="12.81" dur="0.18" conf="0.955"> New </Word>
+<Word stime="12.99" dur="0.28" conf="0.956"> York </Word>
+<Word stime="13.37" dur="0.39" conf="0.955"> Baseball </Word>
+<Word stime="13.76" dur="0.42" conf="0.955"> Digest </Word>
+<Word stime="14.42" dur="0.16" conf="0.630"> with </Word>
+<Word stime="14.42" dur="0.16" conf="0.128"> that </Word>
+<Word stime="14.62" dur="0.18" conf="0.409"> Mike </Word>
+<Word stime="14.62" dur="0.18" conf="0.184"> my </Word>
+<Word stime="14.62" dur="0.18" conf="0.104"> might </Word>
+<Word stime="14.85" dur="0.22" conf="0.302"> Silva </Word>
+<Word stime="14.85" dur="0.22" conf="0.214"> silver </Word>
+<Word stime="15.69" dur="0.46" conf="0.948"> {fw} </Word>
+<Word stime="16.15" dur="0.11" conf="0.541"> , </Word>
+<Word stime="16.26" dur="0.32" conf="0.778"> baseball </Word>
+<Word stime="16.76" dur="0.10" conf="0.177"> forthwith </Word>
+<Word stime="16.76" dur="0.10" conf="0.132"> park </Word>
+<Word stime="17.13" dur="0.13" conf="0.357"> with </Word>
+<Word stime="17.35" dur="0.29" conf="0.363"> called </Word>
+<Word stime="17.35" dur="0.29" conf="0.189"> call </Word>
+<Word stime="17.64" dur="0.11" conf="0.725"> the </Word>
+<Word stime="17.82" dur="0.22" conf="0.265"> cabin </Word>
+<Word stime="17.82" dur="0.22" conf="0.216"> cabinet </Word>
+<Word stime="18.42" dur="0.10" conf="0.565"> in </Word>
+<Word stime="18.42" dur="0.10" conf="0.179"> and </Word>
+<Word stime="18.52" dur="0.07" conf="0.477"> the </Word>
+<Word stime="18.65" dur="0.24" conf="0.766"> dugout </Word>
+<Word stime="19.05" dur="0.42" conf="0.306"> job </Word>
+<Word stime="19.05" dur="0.42" conf="0.201"> gel </Word>
+<Word stime="20.24" dur="0.31" conf="0.847"> sports </Word>
+<Word stime="20.55" dur="0.21" conf="0.745"> talk </Word>
+<Word stime="20.81" dur="0.35" conf="0.704"> live </Word>
+<Word stime="21.36" dur="0.12" conf="0.781"> with </Word>
+<Word stime="21.48" dur="0.07" conf="0.811"> . </Word>
+<Word stime="21.55" dur="0.26" conf="0.504"> Frankly </Word>
+<Word stime="21.55" dur="0.26" conf="0.222"> Frankie </Word>
+<Word stime="21.81" dur="0.07" conf="0.852"> , </Word>
+<Word stime="21.88" dur="0.12" conf="0.691"> the </Word>
+<Word stime="22.00" dur="0.31" conf="0.392"> sports </Word>
+<Word stime="22.38" dur="0.27" conf="0.590"> guy </Word>
+<Word stime="22.86" dur="0.44" conf="0.895"> {fw} </Word>
+<Word stime="23.73" dur="0.33" conf="0.910"> starting </Word>
+<Word stime="24.06" dur="0.39" conf="0.942"> nine </Word>
+<Word stime="24.86" dur="0.13" conf="0.354"> Steve </Word>
+<Word stime="24.86" dur="0.13" conf="0.276"> the </Word>
+<Word stime="25.02" dur="0.23" conf="0.240"> Grogan </Word>
+<Word stime="25.02" dur="0.23" conf="0.146"> rogue </Word>
+<Word stime="25.02" dur="0.23" conf="0.113"> program </Word>
+<Word stime="25.02" dur="0.23" conf="0.110"> broken </Word>
+<Word stime="25.38" dur="0.73" conf="0.944"> {fw} </Word>
+<Word stime="26.95" dur="0.18" conf="0.203"> Goldfinger </Word>
+<Word stime="26.95" dur="0.18" conf="0.149"> political </Word>
+<Word stime="28.30" dur="0.12" conf="0.832"> the </Word>
+<Word stime="28.42" dur="0.21" conf="0.647"> dog </Word>
+<Word stime="28.83" dur="0.27" conf="0.609"> pound </Word>
+<Word stime="29.45" dur="0.21" conf="0.165"> booth </Word>
+<Word stime="29.45" dur="0.21" conf="0.158"> boots </Word>
+<Word stime="29.45" dur="0.21" conf="0.101"> Ruth </Word>
+<Word stime="29.78" dur="0.13" conf="0.511"> and </Word>
+<Word stime="29.94" dur="0.34" conf="0.258"> dock </Word>
+<Word stime="29.94" dur="0.34" conf="0.111"> Doc </Word>
+<Word stime="30.33" dur="0.13" conf="0.518"> through </Word>
+<Word stime="30.90" dur="0.26" conf="0.799"> through </Word>
+<Word stime="31.28" dur="0.16" conf="0.774"> and </Word>
+<Word stime="31.48" dur="0.31" conf="0.929"> sports </Word>
+<Word stime="31.87" dur="0.23" conf="0.909"> talk </Word>
+<Word stime="32.10" dur="0.47" conf="0.947"> 12 </Word>
+<Word stime="32.57" dur="0.00" conf="0.632"> , </Word>
+<Word stime="32.57" dur="0.32" conf="0.649"> 40 </Word>
+<Word stime="32.57" dur="0.32" conf="0.124"> fourteen </Word>
+<Word stime="32.89" dur="0.16" conf="0.921"> with </Word>
+<Word stime="33.16" dur="0.36" conf="0.545"> Anthony </Word>
+<Word stime="33.81" dur="0.24" conf="0.342"> Donahue </Word>
+<Word stime="33.81" dur="0.24" conf="0.209"> Donohue </Word>
+<Word stime="33.81" dur="0.24" conf="0.127"> here </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="35.16" etime="46.04" spkid="MS1" lang="eng-usa" lconf="0.92" trs="1">
+<Word stime="35.16" dur="0.23" conf="0.707"> listen </Word>
+<Word stime="35.52" dur="0.21" conf="0.971"> every </Word>
+<Word stime="35.81" dur="0.30" conf="0.971"> Sunday </Word>
+<Word stime="36.11" dur="0.33" conf="0.971"> night </Word>
+<Word stime="36.44" dur="0.16" conf="0.969"> at </Word>
+<Word stime="36.60" dur="0.44" conf="0.971"> 9 </Word>
+<Word stime="37.04" dur="0.44" conf="0.970"> PM </Word>
+<Word stime="37.48" dur="0.20" conf="0.970"> on </Word>
+<Word stime="37.72" dur="0.21" conf="0.825"> Long </Word>
+<Word stime="37.93" dur="0.32" conf="0.809"> Island </Word>
+<Word stime="38.27" dur="0.11" conf="0.574"> they </Word>
+<Word stime="38.61" dur="0.21" conf="0.292"> involved </Word>
+<Word stime="38.61" dur="0.21" conf="0.198"> involve </Word>
+<Word stime="38.82" dur="0.46" conf="0.715"> 40 </Word>
+<Word stime="39.28" dur="0.31" conf="0.409"> WCVB </Word>
+<Word stime="39.28" dur="0.31" conf="0.159"> W </Word>
+<Word stime="40.95" dur="0.25" conf="0.869"> and </Word>
+<Word stime="41.25" dur="0.24" conf="0.822"> check </Word>
+<Word stime="41.49" dur="0.21" conf="0.971"> out </Word>
+<Word stime="41.70" dur="0.15" conf="0.971"> all </Word>
+<Word stime="41.88" dur="0.10" conf="0.873"> of </Word>
+<Word stime="42.05" dur="0.14" conf="0.952"> their </Word>
+<Word stime="42.19" dur="0.43" conf="0.971"> shows </Word>
+<Word stime="42.62" dur="0.49" conf="0.969"> online </Word>
+<Word stime="43.23" dur="0.16" conf="0.463"> and </Word>
+<Word stime="43.23" dur="0.16" conf="0.165"> at </Word>
+<Word stime="43.55" dur="0.22" conf="0.607"> sports </Word>
+<Word stime="43.81" dur="0.49" conf="0.939"> radio </Word>
+<Word stime="44.30" dur="0.00" conf="0.627"> . </Word>
+<Word stime="44.30" dur="0.16" conf="0.970"> And </Word>
+<Word stime="44.49" dur="0.51" conf="0.969"> why </Word>
+<Word stime="45.21" dur="0.18" conf="0.961"> not </Word>
+<Word stime="45.39" dur="0.16" conf="0.662"> . </Word>
+<Word stime="45.55" dur="0.30" conf="0.189"> Car </Word>
+<Word stime="45.55" dur="0.30" conf="0.126"> {fw} </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Stupidfamouspeople-JayZAndKanyeWestLeaveMarcJacobsSpring2009FashionShowI466</CreationID>
+  <InitialFrameID>Stupidfamouspeople-JayZAndKanyeWestLeaveMarcJacobsSpring2009FashionShowI466/019.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:02:533F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:266F1000">Stupidfamouspeople-JayZAndKanyeWestLeaveMarcJacobsSpring2009FashionShowI466/019.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:02:533F1000" end="T00:00:06:066F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:04:266F1000">Stupidfamouspeople-JayZAndKanyeWestLeaveMarcJacobsSpring2009FashionShowI466/064.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:06:066F1000" end="T00:00:10:666F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:08:333F1000">Stupidfamouspeople-JayZAndKanyeWestLeaveMarcJacobsSpring2009FashionShowI466/125.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:10:666F1000" end="T00:00:12:933F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:11:800F1000">Stupidfamouspeople-JayZAndKanyeWestLeaveMarcJacobsSpring2009FashionShowI466/177.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:12:933F1000" end="T00:00:17:266F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:15:066F1000">Stupidfamouspeople-JayZAndKanyeWestLeaveMarcJacobsSpring2009FashionShowI466/226.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:17:266F1000" end="T00:00:19:733F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:18:466F1000">Stupidfamouspeople-JayZAndKanyeWestLeaveMarcJacobsSpring2009FashionShowI466/277.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

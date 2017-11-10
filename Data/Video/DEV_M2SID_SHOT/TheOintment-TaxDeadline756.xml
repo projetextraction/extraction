@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>TheOintment-TaxDeadline756</CreationID>
+  <InitialFrameID>TheOintment-TaxDeadline756/0005.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:00:333F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:00:166F1000">TheOintment-TaxDeadline756/0005.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:00:333F1000" end="T00:00:01:533F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:00:933F1000">TheOintment-TaxDeadline756/0028.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:01:533F1000" end="T00:00:15:133F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:08:333F1000">TheOintment-TaxDeadline756/0250.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:15:133F1000" end="T00:00:33:400F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:24:266F1000">TheOintment-TaxDeadline756/0728.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:33:400F1000" end="T00:00:38:500F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:35:933F1000">TheOintment-TaxDeadline756/1078.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:40:500F1000" end="T00:00:41:200F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:40:833F1000">TheOintment-TaxDeadline756/1225.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:13:133F1000" end="T00:02:03:800F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:01:38:466F1000">TheOintment-TaxDeadline756/2954.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:06:000F1000" end="T00:02:06:700F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:02:06:333F1000">TheOintment-TaxDeadline756/3790.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:08:066F1000" end="T00:02:10:233F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:02:09:133F1000">TheOintment-TaxDeadline756/3874.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:12:333F1000" end="T00:02:13:033F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:02:12:666F1000">TheOintment-TaxDeadline756/3980.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:52:133F1000" end="T00:02:54:200F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:02:53:166F1000">TheOintment-TaxDeadline756/5195.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:55:466F1000" end="T00:02:56:700F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:02:56:066F1000">TheOintment-TaxDeadline756/5282.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

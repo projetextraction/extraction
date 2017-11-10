@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Publicdomain-advertisment_vicks_ny_quil298.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Publicdomain-advertisment_vicks_ny_quil298.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="30.55" spdur="26.44" nw="70" tconf="0.76"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="26.44" gender="1" spkid="MS1" lang="eng-usa" lconf="0.98" nw="70" tconf="0.76"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="2.79" etime="29.23" spkid="MS1" lang="eng-usa" lconf="0.98" trs="1">
+<Word stime="2.79" dur="0.56" conf="0.944"> {fw} </Word>
+<Word stime="3.35" dur="0.85" conf="0.575"> , </Word>
+<Word stime="4.20" dur="0.16" conf="0.969"> if </Word>
+<Word stime="4.36" dur="0.28" conf="0.969"> you've </Word>
+<Word stime="4.64" dur="0.18" conf="0.970"> ever </Word>
+<Word stime="4.85" dur="0.22" conf="0.972"> gone </Word>
+<Word stime="5.07" dur="0.11" conf="0.972"> to </Word>
+<Word stime="5.23" dur="0.22" conf="0.972"> bed </Word>
+<Word stime="5.45" dur="0.13" conf="0.971"> with </Word>
+<Word stime="5.58" dur="0.07" conf="0.668"> a </Word>
+<Word stime="5.58" dur="0.07" conf="0.123"> the </Word>
+<Word stime="5.65" dur="0.28" conf="0.425"> cold </Word>
+<Word stime="6.69" dur="0.12" conf="0.409"> that </Word>
+<Word stime="6.87" dur="0.13" conf="0.432"> the </Word>
+<Word stime="6.87" dur="0.13" conf="0.286"> this </Word>
+<Word stime="7.38" dur="0.12" conf="0.556"> company </Word>
+<Word stime="7.53" dur="0.32" conf="0.955"> {fw} </Word>
+<Word stime="7.99" dur="0.21" conf="0.962"> very </Word>
+<Word stime="8.20" dur="0.24" conf="0.971"> big </Word>
+<Word stime="8.51" dur="0.30" conf="0.972"> news </Word>
+<Word stime="8.85" dur="0.17" conf="0.972"> for </Word>
+<Word stime="9.02" dur="0.15" conf="0.951"> you </Word>
+<Word stime="9.71" dur="0.12" conf="0.366"> a </Word>
+<Word stime="9.71" dur="0.12" conf="0.184"> and </Word>
+<Word stime="9.71" dur="0.12" conf="0.147"> I </Word>
+<Word stime="9.83" dur="0.23" conf="0.368"> new </Word>
+<Word stime="9.83" dur="0.23" conf="0.179"> you </Word>
+<Word stime="9.83" dur="0.23" conf="0.150"> knew </Word>
+<Word stime="10.06" dur="0.11" conf="0.397"> all </Word>
+<Word stime="10.06" dur="0.11" conf="0.286"> one </Word>
+<Word stime="10.17" dur="0.34" conf="0.971"> night </Word>
+<Word stime="10.51" dur="0.27" conf="0.871"> time </Word>
+<Word stime="10.92" dur="0.32" conf="0.228"> cold </Word>
+<Word stime="10.92" dur="0.32" conf="0.191"> Coles </Word>
+<Word stime="10.92" dur="0.32" conf="0.108"> Kohl's </Word>
+<Word stime="11.33" dur="0.39" conf="0.857"> medicine </Word>
+<Word stime="11.79" dur="0.28" conf="0.951"> called </Word>
+<Word stime="12.12" dur="0.20" conf="0.363"> night </Word>
+<Word stime="12.12" dur="0.20" conf="0.163"> Night </Word>
+<Word stime="13.39" dur="0.23" conf="0.602"> Mike </Word>
+<Word stime="13.68" dur="0.22" conf="0.559"> will </Word>
+<Word stime="13.68" dur="0.22" conf="0.174"> Quill </Word>
+<Word stime="13.90" dur="0.44" conf="0.398"> relieve </Word>
+<Word stime="13.90" dur="0.44" conf="0.290"> relieved </Word>
+<Word stime="14.45" dur="0.34" conf="0.828"> major </Word>
+<Word stime="14.87" dur="0.39" conf="0.971"> cold </Word>
+<Word stime="15.26" dur="0.62" conf="0.972"> symptoms </Word>
+<Word stime="16.10" dur="0.20" conf="0.693"> like </Word>
+<Word stime="16.43" dur="0.52" conf="0.972"> sniffles </Word>
+<Word stime="16.95" dur="0.12" conf="0.998"> , </Word>
+<Word stime="17.07" dur="0.50" conf="0.972"> sneezes </Word>
+<Word stime="17.64" dur="0.34" conf="0.971"> nasal </Word>
+<Word stime="17.98" dur="0.67" conf="0.972"> congestion </Word>
+<Word stime="18.65" dur="0.50" conf="0.972"> scratchy </Word>
+<Word stime="19.15" dur="0.35" conf="0.972"> throat </Word>
+<Word stime="19.50" dur="0.16" conf="0.972"> and </Word>
+<Word stime="19.82" dur="0.35" conf="0.461"> coughing </Word>
+<Word stime="19.82" dur="0.35" conf="0.178"> cutting </Word>
+<Word stime="20.17" dur="0.22" conf="0.301"> . </Word>
+<Word stime="20.39" dur="0.15" conf="0.661"> Four </Word>
+<Word stime="20.39" dur="0.15" conf="0.127"> for </Word>
+<Word stime="20.54" dur="0.56" conf="0.971"> hours </Word>
+<Word stime="21.45" dur="0.11" conf="0.584"> to </Word>
+<Word stime="21.56" dur="0.15" conf="0.511"> help </Word>
+<Word stime="21.95" dur="0.10" conf="0.482"> get </Word>
+<Word stime="22.11" dur="0.08" conf="0.307"> us </Word>
+<Word stime="22.11" dur="0.08" conf="0.161"> as </Word>
+<Word stime="22.22" dur="0.17" conf="0.971"> good </Word>
+<Word stime="22.39" dur="0.30" conf="0.894"> night </Word>
+<Word stime="22.69" dur="0.26" conf="0.685"> sleep </Word>
+<Word stime="23.66" dur="0.24" conf="0.420"> night </Word>
+<Word stime="23.66" dur="0.24" conf="0.180"> nice </Word>
+<Word stime="23.96" dur="0.29" conf="0.282"> acquittal </Word>
+<Word stime="23.96" dur="0.29" conf="0.133"> will </Word>
+<Word stime="23.96" dur="0.29" conf="0.128"> Quill </Word>
+<Word stime="24.25" dur="0.45" conf="0.499"> . </Word>
+<Word stime="24.70" dur="0.12" conf="0.972"> The </Word>
+<Word stime="24.82" dur="0.33" conf="0.972"> most </Word>
+<Word stime="25.15" dur="0.41" conf="0.972"> unique </Word>
+<Word stime="25.66" dur="0.31" conf="0.967"> night </Word>
+<Word stime="26.04" dur="0.35" conf="0.969"> time </Word>
+<Word stime="26.39" dur="0.24" conf="0.504"> cold </Word>
+<Word stime="26.72" dur="0.73" conf="0.971"> medication </Word>
+<Word stime="27.62" dur="0.29" conf="0.972"> ever </Word>
+<Word stime="27.91" dur="0.52" conf="0.972"> developed </Word>
+<Word stime="28.56" dur="0.21" conf="0.972"> by </Word>
+<Word stime="28.80" dur="0.10" conf="0.827"> the </Word>
+<Word stime="28.96" dur="0.23" conf="0.458"> ex </Word>
+<Word stime="28.96" dur="0.23" conf="0.213"> X </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

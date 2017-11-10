@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>TheOintment-WithFriendsLikeThese940</CreationID>
+  <InitialFrameID>TheOintment-WithFriendsLikeThese940/0024.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:03:200F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:600F1000">TheOintment-WithFriendsLikeThese940/0024.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:03:200F1000" end="T00:00:18:800F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:11:000F1000">TheOintment-WithFriendsLikeThese940/0165.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:18:800F1000" end="T00:00:46:133F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:32:466F1000">TheOintment-WithFriendsLikeThese940/0487.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:46:133F1000" end="T00:01:01:066F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:53:600F1000">TheOintment-WithFriendsLikeThese940/0804.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:01:066F1000" end="T00:01:13:533F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:01:07:266F1000">TheOintment-WithFriendsLikeThese940/1009.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:13:533F1000" end="T00:01:31:666F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:01:22:600F1000">TheOintment-WithFriendsLikeThese940/1239.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:31:666F1000" end="T00:01:41:666F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:01:36:666F1000">TheOintment-WithFriendsLikeThese940/1450.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:41:666F1000" end="T00:01:51:666F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:01:46:666F1000">TheOintment-WithFriendsLikeThese940/1600.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:51:666F1000" end="T00:02:01:666F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:01:56:666F1000">TheOintment-WithFriendsLikeThese940/1750.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:01:666F1000" end="T00:02:11:666F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:02:06:666F1000">TheOintment-WithFriendsLikeThese940/1900.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:11:666F1000" end="T00:02:21:733F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:02:16:666F1000">TheOintment-WithFriendsLikeThese940/2050.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:21:733F1000" end="T00:02:31:733F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:02:26:733F1000">TheOintment-WithFriendsLikeThese940/2201.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:31:733F1000" end="T00:02:53:866F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:02:42:800F1000">TheOintment-WithFriendsLikeThese940/2442.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:53:866F1000" end="T00:03:03:866F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:02:58:866F1000">TheOintment-WithFriendsLikeThese940/2683.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:03:866F1000" end="T00:03:13:866F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:03:08:866F1000">TheOintment-WithFriendsLikeThese940/2833.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:13:866F1000" end="T00:03:19:066F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:03:16:466F1000">TheOintment-WithFriendsLikeThese940/2947.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:19:066F1000" end="T00:03:31:266F1000">
+      <Index>16</Index>
+      <KeyFrameID time="T00:03:25:133F1000">TheOintment-WithFriendsLikeThese940/3077.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:31:266F1000" end="T00:03:36:333F1000">
+      <Index>17</Index>
+      <KeyFrameID time="T00:03:33:800F1000">TheOintment-WithFriendsLikeThese940/3207.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:36:333F1000" end="T00:03:53:000F1000">
+      <Index>18</Index>
+      <KeyFrameID time="T00:03:44:666F1000">TheOintment-WithFriendsLikeThese940/3370.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:53:000F1000" end="T00:03:57:933F1000">
+      <Index>19</Index>
+      <KeyFrameID time="T00:03:55:466F1000">TheOintment-WithFriendsLikeThese940/3532.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:57:933F1000" end="T00:04:13:533F1000">
+      <Index>20</Index>
+      <KeyFrameID time="T00:04:05:733F1000">TheOintment-WithFriendsLikeThese940/3686.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:13:533F1000" end="T00:04:18:466F1000">
+      <Index>21</Index>
+      <KeyFrameID time="T00:04:16:000F1000">TheOintment-WithFriendsLikeThese940/3840.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:18:466F1000" end="T00:04:25:666F1000">
+      <Index>22</Index>
+      <KeyFrameID time="T00:04:22:066F1000">TheOintment-WithFriendsLikeThese940/3931.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:25:666F1000" end="T00:04:35:866F1000">
+      <Index>23</Index>
+      <KeyFrameID time="T00:04:30:733F1000">TheOintment-WithFriendsLikeThese940/4061.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:35:866F1000" end="T00:04:45:933F1000">
+      <Index>24</Index>
+      <KeyFrameID time="T00:04:40:866F1000">TheOintment-WithFriendsLikeThese940/4213.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

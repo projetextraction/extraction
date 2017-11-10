@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Eddiedotcom-TheCandySong809.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Eddiedotcom-TheCandySong809.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="60.25" spdur="27.50" nw="89" tconf="0.58"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="17.52" gender="1" spkid="MS1" lang="eng-usa" lconf="0.49" nw="53" tconf="0.57"/>
+<Speaker ch="1" dur="9.98" gender="2" spkid="FS1" lang="eng-usa" lconf="0.49" nw="36" tconf="0.59"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.01" etime="9.99" spkid="FS1" lang="eng-usa" lconf="0.49" trs="1">
+<Word stime="0.10" dur="0.17" conf="0.394"> Still </Word>
+<Word stime="0.10" dur="0.17" conf="0.317"> so </Word>
+<Word stime="0.27" dur="0.00" conf="0.993"> , </Word>
+<Word stime="0.27" dur="0.10" conf="0.883"> he </Word>
+<Word stime="0.37" dur="0.22" conf="0.850"> said </Word>
+<Word stime="0.59" dur="0.06" conf="0.746"> . </Word>
+<Word stime="0.65" dur="0.09" conf="0.680"> He </Word>
+<Word stime="0.74" dur="0.30" conf="0.633"> can </Word>
+<Word stime="0.74" dur="0.30" conf="0.128"> can't </Word>
+<Word stime="1.21" dur="0.12" conf="0.498"> use </Word>
+<Word stime="1.21" dur="0.12" conf="0.137"> leave </Word>
+<Word stime="1.57" dur="0.43" conf="0.395"> magical </Word>
+<Word stime="1.57" dur="0.43" conf="0.329"> logical </Word>
+<Word stime="2.26" dur="0.15" conf="0.269"> renders </Word>
+<Word stime="2.26" dur="0.15" conf="0.163"> news </Word>
+<Word stime="2.26" dur="0.15" conf="0.134"> is </Word>
+<Word stime="2.58" dur="0.26" conf="0.695"> Bihar </Word>
+<Word stime="2.84" dur="0.12" conf="0.540"> . </Word>
+<Word stime="2.96" dur="0.13" conf="0.894"> When </Word>
+<Word stime="3.09" dur="0.07" conf="0.529"> you </Word>
+<Word stime="3.09" dur="0.07" conf="0.176"> he </Word>
+<Word stime="3.16" dur="0.23" conf="0.794"> went </Word>
+<Word stime="3.44" dur="0.07" conf="0.498"> to </Word>
+<Word stime="3.60" dur="0.36" conf="0.607"> {fw} </Word>
+<Word stime="4.42" dur="0.42" conf="0.524"> our </Word>
+<Word stime="4.42" dur="0.42" conf="0.217"> are </Word>
+<Word stime="5.12" dur="0.18" conf="0.291"> banks </Word>
+<Word stime="5.52" dur="0.13" conf="0.258"> no </Word>
+<Word stime="5.52" dur="0.13" conf="0.227"> old </Word>
+<Word stime="5.70" dur="0.23" conf="0.264"> think </Word>
+<Word stime="5.70" dur="0.23" conf="0.215"> things </Word>
+<Word stime="5.98" dur="0.08" conf="0.282"> so </Word>
+<Word stime="5.98" dur="0.08" conf="0.191"> think </Word>
+<Word stime="6.16" dur="0.13" conf="0.361"> nervous </Word>
+<Word stime="6.16" dur="0.13" conf="0.227"> us </Word>
+<Word stime="6.32" dur="0.14" conf="0.761"> they </Word>
+<Word stime="6.46" dur="0.10" conf="0.603"> are </Word>
+<Word stime="6.92" dur="0.11" conf="0.423"> that </Word>
+<Word stime="6.92" dur="0.11" conf="0.215"> but </Word>
+<Word stime="7.05" dur="0.10" conf="0.927"> you </Word>
+<Word stime="7.21" dur="0.25" conf="0.786"> have </Word>
+<Word stime="7.64" dur="0.12" conf="0.697"> to </Word>
+<Word stime="7.87" dur="0.13" conf="0.585"> hand </Word>
+<Word stime="8.04" dur="0.08" conf="0.594"> in </Word>
+<Word stime="8.12" dur="0.08" conf="0.651"> the </Word>
+<Word stime="8.12" dur="0.08" conf="0.102"> a </Word>
+<Word stime="8.27" dur="0.37" conf="0.686"> candy </Word>
+<Word stime="8.64" dur="0.27" conf="0.684"> man </Word>
+<Word stime="8.64" dur="0.27" conf="0.100"> Man </Word>
+<Word stime="9.07" dur="0.22" conf="0.608"> Candy </Word>
+<Word stime="9.51" dur="0.36" conf="0.390"> closed </Word>
+<Word stime="9.51" dur="0.36" conf="0.199"> close </Word>
+<Word stime="9.51" dur="0.36" conf="0.100"> cloak </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="38.98" etime="56.50" spkid="MS1" lang="eng-usa" lconf="0.49" trs="1">
+<Word stime="39.04" dur="0.08" conf="0.488"> I </Word>
+<Word stime="39.04" dur="0.08" conf="0.165"> and </Word>
+<Word stime="39.12" dur="0.11" conf="0.452"> think </Word>
+<Word stime="39.25" dur="0.12" conf="0.698"> the </Word>
+<Word stime="39.37" dur="0.53" conf="0.736"> , </Word>
+<Word stime="39.90" dur="0.12" conf="0.841"> {fw} </Word>
+<Word stime="40.02" dur="0.03" conf="0.752"> , </Word>
+<Word stime="40.05" dur="0.39" conf="0.752"> but </Word>
+<Word stime="40.44" dur="0.14" conf="0.756"> don't </Word>
+<Word stime="40.74" dur="0.21" conf="0.917"> have </Word>
+<Word stime="41.00" dur="0.11" conf="0.778"> the </Word>
+<Word stime="41.14" dur="0.20" conf="0.381"> Internet </Word>
+<Word stime="41.14" dur="0.20" conf="0.298"> internal </Word>
+<Word stime="41.67" dur="0.15" conf="0.226"> every </Word>
+<Word stime="41.67" dur="0.15" conf="0.104"> hitting </Word>
+<Word stime="41.91" dur="0.15" conf="0.311"> like </Word>
+<Word stime="41.91" dur="0.15" conf="0.258"> night </Word>
+<Word stime="42.15" dur="0.21" conf="0.410"> better </Word>
+<Word stime="42.15" dur="0.21" conf="0.159"> tobacco </Word>
+<Word stime="42.43" dur="0.20" conf="0.426"> that </Word>
+<Word stime="42.43" dur="0.20" conf="0.203"> than </Word>
+<Word stime="42.86" dur="0.18" conf="0.268"> Jerry </Word>
+<Word stime="42.86" dur="0.18" conf="0.229"> very </Word>
+<Word stime="43.10" dur="0.09" conf="0.315"> mean </Word>
+<Word stime="43.22" dur="0.12" conf="0.282"> he's </Word>
+<Word stime="43.22" dur="0.12" conf="0.256"> is </Word>
+<Word stime="43.34" dur="0.13" conf="0.385"> been </Word>
+<Word stime="43.50" dur="0.07" conf="0.254"> that </Word>
+<Word stime="43.77" dur="0.11" conf="0.372"> this </Word>
+<Word stime="44.04" dur="0.14" conf="0.361"> time </Word>
+<Word stime="44.04" dur="0.14" conf="0.176"> assigned </Word>
+<Word stime="44.18" dur="0.25" conf="0.842"> to </Word>
+<Word stime="44.78" dur="0.32" conf="0.301"> mountain </Word>
+<Word stime="44.78" dur="0.32" conf="0.161"> mounting </Word>
+<Word stime="45.20" dur="0.16" conf="0.456"> have </Word>
+<Word stime="45.20" dur="0.16" conf="0.167"> ever </Word>
+<Word stime="45.36" dur="0.19" conf="0.276"> adversely </Word>
+<Word stime="45.36" dur="0.19" conf="0.237"> had </Word>
+<Word stime="46.17" dur="0.18" conf="0.431"> the </Word>
+<Word stime="46.17" dur="0.18" conf="0.162"> health </Word>
+<Word stime="46.40" dur="0.24" conf="0.775"> undoubted </Word>
+<Word stime="47.00" dur="0.24" conf="0.832"> quality </Word>
+<Word stime="47.41" dur="0.08" conf="0.409"> in </Word>
+<Word stime="47.65" dur="0.42" conf="0.957"> the </Word>
+<Word stime="48.33" dur="0.10" conf="0.646"> team </Word>
+<Word stime="48.52" dur="0.13" conf="0.458"> as </Word>
+<Word stime="48.52" dur="0.13" conf="0.130"> pursuit </Word>
+<Word stime="48.65" dur="0.09" conf="0.393"> he </Word>
+<Word stime="49.04" dur="0.27" conf="0.416"> battled </Word>
+<Word stime="49.04" dur="0.27" conf="0.261"> battle </Word>
+<Word stime="49.31" dur="0.19" conf="0.164"> British </Word>
+<Word stime="49.31" dur="0.19" conf="0.160"> but </Word>
+<Word stime="50.25" dur="0.11" conf="0.375"> {fw} </Word>
+<Word stime="50.80" dur="0.27" conf="0.959"> going </Word>
+<Word stime="51.07" dur="0.16" conf="0.953"> to </Word>
+<Word stime="51.42" dur="0.18" conf="0.376"> adapt </Word>
+<Word stime="51.42" dur="0.18" conf="0.248"> have </Word>
+<Word stime="51.65" dur="0.33" conf="0.353"> poll </Word>
+<Word stime="51.65" dur="0.33" conf="0.245"> pole </Word>
+<Word stime="52.04" dur="0.48" conf="0.955"> {fw} </Word>
+<Word stime="52.99" dur="0.28" conf="0.936"> right </Word>
+<Word stime="53.34" dur="0.31" conf="0.958"> by </Word>
+<Word stime="53.67" dur="0.09" conf="0.580"> a </Word>
+<Word stime="53.80" dur="0.17" conf="0.706"> door </Word>
+<Word stime="53.97" dur="0.10" conf="0.931"> to </Word>
+<Word stime="54.07" dur="0.09" conf="0.938"> the </Word>
+<Word stime="54.24" dur="0.25" conf="0.530"> freaking </Word>
+<Word stime="54.64" dur="0.23" conf="0.275"> teddy </Word>
+<Word stime="54.64" dur="0.23" conf="0.136"> candy </Word>
+<Word stime="54.94" dur="0.34" conf="0.539"> cave </Word>
+<Word stime="55.68" dur="0.20" conf="0.462"> disability </Word>
+<Word stime="55.68" dur="0.20" conf="0.144"> better </Word>
+<Word stime="55.95" dur="0.25" conf="0.833"> good </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

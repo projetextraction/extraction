@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Publicdomain-humorous_funny_faces_1906278</CreationID>
+  <InitialFrameID>Publicdomain-humorous_funny_faces_1906278/0013.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:01:080F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:00:520F1000">Publicdomain-humorous_funny_faces_1906278/0013.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:01:080F1000" end="T00:00:02:480F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:01:760F1000">Publicdomain-humorous_funny_faces_1906278/0044.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:02:480F1000" end="T00:00:04:600F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:03:520F1000">Publicdomain-humorous_funny_faces_1906278/0088.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:04:600F1000" end="T00:00:05:800F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:05:200F1000">Publicdomain-humorous_funny_faces_1906278/0130.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:05:800F1000" end="T00:00:06:840F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:06:320F1000">Publicdomain-humorous_funny_faces_1906278/0158.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:06:840F1000" end="T00:00:08:600F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:07:720F1000">Publicdomain-humorous_funny_faces_1906278/0193.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:08:600F1000" end="T00:00:10:840F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:00:09:720F1000">Publicdomain-humorous_funny_faces_1906278/0243.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:10:840F1000" end="T00:00:13:040F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:00:11:920F1000">Publicdomain-humorous_funny_faces_1906278/0298.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:13:040F1000" end="T00:00:15:440F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:00:14:240F1000">Publicdomain-humorous_funny_faces_1906278/0356.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:15:440F1000" end="T00:00:16:960F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:00:16:200F1000">Publicdomain-humorous_funny_faces_1906278/0405.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:16:960F1000" end="T00:00:19:240F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:00:18:080F1000">Publicdomain-humorous_funny_faces_1906278/0452.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:19:240F1000" end="T00:00:21:600F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:00:20:400F1000">Publicdomain-humorous_funny_faces_1906278/0510.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:21:600F1000" end="T00:00:25:840F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:00:23:720F1000">Publicdomain-humorous_funny_faces_1906278/0593.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:25:840F1000" end="T00:00:41:080F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:00:33:440F1000">Publicdomain-humorous_funny_faces_1906278/0836.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:41:080F1000" end="T00:00:42:400F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:00:41:720F1000">Publicdomain-humorous_funny_faces_1906278/1043.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:42:400F1000" end="T00:00:44:400F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:00:43:400F1000">Publicdomain-humorous_funny_faces_1906278/1085.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:44:400F1000" end="T00:00:48:720F1000">
+      <Index>16</Index>
+      <KeyFrameID time="T00:00:46:560F1000">Publicdomain-humorous_funny_faces_1906278/1164.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:48:720F1000" end="T00:00:50:040F1000">
+      <Index>17</Index>
+      <KeyFrameID time="T00:00:49:360F1000">Publicdomain-humorous_funny_faces_1906278/1234.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:50:040F1000" end="T00:00:52:080F1000">
+      <Index>18</Index>
+      <KeyFrameID time="T00:00:51:040F1000">Publicdomain-humorous_funny_faces_1906278/1276.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:52:080F1000" end="T00:00:54:080F1000">
+      <Index>19</Index>
+      <KeyFrameID time="T00:00:53:080F1000">Publicdomain-humorous_funny_faces_1906278/1327.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:54:080F1000" end="T00:00:56:920F1000">
+      <Index>20</Index>
+      <KeyFrameID time="T00:00:55:480F1000">Publicdomain-humorous_funny_faces_1906278/1387.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:56:920F1000" end="T00:01:04:000F1000">
+      <Index>21</Index>
+      <KeyFrameID time="T00:01:00:440F1000">Publicdomain-humorous_funny_faces_1906278/1511.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:04:000F1000" end="T00:01:06:000F1000">
+      <Index>22</Index>
+      <KeyFrameID time="T00:01:05:000F1000">Publicdomain-humorous_funny_faces_1906278/1625.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:06:000F1000" end="T00:01:20:040F1000">
+      <Index>23</Index>
+      <KeyFrameID time="T00:01:13:000F1000">Publicdomain-humorous_funny_faces_1906278/1825.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:20:040F1000" end="T00:01:22:360F1000">
+      <Index>24</Index>
+      <KeyFrameID time="T00:01:21:200F1000">Publicdomain-humorous_funny_faces_1906278/2030.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:22:360F1000" end="T00:01:24:360F1000">
+      <Index>25</Index>
+      <KeyFrameID time="T00:01:23:360F1000">Publicdomain-humorous_funny_faces_1906278/2084.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:24:360F1000" end="T00:01:25:760F1000">
+      <Index>26</Index>
+      <KeyFrameID time="T00:01:25:040F1000">Publicdomain-humorous_funny_faces_1906278/2126.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:25:760F1000" end="T00:01:27:000F1000">
+      <Index>27</Index>
+      <KeyFrameID time="T00:01:26:360F1000">Publicdomain-humorous_funny_faces_1906278/2159.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:27:000F1000" end="T00:01:28:760F1000">
+      <Index>28</Index>
+      <KeyFrameID time="T00:01:27:880F1000">Publicdomain-humorous_funny_faces_1906278/2197.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:28:760F1000" end="T00:01:30:000F1000">
+      <Index>29</Index>
+      <KeyFrameID time="T00:01:29:360F1000">Publicdomain-humorous_funny_faces_1906278/2234.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:30:000F1000" end="T00:01:31:360F1000">
+      <Index>30</Index>
+      <KeyFrameID time="T00:01:30:680F1000">Publicdomain-humorous_funny_faces_1906278/2267.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:31:360F1000" end="T00:01:32:720F1000">
+      <Index>31</Index>
+      <KeyFrameID time="T00:01:32:040F1000">Publicdomain-humorous_funny_faces_1906278/2301.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:32:720F1000" end="T00:01:34:720F1000">
+      <Index>32</Index>
+      <KeyFrameID time="T00:01:33:720F1000">Publicdomain-humorous_funny_faces_1906278/2343.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:34:720F1000" end="T00:01:38:720F1000">
+      <Index>33</Index>
+      <KeyFrameID time="T00:01:36:720F1000">Publicdomain-humorous_funny_faces_1906278/2418.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:38:720F1000" end="T00:01:51:040F1000">
+      <Index>34</Index>
+      <KeyFrameID time="T00:01:44:880F1000">Publicdomain-humorous_funny_faces_1906278/2622.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:51:040F1000" end="T00:01:52:760F1000">
+      <Index>35</Index>
+      <KeyFrameID time="T00:01:51:880F1000">Publicdomain-humorous_funny_faces_1906278/2797.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:52:760F1000" end="T00:01:54:760F1000">
+      <Index>36</Index>
+      <KeyFrameID time="T00:01:53:760F1000">Publicdomain-humorous_funny_faces_1906278/2844.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:54:760F1000" end="T00:01:56:440F1000">
+      <Index>37</Index>
+      <KeyFrameID time="T00:01:55:600F1000">Publicdomain-humorous_funny_faces_1906278/2890.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:56:440F1000" end="T00:01:58:440F1000">
+      <Index>38</Index>
+      <KeyFrameID time="T00:01:57:440F1000">Publicdomain-humorous_funny_faces_1906278/2936.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:58:440F1000" end="T00:01:59:720F1000">
+      <Index>39</Index>
+      <KeyFrameID time="T00:01:59:080F1000">Publicdomain-humorous_funny_faces_1906278/2977.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:59:720F1000" end="T00:02:04:760F1000">
+      <Index>40</Index>
+      <KeyFrameID time="T00:02:02:240F1000">Publicdomain-humorous_funny_faces_1906278/3056.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:04:760F1000" end="T00:02:07:040F1000">
+      <Index>41</Index>
+      <KeyFrameID time="T00:02:05:880F1000">Publicdomain-humorous_funny_faces_1906278/3147.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:07:040F1000" end="T00:02:09:840F1000">
+      <Index>42</Index>
+      <KeyFrameID time="T00:02:08:440F1000">Publicdomain-humorous_funny_faces_1906278/3211.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:09:840F1000" end="T00:02:12:640F1000">
+      <Index>43</Index>
+      <KeyFrameID time="T00:02:11:240F1000">Publicdomain-humorous_funny_faces_1906278/3281.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:12:640F1000" end="T00:02:13:840F1000">
+      <Index>44</Index>
+      <KeyFrameID time="T00:02:13:240F1000">Publicdomain-humorous_funny_faces_1906278/3331.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:13:840F1000" end="T00:02:16:640F1000">
+      <Index>45</Index>
+      <KeyFrameID time="T00:02:15:240F1000">Publicdomain-humorous_funny_faces_1906278/3381.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:16:640F1000" end="T00:02:18:640F1000">
+      <Index>46</Index>
+      <KeyFrameID time="T00:02:17:640F1000">Publicdomain-humorous_funny_faces_1906278/3441.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:18:640F1000" end="T00:02:19:840F1000">
+      <Index>47</Index>
+      <KeyFrameID time="T00:02:19:240F1000">Publicdomain-humorous_funny_faces_1906278/3481.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:19:840F1000" end="T00:02:22:840F1000">
+      <Index>48</Index>
+      <KeyFrameID time="T00:02:21:320F1000">Publicdomain-humorous_funny_faces_1906278/3533.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:22:840F1000" end="T00:02:24:640F1000">
+      <Index>49</Index>
+      <KeyFrameID time="T00:02:23:720F1000">Publicdomain-humorous_funny_faces_1906278/3593.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:24:640F1000" end="T00:02:26:480F1000">
+      <Index>50</Index>
+      <KeyFrameID time="T00:02:25:560F1000">Publicdomain-humorous_funny_faces_1906278/3639.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:26:480F1000" end="T00:02:27:840F1000">
+      <Index>51</Index>
+      <KeyFrameID time="T00:02:27:160F1000">Publicdomain-humorous_funny_faces_1906278/3679.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:27:840F1000" end="T00:02:29:640F1000">
+      <Index>52</Index>
+      <KeyFrameID time="T00:02:28:720F1000">Publicdomain-humorous_funny_faces_1906278/3718.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:29:640F1000" end="T00:02:32:840F1000">
+      <Index>53</Index>
+      <KeyFrameID time="T00:02:31:240F1000">Publicdomain-humorous_funny_faces_1906278/3781.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:32:840F1000" end="T00:02:34:840F1000">
+      <Index>54</Index>
+      <KeyFrameID time="T00:02:33:840F1000">Publicdomain-humorous_funny_faces_1906278/3846.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:34:840F1000" end="T00:02:36:040F1000">
+      <Index>55</Index>
+      <KeyFrameID time="T00:02:35:440F1000">Publicdomain-humorous_funny_faces_1906278/3886.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:36:040F1000" end="T00:02:44:640F1000">
+      <Index>56</Index>
+      <KeyFrameID time="T00:02:40:320F1000">Publicdomain-humorous_funny_faces_1906278/4008.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:44:640F1000" end="T00:02:59:840F1000">
+      <Index>57</Index>
+      <KeyFrameID time="T00:02:52:240F1000">Publicdomain-humorous_funny_faces_1906278/4306.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:59:840F1000" end="T00:03:02:960F1000">
+      <Index>58</Index>
+      <KeyFrameID time="T00:03:01:400F1000">Publicdomain-humorous_funny_faces_1906278/4535.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Lauraflanders-TheFWordAugust272008LiveFromDNC258</CreationID>
+  <InitialFrameID>Lauraflanders-TheFWordAugust272008LiveFromDNC258/0016.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:02:133F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:066F1000">Lauraflanders-TheFWordAugust272008LiveFromDNC258/0016.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:02:133F1000" end="T00:00:04:266F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:03:200F1000">Lauraflanders-TheFWordAugust272008LiveFromDNC258/0048.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:04:266F1000" end="T00:00:10:533F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:07:400F1000">Lauraflanders-TheFWordAugust272008LiveFromDNC258/0111.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:10:533F1000" end="T00:04:16:600F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:02:13:533F1000">Lauraflanders-TheFWordAugust272008LiveFromDNC258/2003.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

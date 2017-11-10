@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Politicallunch-PoliticalLunch041508TaxDaySpecial648</CreationID>
+  <InitialFrameID>Politicallunch-PoliticalLunch041508TaxDaySpecial648/0005.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:00:666F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:00:333F1000">Politicallunch-PoliticalLunch041508TaxDaySpecial648/0005.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:00:666F1000" end="T00:00:09:333F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:05:000F1000">Politicallunch-PoliticalLunch041508TaxDaySpecial648/0075.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:09:333F1000" end="T00:00:15:466F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:12:400F1000">Politicallunch-PoliticalLunch041508TaxDaySpecial648/0186.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:15:466F1000" end="T00:00:37:066F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:26:266F1000">Politicallunch-PoliticalLunch041508TaxDaySpecial648/0394.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:37:066F1000" end="T00:00:51:066F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:44:066F1000">Politicallunch-PoliticalLunch041508TaxDaySpecial648/0661.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:51:066F1000" end="T00:01:52:333F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:01:21:666F1000">Politicallunch-PoliticalLunch041508TaxDaySpecial648/1225.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:52:333F1000" end="T00:02:09:533F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:02:00:933F1000">Politicallunch-PoliticalLunch041508TaxDaySpecial648/1814.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:09:533F1000" end="T00:03:16:133F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:02:42:800F1000">Politicallunch-PoliticalLunch041508TaxDaySpecial648/2442.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:16:133F1000" end="T00:03:28:866F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:03:22:466F1000">Politicallunch-PoliticalLunch041508TaxDaySpecial648/3037.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:28:866F1000" end="T00:04:08:600F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:03:48:733F1000">Politicallunch-PoliticalLunch041508TaxDaySpecial648/3431.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:08:600F1000" end="T00:04:25:800F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:04:17:200F1000">Politicallunch-PoliticalLunch041508TaxDaySpecial648/3858.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:25:800F1000" end="T00:05:06:133F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:04:45:933F1000">Politicallunch-PoliticalLunch041508TaxDaySpecial648/4289.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:06:133F1000" end="T00:05:23:333F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:05:14:733F1000">Politicallunch-PoliticalLunch041508TaxDaySpecial648/4721.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:23:333F1000" end="T00:06:59:600F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:06:11:466F1000">Politicallunch-PoliticalLunch041508TaxDaySpecial648/5572.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:06:59:600F1000" end="T00:07:27:600F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:07:13:600F1000">Politicallunch-PoliticalLunch041508TaxDaySpecial648/6504.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:27:600F1000" end="T00:07:28:400F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:07:28:000F1000">Politicallunch-PoliticalLunch041508TaxDaySpecial648/6720.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

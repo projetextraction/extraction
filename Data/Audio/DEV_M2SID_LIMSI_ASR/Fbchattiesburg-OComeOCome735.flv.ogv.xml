@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Fbchattiesburg-OComeOCome735.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Fbchattiesburg-OComeOCome735.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="48.21" spdur="22.15" nw="65" tconf="0.86"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="22.15" gender="1" spkid="MS1" lang="eng-usa" lconf="0.98" nw="65" tconf="0.86"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="8.76" etime="16.22" spkid="MS1" lang="eng-usa" lconf="0.98" trs="1">
+<Word stime="8.80" dur="0.18" conf="0.555"> Oh </Word>
+<Word stime="9.19" dur="0.33" conf="0.830"> father </Word>
+<Word stime="10.29" dur="0.17" conf="0.971"> what </Word>
+<Word stime="10.46" dur="0.14" conf="0.971"> an </Word>
+<Word stime="10.60" dur="0.35" conf="0.971"> honor </Word>
+<Word stime="10.95" dur="0.11" conf="0.971"> it </Word>
+<Word stime="11.06" dur="0.24" conf="0.971"> is </Word>
+<Word stime="11.30" dur="0.12" conf="0.971"> to </Word>
+<Word stime="11.42" dur="0.12" conf="0.969"> be </Word>
+<Word stime="11.60" dur="0.33" conf="0.504"> called </Word>
+<Word stime="11.60" dur="0.33" conf="0.230"> Collier </Word>
+<Word stime="11.93" dur="0.14" conf="0.522"> your </Word>
+<Word stime="12.07" dur="0.48" conf="0.966"> children </Word>
+<Word stime="13.51" dur="0.16" conf="0.971"> what </Word>
+<Word stime="13.67" dur="0.13" conf="0.971"> an </Word>
+<Word stime="13.88" dur="0.33" conf="0.971"> honor </Word>
+<Word stime="14.21" dur="0.11" conf="0.971"> it </Word>
+<Word stime="14.45" dur="0.23" conf="0.971"> is </Word>
+<Word stime="14.68" dur="0.10" conf="0.971"> to </Word>
+<Word stime="14.78" dur="0.16" conf="0.971"> be </Word>
+<Word stime="14.94" dur="0.24" conf="0.671"> loved </Word>
+<Word stime="15.24" dur="0.20" conf="0.950"> by </Word>
+<Word stime="15.44" dur="0.22" conf="0.958"> you </Word>
+<Word stime="15.71" dur="0.46" conf="0.971"> today </Word>
+<Word stime="16.17" dur="0.00" conf="0.343"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="17.04" etime="31.73" spkid="MS1" lang="eng-usa" lconf="0.98" trs="1">
+<Word stime="17.04" dur="0.37" conf="0.970"> Thank </Word>
+<Word stime="17.41" dur="0.20" conf="0.970"> you </Word>
+<Word stime="17.66" dur="0.11" conf="0.969"> for </Word>
+<Word stime="17.80" dur="0.43" conf="0.959"> walking </Word>
+<Word stime="18.23" dur="0.16" conf="0.969"> with </Word>
+<Word stime="18.54" dur="0.28" conf="0.969"> us </Word>
+<Word stime="18.82" dur="0.59" conf="0.575"> . </Word>
+<Word stime="19.41" dur="0.34" conf="0.969"> Thank </Word>
+<Word stime="19.75" dur="0.16" conf="0.970"> you </Word>
+<Word stime="19.91" dur="0.13" conf="0.970"> for </Word>
+<Word stime="20.04" dur="0.41" conf="0.970"> never </Word>
+<Word stime="20.45" dur="0.34" conf="0.970"> leaving </Word>
+<Word stime="20.94" dur="0.28" conf="0.768"> us </Word>
+<Word stime="22.07" dur="0.32" conf="0.956"> never </Word>
+<Word stime="22.43" dur="0.15" conf="0.969"> for </Word>
+<Word stime="22.58" dur="0.39" conf="0.438"> sinking </Word>
+<Word stime="22.58" dur="0.39" conf="0.220"> staking </Word>
+<Word stime="23.07" dur="0.23" conf="0.384"> us </Word>
+<Word stime="23.63" dur="0.42" conf="0.966"> never </Word>
+<Word stime="24.16" dur="0.44" conf="0.968"> abandoning </Word>
+<Word stime="24.60" dur="0.35" conf="0.946"> us </Word>
+<Word stime="25.42" dur="0.11" conf="0.951"> and </Word>
+<Word stime="25.53" dur="0.26" conf="0.967"> never </Word>
+<Word stime="25.79" dur="0.61" conf="0.861"> divorcing </Word>
+<Word stime="26.40" dur="0.21" conf="0.628"> us </Word>
+<Word stime="26.61" dur="0.77" conf="0.364"> , </Word>
+<Word stime="27.38" dur="0.26" conf="0.969"> you </Word>
+<Word stime="27.64" dur="0.15" conf="0.966"> are </Word>
+<Word stime="27.79" dur="0.04" conf="0.938"> a </Word>
+<Word stime="27.91" dur="0.26" conf="0.889"> man </Word>
+<Word stime="28.24" dur="0.10" conf="0.944"> you </Word>
+<Word stime="28.34" dur="0.33" conf="0.968"> well </Word>
+<Word stime="28.67" dur="0.54" conf="0.642"> , </Word>
+<Word stime="29.21" dur="0.21" conf="0.923"> you </Word>
+<Word stime="29.42" dur="0.13" conf="0.858"> are </Word>
+<Word stime="29.63" dur="0.31" conf="0.910"> God </Word>
+<Word stime="29.94" dur="0.33" conf="0.969"> with </Word>
+<Word stime="30.52" dur="0.19" conf="0.968"> us </Word>
+<Word stime="30.75" dur="0.15" conf="0.970"> and </Word>
+<Word stime="30.90" dur="0.18" conf="0.479"> we </Word>
+<Word stime="30.90" dur="0.18" conf="0.265"> we're </Word>
+<Word stime="31.08" dur="0.10" conf="0.479"> are </Word>
+<Word stime="31.28" dur="0.41" conf="0.970"> grateful </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

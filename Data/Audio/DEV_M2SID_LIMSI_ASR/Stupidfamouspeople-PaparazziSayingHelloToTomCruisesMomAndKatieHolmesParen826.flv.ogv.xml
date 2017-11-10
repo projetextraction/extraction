@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Stupidfamouspeople-PaparazziSayingHelloToTomCruisesMomAndKatieHolmesParen826.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Stupidfamouspeople-PaparazziSayingHelloToTomCruisesMomAndKatieHolmesParen826.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="18.21" spdur="7.21" nw="5" tconf="0.60"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="5.48" gender="2" spkid="FS1" lang="eng-usa" lconf="0.16" nw="1" tconf="1.00"/>
+<Speaker ch="1" dur="1.73" gender="1" spkid="MS1" lang="eng-usa" lconf="0.16" nw="4" tconf="0.50"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="3.96" etime="5.69" spkid="MS1" lang="eng-usa" lconf="0.16" trs="1">
+<Word stime="3.96" dur="0.51" conf="0.956"> The </Word>
+<Word stime="4.62" dur="0.29" conf="0.394"> UK's </Word>
+<Word stime="4.62" dur="0.29" conf="0.338"> UK </Word>
+<Word stime="5.00" dur="0.21" conf="0.375"> performance </Word>
+<Word stime="5.00" dur="0.21" conf="0.322"> Department </Word>
+<Word stime="5.45" dur="0.20" conf="0.286"> there </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="12.72" etime="18.20" spkid="FS1" lang="eng-usa" lconf="0.16" trs="1">
+<Word stime="12.72" dur="5.43" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

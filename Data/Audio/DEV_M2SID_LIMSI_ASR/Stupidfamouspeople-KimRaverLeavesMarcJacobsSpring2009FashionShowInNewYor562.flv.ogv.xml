@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Stupidfamouspeople-KimRaverLeavesMarcJacobsSpring2009FashionShowInNewYor562.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Stupidfamouspeople-KimRaverLeavesMarcJacobsSpring2009FashionShowInNewYor562.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.spa" version="1.2" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="19.93" spdur="0.00" nw="0" tconf="0.00"/>
+</ChannelList>
+<SpeakerList>
+</SpeakerList>
+<SegmentList>
+</SegmentList>
+</AudioDoc>

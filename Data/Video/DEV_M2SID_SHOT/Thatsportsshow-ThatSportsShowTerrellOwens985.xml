@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Thatsportsshow-ThatSportsShowTerrellOwens985</CreationID>
+  <InitialFrameID>Thatsportsshow-ThatSportsShowTerrellOwens985/0005.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:00:666F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:00:333F1000">Thatsportsshow-ThatSportsShowTerrellOwens985/0005.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:00:666F1000" end="T00:00:14:466F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:07:533F1000">Thatsportsshow-ThatSportsShowTerrellOwens985/0113.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:14:466F1000" end="T00:00:23:666F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:19:066F1000">Thatsportsshow-ThatSportsShowTerrellOwens985/0286.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:23:666F1000" end="T00:00:40:266F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:31:933F1000">Thatsportsshow-ThatSportsShowTerrellOwens985/0479.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:40:266F1000" end="T00:00:51:733F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:46:000F1000">Thatsportsshow-ThatSportsShowTerrellOwens985/0690.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:51:733F1000" end="T00:01:37:266F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:01:14:466F1000">Thatsportsshow-ThatSportsShowTerrellOwens985/1117.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:37:266F1000" end="T00:01:57:000F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:01:47:133F1000">Thatsportsshow-ThatSportsShowTerrellOwens985/1607.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:57:000F1000" end="T00:02:20:733F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:02:08:866F1000">Thatsportsshow-ThatSportsShowTerrellOwens985/1933.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:20:733F1000" end="T00:02:28:466F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:02:24:600F1000">Thatsportsshow-ThatSportsShowTerrellOwens985/2169.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:28:466F1000" end="T00:02:52:733F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:02:40:600F1000">Thatsportsshow-ThatSportsShowTerrellOwens985/2409.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:52:733F1000" end="T00:03:07:866F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:03:00:266F1000">Thatsportsshow-ThatSportsShowTerrellOwens985/2704.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:07:866F1000" end="T00:03:33:066F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:03:20:466F1000">Thatsportsshow-ThatSportsShowTerrellOwens985/3007.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:33:066F1000" end="T00:03:53:066F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:03:43:066F1000">Thatsportsshow-ThatSportsShowTerrellOwens985/3346.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:53:066F1000" end="T00:04:44:400F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:04:18:733F1000">Thatsportsshow-ThatSportsShowTerrellOwens985/3881.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:04:44:400F1000" end="T00:05:00:066F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:04:52:200F1000">Thatsportsshow-ThatSportsShowTerrellOwens985/4383.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:00:066F1000" end="T00:05:02:533F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:05:01:266F1000">Thatsportsshow-ThatSportsShowTerrellOwens985/4519.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:05:02:533F1000" end="T00:07:01:933F1000">
+      <Index>16</Index>
+      <KeyFrameID time="T00:06:02:200F1000">Thatsportsshow-ThatSportsShowTerrellOwens985/5433.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:07:01:933F1000" end="T00:07:04:133F1000">
+      <Index>17</Index>
+      <KeyFrameID time="T00:07:03:000F1000">Thatsportsshow-ThatSportsShowTerrellOwens985/6345.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

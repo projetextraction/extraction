@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Francoventoso-francomorone6766.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Francoventoso-francomorone6766.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="200.31" spdur="75.97" nw="30" tconf="0.66"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="58.51" gender="2" spkid="FS1" lang="eng-usa" lconf="1.00" nw="2" tconf="1.00"/>
+<Speaker ch="1" dur="10.29" gender="1" spkid="MS2" lang="eng-usa" lconf="1.00" nw="20" tconf="0.57"/>
+<Speaker ch="1" dur="4.35" gender="1" spkid="MS3" lang="eng-usa" lconf="1.00" nw="4" tconf="0.80"/>
+<Speaker ch="1" dur="2.82" gender="2" spkid="FS3" lang="eng-usa" lconf="1.00" nw="4" tconf="0.79"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="0.01" etime="7.07" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="0.01" dur="7.01" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="7.07" etime="17.36" spkid="MS2" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="7.12" dur="0.13" conf="0.433"> it's </Word>
+<Word stime="7.45" dur="0.09" conf="0.223"> such </Word>
+<Word stime="7.62" dur="0.11" conf="0.458"> that </Word>
+<Word stime="7.87" dur="0.19" conf="0.691"> {fw} </Word>
+<Word stime="8.50" dur="0.11" conf="0.436"> was </Word>
+<Word stime="8.50" dur="0.11" conf="0.208"> is </Word>
+<Word stime="8.61" dur="0.25" conf="0.848"> very </Word>
+<Word stime="8.86" dur="0.26" conf="0.736"> unfortunate </Word>
+<Word stime="9.46" dur="0.25" conf="0.345"> because </Word>
+<Word stime="9.46" dur="0.25" conf="0.103"> blows </Word>
+<Word stime="9.99" dur="0.18" conf="0.623"> the </Word>
+<Word stime="10.38" dur="0.30" conf="0.450"> cost </Word>
+<Word stime="10.82" dur="0.26" conf="0.610"> to </Word>
+<Word stime="11.61" dur="0.14" conf="0.462"> the </Word>
+<Word stime="11.61" dur="0.14" conf="0.168"> welfare </Word>
+<Word stime="12.30" dur="0.15" conf="0.368"> welfare </Word>
+<Word stime="12.30" dur="0.15" conf="0.172"> roof </Word>
+<Word stime="12.68" dur="0.16" conf="0.400"> of </Word>
+<Word stime="12.84" dur="0.09" conf="0.419"> the </Word>
+<Word stime="12.84" dur="0.09" conf="0.105"> and </Word>
+<Word stime="12.93" dur="0.31" conf="0.870"> {fw} </Word>
+<Word stime="14.56" dur="0.14" conf="0.796"> {fw} </Word>
+<Word stime="15.61" dur="0.14" conf="0.530"> in </Word>
+<Word stime="15.61" dur="0.14" conf="0.215"> and </Word>
+<Word stime="15.92" dur="0.30" conf="0.943"> the </Word>
+<Word stime="16.78" dur="0.28" conf="0.730"> public </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="90.40" etime="94.75" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="90.70" dur="0.30" conf="0.990"> {fw} </Word>
+<Word stime="91.00" dur="1.93" conf="0.840"> , </Word>
+<Word stime="92.93" dur="1.76" conf="0.992"> {fw} </Word>
+<Word stime="94.69" dur="0.00" conf="0.392"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="116.36" etime="119.18" spkid="FS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="116.66" dur="0.79" conf="0.979"> {fw} </Word>
+<Word stime="117.45" dur="0.94" conf="0.840"> , </Word>
+<Word stime="118.39" dur="0.49" conf="0.959"> {fw} </Word>
+<Word stime="118.88" dur="0.00" conf="0.392"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="120.30" etime="171.75" spkid="FS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="120.30" dur="51.15" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

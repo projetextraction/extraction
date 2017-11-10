@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Dinap830-GE96WallNStrapStretching900</CreationID>
+  <InitialFrameID>Dinap830-GE96WallNStrapStretching900/0036.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:02:400F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:200F1000">Dinap830-GE96WallNStrapStretching900/0036.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:03:466F1000" end="T00:00:04:166F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:03:800F1000">Dinap830-GE96WallNStrapStretching900/0114.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:07:466F1000" end="T00:00:08:166F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:07:800F1000">Dinap830-GE96WallNStrapStretching900/0234.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:40:900F1000" end="T00:03:19:966F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:02:00:433F1000">Dinap830-GE96WallNStrapStretching900/3613.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:19:966F1000" end="T00:03:44:266F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:03:32:100F1000">Dinap830-GE96WallNStrapStretching900/6363.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:44:266F1000" end="T00:03:47:133F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:03:45:700F1000">Dinap830-GE96WallNStrapStretching900/6771.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Scottyiseri-SGAOJS02E24306.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Scottyiseri-SGAOJS02E24306.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="102.57" spdur="11.42" nw="35" tconf="0.80"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="11.42" gender="1" spkid="MS1" lang="eng-usa" lconf="0.66" nw="35" tconf="0.80"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="16.70" etime="19.38" spkid="MS1" lang="eng-usa" lconf="0.66" trs="1">
+<Word stime="16.70" dur="0.18" conf="0.969"> They </Word>
+<Word stime="16.88" dur="0.35" conf="0.969"> have </Word>
+<Word stime="17.44" dur="0.38" conf="0.422"> moved </Word>
+<Word stime="17.44" dur="0.38" conf="0.317"> removed </Word>
+<Word stime="17.92" dur="0.06" conf="0.913"> the </Word>
+<Word stime="17.99" dur="0.24" conf="0.965"> job </Word>
+<Word stime="18.43" dur="0.28" conf="0.607"> posting </Word>
+<Word stime="18.75" dur="0.08" conf="0.884"> for </Word>
+<Word stime="18.89" dur="0.19" conf="0.761"> manager </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="23.69" etime="26.64" spkid="MS1" lang="eng-usa" lconf="0.66" trs="1">
+<Word stime="23.74" dur="0.16" conf="0.970"> I </Word>
+<Word stime="23.94" dur="0.18" conf="0.973"> still </Word>
+<Word stime="24.12" dur="0.18" conf="0.971"> have </Word>
+<Word stime="24.35" dur="0.04" conf="0.970"> a </Word>
+<Word stime="24.44" dur="0.22" conf="0.973"> number </Word>
+<Word stime="24.66" dur="0.07" conf="0.973"> of </Word>
+<Word stime="24.78" dur="0.21" conf="0.973"> very </Word>
+<Word stime="24.99" dur="0.27" conf="0.973"> large </Word>
+<Word stime="25.36" dur="0.22" conf="0.909"> files </Word>
+<Word stime="26.01" dur="0.22" conf="0.422"> you </Word>
+<Word stime="26.01" dur="0.22" conf="0.316"> you've </Word>
+<Word stime="26.26" dur="0.08" conf="0.364"> got </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="32.37" etime="35.04" spkid="MS1" lang="eng-usa" lconf="0.66" trs="1">
+<Word stime="32.37" dur="0.23" conf="0.885"> I </Word>
+<Word stime="32.65" dur="0.25" conf="0.619"> received </Word>
+<Word stime="33.05" dur="0.41" conf="0.953"> following </Word>
+<Word stime="33.84" dur="0.21" conf="0.920"> from </Word>
+<Word stime="34.55" dur="0.24" conf="0.241"> bomb </Word>
+<Word stime="34.55" dur="0.24" conf="0.195"> above </Word>
+<Word stime="34.55" dur="0.24" conf="0.116"> about </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="40.46" etime="43.58" spkid="MS1" lang="eng-usa" lconf="0.66" trs="1">
+<Word stime="40.46" dur="0.13" conf="0.464"> I </Word>
+<Word stime="40.61" dur="0.14" conf="0.464"> am </Word>
+<Word stime="40.61" dur="0.14" conf="0.167"> and </Word>
+<Word stime="40.75" dur="0.29" conf="0.971"> the </Word>
+<Word stime="41.21" dur="0.41" conf="0.971"> proud </Word>
+<Word stime="41.70" dur="0.35" conf="0.971"> owner </Word>
+<Word stime="42.07" dur="0.10" conf="0.971"> of </Word>
+<Word stime="42.20" dur="0.07" conf="0.896"> a </Word>
+<Word stime="42.32" dur="0.21" conf="0.968"> number </Word>
+<Word stime="42.53" dur="0.10" conf="0.971"> of </Word>
+<Word stime="42.66" dur="0.21" conf="0.408"> terror </Word>
+<Word stime="42.66" dur="0.21" conf="0.100"> terrible </Word>
+<Word stime="43.22" dur="0.31" conf="0.347"> voices </Word>
+<Word stime="43.22" dur="0.31" conf="0.259"> it's </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

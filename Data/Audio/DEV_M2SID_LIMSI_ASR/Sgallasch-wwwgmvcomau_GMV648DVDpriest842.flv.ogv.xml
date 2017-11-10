@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Sgallasch-wwwgmvcomau_GMV648DVDpriest842.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Sgallasch-wwwgmvcomau_GMV648DVDpriest842.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="178.15" spdur="6.61" nw="11" tconf="0.63"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="6.61" gender="1" spkid="MS1" lang="eng-usa" lconf="0.31" nw="11" tconf="0.63"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="43.31" etime="49.92" spkid="MS1" lang="eng-usa" lconf="0.31" trs="1">
+<Word stime="43.37" dur="0.18" conf="0.851"> The </Word>
+<Word stime="43.55" dur="0.95" conf="0.530"> , </Word>
+<Word stime="44.50" dur="0.50" conf="0.971"> {fw} </Word>
+<Word stime="45.00" dur="2.49" conf="0.645"> , </Word>
+<Word stime="47.49" dur="0.20" conf="0.971"> well </Word>
+<Word stime="47.69" dur="0.05" conf="0.772"> , </Word>
+<Word stime="47.74" dur="0.07" conf="0.630"> {fw} </Word>
+<Word stime="47.81" dur="1.52" conf="0.518"> . </Word>
+<Word stime="49.33" dur="0.07" conf="0.177"> They </Word>
+<Word stime="49.33" dur="0.07" conf="0.138"> another </Word>
+<Word stime="49.33" dur="0.07" conf="0.116"> to </Word>
+<Word stime="49.42" dur="0.24" conf="0.450"> go </Word>
+<Word stime="49.42" dur="0.24" conf="0.242"> gold </Word>
+<Word stime="49.70" dur="0.17" conf="0.454"> by </Word>
+<Word stime="49.70" dur="0.17" conf="0.240"> mine </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

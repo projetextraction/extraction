@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Sgallasch-wwwgmvcomau_MelvinAnthony_Contest_Ready229</CreationID>
+  <InitialFrameID>Sgallasch-wwwgmvcomau_MelvinAnthony_Contest_Ready229/0031.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:02:480F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:240F1000">Sgallasch-wwwgmvcomau_MelvinAnthony_Contest_Ready229/0031.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:02:480F1000" end="T00:00:08:680F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:05:560F1000">Sgallasch-wwwgmvcomau_MelvinAnthony_Contest_Ready229/0139.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:08:680F1000" end="T00:00:14:760F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:11:720F1000">Sgallasch-wwwgmvcomau_MelvinAnthony_Contest_Ready229/0293.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:14:760F1000" end="T00:00:22:880F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:18:800F1000">Sgallasch-wwwgmvcomau_MelvinAnthony_Contest_Ready229/0470.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:22:880F1000" end="T00:00:25:400F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:24:120F1000">Sgallasch-wwwgmvcomau_MelvinAnthony_Contest_Ready229/0603.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:25:400F1000" end="T00:00:26:600F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:26:000F1000">Sgallasch-wwwgmvcomau_MelvinAnthony_Contest_Ready229/0650.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:26:600F1000" end="T00:00:31:800F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:00:29:200F1000">Sgallasch-wwwgmvcomau_MelvinAnthony_Contest_Ready229/0730.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:31:800F1000" end="T00:00:33:880F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:00:32:840F1000">Sgallasch-wwwgmvcomau_MelvinAnthony_Contest_Ready229/0821.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:33:880F1000" end="T00:00:57:400F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:00:45:640F1000">Sgallasch-wwwgmvcomau_MelvinAnthony_Contest_Ready229/1141.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:57:400F1000" end="T00:01:08:200F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:01:02:800F1000">Sgallasch-wwwgmvcomau_MelvinAnthony_Contest_Ready229/1570.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:08:200F1000" end="T00:01:13:200F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:01:10:680F1000">Sgallasch-wwwgmvcomau_MelvinAnthony_Contest_Ready229/1767.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:13:200F1000" end="T00:01:17:200F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:01:15:200F1000">Sgallasch-wwwgmvcomau_MelvinAnthony_Contest_Ready229/1880.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:17:200F1000" end="T00:01:23:240F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:01:20:200F1000">Sgallasch-wwwgmvcomau_MelvinAnthony_Contest_Ready229/2005.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:23:240F1000" end="T00:01:29:080F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:01:26:160F1000">Sgallasch-wwwgmvcomau_MelvinAnthony_Contest_Ready229/2154.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:29:080F1000" end="T00:01:29:960F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:01:29:520F1000">Sgallasch-wwwgmvcomau_MelvinAnthony_Contest_Ready229/2238.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

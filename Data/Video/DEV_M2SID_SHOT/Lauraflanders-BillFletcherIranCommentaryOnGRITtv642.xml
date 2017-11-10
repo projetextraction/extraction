@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Lauraflanders-BillFletcherIranCommentaryOnGRITtv642</CreationID>
+  <InitialFrameID>Lauraflanders-BillFletcherIranCommentaryOnGRITtv642/0043.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:05:733F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:02:866F1000">Lauraflanders-BillFletcherIranCommentaryOnGRITtv642/0043.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:05:733F1000" end="T00:04:46:266F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:02:26:000F1000">Lauraflanders-BillFletcherIranCommentaryOnGRITtv642/2190.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

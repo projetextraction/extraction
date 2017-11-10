@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Labambola-Teaser20DelVideobookDeCristinaDominguez639</CreationID>
+  <InitialFrameID>Labambola-Teaser20DelVideobookDeCristinaDominguez639/0015.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:01:240F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:00:600F1000">Labambola-Teaser20DelVideobookDeCristinaDominguez639/0015.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:01:240F1000" end="T00:00:03:160F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:02:200F1000">Labambola-Teaser20DelVideobookDeCristinaDominguez639/0055.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:03:160F1000" end="T00:00:05:040F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:04:080F1000">Labambola-Teaser20DelVideobookDeCristinaDominguez639/0102.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:05:040F1000" end="T00:00:06:320F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:05:680F1000">Labambola-Teaser20DelVideobookDeCristinaDominguez639/0142.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:06:320F1000" end="T00:00:07:720F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:07:000F1000">Labambola-Teaser20DelVideobookDeCristinaDominguez639/0175.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:07:720F1000" end="T00:00:12:440F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:10:080F1000">Labambola-Teaser20DelVideobookDeCristinaDominguez639/0252.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:12:440F1000" end="T00:00:14:520F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:00:13:480F1000">Labambola-Teaser20DelVideobookDeCristinaDominguez639/0337.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:14:520F1000" end="T00:00:17:520F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:00:16:000F1000">Labambola-Teaser20DelVideobookDeCristinaDominguez639/0400.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:17:520F1000" end="T00:00:20:840F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:00:19:160F1000">Labambola-Teaser20DelVideobookDeCristinaDominguez639/0479.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:20:840F1000" end="T00:00:25:120F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:00:22:960F1000">Labambola-Teaser20DelVideobookDeCristinaDominguez639/0574.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:25:120F1000" end="T00:00:30:720F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:00:27:920F1000">Labambola-Teaser20DelVideobookDeCristinaDominguez639/0698.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:30:720F1000" end="T00:00:32:119F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:00:31:400F1000">Labambola-Teaser20DelVideobookDeCristinaDominguez639/0785.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:32:119F1000" end="T00:00:35:120F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:00:33:600F1000">Labambola-Teaser20DelVideobookDeCristinaDominguez639/0840.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:35:120F1000" end="T00:00:36:640F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:00:35:880F1000">Labambola-Teaser20DelVideobookDeCristinaDominguez639/0897.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:36:640F1000" end="T00:00:39:640F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:00:38:120F1000">Labambola-Teaser20DelVideobookDeCristinaDominguez639/0953.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:39:640F1000" end="T00:00:48:320F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:00:43:960F1000">Labambola-Teaser20DelVideobookDeCristinaDominguez639/1099.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:48:320F1000" end="T00:00:57:240F1000">
+      <Index>16</Index>
+      <KeyFrameID time="T00:00:52:760F1000">Labambola-Teaser20DelVideobookDeCristinaDominguez639/1319.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

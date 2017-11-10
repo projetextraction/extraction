@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Nitaai-00009LordNrisingha825.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Nitaai-00009LordNrisingha825.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="293.30" spdur="186.95"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="102.00" gender="1" spkid="MS4" lang="dan" lconf="0.31"/>
+<Speaker ch="1" dur="31.60" gender="1" spkid="MS3" lang="dan" lconf="0.31"/>
+<Speaker ch="1" dur="29.11" gender="2" spkid="FS1" lang="dan" lconf="0.31"/>
+<Speaker ch="1" dur="13.11" gender="1" spkid="MS1" lang="dan" lconf="0.31"/>
+<Speaker ch="1" dur="11.13" gender="1" spkid="MS2" lang="dan" lconf="0.31"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="2.76" etime="6.12" spkid="MS1" lang="dan" lconf="0.31"/>
+<SpeechSegment ch="1" sconf="1.00" stime="8.24" etime="12.49" spkid="MS1" lang="dan" lconf="0.31"/>
+<SpeechSegment ch="1" sconf="1.00" stime="17.35" etime="22.85" spkid="MS1" lang="dan" lconf="0.31"/>
+<SpeechSegment ch="1" sconf="1.00" stime="24.91" etime="27.26" spkid="MS4" lang="dan" lconf="0.31"/>
+<SpeechSegment ch="1" sconf="1.00" stime="27.26" etime="38.39" spkid="MS2" lang="dan" lconf="0.31"/>
+<SpeechSegment ch="1" sconf="1.00" stime="53.17" etime="57.46" spkid="MS3" lang="dan" lconf="0.31"/>
+<SpeechSegment ch="1" sconf="1.00" stime="59.62" etime="71.15" spkid="MS4" lang="dan" lconf="0.31"/>
+<SpeechSegment ch="1" sconf="1.00" stime="73.00" etime="75.79" spkid="MS3" lang="dan" lconf="0.31"/>
+<SpeechSegment ch="1" sconf="1.00" stime="79.83" etime="82.98" spkid="MS3" lang="dan" lconf="0.31"/>
+<SpeechSegment ch="1" sconf="1.00" stime="86.63" etime="104.65" spkid="MS4" lang="dan" lconf="0.31"/>
+<SpeechSegment ch="1" sconf="1.00" stime="119.67" etime="132.30" spkid="MS4" lang="dan" lconf="0.31"/>
+<SpeechSegment ch="1" sconf="1.00" stime="133.61" etime="144.43" spkid="MS4" lang="dan" lconf="0.31"/>
+<SpeechSegment ch="1" sconf="1.00" stime="146.59" etime="167.73" spkid="FS1" lang="dan" lconf="0.31"/>
+<SpeechSegment ch="1" sconf="1.00" stime="167.73" etime="171.21" spkid="MS4" lang="dan" lconf="0.31"/>
+<SpeechSegment ch="1" sconf="1.00" stime="189.36" etime="210.73" spkid="MS3" lang="dan" lconf="0.31"/>
+<SpeechSegment ch="1" sconf="1.00" stime="214.88" etime="217.64" spkid="MS4" lang="dan" lconf="0.31"/>
+<SpeechSegment ch="1" sconf="1.00" stime="219.34" etime="224.85" spkid="MS4" lang="dan" lconf="0.31"/>
+<SpeechSegment ch="1" sconf="1.00" stime="226.36" etime="237.51" spkid="MS4" lang="dan" lconf="0.31"/>
+<SpeechSegment ch="1" sconf="1.00" stime="252.66" etime="271.78" spkid="MS4" lang="dan" lconf="0.31"/>
+<SpeechSegment ch="1" sconf="1.00" stime="272.87" etime="277.50" spkid="MS4" lang="dan" lconf="0.31"/>
+<SpeechSegment ch="1" sconf="1.00" stime="281.86" etime="284.18" spkid="FS1" lang="dan" lconf="0.31"/>
+<SpeechSegment ch="1" sconf="1.00" stime="286.27" etime="291.92" spkid="FS1" lang="dan" lconf="0.31"/>
+</SegmentList>
+</AudioDoc>

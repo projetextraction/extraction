@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Poetminor158-ThePoetOfTheMillenium230</CreationID>
+  <InitialFrameID>Poetminor158-ThePoetOfTheMillenium230/0048.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:03:233F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:600F1000">Poetminor158-ThePoetOfTheMillenium230/0048.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:03:233F1000" end="T00:03:26:366F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:01:44:800F1000">Poetminor158-ThePoetOfTheMillenium230/3144.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:26:366F1000" end="T00:03:27:400F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:03:26:866F1000">Poetminor158-ThePoetOfTheMillenium230/6206.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

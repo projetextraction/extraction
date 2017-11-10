@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Dinap830-GE36EwLocusts586</CreationID>
+  <InitialFrameID>Dinap830-GE36EwLocusts586/0051.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:03:433F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:700F1000">Dinap830-GE36EwLocusts586/0051.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:03:433F1000" end="T00:00:07:366F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:05:400F1000">Dinap830-GE36EwLocusts586/0162.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:07:366F1000" end="T00:00:31:566F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:19:466F1000">Dinap830-GE36EwLocusts586/0584.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:31:566F1000" end="T00:00:50:033F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:40:800F1000">Dinap830-GE36EwLocusts586/1224.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:50:033F1000" end="T00:02:42:433F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:01:46:233F1000">Dinap830-GE36EwLocusts586/3187.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:42:433F1000" end="T00:02:49:266F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:02:45:833F1000">Dinap830-GE36EwLocusts586/4975.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:49:266F1000" end="T00:02:51:266F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:02:50:266F1000">Dinap830-GE36EwLocusts586/5108.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:51:266F1000" end="T00:03:11:566F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:03:01:400F1000">Dinap830-GE36EwLocusts586/5442.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:11:566F1000" end="T00:03:20:733F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:03:16:133F1000">Dinap830-GE36EwLocusts586/5884.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:03:20:733F1000" end="T00:03:24:400F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:03:22:566F1000">Dinap830-GE36EwLocusts586/6077.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

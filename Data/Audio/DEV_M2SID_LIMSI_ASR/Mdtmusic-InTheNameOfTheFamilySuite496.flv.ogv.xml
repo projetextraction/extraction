@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Mdtmusic-InTheNameOfTheFamilySuite496.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Mdtmusic-InTheNameOfTheFamilySuite496.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="468.32" spdur="12.11" nw="6" tconf="0.82"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="12.11" gender="1" spkid="MS1" lang="eng-usa" lconf="1.00" nw="6" tconf="0.82"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="294.73" etime="306.84" spkid="MS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="295.02" dur="0.65" conf="0.972"> {fw} </Word>
+<Word stime="297.30" dur="0.55" conf="0.971"> {fw} </Word>
+<Word stime="303.18" dur="0.47" conf="0.527"> {fw} </Word>
+<Word stime="304.17" dur="0.43" conf="0.971"> {fw} </Word>
+<Word stime="306.56" dur="0.22" conf="0.979"> {fw} </Word>
+<Word stime="306.78" dur="0.00" conf="0.513"> . </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

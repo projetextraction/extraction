@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Clif-Episode1570.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Clif-Episode1570.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="304.13" spdur="8.30" nw="32" tconf="0.61"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="7.31" gender="1" spkid="MS1" lang="eng-usa" lconf="0.73" nw="29" tconf="0.61"/>
+<Speaker ch="1" dur="0.99" gender="2" spkid="FS1" lang="eng-usa" lconf="0.73" nw="3" tconf="0.61"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="1.39" etime="8.70" spkid="MS1" lang="eng-usa" lconf="0.73" trs="1">
+<Word stime="1.39" dur="0.26" conf="0.943"> Welcome </Word>
+<Word stime="1.65" dur="0.08" conf="0.924"> to </Word>
+<Word stime="1.79" dur="0.22" conf="0.681"> Cliff </Word>
+<Word stime="2.10" dur="0.42" conf="0.952"> TV </Word>
+<Word stime="2.52" dur="0.21" conf="0.842"> this </Word>
+<Word stime="2.73" dur="0.14" conf="0.563"> is </Word>
+<Word stime="2.73" dur="0.14" conf="0.104"> as </Word>
+<Word stime="3.01" dur="0.15" conf="0.555"> Cliff </Word>
+<Word stime="3.01" dur="0.15" conf="0.185"> with </Word>
+<Word stime="3.24" dur="0.40" conf="0.917"> Johnson </Word>
+<Word stime="3.64" dur="0.35" conf="0.347"> , </Word>
+<Word stime="3.99" dur="0.15" conf="0.315"> and </Word>
+<Word stime="3.99" dur="0.15" conf="0.205"> then </Word>
+<Word stime="4.17" dur="0.11" conf="0.320"> in </Word>
+<Word stime="4.17" dur="0.11" conf="0.122"> that </Word>
+<Word stime="4.28" dur="0.05" conf="0.484"> a </Word>
+<Word stime="4.42" dur="0.44" conf="0.555"> plea </Word>
+<Word stime="4.42" dur="0.44" conf="0.190"> they </Word>
+<Word stime="4.86" dur="0.50" conf="0.571"> , </Word>
+<Word stime="5.36" dur="0.37" conf="0.620"> travel </Word>
+<Word stime="5.76" dur="0.11" conf="0.380"> and </Word>
+<Word stime="5.76" dur="0.11" conf="0.191"> in </Word>
+<Word stime="5.92" dur="0.19" conf="0.223"> and </Word>
+<Word stime="5.92" dur="0.19" conf="0.199"> then </Word>
+<Word stime="6.19" dur="0.13" conf="0.280"> for </Word>
+<Word stime="6.19" dur="0.13" conf="0.242"> four </Word>
+<Word stime="6.32" dur="0.19" conf="0.138"> here </Word>
+<Word stime="6.32" dur="0.19" conf="0.117"> year </Word>
+<Word stime="6.32" dur="0.19" conf="0.113"> Florida </Word>
+<Word stime="6.32" dur="0.19" conf="0.110"> ear </Word>
+<Word stime="6.51" dur="0.00" conf="0.627"> , </Word>
+<Word stime="6.51" dur="0.19" conf="0.939"> which </Word>
+<Word stime="6.70" dur="0.14" conf="0.849"> is </Word>
+<Word stime="6.84" dur="0.21" conf="0.511"> , </Word>
+<Word stime="7.05" dur="0.05" conf="0.404"> after </Word>
+<Word stime="7.14" dur="0.15" conf="0.956"> my </Word>
+<Word stime="7.29" dur="0.37" conf="0.956"> first </Word>
+<Word stime="7.66" dur="0.27" conf="0.956"> album </Word>
+<Word stime="8.00" dur="0.20" conf="0.539"> Live </Word>
+<Word stime="8.00" dur="0.20" conf="0.117"> live </Word>
+<Word stime="8.44" dur="0.22" conf="0.218"> it's </Word>
+<Word stime="8.44" dur="0.22" conf="0.140"> this </Word>
+<Word stime="8.44" dur="0.22" conf="0.119"> pictures </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="95.44" etime="96.43" spkid="FS1" lang="eng-usa" lconf="0.73" trs="1">
+<Word stime="95.44" dur="0.21" conf="0.678"> {fw} </Word>
+<Word stime="95.65" dur="0.25" conf="0.878"> , </Word>
+<Word stime="95.90" dur="0.23" conf="0.272"> really </Word>
+<Word stime="95.90" dur="0.23" conf="0.149"> ranges </Word>
+<Word stime="95.90" dur="0.23" conf="0.115"> regions </Word>
+<Word stime="95.90" dur="0.23" conf="0.100"> Rangers </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Menomenation-NoahGundersenJesusJesusLiveTheRedRoom3152009756.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Menomenation-NoahGundersenJesusJesusLiveTheRedRoom3152009756.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="223.61" spdur="153.43"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="73.53" gender="1" spkid="MS2" lang="por" lconf="0.20"/>
+<Speaker ch="1" dur="47.93" gender="1" spkid="MS3" lang="por" lconf="0.20"/>
+<Speaker ch="1" dur="31.97" gender="1" spkid="MS1" lang="por" lconf="0.20"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="8.59" etime="13.58" spkid="MS2" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="13.58" etime="24.26" spkid="MS1" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="32.04" etime="33.90" spkid="MS1" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="41.92" etime="42.72" spkid="MS1" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="42.72" etime="49.76" spkid="MS3" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="51.83" etime="55.68" spkid="MS3" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="57.13" etime="60.41" spkid="MS3" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="62.16" etime="80.09" spkid="MS2" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="80.09" etime="83.13" spkid="MS1" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="83.13" etime="90.28" spkid="MS3" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="92.08" etime="92.72" spkid="MS1" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="92.72" etime="99.49" spkid="MS3" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="99.49" etime="124.79" spkid="MS2" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="124.79" etime="127.81" spkid="MS1" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="127.81" etime="133.20" spkid="MS3" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="136.54" etime="140.86" spkid="MS3" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="147.39" etime="167.28" spkid="MS2" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="167.28" etime="176.66" spkid="MS1" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="186.96" etime="188.76" spkid="MS1" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="188.76" etime="196.33" spkid="MS3" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="198.22" etime="198.97" spkid="MS1" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="198.97" etime="201.53" spkid="MS3" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="203.78" etime="205.12" spkid="MS2" lang="por" lconf="0.20"/>
+<SpeechSegment ch="1" sconf="1.00" stime="209.00" etime="213.08" spkid="MS2" lang="por" lconf="0.20"/>
+</SegmentList>
+</AudioDoc>

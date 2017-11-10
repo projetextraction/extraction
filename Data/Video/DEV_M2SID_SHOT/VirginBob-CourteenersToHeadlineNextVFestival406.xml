@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>VirginBob-CourteenersToHeadlineNextVFestival406</CreationID>
+  <InitialFrameID>VirginBob-CourteenersToHeadlineNextVFestival406/0038.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:03:080F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:01:520F1000">VirginBob-CourteenersToHeadlineNextVFestival406/0038.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:03:080F1000" end="T00:00:11:080F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:07:080F1000">VirginBob-CourteenersToHeadlineNextVFestival406/0177.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:11:080F1000" end="T00:00:15:880F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:00:13:480F1000">VirginBob-CourteenersToHeadlineNextVFestival406/0337.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:15:880F1000" end="T00:00:25:000F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:00:20:440F1000">VirginBob-CourteenersToHeadlineNextVFestival406/0511.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:25:000F1000" end="T00:00:26:760F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:00:25:880F1000">VirginBob-CourteenersToHeadlineNextVFestival406/0647.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:26:760F1000" end="T00:00:38:880F1000">
+      <Index>5</Index>
+      <KeyFrameID time="T00:00:32:800F1000">VirginBob-CourteenersToHeadlineNextVFestival406/0820.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:38:880F1000" end="T00:00:41:400F1000">
+      <Index>6</Index>
+      <KeyFrameID time="T00:00:40:120F1000">VirginBob-CourteenersToHeadlineNextVFestival406/1003.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:41:400F1000" end="T00:00:44:120F1000">
+      <Index>7</Index>
+      <KeyFrameID time="T00:00:42:760F1000">VirginBob-CourteenersToHeadlineNextVFestival406/1069.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:44:120F1000" end="T00:00:46:360F1000">
+      <Index>8</Index>
+      <KeyFrameID time="T00:00:45:240F1000">VirginBob-CourteenersToHeadlineNextVFestival406/1131.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:46:360F1000" end="T00:00:51:680F1000">
+      <Index>9</Index>
+      <KeyFrameID time="T00:00:49:000F1000">VirginBob-CourteenersToHeadlineNextVFestival406/1225.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:51:680F1000" end="T00:00:52:840F1000">
+      <Index>10</Index>
+      <KeyFrameID time="T00:00:52:240F1000">VirginBob-CourteenersToHeadlineNextVFestival406/1306.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:52:840F1000" end="T00:00:55:640F1000">
+      <Index>11</Index>
+      <KeyFrameID time="T00:00:54:240F1000">VirginBob-CourteenersToHeadlineNextVFestival406/1356.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:55:640F1000" end="T00:00:57:080F1000">
+      <Index>12</Index>
+      <KeyFrameID time="T00:00:56:360F1000">VirginBob-CourteenersToHeadlineNextVFestival406/1409.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:57:080F1000" end="T00:01:08:160F1000">
+      <Index>13</Index>
+      <KeyFrameID time="T00:01:02:600F1000">VirginBob-CourteenersToHeadlineNextVFestival406/1565.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:08:160F1000" end="T00:01:09:800F1000">
+      <Index>14</Index>
+      <KeyFrameID time="T00:01:08:960F1000">VirginBob-CourteenersToHeadlineNextVFestival406/1724.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:09:800F1000" end="T00:01:12:160F1000">
+      <Index>15</Index>
+      <KeyFrameID time="T00:01:10:960F1000">VirginBob-CourteenersToHeadlineNextVFestival406/1774.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:12:160F1000" end="T00:01:14:520F1000">
+      <Index>16</Index>
+      <KeyFrameID time="T00:01:13:320F1000">VirginBob-CourteenersToHeadlineNextVFestival406/1833.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:14:520F1000" end="T00:01:19:400F1000">
+      <Index>17</Index>
+      <KeyFrameID time="T00:01:16:960F1000">VirginBob-CourteenersToHeadlineNextVFestival406/1924.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:19:400F1000" end="T00:01:20:880F1000">
+      <Index>18</Index>
+      <KeyFrameID time="T00:01:20:120F1000">VirginBob-CourteenersToHeadlineNextVFestival406/2003.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:20:880F1000" end="T00:01:22:400F1000">
+      <Index>19</Index>
+      <KeyFrameID time="T00:01:21:640F1000">VirginBob-CourteenersToHeadlineNextVFestival406/2041.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:22:400F1000" end="T00:01:24:400F1000">
+      <Index>20</Index>
+      <KeyFrameID time="T00:01:23:400F1000">VirginBob-CourteenersToHeadlineNextVFestival406/2085.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:24:400F1000" end="T00:01:27:760F1000">
+      <Index>21</Index>
+      <KeyFrameID time="T00:01:26:080F1000">VirginBob-CourteenersToHeadlineNextVFestival406/2152.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:27:760F1000" end="T00:01:29:640F1000">
+      <Index>22</Index>
+      <KeyFrameID time="T00:01:28:680F1000">VirginBob-CourteenersToHeadlineNextVFestival406/2217.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:29:640F1000" end="T00:01:32:840F1000">
+      <Index>23</Index>
+      <KeyFrameID time="T00:01:31:240F1000">VirginBob-CourteenersToHeadlineNextVFestival406/2281.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:32:840F1000" end="T00:01:34:840F1000">
+      <Index>24</Index>
+      <KeyFrameID time="T00:01:33:840F1000">VirginBob-CourteenersToHeadlineNextVFestival406/2346.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:01:34:840F1000" end="T00:01:48:600F1000">
+      <Index>25</Index>
+      <KeyFrameID time="T00:01:41:720F1000">VirginBob-CourteenersToHeadlineNextVFestival406/2543.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

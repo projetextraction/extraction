@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="SynchroTheatre-123VideoTrailer550.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/SynchroTheatre-123VideoTrailer550.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="63.61" spdur="57.80"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="57.80" gender="1" spkid="MS1" lang="kor" lconf="0.32"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="5.79" etime="63.59" spkid="MS1" lang="kor" lconf="0.32"/>
+</SegmentList>
+</AudioDoc>

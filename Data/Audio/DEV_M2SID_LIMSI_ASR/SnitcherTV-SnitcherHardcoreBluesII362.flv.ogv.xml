@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="SnitcherTV-SnitcherHardcoreBluesII362.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/wav/dev12/SnitcherTV-SnitcherHardcoreBluesII362.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2dn"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="280.22" spdur="19.00"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="13.61" gender="2" spkid="FS1"/>
+<Speaker ch="1" dur="5.39" gender="1" spkid="MS1"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="24.23" etime="28.52" spkid="MS1"/>
+<SpeechSegment ch="1" sconf="1.00" stime="35.19" etime="37.40" spkid="FS1"/>
+<SpeechSegment ch="1" sconf="1.00" stime="41.51" etime="43.63" spkid="FS1"/>
+<SpeechSegment ch="1" sconf="1.00" stime="52.44" etime="54.43" spkid="FS1"/>
+<SpeechSegment ch="1" sconf="1.00" stime="65.81" etime="66.43" spkid="MS1"/>
+<SpeechSegment ch="1" sconf="1.00" stime="95.79" etime="96.27" spkid="MS1"/>
+<SpeechSegment ch="1" sconf="1.00" stime="101.18" etime="102.52" spkid="FS1"/>
+<SpeechSegment ch="1" sconf="1.00" stime="112.98" etime="115.43" spkid="FS1"/>
+<SpeechSegment ch="1" sconf="1.00" stime="244.45" etime="245.46" spkid="FS1"/>
+<SpeechSegment ch="1" sconf="1.00" stime="277.72" etime="280.21" spkid="FS1"/>
+</SegmentList>
+</AudioDoc>

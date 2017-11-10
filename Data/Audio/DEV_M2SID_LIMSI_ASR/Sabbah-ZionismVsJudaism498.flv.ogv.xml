@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Sabbah-ZionismVsJudaism498.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Sabbah-ZionismVsJudaism498.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="402.57" spdur="354.47" nw="746" tconf="0.89"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="203.18" gender="1" spkid="MS3" lang="eng-usa" lconf="1.00" nw="553" tconf="0.91"/>
+<Speaker ch="1" dur="43.86" gender="1" spkid="MS7" lang="eng-usa" lconf="1.00" nw="118" tconf="0.83"/>
+<Speaker ch="1" dur="25.93" gender="1" spkid="MS5" lang="eng-usa" lconf="1.00" nw="21" tconf="0.80"/>
+<Speaker ch="1" dur="18.53" gender="1" spkid="MS4" lang="eng-usa" lconf="1.00" nw="18" tconf="0.71"/>
+<Speaker ch="1" dur="19.33" gender="1" spkid="MS6" lang="eng-usa" lconf="1.00" nw="12" tconf="0.82"/>
+<Speaker ch="1" dur="10.85" gender="1" spkid="MS1" lang="eng-usa" lconf="1.00" nw="5" tconf="0.86"/>
+<Speaker ch="1" dur="9.80" gender="2" spkid="FS6" lang="eng-usa" lconf="1.00" nw="5" tconf="1.00"/>
+<Speaker ch="1" dur="12.09" gender="2" spkid="FS2" lang="eng-usa" lconf="1.00" nw="5" tconf="1.00"/>
+<Speaker ch="1" dur="6.24" gender="2" spkid="FS4" lang="eng-usa" lconf="1.00" nw="5" tconf="1.00"/>
+<Speaker ch="1" dur="4.66" gender="2" spkid="FS5" lang="eng-usa" lconf="1.00" nw="4" tconf="1.00"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="2.18" etime="13.03" spkid="MS1" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="2.48" dur="1.25" conf="0.958"> {fw} </Word>
+<Word stime="4.48" dur="2.45" conf="0.978"> {fw} </Word>
+<Word stime="7.57" dur="1.31" conf="0.905"> {fw} </Word>
+<Word stime="11.28" dur="1.45" conf="0.979"> {fw} </Word>
+<Word stime="12.73" dur="0.00" conf="0.497"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="17.80" etime="20.26" spkid="FS2" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="17.80" dur="2.16" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="21.22" etime="23.81" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="21.22" dur="0.26" conf="0.980"> so </Word>
+<Word stime="21.48" dur="0.29" conf="0.980"> why </Word>
+<Word stime="21.77" dur="0.22" conf="0.980"> does </Word>
+<Word stime="22.07" dur="0.33" conf="0.979"> Israel </Word>
+<Word stime="22.40" dur="0.56" conf="0.739"> engage </Word>
+<Word stime="22.96" dur="0.13" conf="0.942"> in </Word>
+<Word stime="23.15" dur="0.22" conf="0.980"> such </Word>
+<Word stime="23.37" dur="0.30" conf="0.587"> terror </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="23.81" etime="25.77" spkid="FS2" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="23.81" dur="1.92" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="25.77" etime="27.06" spkid="FS4" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="25.77" dur="0.99" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="27.37" etime="36.34" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="27.37" dur="0.26" conf="0.985"> how </Word>
+<Word stime="27.63" dur="0.20" conf="0.984"> is </Word>
+<Word stime="27.83" dur="0.14" conf="0.985"> it </Word>
+<Word stime="28.00" dur="0.12" conf="0.981"> that </Word>
+<Word stime="28.12" dur="0.11" conf="0.409"> an </Word>
+<Word stime="28.12" dur="0.11" conf="0.367"> in </Word>
+<Word stime="28.32" dur="0.32" conf="0.507"> innocent </Word>
+<Word stime="28.32" dur="0.32" conf="0.257"> unison </Word>
+<Word stime="28.72" dur="0.43" conf="0.985"> people </Word>
+<Word stime="29.15" dur="0.54" conf="0.984"> subjected </Word>
+<Word stime="29.82" dur="0.12" conf="0.985"> to </Word>
+<Word stime="30.02" dur="0.48" conf="0.985"> terrible </Word>
+<Word stime="30.50" dur="0.45" conf="0.985"> Nazi </Word>
+<Word stime="30.95" dur="0.66" conf="0.920"> Holocaust </Word>
+<Word stime="31.61" dur="0.09" conf="0.985"> in </Word>
+<Word stime="31.70" dur="0.08" conf="0.985"> the </Word>
+<Word stime="31.78" dur="0.39" conf="0.985"> Second </Word>
+<Word stime="32.17" dur="0.32" conf="0.985"> World </Word>
+<Word stime="32.49" dur="0.35" conf="0.985"> War </Word>
+<Word stime="33.17" dur="0.31" conf="0.985"> came </Word>
+<Word stime="33.48" dur="0.15" conf="0.982"> to </Word>
+<Word stime="33.67" dur="0.58" conf="0.985"> implement </Word>
+<Word stime="34.25" dur="0.05" conf="0.959"> a </Word>
+<Word stime="34.30" dur="0.49" conf="0.984"> similar </Word>
+<Word stime="34.79" dur="0.72" conf="0.880"> Holocaust </Word>
+<Word stime="35.51" dur="0.12" conf="0.980"> in </Word>
+<Word stime="35.76" dur="0.54" conf="0.985"> Palestine </Word>
+<Word stime="36.30" dur="0.00" conf="0.435"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="36.34" etime="39.06" spkid="FS2" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="36.34" dur="2.66" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="39.06" etime="40.10" spkid="FS4" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="39.06" dur="0.74" conf="0.994"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="40.26" etime="43.82" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="40.26" dur="0.13" conf="0.973"> the </Word>
+<Word stime="40.39" dur="0.32" conf="0.973"> answer </Word>
+<Word stime="40.73" dur="0.10" conf="0.973"> to </Word>
+<Word stime="40.87" dur="0.16" conf="0.973"> this </Word>
+<Word stime="41.14" dur="0.42" conf="0.972"> question </Word>
+<Word stime="41.56" dur="0.34" conf="0.973"> lies </Word>
+<Word stime="41.90" dur="0.10" conf="0.960"> in </Word>
+<Word stime="42.00" dur="0.09" conf="0.832"> the </Word>
+<Word stime="42.15" dur="0.72" conf="0.973"> ideology </Word>
+<Word stime="42.93" dur="0.20" conf="0.973"> known </Word>
+<Word stime="43.18" dur="0.14" conf="0.626"> as </Word>
+<Word stime="43.41" dur="0.37" conf="0.296"> science </Word>
+<Word stime="43.41" dur="0.37" conf="0.127"> signs </Word>
+<Word stime="43.41" dur="0.37" conf="0.114"> designers </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="45.27" etime="46.24" spkid="FS4" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="45.57" dur="0.63" conf="0.996"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="46.24" etime="53.56" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="46.24" dur="0.25" conf="0.982"> this </Word>
+<Word stime="46.49" dur="0.73" conf="0.982"> ideology </Word>
+<Word stime="47.22" dur="0.21" conf="0.982"> was </Word>
+<Word stime="47.43" dur="0.19" conf="0.976"> put </Word>
+<Word stime="47.76" dur="0.37" conf="0.982"> forward </Word>
+<Word stime="48.13" dur="0.11" conf="0.982"> at </Word>
+<Word stime="48.27" dur="0.13" conf="0.982"> the </Word>
+<Word stime="48.44" dur="0.22" conf="0.982"> end </Word>
+<Word stime="48.66" dur="0.06" conf="0.982"> of </Word>
+<Word stime="48.72" dur="0.10" conf="0.982"> the </Word>
+<Word stime="48.82" dur="0.48" conf="0.975"> 19th </Word>
+<Word stime="49.30" dur="0.57" conf="0.982"> century </Word>
+<Word stime="49.87" dur="0.22" conf="0.982"> by </Word>
+<Word stime="50.09" dur="0.20" conf="0.982"> the </Word>
+<Word stime="50.39" dur="0.61" conf="0.982"> Austrian </Word>
+<Word stime="51.09" dur="0.37" conf="0.982"> Jewish </Word>
+<Word stime="51.58" dur="0.52" conf="0.982"> journalist </Word>
+<Word stime="52.71" dur="0.55" conf="0.975"> Theodore </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="53.76" etime="57.92" spkid="MS4" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="53.76" dur="0.27" conf="0.951"> {fw} </Word>
+<Word stime="55.37" dur="0.92" conf="0.938"> {fw} </Word>
+<Word stime="57.32" dur="0.30" conf="0.704"> {fw} </Word>
+<Word stime="57.62" dur="0.00" conf="0.438"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="58.10" etime="63.87" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="58.10" dur="0.57" conf="0.989"> Zionism </Word>
+<Word stime="58.80" dur="0.13" conf="0.598"> was </Word>
+<Word stime="58.80" dur="0.13" conf="0.136"> with </Word>
+<Word stime="58.97" dur="0.05" conf="0.504"> a </Word>
+<Word stime="58.97" dur="0.05" conf="0.265"> the </Word>
+<Word stime="59.11" dur="0.37" conf="0.807"> nation </Word>
+<Word stime="59.48" dur="0.27" conf="0.988"> state </Word>
+<Word stime="59.75" dur="0.73" conf="0.989"> ideology </Word>
+<Word stime="60.48" dur="0.28" conf="0.989"> which </Word>
+<Word stime="60.87" dur="0.29" conf="0.988"> aimed </Word>
+<Word stime="61.16" dur="0.12" conf="0.988"> at </Word>
+<Word stime="61.31" dur="0.08" conf="0.989"> the </Word>
+<Word stime="61.53" dur="0.56" conf="0.986"> foundation </Word>
+<Word stime="62.11" dur="0.10" conf="0.989"> of </Word>
+<Word stime="62.21" dur="0.13" conf="0.989"> an </Word>
+<Word stime="62.48" dur="0.60" conf="0.989"> independent </Word>
+<Word stime="63.14" dur="0.26" conf="0.989"> Jewish </Word>
+<Word stime="63.40" dur="0.36" conf="0.985"> state </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="66.46" etime="70.57" spkid="MS4" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="66.76" dur="0.58" conf="0.439"> {fw} </Word>
+<Word stime="68.17" dur="0.08" conf="0.538"> {fw} </Word>
+<Word stime="68.61" dur="0.72" conf="0.916"> {fw} </Word>
+<Word stime="70.07" dur="0.20" conf="0.815"> {fw} </Word>
+<Word stime="70.27" dur="0.00" conf="0.497"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="70.67" etime="77.61" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="70.67" dur="0.16" conf="0.980"> The </Word>
+<Word stime="70.83" dur="0.35" conf="0.977"> reason </Word>
+<Word stime="71.22" dur="0.16" conf="0.980"> for </Word>
+<Word stime="71.38" dur="0.31" conf="0.980"> this </Word>
+<Word stime="71.76" dur="0.51" conf="0.876"> depended </Word>
+<Word stime="72.30" dur="0.13" conf="0.980"> on </Word>
+<Word stime="72.43" dur="0.11" conf="0.968"> the </Word>
+<Word stime="72.54" dur="0.77" conf="0.945"> colonialist </Word>
+<Word stime="73.52" dur="0.23" conf="0.979"> and </Word>
+<Word stime="73.75" dur="0.50" conf="0.909"> social </Word>
+<Word stime="74.25" dur="0.22" conf="0.431"> don't </Word>
+<Word stime="74.25" dur="0.22" conf="0.143"> Darwin </Word>
+<Word stime="74.53" dur="0.11" conf="0.461"> win </Word>
+<Word stime="74.64" dur="0.23" conf="0.966"> this </Word>
+<Word stime="75.02" dur="0.37" conf="0.794"> series </Word>
+<Word stime="75.39" dur="0.14" conf="0.819"> , </Word>
+<Word stime="75.53" dur="0.18" conf="0.980"> which </Word>
+<Word stime="75.82" dur="0.44" conf="0.979"> dominated </Word>
+<Word stime="76.26" dur="0.44" conf="0.390"> 19th </Word>
+<Word stime="76.70" dur="0.44" conf="0.980"> century </Word>
+<Word stime="77.14" dur="0.28" conf="0.978"> Europe </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="77.61" etime="78.50" spkid="MS5" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="77.69" dur="0.51" conf="0.876"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="81.45" etime="88.79" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="81.45" dur="0.53" conf="0.990"> according </Word>
+<Word stime="82.01" dur="0.14" conf="0.990"> to </Word>
+<Word stime="82.15" dur="0.30" conf="0.989"> these </Word>
+<Word stime="82.58" dur="0.51" conf="0.807"> theories </Word>
+<Word stime="83.31" dur="0.22" conf="0.987"> the </Word>
+<Word stime="83.53" dur="1.01" conf="0.989"> industrialized </Word>
+<Word stime="84.54" dur="0.47" conf="0.989"> nations </Word>
+<Word stime="85.01" dur="0.08" conf="0.977"> of </Word>
+<Word stime="85.11" dur="0.09" conf="0.989"> the </Word>
+<Word stime="85.20" dur="0.41" conf="0.988"> West </Word>
+<Word stime="85.61" dur="0.16" conf="0.930"> had </Word>
+<Word stime="85.81" dur="0.11" conf="0.985"> the </Word>
+<Word stime="85.92" dur="0.55" conf="0.985"> right </Word>
+<Word stime="86.56" dur="0.19" conf="0.989"> to </Word>
+<Word stime="86.75" dur="0.70" conf="0.987"> colonize </Word>
+<Word stime="87.50" dur="0.23" conf="0.989"> less </Word>
+<Word stime="87.73" dur="0.44" conf="0.990"> developed </Word>
+<Word stime="88.28" dur="0.47" conf="0.990"> nations </Word>
+<Word stime="88.75" dur="0.00" conf="0.608"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="88.79" etime="89.78" spkid="FS5" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="88.79" dur="0.75" conf="0.996"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="89.78" etime="96.72" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="89.78" dur="0.35" conf="0.986"> this </Word>
+<Word stime="90.13" dur="0.23" conf="0.986"> was </Word>
+<Word stime="90.36" dur="0.60" conf="0.986"> envisioned </Word>
+<Word stime="90.99" dur="0.12" conf="0.985"> as </Word>
+<Word stime="91.11" dur="0.07" conf="0.985"> a </Word>
+<Word stime="91.18" dur="0.50" conf="0.986"> natural </Word>
+<Word stime="91.68" dur="0.47" conf="0.986"> result </Word>
+<Word stime="92.26" dur="0.07" conf="0.975"> of </Word>
+<Word stime="92.35" dur="0.10" conf="0.984"> the </Word>
+<Word stime="92.45" dur="0.49" conf="0.983"> concept </Word>
+<Word stime="93.07" dur="0.10" conf="0.980"> of </Word>
+<Word stime="93.19" dur="0.07" conf="0.984"> the </Word>
+<Word stime="93.26" dur="0.39" conf="0.985"> struggle </Word>
+<Word stime="93.68" dur="0.13" conf="0.986"> for </Word>
+<Word stime="93.81" dur="0.60" conf="0.986"> survival </Word>
+<Word stime="94.41" dur="0.32" conf="0.981"> between </Word>
+<Word stime="94.81" dur="0.58" conf="0.960"> nations </Word>
+<Word stime="95.50" dur="0.47" conf="0.981"> predicted </Word>
+<Word stime="95.97" dur="0.18" conf="0.984"> by </Word>
+<Word stime="96.15" dur="0.18" conf="0.476"> John </Word>
+<Word stime="96.52" dur="0.15" conf="0.405"> winners </Word>
+<Word stime="96.52" dur="0.15" conf="0.120"> wins </Word>
+<Word stime="96.52" dur="0.15" conf="0.111"> is </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="96.72" etime="98.77" spkid="FS4" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="96.72" dur="1.75" conf="0.998"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="99.50" etime="108.68" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="99.50" dur="0.13" conf="0.977"> the </Word>
+<Word stime="99.70" dur="0.34" conf="0.978"> Jews </Word>
+<Word stime="100.04" dur="0.11" conf="0.979"> who </Word>
+<Word stime="100.19" dur="0.18" conf="0.979"> put </Word>
+<Word stime="100.51" dur="0.25" conf="0.979"> forward </Word>
+<Word stime="100.76" dur="0.13" conf="0.979"> the </Word>
+<Word stime="100.89" dur="0.42" conf="0.979"> idea </Word>
+<Word stime="101.31" dur="0.06" conf="0.953"> of </Word>
+<Word stime="101.39" dur="0.52" conf="0.979"> Zionism </Word>
+<Word stime="102.04" dur="0.54" conf="0.979"> approved </Word>
+<Word stime="102.58" dur="0.16" conf="0.454"> of </Word>
+<Word stime="102.58" dur="0.16" conf="0.240"> at </Word>
+<Word stime="102.80" dur="0.41" conf="0.979"> this </Word>
+<Word stime="103.21" dur="0.52" conf="0.968"> 19th </Word>
+<Word stime="103.73" dur="0.51" conf="0.979"> century </Word>
+<Word stime="104.24" dur="0.49" conf="0.979"> European </Word>
+<Word stime="104.82" dur="0.34" conf="0.897"> air </Word>
+<Word stime="105.59" dur="0.26" conf="0.976"> and </Word>
+<Word stime="105.98" dur="0.52" conf="0.969"> constructed </Word>
+<Word stime="106.50" dur="0.24" conf="0.978"> their </Word>
+<Word stime="106.77" dur="0.29" conf="0.979"> own </Word>
+<Word stime="107.09" dur="0.68" conf="0.972"> ideologies </Word>
+<Word stime="107.94" dur="0.12" conf="0.460"> and </Word>
+<Word stime="107.94" dur="0.12" conf="0.298"> in </Word>
+<Word stime="108.06" dur="0.10" conf="0.976"> the </Word>
+<Word stime="108.16" dur="0.22" conf="0.415"> like </Word>
+<Word stime="108.16" dur="0.22" conf="0.140"> light </Word>
+<Word stime="108.16" dur="0.22" conf="0.116"> line </Word>
+<Word stime="108.38" dur="0.00" conf="0.622"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="110.17" etime="112.36" spkid="FS5" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="110.47" dur="1.79" conf="0.998"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="112.36" etime="115.59" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="112.36" dur="0.24" conf="0.988"> that </Word>
+<Word stime="112.60" dur="0.14" conf="0.988"> is </Word>
+<Word stime="112.74" dur="0.26" conf="0.988"> why </Word>
+<Word stime="113.10" dur="0.32" conf="0.608"> racism </Word>
+<Word stime="113.10" dur="0.32" conf="0.146"> races </Word>
+<Word stime="113.58" dur="0.28" conf="0.986"> became </Word>
+<Word stime="113.86" dur="0.06" conf="0.876"> a </Word>
+<Word stime="113.99" dur="0.30" conf="0.518"> part </Word>
+<Word stime="113.99" dur="0.30" conf="0.206"> partner </Word>
+<Word stime="114.29" dur="0.08" conf="0.692"> of </Word>
+<Word stime="114.40" dur="0.50" conf="0.987"> Zionist </Word>
+<Word stime="114.90" dur="0.65" conf="0.987"> ideology </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="115.59" etime="120.75" spkid="MS5" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="115.59" dur="0.04" conf="0.418"> {fw} </Word>
+<Word stime="116.35" dur="2.58" conf="0.965"> {fw} </Word>
+<Word stime="120.35" dur="0.27" conf="0.965"> {fw} </Word>
+<Word stime="120.62" dur="0.00" conf="0.438"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="120.75" etime="128.28" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="120.75" dur="0.22" conf="0.906"> These </Word>
+<Word stime="121.08" dur="0.26" conf="0.913"> words </Word>
+<Word stime="121.43" dur="0.13" conf="0.680"> by </Word>
+<Word stime="121.56" dur="0.11" conf="0.975"> the </Word>
+<Word stime="121.67" dur="0.40" conf="0.970"> famous </Word>
+<Word stime="122.41" dur="0.35" conf="0.920"> Israeli </Word>
+<Word stime="122.76" dur="0.29" conf="0.874"> leader </Word>
+<Word stime="123.18" dur="0.23" conf="0.278"> is </Word>
+<Word stime="123.18" dur="0.23" conf="0.201"> ease </Word>
+<Word stime="123.18" dur="0.23" conf="0.181"> he's </Word>
+<Word stime="123.57" dur="0.26" conf="0.383"> action </Word>
+<Word stime="123.57" dur="0.26" conf="0.220"> auctioneer </Word>
+<Word stime="124.18" dur="0.21" conf="0.974"> about </Word>
+<Word stime="124.44" dur="0.09" conf="0.975"> the </Word>
+<Word stime="124.68" dur="0.64" conf="0.976"> Palestinian </Word>
+<Word stime="125.32" dur="0.47" conf="0.974"> people </Word>
+<Word stime="126.20" dur="0.24" conf="0.551"> aren't </Word>
+<Word stime="126.20" dur="0.24" conf="0.212"> are </Word>
+<Word stime="126.61" dur="0.34" conf="0.973"> open </Word>
+<Word stime="127.07" dur="0.48" conf="0.976"> expression </Word>
+<Word stime="127.80" dur="0.44" conf="0.910"> indiscretions </Word>
+<Word stime="128.24" dur="0.00" conf="0.464"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="128.28" etime="133.39" spkid="MS5" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="128.41" dur="0.16" conf="0.925"> {fw} </Word>
+<Word stime="128.57" dur="3.80" conf="0.840"> , </Word>
+<Word stime="132.37" dur="0.72" conf="0.962"> {fw} </Word>
+<Word stime="133.09" dur="0.00" conf="0.392"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="134.18" etime="142.61" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="134.18" dur="0.16" conf="0.983"> It </Word>
+<Word stime="134.34" dur="0.23" conf="0.983"> is </Word>
+<Word stime="134.73" dur="0.72" conf="0.983"> unacceptable </Word>
+<Word stime="135.45" dur="0.16" conf="0.983"> that </Word>
+<Word stime="135.65" dur="0.43" conf="0.534"> nations </Word>
+<Word stime="135.65" dur="0.43" conf="0.193"> nation's </Word>
+<Word stime="136.19" dur="0.23" conf="0.983"> made </Word>
+<Word stime="136.42" dur="0.16" conf="0.983"> up </Word>
+<Word stime="136.58" dur="0.16" conf="0.983"> of </Word>
+<Word stime="136.81" dur="0.33" conf="0.983"> people </Word>
+<Word stime="137.14" dur="0.18" conf="0.983"> who </Word>
+<Word stime="137.37" dur="0.19" conf="0.983"> have </Word>
+<Word stime="137.56" dur="0.40" conf="0.983"> only </Word>
+<Word stime="138.04" dur="0.34" conf="0.983"> just </Word>
+<Word stime="138.44" dur="0.27" conf="0.983"> come </Word>
+<Word stime="138.71" dur="0.33" conf="0.976"> down </Word>
+<Word stime="139.16" dur="0.13" conf="0.983"> from </Word>
+<Word stime="139.29" dur="0.11" conf="0.983"> the </Word>
+<Word stime="139.52" dur="0.47" conf="0.977"> trees </Word>
+<Word stime="140.17" dur="0.25" conf="0.982"> should </Word>
+<Word stime="140.49" dur="0.23" conf="0.982"> take </Word>
+<Word stime="140.78" dur="0.54" conf="0.982"> themselves </Word>
+<Word stime="141.50" dur="0.14" conf="0.789"> from </Word>
+<Word stime="141.68" dur="0.31" conf="0.983"> world </Word>
+<Word stime="142.07" dur="0.50" conf="0.983"> leaders </Word>
+<Word stime="142.57" dur="0.00" conf="0.450"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="142.61" etime="143.33" spkid="FS5" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="142.61" dur="0.66" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="143.33" etime="146.33" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="143.33" dur="0.22" conf="0.984"> how </Word>
+<Word stime="143.55" dur="0.18" conf="0.984"> can </Word>
+<Word stime="143.73" dur="0.26" conf="0.984"> such </Word>
+<Word stime="144.10" dur="0.43" conf="0.984"> primitive </Word>
+<Word stime="144.53" dur="0.46" conf="0.984"> beings </Word>
+<Word stime="144.99" dur="0.16" conf="0.984"> have </Word>
+<Word stime="145.15" dur="0.07" conf="0.984"> an </Word>
+<Word stime="145.22" dur="0.42" conf="0.984"> opinion </Word>
+<Word stime="145.64" dur="0.09" conf="0.984"> of </Word>
+<Word stime="145.73" dur="0.18" conf="0.983"> their </Word>
+<Word stime="145.91" dur="0.26" conf="0.984"> own </Word>
+<Word stime="146.17" dur="0.00" conf="0.481"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="149.51" etime="150.66" spkid="FS2" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="149.81" dur="0.81" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="150.66" etime="163.52" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="150.66" dur="0.63" conf="0.987"> Monahan </Word>
+<Word stime="151.29" dur="0.35" conf="0.751"> begin </Word>
+<Word stime="152.10" dur="0.15" conf="0.912"> who </Word>
+<Word stime="152.36" dur="0.20" conf="0.974"> took </Word>
+<Word stime="152.56" dur="0.33" conf="0.987"> part </Word>
+<Word stime="152.89" dur="0.13" conf="0.987"> in </Word>
+<Word stime="153.05" dur="0.34" conf="0.984"> bloody </Word>
+<Word stime="153.39" dur="0.49" conf="0.987"> terrorist </Word>
+<Word stime="153.88" dur="0.49" conf="0.987"> attacks </Word>
+<Word stime="154.37" dur="0.10" conf="0.986"> in </Word>
+<Word stime="154.47" dur="0.08" conf="0.987"> the </Word>
+<Word stime="154.55" dur="1.16" conf="0.987"> 19 </Word>
+<Word stime="155.83" dur="0.00" conf="0.453"> , </Word>
+<Word stime="155.83" dur="0.22" conf="0.986"> and </Word>
+<Word stime="156.05" dur="0.30" conf="0.987"> later </Word>
+<Word stime="156.35" dur="0.46" conf="0.987"> became </Word>
+<Word stime="156.87" dur="0.24" conf="0.836"> prime </Word>
+<Word stime="157.11" dur="0.45" conf="0.836"> minister </Word>
+<Word stime="157.56" dur="0.09" conf="0.968"> of </Word>
+<Word stime="157.65" dur="0.51" conf="0.987"> Israel </Word>
+<Word stime="158.48" dur="0.20" conf="0.987"> had </Word>
+<Word stime="158.68" dur="0.26" conf="0.987"> no </Word>
+<Word stime="158.94" dur="0.62" conf="0.985"> compunction </Word>
+<Word stime="159.58" dur="0.08" conf="0.596"> is </Word>
+<Word stime="159.72" dur="0.21" conf="0.902"> about </Word>
+<Word stime="159.93" dur="0.00" conf="0.391"> . </Word>
+<Word stime="159.93" dur="0.49" conf="0.977"> Referring </Word>
+<Word stime="160.42" dur="0.12" conf="0.987"> to </Word>
+<Word stime="160.54" dur="0.12" conf="0.987"> the </Word>
+<Word stime="160.84" dur="0.75" conf="0.979"> Palestinians </Word>
+<Word stime="161.59" dur="0.36" conf="0.933"> as </Word>
+<Word stime="162.31" dur="0.19" conf="0.981"> two </Word>
+<Word stime="162.50" dur="0.28" conf="0.984"> legged </Word>
+<Word stime="162.97" dur="0.51" conf="0.986"> animals </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="164.09" etime="167.89" spkid="FS2" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="164.39" dur="3.45" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="167.89" etime="175.61" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="167.89" dur="0.53" conf="0.973"> radical </Word>
+<Word stime="168.42" dur="0.80" conf="0.980"> Zionists </Word>
+<Word stime="169.26" dur="0.16" conf="0.978"> were </Word>
+<Word stime="169.51" dur="0.36" conf="0.980"> only </Word>
+<Word stime="169.94" dur="0.31" conf="0.980"> able </Word>
+<Word stime="170.25" dur="0.12" conf="0.980"> to </Word>
+<Word stime="170.37" dur="0.66" conf="0.980"> reconcile </Word>
+<Word stime="171.06" dur="0.16" conf="0.980"> their </Word>
+<Word stime="171.38" dur="0.60" conf="0.955"> consciences </Word>
+<Word stime="171.98" dur="0.00" conf="0.530"> . </Word>
+<Word stime="171.98" dur="0.17" conf="0.980"> With </Word>
+<Word stime="172.18" dur="0.14" conf="0.486"> the </Word>
+<Word stime="172.18" dur="0.14" conf="0.263"> this </Word>
+<Word stime="172.43" dur="0.37" conf="0.974"> slaughter </Word>
+<Word stime="173.20" dur="0.29" conf="0.980"> by </Word>
+<Word stime="173.49" dur="0.46" conf="0.980"> denying </Word>
+<Word stime="174.07" dur="0.13" conf="0.980"> that </Word>
+<Word stime="174.23" dur="0.09" conf="0.980"> the </Word>
+<Word stime="174.48" dur="0.67" conf="0.980"> Palestinians </Word>
+<Word stime="175.15" dur="0.14" conf="0.966"> were </Word>
+<Word stime="175.29" dur="0.28" conf="0.414"> him </Word>
+<Word stime="175.29" dur="0.28" conf="0.256"> human </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="175.61" etime="180.53" spkid="MS4" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="175.61" dur="1.42" conf="0.985"> {fw} </Word>
+<Word stime="177.03" dur="2.98" conf="0.840"> , </Word>
+<Word stime="180.01" dur="0.22" conf="0.444"> {fw} </Word>
+<Word stime="180.23" dur="0.00" conf="0.392"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="180.71" etime="187.95" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="180.71" dur="0.13" conf="0.989"> It </Word>
+<Word stime="180.84" dur="0.18" conf="0.989"> is </Word>
+<Word stime="181.09" dur="0.26" conf="0.989"> this </Word>
+<Word stime="181.35" dur="0.57" conf="0.989"> racist </Word>
+<Word stime="181.92" dur="0.74" conf="0.989"> ideology </Word>
+<Word stime="182.66" dur="0.15" conf="0.989"> that </Word>
+<Word stime="182.81" dur="0.16" conf="0.989"> is </Word>
+<Word stime="182.97" dur="0.76" conf="0.989"> responsible </Word>
+<Word stime="183.73" dur="0.15" conf="0.989"> for </Word>
+<Word stime="183.91" dur="0.13" conf="0.989"> the </Word>
+<Word stime="184.04" dur="0.56" conf="0.984"> oppression </Word>
+<Word stime="184.60" dur="0.14" conf="0.988"> that </Word>
+<Word stime="184.74" dur="0.15" conf="0.423"> is </Word>
+<Word stime="184.74" dur="0.15" conf="0.352"> has </Word>
+<Word stime="184.93" dur="0.30" conf="0.423"> going </Word>
+<Word stime="184.93" dur="0.30" conf="0.352"> gone </Word>
+<Word stime="185.23" dur="0.22" conf="0.988"> on </Word>
+<Word stime="185.48" dur="0.10" conf="0.718"> in </Word>
+<Word stime="185.48" dur="0.10" conf="0.104"> and </Word>
+<Word stime="185.73" dur="0.58" conf="0.989"> Palestinian </Word>
+<Word stime="186.31" dur="0.43" conf="0.979"> lands </Word>
+<Word stime="186.74" dur="0.02" conf="0.643"> . </Word>
+<Word stime="186.76" dur="0.08" conf="0.977"> For </Word>
+<Word stime="186.86" dur="0.09" conf="0.988"> the </Word>
+<Word stime="186.95" dur="0.32" conf="0.988"> last </Word>
+<Word stime="187.30" dur="0.13" conf="0.989"> half </Word>
+<Word stime="187.52" dur="0.38" conf="0.989"> century </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="188.58" etime="189.63" spkid="MS4" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="188.88" dur="0.45" conf="0.987"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="194.27" etime="201.34" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="194.27" dur="0.15" conf="0.978"> at </Word>
+<Word stime="194.45" dur="0.09" conf="0.978"> the </Word>
+<Word stime="194.54" dur="0.34" conf="0.978"> same </Word>
+<Word stime="194.88" dur="0.43" conf="0.978"> time </Word>
+<Word stime="195.31" dur="0.28" conf="0.420"> . </Word>
+<Word stime="195.59" dur="0.12" conf="0.976"> The </Word>
+<Word stime="195.74" dur="0.76" conf="0.978"> Zionists </Word>
+<Word stime="196.60" dur="0.38" conf="0.358"> employ </Word>
+<Word stime="196.60" dur="0.38" conf="0.231"> employs </Word>
+<Word stime="197.03" dur="0.25" conf="0.978"> such </Word>
+<Word stime="197.40" dur="0.49" conf="0.978"> concepts </Word>
+<Word stime="197.93" dur="0.17" conf="0.978"> from </Word>
+<Word stime="198.25" dur="0.59" conf="0.978"> Judaism </Word>
+<Word stime="198.89" dur="0.18" conf="0.976"> as </Word>
+<Word stime="199.07" dur="0.11" conf="0.974"> the </Word>
+<Word stime="199.18" dur="0.50" conf="0.978"> chosen </Word>
+<Word stime="199.77" dur="0.37" conf="0.978"> people </Word>
+<Word stime="200.18" dur="0.16" conf="0.978"> and </Word>
+<Word stime="200.34" dur="0.10" conf="0.977"> the </Word>
+<Word stime="200.44" dur="0.48" conf="0.393"> Promised </Word>
+<Word stime="200.44" dur="0.48" conf="0.378"> promised </Word>
+<Word stime="200.92" dur="0.37" conf="0.393"> Land </Word>
+<Word stime="200.92" dur="0.37" conf="0.378"> land </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="201.36" etime="202.25" spkid="FS4" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="201.66" dur="0.54" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="202.25" etime="205.55" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="202.25" dur="0.39" conf="0.989"> this </Word>
+<Word stime="202.64" dur="0.00" conf="0.994"> , </Word>
+<Word stime="202.64" dur="0.50" conf="0.988"> however </Word>
+<Word stime="203.14" dur="0.39" conf="0.996"> , </Word>
+<Word stime="203.53" dur="0.15" conf="0.987"> is </Word>
+<Word stime="203.68" dur="0.25" conf="0.986"> not </Word>
+<Word stime="203.99" dur="0.05" conf="0.931"> a </Word>
+<Word stime="204.04" dur="0.57" conf="0.989"> sincere </Word>
+<Word stime="204.61" dur="0.47" conf="0.989"> religious </Word>
+<Word stime="205.08" dur="0.47" conf="0.989"> devotion </Word>
+<Word stime="205.55" dur="0.00" conf="0.463"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="205.88" etime="206.63" spkid="MS5" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="206.18" dur="0.20" conf="0.972"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="206.63" etime="214.90" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="206.63" dur="0.17" conf="0.987"> on </Word>
+<Word stime="206.80" dur="0.11" conf="0.987"> the </Word>
+<Word stime="207.06" dur="0.55" conf="0.976"> contrary </Word>
+<Word stime="207.61" dur="0.37" conf="0.898"> , </Word>
+<Word stime="207.98" dur="0.49" conf="0.819"> Judaism </Word>
+<Word stime="209.10" dur="0.11" conf="0.898"> a </Word>
+<Word stime="209.29" dur="0.32" conf="0.981"> divine </Word>
+<Word stime="209.61" dur="0.39" conf="0.968"> religion </Word>
+<Word stime="210.34" dur="0.35" conf="0.987"> has </Word>
+<Word stime="210.69" dur="0.40" conf="0.987"> become </Word>
+<Word stime="211.10" dur="0.06" conf="0.986"> a </Word>
+<Word stime="211.28" dur="0.50" conf="0.986"> vehicle </Word>
+<Word stime="211.78" dur="0.23" conf="0.986"> for </Word>
+<Word stime="212.07" dur="0.59" conf="0.986"> Zionism </Word>
+<Word stime="213.16" dur="0.15" conf="0.596"> a </Word>
+<Word stime="213.45" dur="0.58" conf="0.976"> worldly </Word>
+<Word stime="214.20" dur="0.66" conf="0.987"> ideology </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="214.90" etime="216.00" spkid="MS5" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="215.12" dur="0.82" conf="0.989"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="216.00" etime="221.02" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="216.00" dur="0.13" conf="0.980"> the </Word>
+<Word stime="216.13" dur="0.32" conf="0.978"> problem </Word>
+<Word stime="216.53" dur="0.14" conf="0.979"> is </Word>
+<Word stime="216.67" dur="0.20" conf="0.980"> not </Word>
+<Word stime="217.06" dur="0.58" conf="0.980"> Judaism </Word>
+<Word stime="217.68" dur="0.16" conf="0.980"> and </Word>
+<Word stime="217.84" dur="0.10" conf="0.952"> the </Word>
+<Word stime="218.05" dur="0.45" conf="0.979"> Jews </Word>
+<Word stime="218.78" dur="0.21" conf="0.750"> but </Word>
+<Word stime="218.99" dur="0.31" conf="0.956"> rather </Word>
+<Word stime="219.44" dur="0.57" conf="0.979"> Zionism </Word>
+<Word stime="220.01" dur="0.10" conf="0.589"> and </Word>
+<Word stime="220.20" dur="0.07" conf="0.972"> the </Word>
+<Word stime="220.27" dur="0.71" conf="0.980"> Zionists </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="224.16" etime="226.89" spkid="MS5" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="224.46" dur="2.38" conf="0.995"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="226.89" etime="231.11" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="226.89" dur="0.11" conf="0.989"> the </Word>
+<Word stime="227.00" dur="0.64" conf="0.989"> relationship </Word>
+<Word stime="227.71" dur="0.31" conf="0.986"> between </Word>
+<Word stime="228.02" dur="0.64" conf="0.989"> Zionism </Word>
+<Word stime="228.66" dur="0.09" conf="0.987"> and </Word>
+<Word stime="228.75" dur="0.69" conf="0.989"> Judaism </Word>
+<Word stime="229.49" dur="0.18" conf="0.989"> has </Word>
+<Word stime="229.67" dur="0.35" conf="0.989"> never </Word>
+<Word stime="230.06" dur="0.17" conf="0.989"> been </Word>
+<Word stime="230.23" dur="0.08" conf="0.989"> a </Word>
+<Word stime="230.31" dur="0.52" conf="0.989"> realistic </Word>
+<Word stime="230.94" dur="0.17" conf="0.951"> one </Word>
+<Word stime="231.11" dur="0.00" conf="0.502"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="231.11" etime="231.87" spkid="FS5" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="231.11" dur="0.71" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="231.87" etime="237.06" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="231.87" dur="0.34" conf="0.982"> those </Word>
+<Word stime="232.21" dur="0.15" conf="0.981"> who </Word>
+<Word stime="232.40" dur="0.15" conf="0.972"> put </Word>
+<Word stime="232.62" dur="0.29" conf="0.978"> forward </Word>
+<Word stime="232.91" dur="0.13" conf="0.982"> the </Word>
+<Word stime="233.04" dur="0.66" conf="0.982"> ideology </Word>
+<Word stime="233.70" dur="0.08" conf="0.982"> of </Word>
+<Word stime="233.78" dur="0.45" conf="0.976"> Zionism </Word>
+<Word stime="234.74" dur="0.12" conf="0.614"> were </Word>
+<Word stime="234.97" dur="0.36" conf="0.981"> people </Word>
+<Word stime="235.33" dur="0.14" conf="0.982"> who </Word>
+<Word stime="235.47" dur="0.20" conf="0.952"> had </Word>
+<Word stime="235.67" dur="0.45" conf="0.982"> nothing </Word>
+<Word stime="236.14" dur="0.11" conf="0.982"> to </Word>
+<Word stime="236.25" dur="0.21" conf="0.982"> do </Word>
+<Word stime="236.46" dur="0.19" conf="0.982"> with </Word>
+<Word stime="236.70" dur="0.35" conf="0.981"> religion </Word>
+<Word stime="237.05" dur="0.00" conf="0.537"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="238.54" etime="239.37" spkid="MS5" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="238.84" dur="0.23" conf="0.944"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="239.61" etime="245.47" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="239.61" dur="0.42" conf="0.535"> Max </Word>
+<Word stime="240.07" dur="0.15" conf="0.655"> nor </Word>
+<Word stime="240.22" dur="0.45" conf="0.658"> Dow </Word>
+<Word stime="240.67" dur="0.15" conf="0.413"> . </Word>
+<Word stime="240.82" dur="0.22" conf="0.982"> The </Word>
+<Word stime="241.04" dur="0.40" conf="0.983"> second </Word>
+<Word stime="241.55" dur="0.34" conf="0.982"> important </Word>
+<Word stime="242.06" dur="0.38" conf="0.696"> movement </Word>
+<Word stime="242.06" dur="0.38" conf="0.124"> Movement </Word>
+<Word stime="242.44" dur="0.30" conf="0.968"> leader </Word>
+<Word stime="242.82" dur="0.27" conf="0.982"> after </Word>
+<Word stime="244.02" dur="0.21" conf="0.978"> was </Word>
+<Word stime="244.23" dur="0.08" conf="0.981"> a </Word>
+<Word stime="244.31" dur="0.55" conf="0.982"> confirmed </Word>
+<Word stime="244.97" dur="0.43" conf="0.983"> atheist </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="245.47" etime="251.16" spkid="MS5" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="245.47" dur="0.51" conf="0.977"> {fw} </Word>
+<Word stime="245.98" dur="2.74" conf="0.840"> , </Word>
+<Word stime="248.72" dur="2.14" conf="0.983"> {fw} </Word>
+<Word stime="250.86" dur="0.00" conf="0.392"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="251.63" etime="257.27" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="251.63" dur="0.38" conf="0.979"> Most </Word>
+<Word stime="252.01" dur="0.35" conf="0.988"> devout </Word>
+<Word stime="252.45" dur="0.46" conf="0.992"> Jews </Word>
+<Word stime="252.91" dur="0.40" conf="0.992"> regarded </Word>
+<Word stime="253.40" dur="0.64" conf="0.992"> Zionism </Word>
+<Word stime="254.04" dur="0.16" conf="0.973"> as </Word>
+<Word stime="254.20" dur="0.14" conf="0.988"> an </Word>
+<Word stime="254.44" dur="0.38" conf="0.991"> anti </Word>
+<Word stime="254.82" dur="0.50" conf="0.991"> religious </Word>
+<Word stime="255.32" dur="0.70" conf="0.975"> ideology </Word>
+<Word stime="256.30" dur="0.20" conf="0.990"> and </Word>
+<Word stime="256.50" dur="0.54" conf="0.992"> rejected </Word>
+<Word stime="257.04" dur="0.10" conf="0.963"> it </Word>
+<Word stime="257.14" dur="0.00" conf="0.662"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="258.18" etime="261.85" spkid="MS5" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="258.48" dur="0.39" conf="0.958"> {fw} </Word>
+<Word stime="260.14" dur="0.51" conf="0.455"> {fw} </Word>
+<Word stime="260.65" dur="0.90" conf="0.978"> {fw} </Word>
+<Word stime="261.55" dur="0.00" conf="0.438"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="262.29" etime="266.16" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="262.46" dur="0.35" conf="0.697"> Devout </Word>
+<Word stime="262.89" dur="0.39" conf="0.973"> Jews </Word>
+<Word stime="263.34" dur="0.25" conf="0.979"> still </Word>
+<Word stime="263.59" dur="0.41" conf="0.458"> regards </Word>
+<Word stime="263.59" dur="0.41" conf="0.300"> regard </Word>
+<Word stime="264.10" dur="0.32" conf="0.978"> Zionism </Word>
+<Word stime="264.72" dur="0.15" conf="0.978"> in </Word>
+<Word stime="264.93" dur="0.28" conf="0.978"> those </Word>
+<Word stime="265.21" dur="0.42" conf="0.979"> terms </Word>
+<Word stime="265.78" dur="0.34" conf="0.976"> today </Word>
+<Word stime="266.12" dur="0.00" conf="0.298"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="266.16" etime="270.45" spkid="MS4" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="266.16" dur="0.26" conf="0.976"> {fw} </Word>
+<Word stime="269.13" dur="0.39" conf="0.958"> {fw} </Word>
+<Word stime="269.69" dur="0.46" conf="0.590"> {fw} </Word>
+<Word stime="270.15" dur="0.00" conf="0.438"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="270.65" etime="280.71" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="270.65" dur="0.40" conf="0.977"> Someone </Word>
+<Word stime="271.15" dur="0.40" conf="0.979"> walking </Word>
+<Word stime="271.55" dur="0.39" conf="0.979"> about </Word>
+<Word stime="271.94" dur="0.12" conf="0.916"> in </Word>
+<Word stime="272.06" dur="0.34" conf="0.903"> developed </Word>
+<Word stime="272.56" dur="0.43" conf="0.978"> areas </Word>
+<Word stime="272.99" dur="0.09" conf="0.977"> of </Word>
+<Word stime="273.08" dur="0.63" conf="0.976"> Jerusalem </Word>
+<Word stime="274.03" dur="0.15" conf="0.620"> can </Word>
+<Word stime="274.03" dur="0.15" conf="0.128"> can't </Word>
+<Word stime="274.21" dur="0.16" conf="0.972"> see </Word>
+<Word stime="274.37" dur="0.57" conf="0.978"> slogans </Word>
+<Word stime="274.94" dur="0.25" conf="0.968"> written </Word>
+<Word stime="275.25" dur="0.15" conf="0.382"> out </Word>
+<Word stime="275.25" dur="0.15" conf="0.366"> up </Word>
+<Word stime="275.64" dur="0.15" conf="0.979"> to </Word>
+<Word stime="275.79" dur="0.13" conf="0.979"> the </Word>
+<Word stime="275.92" dur="0.34" conf="0.977"> effect </Word>
+<Word stime="276.34" dur="0.22" conf="0.979"> that </Word>
+<Word stime="277.12" dur="0.86" conf="0.978"> Judaism </Word>
+<Word stime="277.98" dur="0.17" conf="0.977"> and </Word>
+<Word stime="278.20" dur="0.68" conf="0.977"> Zionism </Word>
+<Word stime="278.94" dur="0.18" conf="0.880"> are </Word>
+<Word stime="279.30" dur="0.78" conf="0.974"> diametrically </Word>
+<Word stime="280.08" dur="0.59" conf="0.979"> opposed </Word>
+<Word stime="280.67" dur="0.00" conf="0.484"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="282.17" etime="285.63" spkid="FS6" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="282.47" dur="3.12" conf="0.998"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="285.63" etime="287.89" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="285.63" dur="0.37" conf="0.924"> these </Word>
+<Word stime="286.00" dur="0.35" conf="0.960"> devout </Word>
+<Word stime="286.44" dur="0.43" conf="0.978"> Jews </Word>
+<Word stime="287.07" dur="0.34" conf="0.826"> oppose </Word>
+<Word stime="287.50" dur="0.21" conf="0.223"> owners </Word>
+<Word stime="287.50" dur="0.21" conf="0.176"> ironies </Word>
+<Word stime="287.50" dur="0.21" conf="0.171"> Zionists </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="287.89" etime="288.56" spkid="FS6" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="287.89" dur="0.63" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="288.56" etime="292.44" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="288.56" dur="0.22" conf="0.988"> they </Word>
+<Word stime="288.78" dur="0.38" conf="0.980"> carry </Word>
+<Word stime="289.16" dur="0.73" conf="0.990"> slogans </Word>
+<Word stime="290.03" dur="0.47" conf="0.990"> protesting </Word>
+<Word stime="290.61" dur="0.11" conf="0.939"> the </Word>
+<Word stime="290.72" dur="0.38" conf="0.868"> Zionist </Word>
+<Word stime="291.46" dur="0.44" conf="0.989"> Israeli </Word>
+<Word stime="292.00" dur="0.39" conf="0.989"> policy </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="292.44" etime="305.31" spkid="MS6" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="292.44" dur="0.29" conf="0.778"> {fw} </Word>
+<Word stime="293.80" dur="0.26" conf="0.970"> {fw} </Word>
+<Word stime="294.06" dur="0.78" conf="0.836"> {fw} </Word>
+<Word stime="296.69" dur="0.36" conf="0.877"> {fw} </Word>
+<Word stime="299.38" dur="1.53" conf="0.985"> {fw} </Word>
+<Word stime="304.53" dur="0.48" conf="0.981"> {fw} </Word>
+<Word stime="305.01" dur="0.00" conf="0.516"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="305.34" etime="311.87" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="305.34" dur="0.31" conf="0.976"> This </Word>
+<Word stime="305.85" dur="0.26" conf="0.577"> images </Word>
+<Word stime="305.85" dur="0.26" conf="0.190"> image </Word>
+<Word stime="306.20" dur="0.14" conf="0.700"> of </Word>
+<Word stime="306.37" dur="0.44" conf="0.961"> Jews </Word>
+<Word stime="306.93" dur="0.53" conf="0.975"> protesting </Word>
+<Word stime="307.46" dur="0.39" conf="0.976"> against </Word>
+<Word stime="308.06" dur="0.60" conf="0.976"> Israel's </Word>
+<Word stime="308.69" dur="0.60" conf="0.971"> Sabra </Word>
+<Word stime="309.55" dur="0.21" conf="0.974"> and </Word>
+<Word stime="309.76" dur="0.18" conf="0.199"> shipped </Word>
+<Word stime="309.76" dur="0.18" conf="0.153"> shot </Word>
+<Word stime="309.76" dur="0.18" conf="0.118"> sharp </Word>
+<Word stime="310.05" dur="0.12" conf="0.395"> to </Word>
+<Word stime="310.05" dur="0.12" conf="0.177"> tool </Word>
+<Word stime="310.17" dur="0.12" conf="0.407"> the </Word>
+<Word stime="310.17" dur="0.12" conf="0.190"> of </Word>
+<Word stime="310.43" dur="0.58" conf="0.975"> massacres </Word>
+<Word stime="311.09" dur="0.09" conf="0.465"> in </Word>
+<Word stime="311.23" dur="0.34" conf="0.874"> nineteen </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="314.19" etime="316.03" spkid="FS6" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="314.49" dur="1.24" conf="0.995"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="316.09" etime="319.30" spkid="MS7" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="316.09" dur="0.15" conf="0.959"> the </Word>
+<Word stime="316.24" dur="0.50" conf="0.905"> placards </Word>
+<Word stime="316.86" dur="0.17" conf="0.427"> they </Word>
+<Word stime="316.86" dur="0.17" conf="0.275"> the </Word>
+<Word stime="317.10" dur="0.31" conf="0.218"> cherry </Word>
+<Word stime="317.10" dur="0.31" conf="0.139"> carry </Word>
+<Word stime="317.49" dur="0.42" conf="0.396"> revealed </Word>
+<Word stime="317.49" dur="0.42" conf="0.124"> review </Word>
+<Word stime="317.49" dur="0.42" conf="0.119"> reveals </Word>
+<Word stime="318.02" dur="0.09" conf="0.839"> the </Word>
+<Word stime="318.14" dur="0.49" conf="0.261"> Zionist </Word>
+<Word stime="318.14" dur="0.49" conf="0.236"> science </Word>
+<Word stime="318.14" dur="0.49" conf="0.181"> Science </Word>
+<Word stime="318.72" dur="0.54" conf="0.188"> prize </Word>
+<Word stime="318.72" dur="0.54" conf="0.177"> Times </Word>
+<Word stime="318.72" dur="0.54" conf="0.135"> crimes </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="319.30" etime="324.58" spkid="MS6" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="319.30" dur="0.65" conf="0.972"> {fw} </Word>
+<Word stime="319.95" dur="4.24" conf="0.840"> , </Word>
+<Word stime="324.19" dur="0.09" conf="0.732"> {fw} </Word>
+<Word stime="324.28" dur="0.00" conf="0.392"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="324.60" etime="329.99" spkid="MS7" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="324.60" dur="0.25" conf="0.978"> All </Word>
+<Word stime="324.85" dur="0.18" conf="0.977"> of </Word>
+<Word stime="325.13" dur="0.25" conf="0.724"> this </Word>
+<Word stime="325.50" dur="0.34" conf="0.953"> show </Word>
+<Word stime="325.84" dur="0.17" conf="0.978"> that </Word>
+<Word stime="326.05" dur="0.20" conf="0.977"> there </Word>
+<Word stime="326.30" dur="0.17" conf="0.962"> is </Word>
+<Word stime="326.47" dur="0.08" conf="0.978"> a </Word>
+<Word stime="326.64" dur="0.44" conf="0.978"> huge </Word>
+<Word stime="327.08" dur="0.28" conf="0.970"> gulf </Word>
+<Word stime="327.43" dur="0.29" conf="0.749"> between </Word>
+<Word stime="327.91" dur="0.33" conf="0.843"> Israeli </Word>
+<Word stime="328.53" dur="0.40" conf="0.403"> chair </Word>
+<Word stime="328.53" dur="0.40" conf="0.303"> tear </Word>
+<Word stime="329.14" dur="0.11" conf="0.944"> in </Word>
+<Word stime="329.28" dur="0.12" conf="0.926"> two </Word>
+<Word stime="329.40" dur="0.37" conf="0.930"> days </Word>
+<Word stime="329.77" dur="0.00" conf="0.541"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="329.99" etime="331.47" spkid="FS6" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="329.99" dur="1.18" conf="0.997"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="332.92" etime="347.65" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="332.92" dur="0.24" conf="0.978"> in </Word>
+<Word stime="333.26" dur="0.34" conf="0.978"> fact </Word>
+<Word stime="333.60" dur="0.36" conf="0.749"> , </Word>
+<Word stime="333.96" dur="0.15" conf="0.978"> it </Word>
+<Word stime="334.11" dur="0.17" conf="0.978"> is </Word>
+<Word stime="334.28" dur="0.28" conf="0.978"> quite </Word>
+<Word stime="334.71" dur="0.59" conf="0.978"> impossible </Word>
+<Word stime="335.30" dur="0.21" conf="0.978"> for </Word>
+<Word stime="335.51" dur="0.08" conf="0.921"> a </Word>
+<Word stime="335.73" dur="0.44" conf="0.976"> sincere </Word>
+<Word stime="336.28" dur="0.36" conf="0.864"> devout </Word>
+<Word stime="336.73" dur="0.24" conf="0.421"> Jews </Word>
+<Word stime="336.73" dur="0.24" conf="0.176"> due </Word>
+<Word stime="337.20" dur="0.23" conf="0.977"> to </Word>
+<Word stime="337.51" dur="0.32" conf="0.932"> oppress </Word>
+<Word stime="337.94" dur="0.27" conf="0.977"> other </Word>
+<Word stime="338.21" dur="0.49" conf="0.424"> people's </Word>
+<Word stime="338.70" dur="1.04" conf="0.596"> . </Word>
+<Word stime="339.74" dur="0.32" conf="0.978"> Although </Word>
+<Word stime="340.08" dur="0.10" conf="0.978"> the </Word>
+<Word stime="340.27" dur="0.36" conf="0.978"> basis </Word>
+<Word stime="340.63" dur="0.09" conf="0.977"> of </Word>
+<Word stime="340.74" dur="0.10" conf="0.685"> their </Word>
+<Word stime="340.74" dur="0.10" conf="0.124"> the </Word>
+<Word stime="340.84" dur="0.46" conf="0.977"> religion </Word>
+<Word stime="341.30" dur="0.26" conf="0.969"> . </Word>
+<Word stime="341.56" dur="0.16" conf="0.929"> The </Word>
+<Word stime="341.78" dur="0.25" conf="0.346"> tour </Word>
+<Word stime="341.78" dur="0.25" conf="0.272"> Tour </Word>
+<Word stime="342.45" dur="0.21" conf="0.977"> has </Word>
+<Word stime="342.73" dur="0.28" conf="0.977"> become </Word>
+<Word stime="343.01" dur="0.64" conf="0.977"> interspersed </Word>
+<Word stime="343.81" dur="0.13" conf="0.978"> with </Word>
+<Word stime="344.01" dur="0.30" conf="0.894"> human </Word>
+<Word stime="344.31" dur="0.55" conf="0.915"> words </Word>
+<Word stime="345.04" dur="0.19" conf="0.940"> and </Word>
+<Word stime="345.31" dur="0.36" conf="0.969"> corrupted </Word>
+<Word stime="345.81" dur="0.20" conf="0.641"> since </Word>
+<Word stime="345.81" dur="0.20" conf="0.125"> sentence </Word>
+<Word stime="346.01" dur="0.18" conf="0.646"> its </Word>
+<Word stime="346.19" dur="0.47" conf="0.750"> revelation </Word>
+<Word stime="347.45" dur="0.19" conf="0.812"> it </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="347.65" etime="350.71" spkid="MS7" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="347.95" dur="0.52" conf="0.971"> nevertheless </Word>
+<Word stime="348.47" dur="0.09" conf="0.835"> , </Word>
+<Word stime="348.56" dur="0.36" conf="0.784"> commands </Word>
+<Word stime="349.09" dur="0.27" conf="0.597"> peace </Word>
+<Word stime="349.09" dur="0.27" conf="0.133"> piece </Word>
+<Word stime="349.63" dur="0.04" conf="0.416"> and </Word>
+<Word stime="349.67" dur="0.27" conf="0.971"> just </Word>
+<Word stime="349.94" dur="0.52" conf="0.726"> , </Word>
+<Word stime="350.46" dur="0.21" conf="0.420"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="350.71" etime="353.06" spkid="FS6" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="350.71" dur="2.05" conf="0.999"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="353.31" etime="379.14" spkid="MS7" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="353.31" dur="0.15" conf="0.973"> for </Word>
+<Word stime="353.51" dur="0.20" conf="0.973"> these </Word>
+<Word stime="353.71" dur="0.60" conf="0.973"> reasons </Word>
+<Word stime="354.31" dur="0.36" conf="0.718"> , </Word>
+<Word stime="354.67" dur="0.30" conf="0.480"> devout </Word>
+<Word stime="354.67" dur="0.30" conf="0.138"> developed </Word>
+<Word stime="355.04" dur="0.35" conf="0.574"> Jews </Word>
+<Word stime="355.57" dur="0.66" conf="0.410"> criticized </Word>
+<Word stime="355.57" dur="0.66" conf="0.345"> criticize </Word>
+<Word stime="356.30" dur="0.30" conf="0.869"> Israeli </Word>
+<Word stime="356.79" dur="0.44" conf="0.299"> chair </Word>
+<Word stime="356.79" dur="0.44" conf="0.229"> tear </Word>
+<Word stime="356.79" dur="0.44" conf="0.191"> terror </Word>
+<Word stime="357.41" dur="0.20" conf="0.966"> as </Word>
+<Word stime="357.61" dur="0.06" conf="0.973"> a </Word>
+<Word stime="357.67" dur="0.68" conf="0.973"> violation </Word>
+<Word stime="358.35" dur="0.09" conf="0.973"> of </Word>
+<Word stime="358.47" dur="0.10" conf="0.972"> the </Word>
+<Word stime="358.57" dur="0.23" conf="0.445"> tour </Word>
+<Word stime="358.57" dur="0.23" conf="0.139"> Tour </Word>
+<Word stime="358.80" dur="1.10" conf="0.673"> . </Word>
+<Word stime="359.90" dur="0.24" conf="0.973"> One </Word>
+<Word stime="360.14" dur="0.13" conf="0.973"> of </Word>
+<Word stime="360.30" dur="0.28" conf="0.971"> these </Word>
+<Word stime="360.70" dur="0.18" conf="0.959"> is </Word>
+<Word stime="360.98" dur="0.42" conf="0.973"> Britain's </Word>
+<Word stime="361.40" dur="0.28" conf="0.419"> chief </Word>
+<Word stime="361.40" dur="0.28" conf="0.329"> Chief </Word>
+<Word stime="361.75" dur="0.42" conf="0.421"> rabbi </Word>
+<Word stime="361.75" dur="0.42" conf="0.331"> Rabbi </Word>
+<Word stime="362.49" dur="0.56" conf="0.735"> Professor </Word>
+<Word stime="363.16" dur="0.45" conf="0.973"> Jonathan </Word>
+<Word stime="363.61" dur="0.56" conf="0.789"> Sacks </Word>
+<Word stime="364.37" dur="0.22" conf="0.879"> who </Word>
+<Word stime="364.87" dur="0.59" conf="0.919"> criticized </Word>
+<Word stime="365.46" dur="0.10" conf="0.971"> the </Word>
+<Word stime="365.56" dur="0.25" conf="0.971"> way </Word>
+<Word stime="365.84" dur="0.13" conf="0.722"> the </Word>
+<Word stime="366.21" dur="0.30" conf="0.946"> Israeli </Word>
+<Word stime="366.63" dur="0.48" conf="0.805"> policy </Word>
+<Word stime="367.14" dur="0.15" conf="0.897"> is </Word>
+<Word stime="367.38" dur="0.33" conf="0.972"> treated </Word>
+<Word stime="368.03" dur="0.20" conf="0.973"> as </Word>
+<Word stime="368.23" dur="0.45" conf="0.957"> equivalent </Word>
+<Word stime="368.80" dur="0.11" conf="0.913"> to </Word>
+<Word stime="368.94" dur="0.14" conf="0.709"> two </Word>
+<Word stime="369.16" dur="0.32" conf="0.706"> days </Word>
+<Word stime="369.48" dur="0.13" conf="0.876"> . </Word>
+<Word stime="369.61" dur="0.07" conf="0.829"> In </Word>
+<Word stime="369.70" dur="0.07" conf="0.509"> a </Word>
+<Word stime="369.70" dur="0.07" conf="0.225"> the </Word>
+<Word stime="369.77" dur="0.48" conf="0.972"> statement </Word>
+<Word stime="370.25" dur="0.11" conf="0.973"> he </Word>
+<Word stime="370.40" dur="0.14" conf="0.973"> made </Word>
+<Word stime="370.58" dur="0.13" conf="0.973"> in </Word>
+<Word stime="370.71" dur="0.67" conf="0.973"> 2000 </Word>
+<Word stime="371.38" dur="0.10" conf="0.971"> and </Word>
+<Word stime="371.48" dur="1.73" conf="0.973"> 2 </Word>
+<Word stime="373.21" dur="0.00" conf="0.730"> . </Word>
+<Word stime="373.21" dur="0.26" conf="0.973"> There </Word>
+<Word stime="373.47" dur="0.13" conf="0.973"> are </Word>
+<Word stime="373.67" dur="0.28" conf="0.973"> things </Word>
+<Word stime="373.95" dur="0.13" conf="0.973"> that </Word>
+<Word stime="374.08" dur="0.28" conf="0.904"> happen </Word>
+<Word stime="374.43" dur="0.12" conf="0.973"> on </Word>
+<Word stime="374.55" dur="0.07" conf="0.971"> a </Word>
+<Word stime="374.62" dur="0.36" conf="0.973"> daily </Word>
+<Word stime="374.98" dur="0.63" conf="0.973"> basis </Word>
+<Word stime="375.61" dur="0.23" conf="0.457"> , </Word>
+<Word stime="375.84" dur="0.21" conf="0.973"> which </Word>
+<Word stime="376.09" dur="0.19" conf="0.973"> makes </Word>
+<Word stime="376.28" dur="0.16" conf="0.973"> me </Word>
+<Word stime="376.51" dur="0.28" conf="0.973"> feel </Word>
+<Word stime="376.87" dur="0.31" conf="0.973"> very </Word>
+<Word stime="377.33" dur="0.65" conf="0.973"> uncomfortable </Word>
+<Word stime="378.08" dur="0.32" conf="0.914"> residue </Word>
+<Word stime="378.40" dur="0.28" conf="0.625"> , </Word>
+<Word stime="378.68" dur="0.11" conf="0.843"> he </Word>
+<Word stime="378.79" dur="0.19" conf="0.891"> said </Word>
+<Word stime="378.98" dur="0.00" conf="0.504"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="379.14" etime="380.32" spkid="MS6" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="379.14" dur="0.88" conf="0.993"> {fw} </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="381.89" etime="388.26" spkid="MS7" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="381.98" dur="0.30" conf="0.974"> even </Word>
+<Word stime="382.28" dur="0.25" conf="0.719"> some </Word>
+<Word stime="382.28" dur="0.25" conf="0.101"> so </Word>
+<Word stime="382.71" dur="0.53" conf="0.969"> Israeli </Word>
+<Word stime="383.24" dur="0.59" conf="0.969"> soldiers </Word>
+<Word stime="383.93" dur="0.40" conf="0.811"> opposed </Word>
+<Word stime="384.33" dur="0.09" conf="0.974"> the </Word>
+<Word stime="384.42" dur="0.46" conf="0.973"> government's </Word>
+<Word stime="384.94" dur="0.24" conf="0.974"> harsh </Word>
+<Word stime="385.18" dur="0.53" conf="0.845"> policies </Word>
+<Word stime="386.59" dur="0.19" conf="0.974"> in </Word>
+<Word stime="386.78" dur="0.72" conf="0.974"> 2000 </Word>
+<Word stime="387.50" dur="0.13" conf="0.973"> and </Word>
+<Word stime="387.66" dur="0.33" conf="0.974"> two </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="388.26" etime="396.92" spkid="MS3" lang="eng-usa" lconf="1.00" trs="1">
+<Word stime="388.26" dur="0.35" conf="0.986"> some </Word>
+<Word stime="388.65" dur="0.15" conf="0.986"> two </Word>
+<Word stime="388.80" dur="0.30" conf="0.986"> hundred </Word>
+<Word stime="389.10" dur="0.12" conf="0.986"> and </Word>
+<Word stime="389.22" dur="0.44" conf="0.857"> fifty </Word>
+<Word stime="389.75" dur="0.43" conf="0.979"> Israeli </Word>
+<Word stime="390.18" dur="0.51" conf="0.985"> soldiers </Word>
+<Word stime="390.69" dur="0.47" conf="0.939"> refused </Word>
+<Word stime="391.27" dur="0.12" conf="0.986"> to </Word>
+<Word stime="391.39" dur="0.47" conf="0.986"> serve </Word>
+<Word stime="391.88" dur="0.08" conf="0.986"> in </Word>
+<Word stime="391.96" dur="0.11" conf="0.986"> the </Word>
+<Word stime="392.18" dur="0.48" conf="0.986"> occupied </Word>
+<Word stime="392.66" dur="0.65" conf="0.981"> territories </Word>
+<Word stime="393.31" dur="0.31" conf="0.665"> , </Word>
+<Word stime="393.62" dur="0.61" conf="0.986"> saying </Word>
+<Word stime="394.55" dur="0.26" conf="0.986"> we </Word>
+<Word stime="394.81" dur="0.13" conf="0.986"> do </Word>
+<Word stime="394.94" dur="0.22" conf="0.986"> not </Word>
+<Word stime="395.22" dur="0.26" conf="0.986"> want </Word>
+<Word stime="395.54" dur="0.17" conf="0.986"> to </Word>
+<Word stime="395.71" dur="0.39" conf="0.986"> attack </Word>
+<Word stime="396.10" dur="0.40" conf="0.986"> innocent </Word>
+<Word stime="396.57" dur="0.31" conf="0.986"> people </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

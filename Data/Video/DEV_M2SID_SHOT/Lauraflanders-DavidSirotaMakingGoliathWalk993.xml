@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Lauraflanders-DavidSirotaMakingGoliathWalk993</CreationID>
+  <InitialFrameID>Lauraflanders-DavidSirotaMakingGoliathWalk993/2519.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:02:47:933F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:01:23:966F1000">Lauraflanders-DavidSirotaMakingGoliathWalk993/2519.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:48:800F1000" end="T00:02:49:666F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:02:49:233F1000">Lauraflanders-DavidSirotaMakingGoliathWalk993/5077.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:54:566F1000" end="T00:02:55:700F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:02:55:133F1000">Lauraflanders-DavidSirotaMakingGoliathWalk993/5254.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>

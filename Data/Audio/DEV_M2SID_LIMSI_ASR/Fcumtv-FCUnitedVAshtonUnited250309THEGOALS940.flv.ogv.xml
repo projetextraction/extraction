@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Fcumtv-FCUnitedVAshtonUnited250309THEGOALS940.flv.ogv" path="/vol/nastlp004/corpora/quaero/petamedia/2012/dev12/wav/Fcumtv-FCUnitedVAshtonUnited250309THEGOALS940.flv.ogv.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.2"/>
+<Proc name="vrbs_lid" version="4.2" editor="Vocapia Research"/>
+<Proc name="vrbs_trans.eng-usa" version="3.6" editor="Vocapia Research"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="139.62" spdur="11.23" nw="37" tconf="0.70"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="11.23" gender="1" spkid="MS1" lang="eng-usa" lconf="0.44" nw="37" tconf="0.70"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="47.90" etime="50.54" spkid="MS1" lang="eng-usa" lconf="0.44" trs="1">
+<Word stime="47.90" dur="0.12" conf="0.629"> The </Word>
+<Word stime="48.34" dur="0.14" conf="0.316"> ball </Word>
+<Word stime="48.57" dur="0.20" conf="0.716"> right </Word>
+<Word stime="48.82" dur="0.11" conf="0.950"> on </Word>
+<Word stime="48.95" dur="0.08" conf="0.951"> the </Word>
+<Word stime="49.07" dur="0.18" conf="0.951"> left </Word>
+<Word stime="49.25" dur="0.16" conf="0.934"> hand </Word>
+<Word stime="49.41" dur="0.26" conf="0.934"> side </Word>
+<Word stime="49.80" dur="0.16" conf="0.171"> over </Word>
+<Word stime="49.80" dur="0.16" conf="0.154"> oblique </Word>
+<Word stime="50.15" dur="0.35" conf="0.330"> goals </Word>
+<Word stime="50.15" dur="0.35" conf="0.162"> gold </Word>
+<Word stime="50.15" dur="0.35" conf="0.143"> golds </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="102.73" etime="108.97" spkid="MS1" lang="eng-usa" lconf="0.44" trs="1">
+<Word stime="102.73" dur="0.26" conf="0.525"> what </Word>
+<Word stime="102.73" dur="0.26" conf="0.144"> one </Word>
+<Word stime="102.99" dur="0.05" conf="0.765"> a </Word>
+<Word stime="103.15" dur="0.20" conf="0.776"> good </Word>
+<Word stime="103.35" dur="0.31" conf="0.826"> ball </Word>
+<Word stime="103.66" dur="0.15" conf="0.958"> from </Word>
+<Word stime="103.90" dur="0.10" conf="0.374"> the </Word>
+<Word stime="103.90" dur="0.10" conf="0.233"> Nicky </Word>
+<Word stime="104.24" dur="0.14" conf="0.449"> people </Word>
+<Word stime="104.38" dur="1.06" conf="0.324"> . </Word>
+<Word stime="105.44" dur="0.91" conf="0.960"> {fw} </Word>
+<Word stime="106.35" dur="0.11" conf="0.502"> , </Word>
+<Word stime="106.46" dur="0.23" conf="0.827"> John </Word>
+<Word stime="106.72" dur="0.11" conf="0.833"> G </Word>
+<Word stime="106.83" dur="0.26" conf="0.803"> Rowland </Word>
+<Word stime="107.16" dur="0.13" conf="0.829"> in </Word>
+<Word stime="107.29" dur="0.08" conf="0.573"> the </Word>
+<Word stime="107.29" dur="0.08" conf="0.110"> a </Word>
+<Word stime="107.37" dur="0.31" conf="0.464"> box </Word>
+<Word stime="107.37" dur="0.31" conf="0.123"> books </Word>
+<Word stime="107.79" dur="0.15" conf="0.588"> when </Word>
+<Word stime="107.94" dur="0.10" conf="0.704"> he </Word>
+<Word stime="108.04" dur="0.44" conf="0.815"> plays </Word>
+<Word stime="108.48" dur="0.10" conf="0.951"> in </Word>
+<Word stime="108.60" dur="0.06" conf="0.953"> the </Word>
+<Word stime="108.71" dur="0.21" conf="0.551"> vote </Word>
+<Word stime="108.71" dur="0.21" conf="0.134"> Bell </Word>
+<Word stime="108.92" dur="0.00" conf="0.525"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="137.26" etime="139.61" spkid="MS1" lang="eng-usa" lconf="0.44" trs="1">
+<Word stime="137.26" dur="0.69" conf="0.982"> {fw} </Word>
+<Word stime="137.95" dur="0.92" conf="0.840"> , </Word>
+<Word stime="138.87" dur="0.69" conf="0.982"> {fw} </Word>
+<Word stime="139.56" dur="0.00" conf="0.392"> . </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

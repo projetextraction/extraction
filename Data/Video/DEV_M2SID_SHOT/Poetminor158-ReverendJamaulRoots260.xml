@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Segmentation>
+  <CreationID>Poetminor158-ReverendJamaulRoots260</CreationID>
+  <InitialFrameID>Poetminor158-ReverendJamaulRoots260/00066.jpg</InitialFrameID>
+  <Segments type="SHOT">
+    <Segment start="T00:00:00:000F1000" end="T00:00:04:400F1000">
+      <Index>0</Index>
+      <KeyFrameID time="T00:00:02:200F1000">Poetminor158-ReverendJamaulRoots260/00066.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:04:400F1000" end="T00:00:08:366F1000">
+      <Index>1</Index>
+      <KeyFrameID time="T00:00:06:366F1000">Poetminor158-ReverendJamaulRoots260/00191.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:00:08:366F1000" end="T00:02:05:133F1000">
+      <Index>2</Index>
+      <KeyFrameID time="T00:01:06:733F1000">Poetminor158-ReverendJamaulRoots260/02002.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:02:06:066F1000" end="T00:02:06:800F1000">
+      <Index>3</Index>
+      <KeyFrameID time="T00:02:06:433F1000">Poetminor158-ReverendJamaulRoots260/03793.jpg</KeyFrameID>
+    </Segment>
+    <Segment start="T00:06:02:100F1000" end="T00:06:02:966F1000">
+      <Index>4</Index>
+      <KeyFrameID time="T00:06:02:533F1000">Poetminor158-ReverendJamaulRoots260/10876.jpg</KeyFrameID>
+    </Segment>
+  </Segments>
+</Segmentation>
