@@ -11,7 +11,7 @@ from glob import glob
 
 
         
-path = "Data\Video\DEV_M2SID_SHOT"
+# path = "../../Data/Video/DEV_M2SID_SHOT"
 
 def recup_path_img(path):
     ldir = os.listdir(path)
@@ -21,18 +21,16 @@ def recup_path_img(path):
         if ldir[i][-3:] == 'xml':
             y = "ficxml"
         else:
-            y = glob(os.path.join(path+"\\"+ldir[i], '*.jpg'))
+            y = glob(os.path.join(path+"/"+ldir[i], '*.jpg'))
             for j in range(len(y)):
                 path_tmp = {"filename":ldir[i], "path_img": y[j]}
                 path_im.append(path_tmp)
             table_img = pd.DataFrame(path_im)
     return table_img
         
-table_img = recup_path_img(path)
+# table_img = recup_path_img(path)
 
 #exemple of img importation an visualisation
-img = imread(table_img["path_img"][7])
-plt.imshow(img, cmap='Greys_r')
-
-
+# img = imread(table_img["path_img"][7])
+# plt.imshow(img, cmap='Greys_r')
 
