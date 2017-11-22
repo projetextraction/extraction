@@ -30,7 +30,7 @@ def ech_data(data_text, interest_variable, pred_variable, test_size):
 def text_lower(X_train):
     data_min = []
     for i in range(len(X_train)):
-        X_train[i] = str(X_train[i])
+        X_train[i] = X_train[i]
         minuscule = X_train[i].lower()
         data_min.append(minuscule)
     return data_min

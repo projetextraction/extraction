@@ -62,6 +62,7 @@ X_train_concat_text, X_test_concat_text, y_train_concat_text, y_test_concat_text
 
 X_train_concat_text = X_train_concat_text.reset_index(drop=True)
 y_train_concat_text = y_train_concat_text.reset_index(drop=True)
+
 X_test_concat_text = X_test_concat_text.reset_index(drop=True)
 y_test_concat_text = y_test_concat_text.reset_index(drop=True)
 

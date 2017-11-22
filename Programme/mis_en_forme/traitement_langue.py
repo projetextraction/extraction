@@ -16,12 +16,10 @@ from  fonctions_text import * #fonctions associées
 import sklearn
 
 from sklearn.svm import SVC
-from sklearn.grid_search import GridSearchCV
 from sklearn.multiclass import OneVsRestClassifier
-from sklearn.ensemble import RandomForestClassifier
 from sklearn.cross_validation import cross_val_score
 from sklearn.cross_validation import train_test_split
-from sklearn.feature_extraction.text import  CountVectorizer
+from sklearn.feature_extraction.text import  CountVectorizer, TfidfVectorizer
 
 
 
@@ -109,13 +107,15 @@ for i in range(len(result_concept)):
 data_tags= pd.read_csv(path+"\data_cat_lang_tags_text.csv", sep = ";", encoding="ISO-8859-1")
 
 data_tags_concept = pd.merge(data_tags , result_concept, on='category_name')
-
+data_tags_concept = data_tags_concept.sort_values(['pk_document'], ascending = True)
 #Remise en forme des index
 data_tags_concept = select_lang(data_tags_concept, 'lang', "eng-usa")
 data_tags_concept = data_tags_concept.reset_index(drop=True)
 
     
-data_interest = recup_interest_var(data_tags_concept["tags"], data_tags_concept["category_id"])
+data_interest = recup_interest_var(data_tags_concept["tags"], data_tags_concept["category_name"])
+
+#recuperation d'une liste de tous les tags
 tags = [d['X'] for d in data_interest]
 
 #passage en minuscule
@@ -130,30 +130,43 @@ data_tags = snowball_list(data_tags, 'english')
 #Remise en forme du text nettoyé  
 data_fin = join_word_and_clean(data_tags)
 
+#split
 for i in range(len(data_fin)):
     data_fin[i] = data_fin[i].split()
-
+    
+#recuperation tags et category naùe avant jointure
 all_data = []
 for i in range(len(data_fin)):
-    tmp = {"tags": data_fin[i], "category_id": data_interest[i]["Y"] }
+    tmp = {"tags": data_fin[i], "category_name": data_interest[i]["Y"] }
     all_data.append(tmp)
-
+    
+#convert to dataframe
 data_tags_fin = pd.DataFrame(all_data)
 
-data_tags_concept_fin = pd.merge(data_tags_concept , data_tags_fin, on='category_id')
-  
-X_train_tags, X_test_tags, y_train_tags, y_test_tags = ech_data(data_tags_concept_fin, "tags_y", "category_id", 0.33)   
+#merge
+data_tags_concept_fin = pd.merge(data_tags_fin , data_tags_concept, on='category_name')
+#suppression doublons
+data_tags_concept_fin = data_tags_concept_fin.drop_duplicates(['filename'], keep='last') 
+#tri par clé des documents
+data_tags_concept_fin = data_tags_concept_fin.sort_values(['pk_document'], ascending = True)
+#reset index
+data_tags_concept_fin = data_tags_concept_fin.reset_index(drop=True)
 
+#apprentissage et test
+X_train_tags, X_test_tags, y_train_tags, y_test_tags = ech_data(data_tags_concept_fin, "tags_x", "category_name", 0.33)   
+
+#reset index
 X_test_tags = X_test_tags.reset_index(drop=True)
+y_test_tags = y_test_tags.reset_index(drop=True)
 
-y_train_concept = y_train_concept.reset_index(drop=True)
+X_train_tags = X_train_tags.reset_index(drop=True)
 y_train_tags = y_train_tags.reset_index(drop=True)
 
+#vecteur de tags trains par categorie : 1 vecteur = liste contenant tous les tags du train associée à la categorie
 concat_train = pd.concat([
 X_train_tags, y_train_tags], axis=1)
     
-concat_train_list = concat_train.groupby('category_id')['tags_y'].apply(list)
-
+concat_train_list = concat_train.groupby('category_name')['tags_x'].apply(list)
 x = pd.DataFrame(concat_train_list)
 
 tab = []
@@ -163,21 +176,23 @@ for i in range(len(x)):
         tmp = {"tags": x.iloc[i][j], "id":i}
         tab.append(tmp)
 
-
-        
+      
 concat_tags = []        
 for i in range(len(tab)):
     y = {"tags":' '.join([str(x) for x in tab[i]["tags"]]), "id":tab[i]["id"]}
     concat_tags.append(y)
 
+#re-nettoyage des tags
 for i in range(len(concat_tags)):  
         concat_tags[i]["tags"] = re.sub('[\W\_]', ' ', concat_tags[i]["tags"])
         concat_tags[i]["tags"] = re.sub('nan', '', concat_tags[i]["tags"]) 
         concat_tags[i]["tags"] = concat_tags[i]["tags"].split()
 
+#table de correspondance  categorie name
 data_corres = data_corres.sort_index(by=[1], ascending=[True])
 data_corres = data_corres.reset_index(drop=True)
 
+#recuperation du vecteur de tags nettoyé par categorie
 id_cat_tags = []        
 for i in range(len(concat_tags)):
     recup_id_cat = {"category_name":data_corres[0][i], "tags":concat_tags[i]['tags']}
@@ -185,16 +200,17 @@ for i in range(len(concat_tags)):
 
 id_cat_tags = pd.DataFrame(id_cat_tags)
 
-
+#merge to have concept
 data_train_tags_fin = pd.merge(result_concept,id_cat_tags, on='category_name')
 
-data_train_tags_concept = pd.merge(data_train_tags_fin, result_concept, on='category_name')
-
+#concatenation des concepts wordnet et des listes de tags par categorie
 final_train_vect = []
-for i in range(len(data_train_tags_concept)):
-    tmp_final_vect = {"concept_tags":data_train_tags_concept["tags"][i] + data_train_tags_concept["vect_concept_y"][i], "category_name":data_train_tags_concept["category_name"][i]}
+for i in range(len(data_train_tags_fin)):
+    tmp_final_vect = {"concept_tags":data_train_tags_fin["tags"][i] + data_train_tags_fin["vect_concept"][i], "category_name":data_train_tags_fin["category_name"][i]}
     final_train_vect.append(tmp_final_vect)
 
+
+#Jaccard similarity for all categories, between train (tags and concepts) and test (just tags)
 score_test = []
 for i in range(len(X_test_tags)):
     for j in range(len(final_train_vect)):
@@ -202,12 +218,134 @@ for i in range(len(X_test_tags)):
            score_test.append(tmp)
            
 score_test  = pd.DataFrame(score_test)
-         
+ 
+#max score by test        
 idx = score_test.groupby('id_test')['score'].idxmax()
 print(idx)
 
-X_test_tags[91]
 
+def using_idxmax_loc(df):
+    idx = df.groupby('id_test')['score'].idxmax()
+    return df.loc[idx, ['category_name', 'score']]
+
+#reste index
+result = using_idxmax_loc(score_test).reset_index(drop=True)
+
+#if max score > 0 -> similarité detectée = on rattache le, jeu de test à la categorie correspondant au score max
+result_for_tags = result[result["score"] > 0
+result_for_tags2 = result_for_tags.reset_index(drop = True)
+
+#sinon : aucune categorie attribuée, on recupere les id correspondants, pour alimenter le modele "description texte"
+#pour ameliorer la prediction
+result_for_model = result[result["score"] == 0]
+
+#result pred part 1 (on doit utiliser l'autre modele pour avoir le score totale)
+res = []
+for i in range(len(result_for_tags2)):
+    if result_for_tags2["category_name"][i] == y_test_tags[result_for_tags.iloc[i].name]:
+        y = 1
+        res.append(y)
+    else:
+        y=0
+sum(res)/len(res)
+
+#-------------------------------------Modele description text
+#recup path
+path = os.path.join(os.path.dirname(os.getcwd()), "mis_en_forme")
+
+#import data
+data_lang = pd.read_csv(path+"\data_cat_lang_tags_text.csv", sep = ";" )
+    
+'''modele description et text'''        
+data_lang["concat_text"] = ""
+
+#filtre langue anglaise
+data_text = select_lang(data_lang, 'lang', "eng-usa")
+
+#Remise en forme des index
+data_text = data_text.reset_index(drop=True)
+
+#remplissage variabke créée
+for i in range(len(data_text)):
+    data_text["concat_text"][i] = str(data_text["description"][i]) +' ' +str(data_text["text"][i])
+
+    
+data_interest = recup_interest_var(data_text["concat_text"], data_text["category_name"])
+text = [d['X'] for d in data_interest]
+
+#passage en minuscule
+data_min_text = text_lower(text)
+data_min_text = clean_and_split_text(text)  
+
+#stopwords, lemmatisation et stemming
+data_min_text = stopwords_supp_list('english', data_min_text)
+data_min_text = lemmatize_list(data_min_text)
+data_min_text = snowball_list(data_min_text, 'english')  
+
+#Remise en forme du text nettoyé  
+data_fin = join_word_and_clean(data_min_text)
+
+all_data = []
+for i in range(len(data_fin)):
+    tmp = {"concat_text": data_fin[i], "category_name": data_interest[i]["Y"] }
+    all_data.append(tmp)
+
+data_text_fin = pd.DataFrame(all_data)
+
+X_train_concat_text, X_test_concat_text, y_train_concat_text, y_test_concat_text = ech_data(data_text_fin, "concat_text", "category_name", 0.33)   
+
+X_train_concat_text = X_train_concat_text.reset_index(drop=True)
+y_train_concat_text = y_train_concat_text.reset_index(drop=True)
+
+X_test_concat_text = X_test_concat_text.reset_index(drop=True)
+
+
+result_for_model = result[result["score"] == 0]
+
+data_X_to_pred = []
+for i in range(len(result_for_model)):
+    ll = result_for_model.iloc[i].name
+    data_X_to_pred.append(ll)
+    
+X_test_data_pred = []
+for i in data_X_to_pred:
+    data_to_pred = X_test_concat_text[i]
+    X_test_data_pred.append(data_to_pred)
+
+y_test_data_pred = []    
+for i in data_X_to_pred:
+    data_to_pred = y_test_concat_text[i]
+    y_test_data_pred.append(data_to_pred)
+
+y_test_concat_text = y_test_concat_text.reset_index(drop=True)
+
+#modèle 
+
+#tf_idf
+vectorizer = TfidfVectorizer(max_df = 0.95, ngram_range =[1,3])
+
+X_train = vectorizer.fit_transform(X_train_concat_text)
+X_test = vectorizer.transform(X_test_data_pred)
+
+classif = OneVsRestClassifier(SVC())
+classif.fit(X_train, y_train_concat_text)
+
+pred = classif.predict(X_test)
+    
+#result into list
+res2 = []
+for i in range(len(pred)):
+    if pred[i] == y_test_concat_text[data_X_to_pred[i]]:
+        y = 1
+        res2.append(y)
+    else:
+        y=0
+        res2.append(y)
+
+#resultat final, concatenation du resultat semantique et du resultat du classifieur
+res_fin = res+res2
+
+print("final_score "+ str(sum(res_fin)/len(res_fin)))
 """
 def text_lower(X_train):
     data_min = []
