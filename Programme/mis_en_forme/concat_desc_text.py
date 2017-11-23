@@ -11,7 +11,8 @@ from sklearn.svm import SVC
 from sklearn.multiclass import OneVsRestClassifier
 from sklearn.cross_validation import cross_val_score
 from sklearn.feature_extraction.text import TfidfVectorizer
-
+from sklearn.grid_search import GridSearchCV
+from sklearn.metrics import f1_score
 from  fonctions_text import * #fonctions associées
 #select_lang, ech_data, text_lower, clean_and_split_text, stopwords_supp_list, snowball_list
 #fonctions_text import lemmatize_list, join_word_and_clean, recup_interest_var
@@ -74,12 +75,19 @@ vectorizer = TfidfVectorizer(max_df = 0.95, ngram_range =[1,3])
 X_train = vectorizer.fit_transform(X_train_concat_text)
 X_test = vectorizer.transform(X_test_concat_text)
 
-classif = OneVsRestClassifier(SVC())
-classif.fit(X_train, y_train_concat_text)
 
-scores = cross_val_score(classif, X_train, y_train_concat_text, cv=5)
+parameters = {
+    "estimator__C": [1,2,4,8],
+    "estimator__kernel": ["poly","rbf"],
+    "estimator__degree":[1, 2, 3, 4],
+}
 
-pred = classif.predict(X_test)
+model_to_set = OneVsRestClassifier(SVC())
+model_to_set.fit(X_train, y_train_concat_text)
+
+scores = cross_val_score(model_to_set, X_train, y_train_concat_text, cv=5)
+
+pred = model_to_set.predict(X_test)
 
 res = []
 for i in range(len(pred)):

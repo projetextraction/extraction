@@ -233,7 +233,7 @@ result = using_idxmax_loc(score_test).reset_index(drop=True)
 
 #if max score > 0 -> similarité detectée = on rattache le, jeu de test à la categorie correspondant au score max
 result_for_tags = result[result["score"] > 0
-result_for_tags2 = result_for_tags.reset_index(drop = True)
+result_for_tags = result_for_tags.reset_index(drop = True)
 
 #sinon : aucune categorie attribuée, on recupere les id correspondants, pour alimenter le modele "description texte"
 #pour ameliorer la prediction
@@ -241,8 +241,8 @@ result_for_model = result[result["score"] == 0]
 
 #result pred part 1 (on doit utiliser l'autre modele pour avoir le score totale)
 res = []
-for i in range(len(result_for_tags2)):
-    if result_for_tags2["category_name"][i] == y_test_tags[result_for_tags.iloc[i].name]:
+for i in range(len(result_for_tags )):
+    if result_for_tags ["category_name"][i] == y_test_tags[result_for_tags.iloc[i].name]:
         y = 1
         res.append(y)
     else:
@@ -250,6 +250,7 @@ for i in range(len(result_for_tags2)):
 sum(res)/len(res)
 
 #-------------------------------------Modele description text
+
 #recup path
 path = os.path.join(os.path.dirname(os.getcwd()), "mis_en_forme")
 
@@ -296,9 +297,8 @@ X_train_concat_text, X_test_concat_text, y_train_concat_text, y_test_concat_text
 
 X_train_concat_text = X_train_concat_text.reset_index(drop=True)
 y_train_concat_text = y_train_concat_text.reset_index(drop=True)
-
 X_test_concat_text = X_test_concat_text.reset_index(drop=True)
-
+y_test_concat_text = y_test_concat_text.reset_index(drop=True)
 
 result_for_model = result[result["score"] == 0]
 
@@ -317,7 +317,6 @@ for i in data_X_to_pred:
     data_to_pred = y_test_concat_text[i]
     y_test_data_pred.append(data_to_pred)
 
-y_test_concat_text = y_test_concat_text.reset_index(drop=True)
 
 #modèle 
 
@@ -346,7 +345,7 @@ for i in range(len(pred)):
 res_fin = res+res2
 
 print("final_score "+ str(sum(res_fin)/len(res_fin)))
-"""
+'''
 def text_lower(X_train):
     data_min = []
     for i in range(len(X_train)):
@@ -520,4 +519,4 @@ for i in range(len(data_train)):
         cv = sklearn.feature_extraction.text.CountVectorizer(vocabulary=result_concept["vect_concept"][j])
         y = cv.fit_transform([data_train[i]]).toarray()
         data.append(y)
-        """
+ '''       
