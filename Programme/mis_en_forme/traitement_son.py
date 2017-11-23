@@ -1,146 +1,106 @@
 # -*- coding: utf-8 -*-
 
-import os
-from bs4 import BeautifulSoup as Soup
-
 import pandas as pd
-
+from ast import literal_eval
 
 from table_img import recup_path_img
 from tablemedata import extract_metadata, extract_file_category
+from table_audio import (
+    extract_documents, extract_texts, calc_all_files_distinct_speaking_periods,
+    obtain_mfccs, delete_mfcc_empty_element, obtain_df_mean_vect
+)
+from predictions_functions import (
+    obtain_train_test_elements, estimate_model_prediction
+)
 
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.cross_validation import cross_val_score
+from sklearn.svm import SVC
+from sklearn.multiclass import OneVsRestClassifier
+from sklearn.model_selection import GridSearchCV
 
-TRANS_FILE = "../../Data/AUDIO/DEV_M2SID_LIMSI_ASR"
 PATH = "../../Data/Video/DEV_M2SID_SHOT"
 
-EXCLUDED_WORDS = [' {fw} ']
+
+def merge_dataframes(base_dataframe, other_dataframes):
+    '''Merge a dataframe with other(s)'''
+    # The other dataframe is 2-dimensionnal element with dataframe and join key
+    df = base_dataframe
+    for dtf, join_keys in other_dataframes:
+        df = pd.merge(df, dtf, how='inner', on=join_keys)
+    return df
 
 
-def extract_mots(mots, speech_seg, pk_mot, pk_segment):
-    words_list = speech_seg.find_all('Word')
-    for word in words_list:
-        mot = {
-            'pk_mot': pk_mot,
-            'pk_segment': pk_segment,
-            'txt': word.string,
-            'duree': word.get('dur'),
-            'conf': word.get('conf')
-        }
-        pk_mot += 1
-        mots.append(mot)
-    return mots, pk_mot
-
-
-def extract_segments(segments, mots, sp, pks_locuteur, sp_kids, pk_segment, pk_mot):
-    speech_segs = sp.find_all('SpeechSegment')
-    for speech_seg in speech_segs:
-        segment = {
-            'pk_segment': pk_segment,
-            'stime': speech_seg.get('stime'),
-            'etime': speech_seg.get('etime'),
-            'lang': speech_seg.get('lang')
-        }
-        segment['speaker'] = speech_seg.get('spkid')
-        ####
-        idx = sp_kids.index(segment['speaker'])
-        segment['pk_locuteur'] = pks_locuteur[idx]
-        ####
-        mots, pk_mot = extract_mots(mots, speech_seg, pk_mot, segment['pk_segment'])
-        if segment != {}:
-            segments.append(segment)
-            pk_segment += 1
-    return segments, mots, pk_segment, pk_mot
-
-
-# vecteurs locuteurs: gender, temps_parole, nombre de speechsegments,
-#                     temps moyen de paroles
-
-
-def extract_locuteurs(document, locuteurs, segments, mots, sp, pk_document, pk_locuteur, pk_segment, pk_mot):
-    speakers = sp.find_all('Speaker')
-    pks_locuteur , spkids = [], []
-    for speaker in speakers:
-        locuteur = {
-            'pk_locuteur': pk_locuteur,
-            'gender': speaker.get('gender'),
-            'speaker': speaker.get('spkid'),
-            'temps_parole': speaker.get('dur'),
-            'pk_document': pk_document
-        }
-        pks_locuteur.append(pk_locuteur)
-        spkids.append(locuteur['speaker'])
-        pk_locuteur += 1
-        locuteurs.append(locuteur)
-        document['lang'] = speaker.get('lang')
-    segments, mots, pk_segment, pk_mots =  extract_segments(
-        segments, mots, sp, pks_locuteur, spkids, pk_segment, pk_mot
-    )
-    return document, locuteurs, segments, mots, pk_locuteur, pk_segment, pk_mot
-
-
-def extract_documents():
-    documents = []
-    locuteurs, segments, mots = [], [], []
-    pk_document = 1
-    pk_locuteur, pk_segment, pk_mot = 1, 1, 1
-    for trans_file in os.listdir(TRANS_FILE):
-        document = {}
-        xml_file = open(TRANS_FILE + '/' + trans_file, encoding = "UTF-8")
-        xml_r = xml_file.read()
-        sp = Soup(xml_r, 'xml')
-        if trans_file[-3:] == 'xml':
-            file_name = trans_file[0:len(trans_file)-12]
-        document = {
-            'pk_document': pk_document,
-            'filename': file_name
-        }
-        document, locuteurs, segments, mots, pk_locuteur, pk_segment, pk_mots =  extract_locuteurs(
-            document, locuteurs, segments, mots, sp, pk_document, pk_locuteur, pk_segment, pk_mot
-        )
-        pk_document += 1
-        documents.append(document)
-    return documents, locuteurs, segments, mots
-
-
-def extract_text_doc(doc_title):
-    text_doc = []
-    dfa = df.loc[df['filename'] == doc_title]
-    dfb = dfa.sort_values(['pk_mot'], ascending=True)
-    for pk_seg in dfb['pk_segment'].unique():
-        dfc = dfb.loc[df['pk_segment'] == pk_seg]
-        for mot in list(dfc['txt']):
-            if mot not in EXCLUDED_WORDS:
-                text_doc.append(mot)
-    return text_doc
-
-doc_title = 'Aabbey1-InvitationToSummer2009RabbinicalStudySeminarAtHartmanIn262'
-# ' '.join(liste)
-
-
-documents, locuteurs, segments, mots = extract_documents()
+# Calcul de tous les dataframes "de base"
+df_documents, df_locuteurs, df_segments, df_mots = extract_documents()
 table_img = recup_path_img(PATH)
 df_metadata, df_data_tags, df_data_user = extract_metadata()
 df_category = extract_file_category()
-df_documents, df_locuteurs, df_segments, df_mots = (
-    pd.DataFrame(documents), pd.DataFrame(locuteurs),
-    pd.DataFrame(segments), pd.DataFrame(mots)
+
+# Calcul du dataframe contenant les textes reconstitués
+dfx = merge_dataframes(df_documents, [
+    [df_locuteurs, 'pk_document'], [df_segments, 'pk_locuteur'], [df_mots, 'pk_segment']
+])
+df_texts = extract_texts(dfx)
+
+# Extraction de dataframe(s) et stockage au format csv pour faire des analyses
+'''
+dfy = merge_dataframes(df_documents, [
+    [df_category, 'filename'], [df_metadata[['filename', 'description']], 'filename'],
+    [df_data_tags, 'filename'], [df_texts, 'filename']
+])
+'''
+'''dfy.to_csv('data_cat_lang_tags_text.csv', sep=';', decimal=',')'''
+
+# Calcul du dataframe contenant les intervalles de paroles et de non paroles
+# pour un fichier audio donné
+dfz = merge_dataframes(df_documents, [
+    [df_locuteurs, 'pk_document'], [df_segments, 'pk_locuteur']
+])
+df_speak = calc_all_files_distinct_speaking_periods(dfz, df_documents)
+
+# Calcul du mfcc moyen pour la non parole et association avec la categorie
+df_mfcc_filtre = obtain_mfccs(df_speak)
+df_mfcc_filtre = delete_mfcc_empty_element(df_mfcc_filtre)
+df_mean_vect = obtain_df_mean_vect(df_mfcc_filtre)
+df_audio = merge_dataframes(df_mean_vect, [
+    [df_category, 'filename']
+])
+'''df_audio.to_csv('data_audio_mean_vect.csv', sep=';', decimal=',')'''
+'''df_audio = pd.read_csv(
+    "data_audio_mean_vect.csv", converters={"mean_vect": literal_eval},
+    sep=';', decimal=','
+)'''
+
+# Obtention des echantillons d'apprentissage et de test
+X_train, X_test, y_train, y_test = obtain_train_test_elements(
+    data_text=df_audio, interest_variable='mean_vect',
+    pred_variable='category_name', test_size=0.33
 )
 
-df = df_documents
-dataframes = [
-    #[table_img, 'filename'], [df_category, 'filename'],
-    [df_locuteurs, 'pk_document'], [df_segments, 'pk_locuteur'], [df_mots, 'pk_segment'],
-    # [df_metadata, 'filename'], [df_data_tags, 'filename'], [df_data_user, 'filename']
-]
-for dtf, join_keys in dataframes:
-    df = pd.merge(df, dtf, how='inner', on=join_keys)
+# Definition du modele
+'''classif = OneVsRestClassifier(SVC())'''
+rfc = RandomForestClassifier(n_jobs=-1, oob_score = True)
+# Use a grid over parameters of interest
+param_grid = {
+    "n_estimators" : [100, 200],
+    "max_depth" : [1, 2, 3, 4],
+    "max_features" : ["auto", "sqrt", "log2", None],
+    "min_samples_leaf" : [1, 2, 3, 4]
+}
+ 
+CV_rfc = GridSearchCV(estimator=rfc, param_grid=param_grid, cv=4)
+estimate_model_prediction(CV_rfc, X_train, X_test, y_train, y_test)
 
-df.to_csv('data_met_cat.csv', sep=';', decimal=',')
 
+model = RandomForestClassifier(
+    n_estimators=200, criterion='gini', max_depth=4, min_samples_split=2,
+    min_samples_leaf=4, min_weight_fraction_leaf=0.0, max_features=None,
+    max_leaf_nodes=None, min_impurity_decrease=0.0, min_impurity_split=None,
+    bootstrap=True, oob_score=False, n_jobs=1, random_state=None, verbose=0,
+    warm_start=False, class_weight=None
+)
 
-'''
-df0 = pd.merge(df_documents, table_img, how='inner', on='filename')
-df1 = pd.merge(df_documents, df_locuteurs, how='inner', on='pk_document')
-df2 = pd.merge(df1, df_segments, how='inner', on='pk_locuteur')
-df3 = pd.merge(df2, df_mots, how='inner', on='pk_segment')
-'''
+# Estimation de la prediction du modele
+print(estimate_model_prediction(model, X_train, X_test, y_train, y_test))
+'''print(estimate_model_prediction(classif, X_train, X_test, y_train, y_test))'''

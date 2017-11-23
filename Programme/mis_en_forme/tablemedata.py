@@ -1,13 +1,9 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Nov  7 10:29:19 2017
 
-@author: Valentin
-"""
 import pandas as pd
 import os
 from bs4 import BeautifulSoup as Soup
-# from sonarqube_api import SonarAPIHandler
+from unidecode import unidecode
 
 
 TXT_REPOSITORY = '../../Data/Txt/DEV_M2SID_METADATA/'
@@ -25,6 +21,7 @@ CATEGORIES = {
 
 
 def extract_file_category():
+    '''Extraction des informations generales '''
     file_category = []
     for category in os.listdir(CATEGORY_REPOSITORY):
         for file in os.listdir(CATEGORY_REPOSITORY + category + '/'):
@@ -39,7 +36,8 @@ def extract_file_category():
 
 
 def table_metadata(sp):
-    description = sp.find_all('description')[0].string
+    '''Extraction des informations dans les fichiers metadata'''
+    description = unidecode(sp.find_all('description')[0].string)
     duree = sp.find_all('duration')[0].string
     url = sp.find_all('url')[0].string
     title = sp.find_all('title')[0].string
@@ -50,7 +48,9 @@ def table_metadata(sp):
     size = sp.find_all('size')[0].string
     return description, duree, url, title, filename, link, size
 
+
 def table_tags(sp):
+    '''Extraction des tags'''
     tags = []
     tmp_tags = sp.find_all('string')
     for i in range(len(tmp_tags)):
@@ -58,13 +58,16 @@ def table_tags(sp):
         tags.append(tag)
     return tags
 
+
 def table_user(sp):
+    ''''Extraction des utilisateurs'''
     uid = sp.find_all('uid')[0].string
     login = sp.find_all('login')[0].string
     return uid, login
 
 
 def extract_metadata():
+    '''Extraction des informations dans les fichiers metadata'''
     filenames = os.listdir(TXT_REPOSITORY)
     metadata, data_tags, data_user = [], [], []
     for filename in filenames: 
@@ -94,13 +97,3 @@ def extract_metadata():
         pd.DataFrame(metadata), pd.DataFrame(data_tags), pd.DataFrame(data_user)
     )
     return df_metadata, df_data_tags, df_data_user
-
-#return records as DataFrame
-
-
-# metadata, data_tags, data_user = extract_metadata()
-
-
-
-
-# tags = sp.find_all('string')
