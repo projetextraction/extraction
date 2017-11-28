@@ -166,6 +166,7 @@ stat_vid = pd.read_csv(path+"\stat_locuteurs.csv ", sep = ";", decimal=',', enco
 
 img = pd.read_csv(path+"\moy_couleur.csv ",converters={"avg_color": literal_eval}, sep = ";", decimal=',', encoding="ISO-8859-1")
 
+feature_img = pd.read_csv(path+"\mdimg.csv",converters={"vecteur_image": literal_eval}, sep = ";", decimal=',', encoding="ISO-8859-1")
 vect_stat = []
 for i in range(len(stat_vid)):
     tmp = {"filename": stat_vid["filename"][i], "vect_stat": [stat_vid["average_nb_speak"][i], stat_vid["nb_locuteurs"][i],\
