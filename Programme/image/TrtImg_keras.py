@@ -11,12 +11,9 @@ from keras.utils import np_utils
 from sklearn.utils import shuffle
 from sklearn.cross_validation import train_test_split
 from PIL import Image
-from copy import copy
-import matplotlib.pyplot as plt
 
 import os
 import pandas as pd
-from scipy.misc import imread
 from glob import glob
 import numpy as np
 import re 
