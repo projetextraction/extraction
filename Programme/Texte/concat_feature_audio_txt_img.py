@@ -131,21 +131,24 @@ result_concept = snowball_df( result_concept, 'vect_concept', 'english')
 #suppression des doublons
 for i in range(len(result_concept)):
     result_concept["vect_concept"][i] = suppression_doublons_list(result_concept["vect_concept"][i])
-  
+
+#concept associé par catégorie	
 voc = result_concept["vect_concept"][0] + result_concept["vect_concept"][1] + result_concept["vect_concept"][2] \
 + result_concept["vect_concept"][3] + result_concept["vect_concept"][4] + result_concept["vect_concept"][5] \
 + result_concept["vect_concept"][6] + result_concept["vect_concept"][7]
 
+#suppression des doublons
 voc = suppression_doublons_list(voc)
 
 
-
+#nombre d'occurence de tags par concept dans un vecteur
 data_vect_count = []
 for i in range(len(data_text_fin)):
     cv = sklearn.feature_extraction.text.CountVectorizer(vocabulary=voc)
     y = cv.fit_transform([data_text_fin["concat_text"][i]]).toarray()
     data_vect_count.append(y)
 
+	#conversion en liste
 for i in range(len(data_vect_count)):
     data_vect_count[i] = data_vect_count[i][0].tolist()
 
@@ -159,13 +162,17 @@ for i in range(len(data_vect_count)):
     tmp = {"vect_concept": data_vect_count[i], "category_id": data_text_fin["category_id"][i], "filename": data_tags["filename"][i]}
     join_vect_concet_id_categ.append(tmp)
 
+	
 join_vect_concept_id_categ = pd.DataFrame(join_vect_concet_id_categ)    
 
+#import features audio
 audio = pd.read_csv(path+"\data_audio_mean_vect.csv ", converters={"mean_vect": literal_eval}, sep = ";", decimal=',', encoding="ISO-8859-1")
+#import features stat
 stat_vid = pd.read_csv(path+"\stat_locuteurs.csv ", sep = ";", decimal=',', encoding="ISO-8859-1")
-
+#import features img
 img = pd.read_csv(path+"\moy_couleur.csv ",converters={"avg_color": literal_eval}, sep = ";", decimal=',', encoding="ISO-8859-1")
 
+#création d'un vecteur contenant les statistiques descriptives
 feature_img = pd.read_csv(path+"\mdimg.csv",converters={"vecteur_image": literal_eval}, sep = ";", decimal=',', encoding="ISO-8859-1")
 vect_stat = []
 for i in range(len(stat_vid)):
@@ -173,11 +180,15 @@ for i in range(len(stat_vid)):
                               stat_vid["temps_p"][i]  ]}
     vect_stat.append(tmp)
 
-stat_vid = pd.DataFrame(vect_stat)    
+stat_vid = pd.DataFrame(vect_stat)   
+#jointure audio et vecteurs concept tags 
 data_audio_txt = pd.merge(join_vect_concept_id_categ ,audio, on='filename')
+#resultat de la jointure précédente avec les vecteurs de statistique descriptive
 data_audio_txt_stat = pd.merge(stat_vid ,data_audio_txt, on='filename')
+#jointure avec image
 data_audio_txt_stat_img = pd.merge(data_audio_txt_stat ,img, on='filename')
 
+#concaténation de tout les vecteurs dans un "super" vecteur
 concat_feature_audio_txt = []
 for i in range(len(data_audio_txt_stat_img)):
     tmp = {"vect":  softmax(data_audio_txt_stat_img["mean_vect"][i]).tolist()+ softmax(data_audio_txt_stat_img["vect_concept"][i]).tolist()+ softmax(data_audio_txt_stat_img["vect_stat"][i]).tolist()\
@@ -194,7 +205,7 @@ y_test = y_test.reset_index(drop=True)
 
 rfc = RandomForestClassifier(n_jobs=-1, oob_score = True) 
  
-# Use a grid over parameters of interest
+# Recherche des paramètres optimaux pour le random forest
 param_grid = { 
            "n_estimators" : [100, 200, 300, 400, 500],
            "max_depth" : [1, 2,3,4],
@@ -203,13 +214,12 @@ param_grid = {
  
 CV_rfc = GridSearchCV(estimator=rfc, param_grid=param_grid, cv= 5)
 CV_rfc.fit(X_train, y_train)
+print(CV_rfc.best_param_)
 
+#modèle avec les meilleurs paramètres
 rfc = RandomForestClassifier(n_estimators=100, max_depth=4, max_features=None, min_samples_leaf = 2)
 rfc.fit(X_train, y_train)
 
-classif = OneVsRestClassifier(SVC())
-classif.fit(X_train, y_train)
-rfc.score(X_test, y_test)
-
-rfc.score(X_test, y_test)
+rfc.score(X_test)
+#validation croisée
 scores = cross_val_score(rfc, X_train, y_train, cv=5)

@@ -169,6 +169,7 @@ X_train_tags, y_train_tags], axis=1)
 concat_train_list = concat_train.groupby('category_name')['tags_x'].apply(list)
 x = pd.DataFrame(concat_train_list)
 
+#récuperation des valeurs du tableau
 tab = []
 tmp = {}
 for i in range(len(x)):
@@ -176,7 +177,7 @@ for i in range(len(x)):
         tmp = {"tags": x.iloc[i][j], "id":i}
         tab.append(tmp)
 
-      
+#création d'une liste de tags     
 concat_tags = []        
 for i in range(len(tab)):
     y = {"tags":' '.join([str(x) for x in tab[i]["tags"]]), "id":tab[i]["id"]}
@@ -221,7 +222,7 @@ score_test  = pd.DataFrame(score_test)
  
 #max score by test        
 idx = score_test.groupby('id_test')['score'].idxmax()
-print(idx)
+
 
 
 def using_idxmax_loc(df):
@@ -249,7 +250,7 @@ for i in range(len(result_for_tags )):
         y=0
 sum(res)/len(res)
 
-#-------------------------------------Modele description text
+#-------------------------------------Modele description-text ----------------------------------------------------------------------------
 
 #recup path
 path = os.path.join(os.path.dirname(os.getcwd()), "mis_en_forme")
@@ -257,7 +258,7 @@ path = os.path.join(os.path.dirname(os.getcwd()), "mis_en_forme")
 #import data
 data_lang = pd.read_csv(path+"\data_cat_lang_tags_text.csv", sep = ";" )
     
-'''modele description et text'''        
+#modele description et text       
 data_lang["concat_text"] = ""
 
 #filtre langue anglaise
@@ -326,6 +327,7 @@ vectorizer = TfidfVectorizer(max_df = 0.95, ngram_range =[1,3])
 X_train = vectorizer.fit_transform(X_train_concat_text)
 X_test = vectorizer.transform(X_test_data_pred)
 
+#classifier
 classif = OneVsRestClassifier(SVC())
 classif.fit(X_train, y_train_concat_text)
 

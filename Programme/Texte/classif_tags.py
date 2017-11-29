@@ -30,9 +30,6 @@ path = os.path.join(os.path.dirname(os.getcwd()), "mis_en_forme")
 #import data
 data_lang = pd.read_csv(path+"\data_cat_lang_tags_text.csv", sep = ";" )
 
-#create new variable, pour la concatenation du text et de la description
-
-
 #filtre langue anglaise
 data_text = select_lang(data_lang, 'lang', "eng-usa")
 
@@ -81,19 +78,9 @@ classif.fit(X_train, y_train_tags)
 
 scores = cross_val_score(classif, X_train, y_train_tags, cv=5)
 
-pred = classif.predict(X_test)
+pred = classif.score(X_test)
 
-res = []
-for i in range(len(pred)):
-    if pred[i] == y_test_tags[i]:
-        y = 1
-        res.append(y)
-    else:
-        y=0
-        res.append(y)
-
-sum(res)/len(res)
-
+print(pred)
 
 
 

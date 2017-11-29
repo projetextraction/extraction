@@ -11,7 +11,6 @@ from sklearn.svm import SVC
 from sklearn.multiclass import OneVsRestClassifier
 from sklearn.cross_validation import cross_val_score
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.grid_search import GridSearchCV
 from sklearn.metrics import f1_score
 from  fonctions_text import * #fonctions associées
 #select_lang, ech_data, text_lower, clean_and_split_text, stopwords_supp_list, snowball_list
@@ -75,30 +74,14 @@ vectorizer = TfidfVectorizer(max_df = 0.95, ngram_range =[1,3])
 X_train = vectorizer.fit_transform(X_train_concat_text)
 X_test = vectorizer.transform(X_test_concat_text)
 
-
-parameters = {
-    "estimator__C": [1,2,4,8],
-    "estimator__kernel": ["poly","rbf"],
-    "estimator__degree":[1, 2, 3, 4],
-}
-
 model_to_set = OneVsRestClassifier(SVC())
 model_to_set.fit(X_train, y_train_concat_text)
 
 scores = cross_val_score(model_to_set, X_train, y_train_concat_text, cv=5)
 
-pred = model_to_set.predict(X_test)
+pred = model_to_set.score(X_test)
 
-res = []
-for i in range(len(pred)):
-    if pred[i] == y_test_concat_text[i]:
-        y = 1
-        res.append(y)
-    else:
-        y=0
-        res.append(y)
-
-sum(res)/len(res)
+print(pred)
 
 
 
