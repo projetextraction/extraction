@@ -4,9 +4,8 @@ import os
 from bs4 import BeautifulSoup as Soup
 
 
-METADATA_FILE = 'TEXTE/DEV_M2SID_METADATA'
-TRANS_FILE = 'AUDIO/DEV_M2SID_LIMSI_ASR'
-
+METADATA_FILE = os.path.join(os.getcwd(), "Data\\Txt\\DEV_M2SID_METADATA")
+TRANS_FILE = os.path.join(os.getcwd(), "Data\\Audio\\DEV_M2SID_LIMSI_ASR")
 
 def extract_mots(mots, speech_seg, pk_mot, pk_segment):
     words_list = speech_seg.find_all('Word')

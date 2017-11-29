@@ -6,7 +6,9 @@ from bs4 import BeautifulSoup as Soup
 from unidecode import unidecode
 
 
-TXT_REPOSITORY = '../../Data/Txt/DEV_M2SID_METADATA/'
+TXT_REPOSITORY = os.path.join(os.getcwd(), "Data\\Txt\\DEV_M2SID_METADATA")
+
+#repertoire non present sur le git (trop lourd)
 CATEGORY_REPOSITORY = '../../../DEV_M2SID_VIDEO/'
 CATEGORIES = {
     '1001': 'autos_and_vehicles',
