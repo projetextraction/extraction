@@ -18,7 +18,7 @@ def convert_vid_to_wav(path):
         else:
             continue
 
-
+#les fichiers audio ne sont pas disponible sur le git, car trop lourd
 path = "C:\\Users\\Philippe\\Desktop\\SID\\M2\\Projet_extraction\\Donnees\\DEV_M2SID_VIDEO"
 
 paths = os.listdir(".")

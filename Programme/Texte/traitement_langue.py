@@ -10,9 +10,6 @@ import os
 import numpy as np
 import pandas as pd
 
-
-from  fonctions_text import * #fonctions associées
-
 import sklearn
 
 from sklearn.svm import SVC
@@ -20,6 +17,14 @@ from sklearn.multiclass import OneVsRestClassifier
 from sklearn.cross_validation import cross_val_score
 from sklearn.cross_validation import train_test_split
 from sklearn.feature_extraction.text import  CountVectorizer, TfidfVectorizer
+
+#on considère que les codes sont lancés à partir de la racine ("extraction") du git
+goal_dir = os.path.join(os.getcwd(), "Programme\\Texte")
+os.chdir(goal_dir)
+
+
+from  fonctions_text import * #fonctions associées
+
 
 
 

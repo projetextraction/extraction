@@ -11,7 +11,11 @@ from sklearn.svm import SVC
 from sklearn.multiclass import OneVsRestClassifier
 from sklearn.cross_validation import cross_val_score
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics import f1_score
+
+goal_dir = os.path.join(os.getcwd(), "Programme\\Texte")
+os.chdir(goal_dir)
+
+#on considère que les codes sont lancés à partir de la racine ("extraction") du git
 from  fonctions_text import * #fonctions associées
 #select_lang, ech_data, text_lower, clean_and_split_text, stopwords_supp_list, snowball_list
 #fonctions_text import lemmatize_list, join_word_and_clean, recup_interest_var

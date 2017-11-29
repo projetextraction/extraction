@@ -4,17 +4,18 @@ Created on Thu Nov 23 09:03:22 2017
 
 @author: valentin
 """
-
-import pandas as pd
 import os
-
-from sklearn.svm import SVC
-from sklearn.multiclass import OneVsRestClassifier
-from sklearn.cross_validation import cross_val_score
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.model_selection import GridSearchCV
-
+import pandas as pd
 from ast import literal_eval
+
+
+from sklearn.model_selection import GridSearchCV
+from sklearn.cross_validation import cross_val_score
+
+
+#on considère que les codes sont lancés à partir de la racine ("extraction") du git
+goal_dir = os.path.join(os.getcwd(), "Programme\\Texte")
+os.chdir(goal_dir)
 
 from  fonctions_text import * #fonctions associées
 #select_lang, ech_data, text_lower, clean_and_split_text, stopwords_supp_list, snowball_list
