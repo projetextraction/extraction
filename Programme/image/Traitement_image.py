@@ -7,13 +7,9 @@ from scipy.misc import imread
 import matplotlib.image as mpimg
 import os
 import pandas as pd
-from glob import glob
 import re 
-from sklearn.utils import shuffle
-from sklearn.cross_validation import train_test_split
 from PIL import Image
 from copy import copy
-import glob
 from PIL import Image
 from pylab import *
 #package a tourner pour detection visage: necessite OpenCV installé
