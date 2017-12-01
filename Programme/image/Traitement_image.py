@@ -27,21 +27,6 @@ for idx, c in enumerate(colors):
 
 plt.show()
 
-#Histogramme de couleur simplifié
-img = Image.open('C:/Users/Admin/Desktop/Cours/Master Big Data/Projet M2 texte-audio-image/DEV_M2SID_SHOT/Aabbey1-ShalomHartmanInstitutesInnovativeTheologyConference661/3061.jpg')
-img
-im = img.convert('L')
-im
-a=np.array(im)
-
-hist(a.flatten(), 128)
-show()
-
-#Récupére rcontour de l'image
-contour(im, origin='image')
-axis('equal')
-axis('off')
-
 #Couleur dominante
 def calcul_couleur_frequente(img):
     width, height = img.size
@@ -67,7 +52,6 @@ print(average_color)
 
 #Récuperation csv couleur dominante vidéo 
 PATH = "../../Data/Video/DEV_M2SID_SHOT"
-path = "C:\\Users\\Admin\\Desktop\\Cours\\Master Big Data\\Projet M2 texte-audio-image\\DEV_M2SID_SHOT"
 
 average_colors = []
 for repo in os.listdir(path):
@@ -83,6 +67,6 @@ for repo in os.listdir(path):
 df_average_colors = pd.DataFrame(average_colors)
 #         w, h = im.size  
 #         colors[i][j] = im.getcolors(w*h)
-df_average_colors.to_csv('C:/Users/Admin/Desktop/moy_couleur.csv', sep=';', decimal=',')  
+df_average_colors.to_csv('../../moy_couleur.csv', sep=';', decimal=',')  
 
 
