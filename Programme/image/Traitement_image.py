@@ -66,6 +66,7 @@ print(average_color)
 
 
 #Récuperation csv couleur dominante vidéo 
+PATH = "../../Data/Video/DEV_M2SID_SHOT"
 path = "C:\\Users\\Admin\\Desktop\\Cours\\Master Big Data\\Projet M2 texte-audio-image\\DEV_M2SID_SHOT"
 
 average_colors = []
