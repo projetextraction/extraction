@@ -46,10 +46,6 @@ def calcul_couleur_frequente(img):
 
     return [r_total/count, g_total/count, b_total/count]
 
-average_color = calcul_couleur_frequente(img)
-print(average_color)
-
-
 #Récuperation csv couleur dominante vidéo 
 PATH = "../../Data/Video/DEV_M2SID_SHOT"
 
