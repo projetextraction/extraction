@@ -1,19 +1,17 @@
 # -*- coding: utf-8 -*-
 
-#Importation des packages
-import matplotlib.pyplot as plt
-import numpy as np
-from scipy.misc import imread
-import matplotlib.image as mpimg
+
+
+
 import os
+import numpy as np
 import pandas as pd
-import re 
+
 from PIL import Image
-from copy import copy
-from PIL import Image
-from pylab import *
+import matplotlib.pyplot as plt
 
 
+'''
 #####Traitement d'une image####
 #Histogramme de couleurs
 def hexencode(rgb):
@@ -24,8 +22,8 @@ def hexencode(rgb):
 #    
 for idx, c in enumerate(colors):
         plt.bar(idx, c[0], color=hexencode(c[1]),edgecolor=hexencode(c[1]))
+'''
 
-plt.show()
 
 #Couleur dominante
 def calcul_couleur_frequente(img):
@@ -46,23 +44,27 @@ def calcul_couleur_frequente(img):
 
     return [r_total/count, g_total/count, b_total/count]
 
-#Récuperation csv couleur dominante vidéo 
-PATH = "../../Data/Video/DEV_M2SID_SHOT"
+#Récuperation chemin des répertoires contenant les vidéos 
+path =  os.path.join(os.getcwd(), "Data\\Video\\DEV_M2SID_SHOT")
+
 
 average_colors = []
 for repo in os.listdir(path):
     avgs_colors = []
-    for img_file in os.listdir(path + '/' + repo):
-        goal_dir = path + '/' + repo + '/' + img_file
-        im = Image.open(goal_dir)
-        im = im.resize((100,100))
-        avgs_colors.append(calcul_couleur_frequente(im))
-    mat_avg_colors  = np.asmatrix(avgs_colors)
-    mean_avg_colors = mat_avg_colors.sum(axis=0) / mat_avg_colors.shape[0]
-    average_colors.append({'filename': repo, 'avg_color': mean_avg_colors.tolist()[0]})
-df_average_colors = pd.DataFrame(average_colors)
-#         w, h = im.size  
-#         colors[i][j] = im.getcolors(w*h)
-df_average_colors.to_csv('../../moy_couleur.csv', sep=';', decimal=',')  
+    if (repo.endswith(".xml")):
+        continue
+    else:
+        for img_file in os.listdir(path + '/' + repo):
+            goal_dir = path + '/' + repo + '/' + img_file
+            im = Image.open(goal_dir)
+            im = im.resize((100,100))
+            avgs_colors.append(calcul_couleur_frequente(im))
+        mat_avg_colors  = np.asmatrix(avgs_colors)
+        mean_avg_colors = mat_avg_colors.sum(axis=0) / mat_avg_colors.shape[0]
+        average_colors.append({'filename': repo, 'avg_color': mean_avg_colors.tolist()[0]})
+        df_average_colors = pd.DataFrame(average_colors)
+
+
+df_average_colors.to_csv(os.path.join(os.getcwd(), "Programme\\mis_en_forme\\")+'moy_couleur.csv', sep=';', decimal=',')  
 
 
