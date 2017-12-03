@@ -9,7 +9,8 @@ import pandas as pd
 
 from PIL import Image
 import matplotlib.pyplot as plt
-
+from sklearn.model_selection import GridSearchCV
+from sklearn.ensemble import RandomForestClassifier
 
 '''
 #####Traitement d'une image####
@@ -64,7 +65,55 @@ for repo in os.listdir(path):
         average_colors.append({'filename': repo, 'avg_color': mean_avg_colors.tolist()[0]})
         df_average_colors = pd.DataFrame(average_colors)
 
-
 df_average_colors.to_csv(os.path.join(os.getcwd(), "Programme\\mis_en_forme\\")+'moy_couleur.csv', sep=';', decimal=',')  
 
+
+#import d'un fichier csv pour récupérer les atégories associées aux images
+path_all_data = os.path.join(os.path.dirname(os.getcwd()), "extraction\\Programme\\mis_en_forme")
+data = pd.read_csv(
+path_all_data +"\data_cat_lang_tags_text.csv", sep = ";" )
+
+#jointure
+data_colors = pd.merge(data , df_average_colors, on='filename')
+
+
+goal_dir = os.path.join(os.getcwd(), "Programme\\Texte")
+os.chdir(goal_dir)
+
+#fonction séparation test - apprentissage
+from  fonctions_text import ech_data
+
+#67% train et 33% test
+X_train_col, X_test_col, y_train_col, y_test_col = ech_data(data_colors, "avg_color", "category_id", 0.33)   
+
+X_train_col = X_train_col.reset_index(drop=True)
+y_train_col = y_train_col.reset_index(drop=True)
+X_test_col = X_test_col.reset_index(drop=True)
+y_test_col = y_test_col.reset_index(drop=True)
+
+X_train = [X_train_col.iloc[i] for i in range(len(X_train_col))]
+X_test = [X_test_col.iloc[i] for i in range(len(X_test_col))]
+
+#random forest classifier
+rfc = RandomForestClassifier(n_jobs=-1, oob_score = True) 
+ 
+# Recherche des paramètres optimaux pour le random forest
+param_grid = { 
+           "n_estimators" : [100, 200, 300, 400, 500],
+           "max_depth" : [1, 2,3,4],
+           "max_features" : ["auto", "sqrt", "log2", None],
+           "min_samples_leaf" : [1, 2, 3, 4 ]}
+ 
+CV_rfc = GridSearchCV(estimator=rfc, param_grid=param_grid, cv= 5)
+CV_rfc.fit(X_train, y_train_col)
+
+print(CV_rfc.best_params_)
+
+rfc = RandomForestClassifier(n_estimators=
+                             300, max_depth=1, max_features=None, min_samples_leaf = 1)
+rfc.fit(X_train, y_train_col)
+
+rfc.score(X_test, y_test_col)
+#validation croisée
+scores = cross_val_score(rfc, X_train, y_train_col, cv=5)
 
